@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "cadbfbc47c9def22902098df354c537dafe7519942dee06508753221e4f8d354"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "e48a2339a6cf8ea917235c9b2d6fcc39f782ef92c8d23257b6d9faee85a6b5cc"
 metafile = true
@@ -791,7 +787,7 @@ hash = "8d64c06b15633fdbb9a500693b5cca63ab62299927eb5b34bbf459f4fa143a4a"
 
 [[files]]
 file = "resourcepacks/better-dogs.pw.toml"
-hash = "16b5dab638a088bba211e64b6d20db9c7171149b2e3077be4470c4105b5fa36f"
+hash = "ea510b641670f0394a6cec5dcfda63a769aee0692d1f2f85338caedeca5b8032"
 metafile = true
 
 [[files]]
