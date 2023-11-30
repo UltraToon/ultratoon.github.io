@@ -2,1634 +2,1634 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "a34bb0d7bb14c962ee790a9439b63085f7bea7d49ee0a5471590daedc649d962"
+hash = "cadbfbc47c9def22902098df354c537dafe7519942dee06508753221e4f8d354"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
+file = "Rural_Ambitions/complementary-reimagined.pw.toml"
 hash = "e48a2339a6cf8ea917235c9b2d6fcc39f782ef92c8d23257b6d9faee85a6b5cc"
 metafile = true
 
 [[files]]
-file = "config/c2me.toml"
+file = "Rural_Ambitions/config/c2me.toml"
 hash = "85054e5c26ec280570fdf968837a1ff46642fa9df389f6a3ee9a2f9f7d5077eb"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
+file = "Rural_Ambitions/config/defaultoptions/keybindings.txt"
 hash = "633c1d19e1e53dc07bb80ac07c64e7b385c763b68fabd453a5e8d7fa07d8e026"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
+file = "Rural_Ambitions/config/defaultoptions/options.txt"
 hash = "ad98f72d8c2ccbb2222fd03f7f0ac3f6d6ddaef302abe04520d9ecee89cc8721"
 
 [[files]]
-file = "config/enhanced_bes.properties"
+file = "Rural_Ambitions/config/enhanced_bes.properties"
 hash = "308c26f9874668513cdf52793529e510f812f412e773bf0cce95c8d65335d8ec"
 
 [[files]]
-file = "config/entityculling.json"
+file = "Rural_Ambitions/config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
+file = "Rural_Ambitions/config/fabric/indigo-renderer.properties"
 hash = "ea0bd2162b4457541159aea6b9ee645ea4d62cd4ba1371ec33aef0378ee1b5d5"
 
 [[files]]
-file = "config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/animation.properties"
+file = "Rural_Ambitions/config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/animation.properties"
 hash = "24f4892ce424e458cf56f7f778c0b3bce9f0e31ad2668aae6cc5863e5e4c7d1d"
 
 [[files]]
-file = "config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/audio/introaudio.wav"
+file = "Rural_Ambitions/config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/audio/introaudio.wav"
 hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
-file = "config/fancymenu/config.txt"
+file = "Rural_Ambitions/config/fancymenu/config.txt"
 hash = "dcabc5769e4b9d84542d9d2707171b471e77be1efa56470ec09972b27512c923"
 
 [[files]]
-file = "config/fancymenu/customizablemenus.txt"
+file = "Rural_Ambitions/config/fancymenu/customizablemenus.txt"
 hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
-file = "config/fancymenu/customization/intro.txt"
+file = "Rural_Ambitions/config/fancymenu/customization/intro.txt"
 hash = "3d3f2c9d3e234c83e9ec5228c3947ce74044a2207bae94310b6d79bda4771683"
 
 [[files]]
-file = "config/fancymenu/customization/mainmenu.txt"
+file = "Rural_Ambitions/config/fancymenu/customization/mainmenu.txt"
 hash = "0edaab7ee25621ebb352d75a287a6f02984e164cffe10b0a0cf99b26295b54df"
 
 [[files]]
-file = "config/fancymenu/extensions/fmaudio/config.cfg"
+file = "Rural_Ambitions/config/fancymenu/extensions/fmaudio/config.cfg"
 hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
 
 [[files]]
-file = "config/fancymenu/extensions/fmaudio/locals/en_us.local"
+file = "Rural_Ambitions/config/fancymenu/extensions/fmaudio/locals/en_us.local"
 hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
 
 [[files]]
-file = "config/fancymenu/locals/de_de.local"
+file = "Rural_Ambitions/config/fancymenu/locals/de_de.local"
 hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
 [[files]]
-file = "config/fancymenu/locals/en_us.local"
+file = "Rural_Ambitions/config/fancymenu/locals/en_us.local"
 hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
 
 [[files]]
-file = "config/fancymenu/locals/pl_pl.local"
+file = "Rural_Ambitions/config/fancymenu/locals/pl_pl.local"
 hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
 
 [[files]]
-file = "config/fancymenu/locals/pt_br.local"
+file = "Rural_Ambitions/config/fancymenu/locals/pt_br.local"
 hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
 
 [[files]]
-file = "config/fancymenu/locals/ru_ru.local"
+file = "Rural_Ambitions/config/fancymenu/locals/ru_ru.local"
 hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
 
 [[files]]
-file = "config/fancymenu/locals/uk_ua.local"
+file = "Rural_Ambitions/config/fancymenu/locals/uk_ua.local"
 hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
 
 [[files]]
-file = "config/fancymenu/locals/zh_cn.local"
+file = "Rural_Ambitions/config/fancymenu/locals/zh_cn.local"
 hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
-file = "config/fancymenu/menu_identifiers.db"
+file = "Rural_Ambitions/config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
-file = "config/fancymenu/user_variables.db"
+file = "Rural_Ambitions/config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "Rural_Ambitions/config/ferritecore.mixin.properties"
 hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
 
 [[files]]
-file = "config/immediatelyfast.json"
+file = "Rural_Ambitions/config/immediatelyfast.json"
 hash = "247b2f62b05aeaa7768173499cf00ac6e7157c20a91fbe9394ff9bc773c3b8f1"
 
 [[files]]
-file = "config/indium-renderer.properties"
+file = "Rural_Ambitions/config/indium-renderer.properties"
 hash = "e5ffefe6cb4326278fb18b5e6ad4673cfa336006c15458e464417c5f06b8f89b"
 
 [[files]]
-file = "config/inventorio.json"
+file = "Rural_Ambitions/config/inventorio.json"
 hash = "4f3952ce392f4893c712441986ec26bf6e3fb1aa5022143cb5c96e3dcc3609f2"
 
 [[files]]
-file = "config/lithium.properties"
+file = "Rural_Ambitions/config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "Rural_Ambitions/config/modernfix-mixins.properties"
 hash = "8581e3341cd8c0d1187112dbb353e2c4cc34f229f5143c7645c933bf14bb3aee"
 
 [[files]]
-file = "config/modmenu.json"
+file = "Rural_Ambitions/config/modmenu.json"
 hash = "211c296d2e1b7ee088888a7e6beed020afcfc401e6995ece8c0a27b53fa14047"
 
 [[files]]
-file = "config/moreculling.toml"
+file = "Rural_Ambitions/config/moreculling.toml"
 hash = "4854610f7c701f65f6763b6b6895cac852b40cae2776cc5fac9938adccf79bf4"
 
 [[files]]
-file = "config/roughlyenoughitems/changelog.txt"
+file = "Rural_Ambitions/config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
+file = "Rural_Ambitions/config/roughlyenoughitems/config.json5"
 hash = "6aa99c53790605c27f1b9d397f29cbd5255a95574caf9c56c219e8caf52363ed"
 
 [[files]]
-file = "config/roughlyenoughitems/hints.json"
+file = "Rural_Ambitions/config/roughlyenoughitems/hints.json"
 hash = "e9ee152c6f68506b6150e22debb6705e746e9cebc45019bb868247b3633d66fa"
 
 [[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
+file = "Rural_Ambitions/config/roughlyenoughitems/pinyin.properties"
 hash = "cc9ecc20ff5858a7e3024cd00ae9b7db0db25bbe4c04f693282068e925dfb381"
 
 [[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
+file = "Rural_Ambitions/config/roughlyenoughitems/pinyin_double.properties"
 hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
 
 [[files]]
-file = "config/rrp.properties"
+file = "Rural_Ambitions/config/rrp.properties"
 hash = "33697aa8b7b57494a4095c4dddd7f185691683d2872e9d6fc2cf644e6e82abb8"
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "Rural_Ambitions/config/sodium-extra-options.json"
 hash = "261e01841ed348b357f69da1293fc964bc8941307a8569da263289640793d176"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "Rural_Ambitions/config/sodium-options.json"
 hash = "4333f572fb5fa75f77dc649546b0fb8a7ebbcab2c62706135ace2687684d5667"
 
 [[files]]
-file = "config/supplementaries-common.json"
+file = "Rural_Ambitions/config/supplementaries-common.json"
 hash = "03465dd08361f533c6d178024d1db0c2d4a2b6d9b2b47e403390e0e4835c1cec"
 
 [[files]]
-file = "config/threadtweak.json"
+file = "Rural_Ambitions/config/threadtweak.json"
 hash = "ce145cf2dc6d17974883908faecfb8b70377eaa4a5476cc0f03b9064fcc6976a"
 
 [[files]]
-file = "config/travelerstitles-fabric-1_20.toml"
+file = "Rural_Ambitions/config/travelerstitles-fabric-1_20.toml"
 hash = "392d490bd48fa0fedf33a5d4c6957e640bf036e592f017604d4bd382973d95df"
 
 [[files]]
-file = "config/vanillatweaks.toml"
+file = "Rural_Ambitions/config/vanillatweaks.toml"
 hash = "bd7289cafaeaf17fca26c4d3ef821cd929c8415dba5e6316d8e82c1042b086b5"
 
 [[files]]
-file = "mods/advancement-plaques-fabric.pw.toml"
+file = "Rural_Ambitions/mods/advancement-plaques-fabric.pw.toml"
 hash = "921ae9f0d0998f5d79ec85970df2bd731d0d00c0ecc19ece97b04498ded6d897"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
+file = "Rural_Ambitions/mods/ambientsounds.pw.toml"
 hash = "ac15e771d2579726a9f6efe70a71897fe74e702d9662a7b37315af4b396eb588"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
+file = "Rural_Ambitions/mods/another-furniture.pw.toml"
 hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
+file = "Rural_Ambitions/mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "Rural_Ambitions/mods/architectury-api.pw.toml"
 hash = "b6b6e112dcd5a4c4db942e88c3ef5f89e722f51f82beae2a1e0fa792ad385946"
 metafile = true
 
 [[files]]
-file = "mods/athena.pw.toml"
+file = "Rural_Ambitions/mods/athena.pw.toml"
 hash = "573765992d61492d05465a1a29c937cdff0ebc6d551dec669c94a0d273650bdc"
 metafile = true
 
 [[files]]
-file = "mods/audaki-cart-engine.pw.toml"
+file = "Rural_Ambitions/mods/audaki-cart-engine.pw.toml"
 hash = "2df503469b2389647db0e1652d3ccadf6a0c90027dcefbe0b94b457ec0bf421d"
 metafile = true
 
 [[files]]
-file = "mods/auto-third-person.pw.toml"
+file = "Rural_Ambitions/mods/auto-third-person.pw.toml"
 hash = "619bc01614e076f72e85826ae8f6f58fd9c4adfbdde8c87c908e65c50769871e"
 metafile = true
 
 [[files]]
-file = "mods/backpacked-fabric.pw.toml"
+file = "Rural_Ambitions/mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric.pw.toml"
+file = "Rural_Ambitions/mods/balm-fabric.pw.toml"
 hash = "41c61172c039900fc122d2f4c358b63a1c1f2e6e423e4664c12097b68eb89132"
 metafile = true
 
 [[files]]
-file = "mods/beaconoverhaul.pw.toml"
+file = "Rural_Ambitions/mods/beaconoverhaul.pw.toml"
 hash = "8e3f5b115d71994971c8b6f944c6a70c35769b8d967a594f43d77a6a89cbe809"
 metafile = true
 
 [[files]]
-file = "mods/bedspreads.pw.toml"
+file = "Rural_Ambitions/mods/bedspreads.pw.toml"
 hash = "5b8c6c6f9fb102f6103a337502cb12f562482a147434e8cf803297a4fdfe7689"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
+file = "Rural_Ambitions/mods/better-advancements.pw.toml"
 hash = "8c1afd08f9ae6716649612ddf8c59e995cb9047f29ffe64a31f3f4e32bc881b7"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
+file = "Rural_Ambitions/mods/better-combat-by-daedelus.pw.toml"
 hash = "a10610a309f11ae258ed715b32cba535ebd102f73b04b52aef169837806c2ec5"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
+file = "Rural_Ambitions/mods/better-third-person.pw.toml"
 hash = "9cefb6bce20863fb1803a19a8bb15e949298a8b552f1ff0d8d235786d501e222"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
+file = "Rural_Ambitions/mods/bookshelf.pw.toml"
 hash = "e0077bdc1444128be82536eb3367c6508169d31a02beb0e4e4acc8d5ae18a29b"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
+file = "Rural_Ambitions/mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
+file = "Rural_Ambitions/mods/chipped.pw.toml"
 hash = "eb2df2c664b86a6496a8c479af8f0f16b1a0a34b7feb66e136687754f9464dba"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
+file = "Rural_Ambitions/mods/choicetheorems-overhauled-village.pw.toml"
 hash = "495aede00b5661e9e0bb86082748bdf2e9832759f0d0366f6bbf9f7d22110333"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
+file = "Rural_Ambitions/mods/cit-resewn.pw.toml"
 hash = "bed84ea542648fc65b622c84a0b9cb645b057005f29358c46afb03bd03200d9f"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
+file = "Rural_Ambitions/mods/cloth-config.pw.toml"
 hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
+file = "Rural_Ambitions/mods/continuity.pw.toml"
 hash = "fceb50162333b2cf2f251af72cc12f1a7657df07f979338dcd6e46b10b993466"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
+file = "Rural_Ambitions/mods/controlling.pw.toml"
 hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
+file = "Rural_Ambitions/mods/creativecore.pw.toml"
 hash = "182ce9c0cdb40b559255b909df255af3808fab035bdb7fd09436c76043f810c2"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
+file = "Rural_Ambitions/mods/creeper-overhaul.pw.toml"
 hash = "cacd0b884c6969862cfabaf03b1a2f90c84ad5a521738ee66bd9043e8a045d9c"
 metafile = true
 
 [[files]]
-file = "mods/dark-paintings.pw.toml"
+file = "Rural_Ambitions/mods/dark-paintings.pw.toml"
 hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
+file = "Rural_Ambitions/mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
+file = "Rural_Ambitions/mods/deeperdarker.pw.toml"
 hash = "595b6bfaf51003c3352364f95457a4aa17c515f97e034b3ed0d74cc71fc469ef"
 metafile = true
 
 [[files]]
-file = "mods/default-options-fabric.pw.toml"
+file = "Rural_Ambitions/mods/default-options-fabric.pw.toml"
 hash = "6dc6b06e4efee5e835efdaadd8f8239bc777aa0e4efd224ed4c8315633c70a64"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
+file = "Rural_Ambitions/mods/do-a-barrel-roll.pw.toml"
 hash = "3131a7cc2f025179514146508a9aaaafd678514fab0f73c789a6a8a2b8639cae"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
+file = "Rural_Ambitions/mods/e4mc.pw.toml"
 hash = "ead9a96e008129143a6928305600172051275e4dc70a6cfd5b099ac9d5be89c2"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
+file = "Rural_Ambitions/mods/easy-anvils.pw.toml"
 hash = "5de69336af040225c307a9b2dfaf0c3fbab5b57271b478a4f740918a5bf2f4b1"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
+file = "Rural_Ambitions/mods/easy-magic.pw.toml"
 hash = "e11870c3d508d66b49a6f712a72f1adf2ac552de411c86877bcb4332c935f962"
 metafile = true
 
 [[files]]
-file = "mods/easy-shulker-boxes.pw.toml"
+file = "Rural_Ambitions/mods/easy-shulker-boxes.pw.toml"
 hash = "b7cc47b149c7f249ac2589c30db80978cf8b615c98df7796f4a87c4fb2667142"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-fabric.pw.toml"
+file = "Rural_Ambitions/mods/eating-animation-fabric.pw.toml"
 hash = "477b59137a5a421b67df55ee57cb2a31b6bc52ef1fd1c0b43ff268152fd61bff"
 metafile = true
 
 [[files]]
-file = "mods/enchanting-infuser-forge.pw.toml"
+file = "Rural_Ambitions/mods/enchanting-infuser-forge.pw.toml"
 hash = "a3d5fa3c4a79f8e222eae9d168e5ed4614030668e7df667f88006521624e46f0"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
+file = "Rural_Ambitions/mods/enchantment-descriptions.pw.toml"
 hash = "a1485b1ce971c7dcc158af555cd8ff7a05d23f494a8cc81101925da0a4da0770"
 metafile = true
 
 [[files]]
-file = "mods/endremastered-fabric.pw.toml"
+file = "Rural_Ambitions/mods/endremastered-fabric.pw.toml"
 hash = "fe8743f5589bb9a250b0dfe811fc4749a536bb0ef5e746ee59bcdb287122c12b"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
+file = "Rural_Ambitions/mods/enhanced-block-entities.pw.toml"
 hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
+file = "Rural_Ambitions/mods/entity-model-features.pw.toml"
 hash = "0e0172f9333550f5b8f21d5e0d1c521498ec561e72bb28500bdd75c6bb03ca2d"
 metafile = true
 
 [[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
+file = "Rural_Ambitions/mods/entity-texture-features-fabric.pw.toml"
 hash = "9f62f416e70e150c0fba02e75a89c949a70aa267d1ed0f4473f386481ce5ca47"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
+file = "Rural_Ambitions/mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
 hash = "e2daed6d6ff2c0277063d0ac55c5345af898034f96da3e1be01e26475f61c13c"
 
 [[files]]
-file = "mods/explosive-enhancement.pw.toml"
+file = "Rural_Ambitions/mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
+file = "Rural_Ambitions/mods/fabric-api.pw.toml"
 hash = "551dfeadc5b1f1cd6cafa68455b3404b1f4bf253b37af5d0e2393fcc4866c4cc"
 metafile = true
 
 [[files]]
-file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+file = "Rural_Ambitions/mods/fabric-disable-custom-worlds-advice.pw.toml"
 hash = "ecc7283fd4dfc24ba53f79675491c9feef6864d67c7792e6a3b5008348f9c04c"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
+file = "Rural_Ambitions/mods/fabric-language-kotlin.pw.toml"
 hash = "750598aa49027d797f2adc8a3be8c75a1221f0066f89bf604058d7005b7a51c8"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves-fabric.pw.toml"
+file = "Rural_Ambitions/mods/falling-leaves-fabric.pw.toml"
 hash = "e651193b4394351dd5246cf112ccff75efd3053e152cd102fb42d0d7ae8aa018"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-fabric.pw.toml"
+file = "Rural_Ambitions/mods/fancymenu-fabric.pw.toml"
 hash = "5d5f7e25c0bf81c85959112ce08d328c1153320a541775c922002a9829ba556b"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
+file = "Rural_Ambitions/mods/farmers-delight-fabric.pw.toml"
 hash = "b53794cc3b94d52b223c007b01b4960c7d6b51056e887506182b7ca9bfe42ad7"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.pw.toml"
+file = "Rural_Ambitions/mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
+file = "Rural_Ambitions/mods/forge-config-api-port-fabric.pw.toml"
 hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
 metafile = true
 
 [[files]]
-file = "mods/framework-fabric.pw.toml"
+file = "Rural_Ambitions/mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
+file = "Rural_Ambitions/mods/geckolib.pw.toml"
 hash = "959727a39eb652358453576dd6f6cb3ff03db058f4134decf607afa47ce933af"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
+file = "Rural_Ambitions/mods/geophilic.pw.toml"
 hash = "8aef49379849c5988efad45f8212a8995ab8e8a96021ce4e922e05027efac56b"
 metafile = true
 
 [[files]]
-file = "mods/iceberg-fabric.pw.toml"
+file = "Rural_Ambitions/mods/iceberg-fabric.pw.toml"
 hash = "b2d4fc6561d2627ebd5f20c262934507b67490b9b882fd75ea89a4d7ca791f77"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
+file = "Rural_Ambitions/mods/immediatelyfast.pw.toml"
 hash = "b9de4aedeaef0cbd511652346c447f11edc26f0319807419648d3dd1481ca067"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
+file = "Rural_Ambitions/mods/incendium.pw.toml"
 hash = "15d5e1ad6cdc79a660ae2e5d6d74be219e140ee83133f7d42ef083320124b613"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
+file = "Rural_Ambitions/mods/indium.pw.toml"
 hash = "2e5c94e4f1bdfe8c9da4e987e9b3639599591575b3dc91ed0bb120adcee0ee85"
 metafile = true
 
 [[files]]
-file = "mods/inventorio.pw.toml"
+file = "Rural_Ambitions/mods/inventorio.pw.toml"
 hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
+file = "Rural_Ambitions/mods/iris.pw.toml"
 hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
-file = "mods/itemswapper.pw.toml"
+file = "Rural_Ambitions/mods/itemswapper.pw.toml"
 hash = "7c43b0e71c112b5cdefe93d64ca361576ee9aedc2a25772ce1d017d3b5d10948"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
+file = "Rural_Ambitions/mods/jump-over-fences-forge.pw.toml"
 hash = "1c4711f12cab953daa106caa33abfdd13d2e2e4b3262004e743f71c0b665716d"
 metafile = true
 
 [[files]]
-file = "mods/konkrete-fabric.pw.toml"
+file = "Rural_Ambitions/mods/konkrete-fabric.pw.toml"
 hash = "c231d4b9b466397da607196b45f3284b0398c6af2b06cf66b90fa611f4cca69a"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
+file = "Rural_Ambitions/mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
 
 [[files]]
-file = "mods/leaves-be-gone.pw.toml"
+file = "Rural_Ambitions/mods/leaves-be-gone.pw.toml"
 hash = "7b106db2cfb5a2aad5ac0f3f9282af7b1fcae68cee63f98e50764c38972bf5c6"
 metafile = true
 
 [[files]]
-file = "mods/legendary-tooltips-fabric.pw.toml"
+file = "Rural_Ambitions/mods/legendary-tooltips-fabric.pw.toml"
 hash = "fbf42000436043febfb036d41cf60a0137fb46705c9f259a905a2f1c88381f90"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "Rural_Ambitions/mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
 
 [[files]]
-file = "mods/load-my-resources-fabric.pw.toml"
+file = "Rural_Ambitions/mods/load-my-resources-fabric.pw.toml"
 hash = "9cabb780d582531e26756092be3de8b64b487866cb1e2ae7611190fc0b22240e"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
+file = "Rural_Ambitions/mods/map-atlases.pw.toml"
 hash = "0b68cb446b2f4f7229dc7d8174e65c969fd7fc27cf8d65afc91e0c77d16b59c6"
 metafile = true
 
 [[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
+file = "Rural_Ambitions/mods/mmmmmmmmmmmm.pw.toml"
 hash = "39ad793ed6a0e1aebb1300fde862812597646ebedabf4d037b53bf839da957ef"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
+file = "Rural_Ambitions/mods/modernfix.pw.toml"
 hash = "ccbaf78722772f8c9368071031f0f115d1f4c1022c29eda09819fae04429070d"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "Rural_Ambitions/mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
+file = "Rural_Ambitions/mods/moreculling.pw.toml"
 hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
+file = "Rural_Ambitions/mods/mouse-tweaks.pw.toml"
 hash = "5498b1db0081867fce31ca1eea88a224565b3142205a8d0082e8b1761faeeefd"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
+file = "Rural_Ambitions/mods/naturalist.pw.toml"
 hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
 metafile = true
 
 [[files]]
-file = "mods/niftycarts.pw.toml"
+file = "Rural_Ambitions/mods/niftycarts.pw.toml"
 hash = "97d63258ebcccb3647115fca29153ca79d9e83409381040c2c3e539ef874bdb9"
 metafile = true
 
 [[files]]
-file = "mods/notenoughanimations-fabric-1.6.4-mc1.20.jar"
+file = "Rural_Ambitions/mods/notenoughanimations-fabric-1.6.4-mc1.20.jar"
 hash = "204ae3195b6c4b21bd7bdba78b6dc9194fe642526f2e828a20a1a145b86b5400"
 
 [[files]]
-file = "mods/nullscape.pw.toml"
+file = "Rural_Ambitions/mods/nullscape.pw.toml"
 hash = "a8220eb5483e87eef98558fb707d36ced18445e98a98c2cc73b364b27fe595e6"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
+file = "Rural_Ambitions/mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
+file = "Rural_Ambitions/mods/presence-footsteps.pw.toml"
 hash = "d1c2d0649a28881f034d4a1f771a9cac22e6f1bbbeb110f0c118d6739e8711cb"
 metafile = true
 
 [[files]]
-file = "mods/prism-fabric.pw.toml"
+file = "Rural_Ambitions/mods/prism-fabric.pw.toml"
 hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
+file = "Rural_Ambitions/mods/puzzles-lib.pw.toml"
 hash = "70ee337f968a5b29c2ae56a7b6c62f7422ffc48dcce31782bd22c2d842c39173"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
+file = "Rural_Ambitions/mods/reeses-sodium-options.pw.toml"
 hash = "a261f3633b1536d3432124767c62e752af855fa2a833ed29a75324ab90379d9e"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
+file = "Rural_Ambitions/mods/resourceful-config.pw.toml"
 hash = "5a63d33c5f1afc8ea05bf0c3dfe608b91432acb688facbfb5a72ead74ee6aa90"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-lib.pw.toml"
+file = "Rural_Ambitions/mods/resourceful-lib.pw.toml"
 hash = "1b39621be692dd395719d77ca48a13ae28b2523fa4f6bd424547e977e43eb876"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
+file = "Rural_Ambitions/mods/roughly-enough-items.pw.toml"
 hash = "8394f3320b60593b03371c8c4278018e6042b0065437cc217898286699ff8a52"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-resources.pw.toml"
+file = "Rural_Ambitions/mods/roughly-enough-resources.pw.toml"
 hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
+file = "Rural_Ambitions/mods/searchables.pw.toml"
 hash = "7907d6767fc871c8949c4ee64407796b6c9512207a0a06aa8f874357ec81f2f2"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
+file = "Rural_Ambitions/mods/selene.pw.toml"
 hash = "380ed64cf0b7a5a81a00ba39bd555078f066ffe5b0bfea7db9c86cbee2c6326f"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
+file = "Rural_Ambitions/mods/simply-swords.pw.toml"
 hash = "ed86dc10fc8daa5c79309678874cd8100a6587cfe7366fe0552381d1fd7d5acc"
 metafile = true
 
 [[files]]
-file = "mods/small-ships.pw.toml"
+file = "Rural_Ambitions/mods/small-ships.pw.toml"
 hash = "102baa6caa22258763bd8d5df59ef22460ac8df3ee21c8dba7ea85a97a209871"
 metafile = true
 
 [[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
+file = "Rural_Ambitions/mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "cee9fecebf52bdf16efbf617beb249b9f1726ad0166ef4cecc6b0b93b82438d3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
+file = "Rural_Ambitions/mods/sodium-extra.pw.toml"
 hash = "d22e4ecce53a5c207e7894f59ed1f5af46aa2ed8e6daa2d46b17e637371dfe71"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
+file = "Rural_Ambitions/mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
+file = "Rural_Ambitions/mods/supplementaries.pw.toml"
 hash = "bcc406f36d5cd832c66bcaf38512a6f7d38fc83494adf688ccae5c1f6ea70858"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
+file = "Rural_Ambitions/mods/tectonic.pw.toml"
 hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
+file = "Rural_Ambitions/mods/terralith.pw.toml"
 hash = "9fc9821249e1864dc07c4f234ad733ac176eeaa092eefb537e8aa30a46add173"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
+file = "Rural_Ambitions/mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
-file = "mods/tiny-item-animations.pw.toml"
+file = "Rural_Ambitions/mods/tiny-item-animations.pw.toml"
 hash = "f9a82df1d57cbe4b3685290f8327116e903a22a6f85dadf73d3dd3432d1025e2"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles-fabric.pw.toml"
+file = "Rural_Ambitions/mods/travelers-titles-fabric.pw.toml"
 hash = "a69b4e6683fc454acf0ef27e2f53a94ffe6ac4a70ec5b19186edfa642b45eec0"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
+file = "Rural_Ambitions/mods/true-ending.pw.toml"
 hash = "ccc8fda5bb7023bbecdb9be1ae832666f424ca874ad61ace4b219bd1b3b982f1"
 metafile = true
 
 [[files]]
-file = "mods/universal-enchants-forge.pw.toml"
+file = "Rural_Ambitions/mods/universal-enchants-forge.pw.toml"
 hash = "ef3a50feefad9fd5102b761376901703d0f0c74a059f46a4343c7545393142c3"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh-1.4.19a.jar"
+file = "Rural_Ambitions/mods/vanilla-refresh-1.4.19a.jar"
 hash = "2729e567127ba1ae4e2b7e9ab39b937c7e9910bcfef89b3adee6f5365fd894b4"
 
 [[files]]
-file = "mods/vanillatweaks.pw.toml"
+file = "Rural_Ambitions/mods/vanillatweaks.pw.toml"
 hash = "b198c2eaeb74541245ff1b960c89a8107ce86ee8edc2f4a142af6995b59cfd65"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
+file = "Rural_Ambitions/mods/visual-workbench.pw.toml"
 hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
 metafile = true
 
 [[files]]
-file = "mods/visuality.pw.toml"
+file = "Rural_Ambitions/mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
 
 [[files]]
-file = "mods/wakes.pw.toml"
+file = "Rural_Ambitions/mods/wakes.pw.toml"
 hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
+file = "Rural_Ambitions/mods/yacl.pw.toml"
 hash = "74aca3c4c496d4b5f955eedc6bda1d35cda98fd70713d39bb05ef00d8eea724b"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-api-fabric.pw.toml"
 hash = "cba441f39b87df3e479f870998ecadaa833e847ec91932384def56f02b32362a"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-desert-temples-fabric.pw.toml"
 hash = "129c4bbfa9c25574433eee4205ad3136d91027af612ff850a941d634d4051f62"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-dungeons-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-dungeons-fabric.pw.toml"
 hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-end-island-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-end-island-fabric.pw.toml"
 hash = "1f5bda2ee3183785282d6aef59208330e0fefed0be038c40eb6b86d1d345bd87"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-jungle-temples-fabric.pw.toml"
 hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-mineshafts-fabric.pw.toml"
 hash = "4b051a6f31f33f629199e2033a5773fa25e24fcdaebf250c96f95a96f629b758"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-nether-fortresses-fabric.pw.toml"
 hash = "ebd74394feb9dd154a0ee710bddffdb5e80e18279e001d3c21ee21728364aa31"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-ocean-monuments-fabric.pw.toml"
 hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-strongholds-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-strongholds-fabric.pw.toml"
 hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-better-witch-huts-fabric.pw.toml"
 hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
 metafile = true
 
 [[files]]
-file = "mods/yungs-extras-fabric.pw.toml"
+file = "Rural_Ambitions/mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ModpackResources.zip"
+file = "Rural_Ambitions/resourcepacks/ModpackResources.zip"
 hash = "858550aa0b24b7b6ec2329f39a17912c8ace777cc97d8b8f0348393dbaa763a6"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks.zip"
+file = "Rural_Ambitions/resourcepacks/VanillaTweaks.zip"
 hash = "8a23cfb147720480d1dd46a03763e96d78ac73361a611aeb92598cc2a1401229"
 
 [[files]]
-file = "resourcepacks/VisualTitles.zip"
+file = "Rural_Ambitions/resourcepacks/VisualTitles.zip"
 hash = "bb3485d52354198e06ad5c5f23536e73d1e32d0a67a13e4d06cf5cf65f42f0ef"
 
 [[files]]
-file = "resourcepacks/[1.4]+Enhanced+Boss+Bars.zip"
+file = "Rural_Ambitions/resourcepacks/[1.4]+Enhanced+Boss+Bars.zip"
 hash = "8d64c06b15633fdbb9a500693b5cca63ab62299927eb5b34bbf459f4fa143a4a"
 
 [[files]]
-file = "resourcepacks/better-dogs.pw.toml"
+file = "Rural_Ambitions/resourcepacks/better-dogs.pw.toml"
 hash = "ea510b641670f0394a6cec5dcfda63a769aee0692d1f2f85338caedeca5b8032"
 metafile = true
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/1.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/1.jpg"
 hash = "d5cf8f8b66730db0df712937c7f5df6a42d8fdd621ee979cad3b13f8070b9312"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/10.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/10.jpg"
 hash = "65ef6cce77322186445ed6ad502ecfc71bf1c2a6982047f6fd9ae4d6ce285b36"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/11.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/11.jpg"
 hash = "957aeb8bcd8ddaaf96acc2e08d494fcd841716c17f10c887073165137420c7c5"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/12.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/12.jpg"
 hash = "340d287b6c1f35ef8c5730501c23f021af04d8f3c912e714e3c5bbd81904c7c1"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/13.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/13.jpg"
 hash = "cf2d7d84cedf95e652121384a096952777b77d7bb37b09083a5a92f70bdb03c5"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/14.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/14.jpg"
 hash = "6fca829402ba3132376464e3924b7ed138547d5fd2414a2acc68ec7b204af3dc"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/15.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/15.jpg"
 hash = "d7b005bf8cbf60b020bc99c1152483802cd4d92a1a7ce913488cb743ae37623e"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/16.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/16.jpg"
 hash = "f493058dec253f21b518b5236dfb3b56a10f4df0c4f2475a1db9fd7e1a5cb564"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/17.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/17.jpg"
 hash = "79471b78875628d18400437fb6029af16b43d1e56db234bd248a42db1d41828d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/18.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/18.jpg"
 hash = "6f752890fa139f50905d8ecb3065df8aafa936729d24a1a131934192e425654b"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/19.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/19.jpg"
 hash = "f5ae463ddeb2f79cfe93b40a40317cbff892dd3754d1783a786f1114970e4a10"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/2.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/2.jpg"
 hash = "59837ff528226267374ee0f38bfe10312e33cb4d8548de97190d8cc4ef756d10"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/20.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/20.jpg"
 hash = "9eb3ff613ac39446d8b8580774fdcf552debf8fac2c8190a8ded5c9d9fbfb50d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/21.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/21.jpg"
 hash = "ef93f618d0e3a6e0877035c18872ca16424dd6b989672d43c9672afeff329da7"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/22.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/22.jpg"
 hash = "1c2ee1b18bfe8938783820a0999a6a3e276b24be22120c116a7c89408c666f9a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/23.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/23.jpg"
 hash = "e44b3ad40e2c9022e9525770529f0fca9efe626befa631101f87ec6a3cf31919"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/24.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/24.jpg"
 hash = "344ca04dd3338be6e2cd99694a332c5599381ac1d6e0fcc12b71c6a38b049d31"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/25.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/25.jpg"
 hash = "32c24ba39714ec1a27f2b7e5ccb2876f71ee2edd68a6df43e279a36db82a2998"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/26.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/26.jpg"
 hash = "4f86d60c698110f066c1d3d7a40fb4817f0e83bf5006b2ea6f27a8204d1345df"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/27.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/27.jpg"
 hash = "618abbf3407f8b096c9a4caf8a8d86c5109639051444fe8a057dc756570f796a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/28.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/28.jpg"
 hash = "409cd5322628b0b7b804ce1a75419ad67527a39d7db857c3c0e9b267f4f08092"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/29.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/29.jpg"
 hash = "f4bcb02f7c6327a89c5d7e69e1c2f6bf15303c7b145ef74ffe310856239a8066"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/3.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/3.jpg"
 hash = "4e7718cf5b401ab27b031b36473d374b641fc23734370c1a1af38e5a37177a09"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/30.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/30.jpg"
 hash = "eb898718ea90636db77b0ef2a73b4ae36a0798d64adf2d79d063084a3edb9472"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/31.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/31.jpg"
 hash = "7e3fc7b53949dcb72f6154fbb3d1d3666bfde0beed94956ed4fa0b8c986f3353"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/32.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/32.jpg"
 hash = "cea19687c9de9ce0695c9d7b5e618285b9cfcf91b35a2a18432b1ae8000be5ee"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/33.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/33.jpg"
 hash = "7cec3ddf318f9f3ff4fd6aa65f1be526e5aa5e3cad1b0a76dcdd449673aa0ab5"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/34.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/34.jpg"
 hash = "bedf3aa2489ae8557eb4372f8c8c1f56817954da3d6f9a0376407ae0a6a2b7de"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/35.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/35.jpg"
 hash = "e94ef0787662274d1ac9d8cb25fe537951f1b11ca31ebcf73a57ae977b4a8e9b"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/36.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/36.jpg"
 hash = "e9f3ba431bc81dc1d82fa3f8bebed9818f625378f8fc9fcc128ba3b3e72d2729"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/37.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/37.jpg"
 hash = "ebeeeaf362511ea8395fcc48990ef138828ca35e7812fcb10b353443bf80e943"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/38.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/38.jpg"
 hash = "37d4a35aaac85886d44c6860819281ac978701f111c134933cecc607f9af5796"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/39.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/39.jpg"
 hash = "be0ee2a5dc2ccc2d780ebe255ca47fb690247669ff0ba0d43cede3d941c4050f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/4.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/4.jpg"
 hash = "53d21d31f0b7a1110a0a3a7e1051a6c4fc0c043ce2ca426d34e91582b4bb7fc4"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/40.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/40.jpg"
 hash = "3064c4dc10547459ab12f4829f45af274e46c998e27a28304d86a942a37d02cc"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/41.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/41.jpg"
 hash = "654acb18df7ac5b0186edff72154da611128a929cea87097d8c617c8922ec635"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/42.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/42.jpg"
 hash = "2598b102f850f1ac59a1158345f92804872301b3546fa69e58ea6f82c40fe030"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/43.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/43.jpg"
 hash = "0bf9e44f06bff44a15832dde2534a030d1c31a85493e84ba90144d8c7d3b9674"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/44.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/44.jpg"
 hash = "2516e2b6e92a28a809457a2933687dfcfae4dbeb421e1d77c972c3ff7a605a2b"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/45.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/45.jpg"
 hash = "ae7233cd98fcc72cac48cc1bd19e0d3d4786b8684b670062da4da09c624f5691"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/46.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/46.jpg"
 hash = "1f2c4770b4fb21fdec3359bb566c40ff7004e89aa1188e69ddb6584ba6db952d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/47.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/47.jpg"
 hash = "5bfc4d2af7654c0a922d69959887b4617ec8fd0d58aa6ae21ffc6122d956f295"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/48.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/48.jpg"
 hash = "38cca460b747d8738609cda00911bda6462d75fae28bec11d1a6576b4f8bdac8"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/49.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/49.jpg"
 hash = "df68a7a5672801c7eb797b2c3fa81d1b2a6715ab876d348ae57728f22d6a7acf"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/5.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/5.jpg"
 hash = "2d2dd774e31e2f5d79eda7fdbf6d78e362fa9c9f0fa50715e2f1feb11402978e"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/50.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/50.jpg"
 hash = "fcb52e64e347723155f5504112877f5cef2ef58cd1f79c36a40de583c151c6bb"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/51.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/51.jpg"
 hash = "85669eefb2dd3c368f682591494a4bc84d2775c71286d5b19d679f1539aee040"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/52.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/52.jpg"
 hash = "5987b59f4b241e9503be87f2832c6b73a06db180b67b90fe1ad1563c7841af3f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/53.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/53.jpg"
 hash = "81374f2e1463c16f3df0c0820607845a66ea6245f36b18b04cd90745e35e82ba"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/54.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/54.jpg"
 hash = "58a452741536b3fb14191b7e37a82c4ce7403c8cada87166715095be6bdfd17b"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/55.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/55.jpg"
 hash = "fbbf0a1dedbd13543b4221baef15734339747cec6167cea7ec027358b9b4f16a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/56.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/56.jpg"
 hash = "4372ab3318ed982386622582b54c7422e3a921ce6e13d8c0cbbc18d71345a1c2"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/57.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/57.jpg"
 hash = "15b7fb87a2e80faa6648f4eaa0f2481ce1b03047891f8030618cf37d574faa4d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/58.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/58.jpg"
 hash = "0e6a3578d1b33c69f05f66b6357d60ad9e50c04594dccf1350d43e0c8c7a54f9"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/59.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/59.jpg"
 hash = "6c85a745605fac01e7d56933683adf310e22e17ed4ded856d5e6481fb8582333"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/6.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/6.jpg"
 hash = "c9b1d8b70fdae63ca97ef772ab9b2fd5f3c0db223b4f70bb31fc7722fd584c27"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/60.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/60.jpg"
 hash = "0f5e250254b32a2556f888909b4ea046e6b98dbd90917d26a7cc3b3e1f549eed"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/61.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/61.jpg"
 hash = "798ee34496db64d6e6bd068496b9d2e003919493660f899e0096a38407075bb1"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/62.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/62.jpg"
 hash = "311a1582023a3617bd59289e669bccf300ab0acec157db2b31c0e30dce34c713"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/63.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/63.jpg"
 hash = "560460dede00d503bc4394f4c796deeadd01bc04791452872a76c029bd9b0398"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/64.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/64.jpg"
 hash = "f0f2d2b9b7305f5bb23db01eeafa42d1b41ee9cfd9ead03a77538ef5856e5c00"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/65.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/65.jpg"
 hash = "7a59369253ffcff387a1e98ef209aa6113d088c683ae9e2475460343562faf5c"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/66.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/66.jpg"
 hash = "7821e6cbdd69a58ca946236a72a73e81ac88690c658a61f1abc606ac52c2de72"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/67.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/67.jpg"
 hash = "16377ad894b0a63d71a4faf10ab70bcb2501ca86cdf6b35972e15425135349a5"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/68.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/68.jpg"
 hash = "88f9189235b886b3a8490c89d3825128167a40c35dc964bec9f15816f3984715"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/69.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/69.jpg"
 hash = "a204de22f3022cc9721eb9b3a251954e1cc6fee1d36d3b0f5551c8d1935d8e01"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/7.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/7.jpg"
 hash = "658ce05977c689a603cc3e4cd9fe2998c8275d7d8e6fc14a627e4af981baf5aa"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/70.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/70.jpg"
 hash = "3c4db6bd66fd15ce5179dbc8f2f2703febcbfa6f0c2dab712c2e784b15383a49"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/71.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/71.jpg"
 hash = "1ca85e9260e609bbb88f3360bf18840a8d134348ae60e3745ad0212d9e9eb28a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/72.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/72.jpg"
 hash = "9bfde7e77db450299789568f51882c2c6cd7cd803ef27b3c09e91ef52e318e25"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/73.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/73.jpg"
 hash = "88ea2c71d349d4ed81fe0d8c7e7afb80a08e696865e68d9ae0bae1bb28d06ee1"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/74.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/74.jpg"
 hash = "738f56a418a2104142fa61e8c822aaeca5a725799330bac5ba984a82e35d1e6c"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/75.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/75.jpg"
 hash = "6608e8eef7dae68287e26ce75780d4efb7b5b3bfd55d0204be2ebd3cb6638a0d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/76.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/76.jpg"
 hash = "27ded4a5b8a06ec922083ff10397d95f410ff0f8b45cb175ea4b9cf6272bd0f3"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/77.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/77.jpg"
 hash = "d843f5dfe5881a45df84642541f5c9f0fe96d80b45f154dd92a9772b65ee804a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/78.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/78.jpg"
 hash = "4e9ade038be9628cf99ea8d8a7a3f7b1c0ebf18a84dd48c4fc4ff2b791a6d647"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/79.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/79.jpg"
 hash = "9b2d6a5ded258c1cb1bc14fda6c79b5c33f4307c11b2ae8664a3a5dbc3fe18bc"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/8.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/8.jpg"
 hash = "92fd56cbcf75453f0dc118677b3e381f254deb5c45e47c8de281d92d6a7df036"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/80.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/80.jpg"
 hash = "18100344daac24d0831b2cdc6a7b8c24015e87abfb7d560ab79022ebadcc2f70"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/81.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/81.jpg"
 hash = "c40d72f7e0b593754a58bcfb56e5f5ea872acef9e3ef9da23b0197defe5a9048"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/82.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/82.jpg"
 hash = "04440083f62ba2e81f8fd47853e8a7a165e734df4840437db7fa7fa2c3e23a40"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/83.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/83.jpg"
 hash = "40439fe41bad117c6253ee7342ec8886d8959ae123cd3e20d9e76ac41d244ce9"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/84.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/84.jpg"
 hash = "61b0fd7d3c62220086eaa8393e90cca2d8ba5339f2a49252f3d4c4c146185590"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/85.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/85.jpg"
 hash = "c1cb15d22079ec355a8ad3777c443aa5327aae27dbdd22c8a40fcec7ae8b1d26"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/86.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/86.jpg"
 hash = "58b0b759001ec14631f7e641cc237e3cf79c05f19ef5c6def80abfef303a1cdb"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/87.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/87.jpg"
 hash = "0332d7fd930413af339e70b31f1eef60f6ceb798eecbeeb70a78c394748bed8d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/88.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/88.jpg"
 hash = "b52434256745c2b436d8694834c62bb33bc9cc81669327304b68263f01a4c463"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/89.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/89.jpg"
 hash = "7a76d01d5daf8372f2d356332df5f4329072655c8ee7ba4af5ec6de804bae3f8"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/9.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/9.jpg"
 hash = "f461385f423e52f8331bdd091c41c8af3be3ac06bcad7def5678bc96b86ae9ef"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/90.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/90.jpg"
 hash = "812fddc4cfae385fe4736f241ae30d45159489cd89255bc5754553baf727b6d2"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/91.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/91.jpg"
 hash = "bb3f32f46bfc27fd04f60db164010b5533cb6e8736959b7d05f67a92ca75d144"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/92.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/92.jpg"
 hash = "192225ee76908b396b480fb58833c17a8c4dabf9913f1196c0bd64852f6c0bab"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/93.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/93.jpg"
 hash = "465d7489c261ba6804df48bba77b7eb5713d2926fcfaeba5ec879c05376a4f02"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/94.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/94.jpg"
 hash = "afeebb75811b73363c02cabc3fd1bc3fbde5a34350b22b217eafd0da6462ca46"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/95.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/95.jpg"
 hash = "f097e55883c77aff9665f38a1815227689927879557e1764791ac73cad961d83"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/96.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/96.jpg"
 hash = "60e23dfd2dc32ac29d98e1973bf01ee5b03fd8e1bbd6474cd013ee0e6d591901"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/1.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/1.jpg"
 hash = "bce3e6050e59bc79b111aa4804bc739bcbdfa4d48d12eb8bf6163f4110847d99"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/10.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/10.jpg"
 hash = "46f4fa93696641524ba9139c838adc2526a9ef9fb33bd25c1533f00f8f2bb42d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/100.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/100.jpg"
 hash = "53d7ecc77f34d1add78afe3fd003aad7ecfa0d3d20ee4d34b362f43cd4a9d0af"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/101.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/101.jpg"
 hash = "e3b1fb2cadda04e9f3f26e21d3e80b8032b834cb87b7ac78691559de01570fd3"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/102.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/102.jpg"
 hash = "4c385035f27552a5ec4ca9f3e2193cde1727ba628acff62cb49581195074d30e"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/103.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/103.jpg"
 hash = "75d7400951c1f78f1cdfca4e88fba2c6ad5d2bfcedcffc2f43e7d0a1cafed4eb"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/104.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/104.jpg"
 hash = "e9d7e229c2f5a13c911d77455b635efb8bfa017495aa3b3235e8c842d6f9df03"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/105.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/105.jpg"
 hash = "358d3d72ce7420c15f77334d5cdf81de76da92f152cf913ee25d9b1772ba7350"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/106.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/106.jpg"
 hash = "d85af335fdb0b030ada0fdf7dbeb5465576c2a7c3e3fd4c43a6170f1c89e3f22"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/107.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/107.jpg"
 hash = "c6f46686879512397a1f02b4abd539a98e157f5980467cfcaca02d75a4c523c8"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/108.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/108.jpg"
 hash = "db884051b78372a12a97d0d0b4d57aa4f3fd091c3e900f073f6e0b1bb1a4676a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/109.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/109.jpg"
 hash = "88c1649448210a85a8fbe6ccffc120ada8f8a31c9d79ae78a0544476899c5a2c"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/11.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/11.jpg"
 hash = "425684a8abbf230de8621ed4162925b833297656f6219e3c1ee88e15114711ef"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/110.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/110.jpg"
 hash = "2245194f18dde53e66ef252320866af44d488b5668f6d1514e4c6b043cc85117"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/111.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/111.jpg"
 hash = "f3d6db303d3587b9559b05c893948e37b593ce36d5a8f3bd2771afb54d750522"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/112.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/112.jpg"
 hash = "a1d1f93f6a779cae54d42527cd116ce2ae2fc1cf7f175bf162a28b0fd656bf9d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/113.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/113.jpg"
 hash = "ac884237426545ae0b10542d54614af7f76e1e904d8cdef1a458d1b3b5246412"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/114.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/114.jpg"
 hash = "840023d59091e31bbae269c9939451ed9a32a5755954080a88959ca6695b1fad"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/12.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/12.jpg"
 hash = "15ff973df9b6f49d8518e94cd9ad0ab88cccd89c20001631461438b6b94e5d73"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/13.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/13.jpg"
 hash = "0cea4dd6e0cf2f8fdd8e20842e86f37fe948407f1880378b31d8029bfb100cc8"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/14.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/14.jpg"
 hash = "85fcd40b58fb5866fc609c8f129a4c1356b432a6ae1335ee445f5f706337d4e9"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/15.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/15.jpg"
 hash = "51d9f1ae327d77ee479dbc613b0ced608f8f597ee2b5b761ca8721d2cd6af13d"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/16.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/16.jpg"
 hash = "86335e1237dc4d9afef6888a1540cf277b903e0991822941c7dc83c453a85438"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/17.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/17.jpg"
 hash = "75c4c30ae6db49ac96691f944eca392a21564d1df40b1ef9ebd1d5d630371d00"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/18.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/18.jpg"
 hash = "afdce43a7a2d546795348a5a8c3a877205e5af2307ad1beeafd40b58be2b8064"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/19.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/19.jpg"
 hash = "a628c927280d1620ee131ca9fa03916868cd838a60d15213bd97d2931ae6e21c"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/2.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/2.jpg"
 hash = "5403c0bae9cc06b6bdf4bef61c0862a30eac8400b5d2b91b092e589b2127da11"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/20.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/20.jpg"
 hash = "090b0484dcda8a48fbf3c8211f9e64cc160d89201ac19c4e83f712fa417d8a1e"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/21.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/21.jpg"
 hash = "02eab52eb5a76ca8c3c0b665bacc76dc2d7393a35e2daa42ef773654a3e9f607"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/22.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/22.jpg"
 hash = "b618183c4304a9a857016a89660d4b6d260a47659bc5e96cebb643285f56706f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/23.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/23.jpg"
 hash = "5756fb3e3c4d8cf34656cad7ffe6c174196e9481298a1a4290f988a7059d8a99"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/24.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/24.jpg"
 hash = "e8058590e5145f2e42acb354a09ff8c5da8759c834cce821774e9c6cb5934071"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/25.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/25.jpg"
 hash = "1717e0fff9c08ce5d77501f21f3f390aadf7e9a1f5e857ad0b17d46e80beab75"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/26.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/26.jpg"
 hash = "ac95f555bed9ba4e3198962cbf5999a0dd4d43f156552c0d4f1c6bae8f1c197f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/27.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/27.jpg"
 hash = "a4d40c2fd020417a4f03af72040b5789b1bfacc110a6960a37641309a3f996ce"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/28.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/28.jpg"
 hash = "fee3a7e842f9aac279426f110c9332715cad18f965fb21afba8ee1861442f946"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/29.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/29.jpg"
 hash = "b789c24e1a640e58c0caadf7fcc4aa18fbeef5c3d540a97ada8364ef916365bb"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/3.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/3.jpg"
 hash = "e6295c620c881a1f5a4e88c1469ec7c649fdbc49a7c133f6838caac63dff2a5f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/30.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/30.jpg"
 hash = "f7e6f260d298a4043fa811f095087f103d4be126095a8b523be02f413ca898dd"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/31.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/31.jpg"
 hash = "7447d641301a18a6d889bdd5ad857c886b879771611763e51231f14221d7ed04"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/32.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/32.jpg"
 hash = "ea7ec08685f2ee837165747f871f9d3ce01ccd4a5b28f829aafb51e6c4e5f038"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/33.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/33.jpg"
 hash = "ad3fa2028fe3eb27561ea1350855d1d6041a06cdb3f778db5699a2813ad25551"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/34.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/34.jpg"
 hash = "40bc6a09a3de23cd6e99701271012949b5cb3cec74f5076eb639c04942639075"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/35.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/35.jpg"
 hash = "6fb97964be22881a07ee91ce485e6b2b76085520a8508ffe6509baed19543a69"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/36.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/36.jpg"
 hash = "cfc2a3c290bf24ee09f8d450c2526bc75470acaa10bf2775be09aa05054790a3"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/37.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/37.jpg"
 hash = "71018c0549e68fc3feabefc180191dcf5c2f3963880da2fbc9ffd2640d558500"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/38.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/38.jpg"
 hash = "308acf57ba7bf4f6f6c05fbcc28c0b9aec9d9ddccea70842504e8ae3920e9b92"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/39.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/39.jpg"
 hash = "e17b7add9b50bd9804c37df83ac6628ac41f8a118b91948f243d47de80028602"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/4.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/4.jpg"
 hash = "21df9b653bda3f91cc104af76144f8cba06fa9be6a552fd0ce540c5de822fdf2"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/40.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/40.jpg"
 hash = "e09cd3e7254f63af60cc25af9f6717c58e21261dcbd8b58bb2aec1038e0e4243"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/41.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/41.jpg"
 hash = "6f1d019a87c9b9d23c05348a22dd7d7d970551afc6116505b3b86610ffbb7661"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/42.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/42.jpg"
 hash = "84fc8dccf0e3274d056b276256369ad108a3191086fae16f5d8c732aa085ccdc"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/43.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/43.jpg"
 hash = "bd68c0ee7e031ca0be23088f59be35b59f62038905849dfe334217ae9aa160a6"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/44.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/44.jpg"
 hash = "a97db04e5f39550b27779449da52debd8868abcd34f5da0f6d1f51d82bd87b21"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/45.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/45.jpg"
 hash = "187556444cc71e011a347967e3232f984da788dc9a0b90850a72ff986d69c0c7"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/46.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/46.jpg"
 hash = "ff287efd169958fad2156247a6511a8b373f933a5267adc0100bb5e01121900a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/47.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/47.jpg"
 hash = "98728b0028f24a5d0199ba654512123f3e79f4f479f76b9c7c85e1960e6625af"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/48.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/48.jpg"
 hash = "207f77beb5f1a14ee3ed805f5009374a652f66b42f8dd53ece707ca6fa268216"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/49.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/49.jpg"
 hash = "fdb5889a6cd3df7a2a6deeffd8a436d2bac772ff70d75cbdc0cd44d523b018ad"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/5.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/5.jpg"
 hash = "1e348cff5adf02b79b9466bc99bce78b2717c80b74d6cdb728c74f6f2165ee33"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/50.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/50.jpg"
 hash = "259398f49516839ada148ddf9a3490d1f59ed419ab45a9edf114f2ca3f20d6f1"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/51.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/51.jpg"
 hash = "8166efd7bcea8a4f6177549b1508c942d016d5ba780613107e3ee0ae66628df8"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/52.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/52.jpg"
 hash = "d23a2d83eb0cc95820835bf8472780361104ce899ccdd9e485036dbf773664e5"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/53.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/53.jpg"
 hash = "688e80bfc91d18d6aa6b4500d7cce0d671f5c21a7e3409c80623afe181b9f009"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/54.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/54.jpg"
 hash = "50c6f295656d887438a5cb5fbf6a3f731600f4f3a097a2fa2c45573e08e31e57"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/55.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/55.jpg"
 hash = "6b50ae3da706c294a74648dae156abbe7f9a03c1c6a97931e89141b353f64e23"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/56.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/56.jpg"
 hash = "04e0bcad4768af73ba878e9f5b6c07bd40951a1bfea24ac1e04728a175249e7a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/57.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/57.jpg"
 hash = "c6b30b47221456f0907c8df4add7e2323b4c760282ab04209436f4f3aa40d807"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/58.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/58.jpg"
 hash = "fe57238d18ed43ba491c99e8b61b4d8f77eece124669dcd90acd41380d94cea6"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/59.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/59.jpg"
 hash = "57805f433a02e45631c56638a4a3f2eb4f8cd2b2ed22e7cbff8636d79144cf28"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/6.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/6.jpg"
 hash = "c07d5f2740a11351fabb978930a4a077b826e2528bd97022a73114aaa290d929"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/60.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/60.jpg"
 hash = "0c1fdff8149417e3d275119f7fdd69a318769a0f3489f461bc83b72133512669"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/61.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/61.jpg"
 hash = "2ac78ca482bd45cd96f2496d3e281f1b8cdcedcb4cf51310bd02aeb900eb9d0b"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/62.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/62.jpg"
 hash = "a7b6d2fa8342fa86ad7398f76fefbc0cacce98c4647282bf49a38f9a443d42ee"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/63.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/63.jpg"
 hash = "35523afc4c8318866d5e0ebd5f9bbc758f712249b71ba1ef061a2f549ebedba9"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/64.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/64.jpg"
 hash = "6a31fefe4430846325e66598b8e62bed20ba47506120a9ac7cf8409da2608a58"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/65.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/65.jpg"
 hash = "fcfe9243dec9095cfd0cafcf444a6988bbd51ea5c4f2d40f30d6022c02db3731"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/66.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/66.jpg"
 hash = "2d118ee55154bc0e2bfda0f4b1d8288ceb12409e2993d5b51b50c18da5db0b8f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/67.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/67.jpg"
 hash = "bd2ef96a8f658fd6b05deb9f5c2524975c7231e8d70208347b3fae95ea4d9018"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/68.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/68.jpg"
 hash = "18d893b2b5ac7a243247f30fe08971cfe80215dc12e14f27aea41b99c66e83a8"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/69.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/69.jpg"
 hash = "20ea8d0ef694b4437baa7abb61f45d6adf01a3158282e428cdd99a216383ba53"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/7.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/7.jpg"
 hash = "ab3f9634d8a2216512adb207081f5bae232e6e63199024ca58d713b8f4dbb130"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/70.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/70.jpg"
 hash = "2aa0778b70c77969f2892c303496a534c0ccd0eacd73637708c08a46125f1351"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/71.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/71.jpg"
 hash = "bf41fb2d1d2aacdcdb4454cf3671e3f39eec42a9fb4fc9f5bec0770be7cc3b96"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/72.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/72.jpg"
 hash = "9f5dcf2a216ddebd5aec2a40d9973824308b5e3e25fb5e7326bfc3639e35bd11"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/73.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/73.jpg"
 hash = "765d72403078e55fa8a4171bc031d899c1521272883a2a435ea1bbadf2fb2030"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/74.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/74.jpg"
 hash = "c0ef91aaa96fb16b27bfb92eb1ad89b20301934c454da37ccf903ea825c6dcbc"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/75.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/75.jpg"
 hash = "b17504e776f0360164a3ed723310c472eed1c161225c5df84f7d3416c5e7f189"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/76.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/76.jpg"
 hash = "f3c35ce770640b4e505407d44a5ce184167a3ea0e146c7e5f59bba7880b0e23c"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/77.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/77.jpg"
 hash = "31b3b6822577c0730c7fe415708e36075d23f2e1a2dc8fd33c1c5787fc2cd057"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/78.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/78.jpg"
 hash = "d93902c13decbc13aadc5f8767d1133ff0b4305925070e57d0c4132cb2b5764a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/79.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/79.jpg"
 hash = "645b3fabaf53182b4bb74c91a3d3e75df98fa50088cf5074d62f28f115f22571"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/8.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/8.jpg"
 hash = "6d881752cce6f60d97beed6a15be0377051c98a992f92eb7372df75d88836c06"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/80.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/80.jpg"
 hash = "f51e75351df777bb10d40a1550086aeeb22c28fe40462e69b65e321e5dd1ac9e"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/81.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/81.jpg"
 hash = "bff07cd465d99e1cfd5c6e7e0503b3a5b2aaa52cc39954f4b41ac86c61797cfe"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/82.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/82.jpg"
 hash = "8a62e87dfbdf0e1bdf2f6ad32544cae6c8b2b27bf858b29e57af92a57d9474ec"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/83.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/83.jpg"
 hash = "e6abefb6d1837e63da585d63d1910bae6d82eb9967fd2f4cfe482134f519eca6"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/84.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/84.jpg"
 hash = "bbb012eaf7e3ff3a573839c56dc88d7aa13d4078442a8cd72d9f25a6f941db9a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/85.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/85.jpg"
 hash = "2b0d266ac0497570be451b035c4a69be4a3a77736ac72fc86a1cdbeed9879807"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/86.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/86.jpg"
 hash = "e9ddf26a748e031c1093e6fff8cc6384f2a7ecb58ad1a1c69da90d3b8f255d6b"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/87.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/87.jpg"
 hash = "f2b837f3cbff120975c0508593259ac7c212dfc114dc41ab6be430f17c8595c3"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/88.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/88.jpg"
 hash = "4c82d6bbc4a1d38bdd2c96395cbd6d611f6117857b957f24df53a68ba1b59749"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/89.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/89.jpg"
 hash = "91002bd55e3fa82f9f6bbcaaf4745d4c24365fae88562311c9b725fdfd3b206a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/9.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/9.jpg"
 hash = "f3facc56391041c2cf15bae2ff595fbee96fad3e2ce6ecf0218ddb04e52c09ee"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/90.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/90.jpg"
 hash = "8c6f2d0f3a3f4ba4f5888b73424947fcf3a11ed6f5124408a5633e956da06f74"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/91.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/91.jpg"
 hash = "35664482f67d1955a407f60d0cf57f11300a9a15bbed12261da6b2ed5654be4c"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/92.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/92.jpg"
 hash = "c1f90e35acdd2323d53866abbc6936f6ffea24e703fc488b329975aa5da836de"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/93.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/93.jpg"
 hash = "87bc484986997bcaf479b75eb11ed4252b80c11f1a59e184f8840af3e119d12f"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/94.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/94.jpg"
 hash = "d4ab953284acb9338fc03ec21b481626142b6518086349718df809a2f0a42d10"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/95.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/95.jpg"
 hash = "530c630c9274b92e986f3ab08983e0b8f03eb25e99542548d76ee408d292334a"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/96.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/96.jpg"
 hash = "9c94872c9f7c26a3643c5971c6419f6f934698026aa3ecf18ce0ed6d6df8bfce"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/97.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/97.jpg"
 hash = "017c8cda81de2ca6047455efb4e813c99351de12484bb020fdb32aab6704ab13"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/98.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/98.jpg"
 hash = "426b733d97b6734ccd6dbffbc87d33c5a14d544f876d2bd8bce5078f26f25b54"
 
 [[files]]
-file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/99.jpg"
+file = "Rural_Ambitions/resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_main/99.jpg"
 hash = "69928f5cd5a9598c1db66fff632542a1c0e5e71ee32a56fc88e6bbed95bc69ea"
