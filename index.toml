@@ -203,6 +203,11 @@ hash = "b6b6e112dcd5a4c4db942e88c3ef5f89e722f51f82beae2a1e0fa792ad385946"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "573765992d61492d05465a1a29c937cdff0ebc6d551dec669c94a0d273650bdc"
+metafile = true
+
+[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "2df503469b2389647db0e1652d3ccadf6a0c90027dcefbe0b94b457ec0bf421d"
 metafile = true
@@ -393,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
