@@ -15,7 +15,7 @@ hash = "633c1d19e1e53dc07bb80ac07c64e7b385c763b68fabd453a5e8d7fa07d8e026"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "f17320fbb99294ba8ea75d314a3133bc37e893671f7fc177427b2c383a7bff6f"
+hash = "ad98f72d8c2ccbb2222fd03f7f0ac3f6d6ddaef302abe04520d9ecee89cc8721"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -388,17 +388,13 @@ hash = "9f62f416e70e150c0fba02e75a89c949a70aa267d1ed0f4473f386481ce5ca47"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
-hash = "e2daed6d6ff2c0277063d0ac55c5345af898034f96da3e1be01e26475f61c13c"
-
-[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -562,8 +558,9 @@ hash = "97d63258ebcccb3647115fca29153ca79d9e83409381040c2c3e539ef874bdb9"
 metafile = true
 
 [[files]]
-file = "mods/notenoughanimations-fabric-1.6.4-mc1.20.jar"
-hash = "204ae3195b6c4b21bd7bdba78b6dc9194fe642526f2e828a20a1a145b86b5400"
+file = "mods/not-enough-animations.pw.toml"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
@@ -787,10 +784,6 @@ file = "resourcepacks/VisualTitles.zip"
 hash = "bb3485d52354198e06ad5c5f23536e73d1e32d0a67a13e4d06cf5cf65f42f0ef"
 
 [[files]]
-file = "resourcepacks/[1.4]+Enhanced+Boss+Bars.zip"
-hash = "8d64c06b15633fdbb9a500693b5cca63ab62299927eb5b34bbf459f4fa143a4a"
-
-[[files]]
 file = "resourcepacks/better-dogs.pw.toml"
 hash = "ea510b641670f0394a6cec5dcfda63a769aee0692d1f2f85338caedeca5b8032"
 metafile = true
@@ -798,6 +791,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/boss-refreshed.pw.toml"
 hash = "bede70ffec41659a02a97bf7f83c748d01f906203ec41b6ffee22a45745a8df5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
 metafile = true
 
 [[files]]
