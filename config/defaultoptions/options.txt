@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","itemswapper:default","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","file/VisualTitles.zip","file/[1.4] Enhanced Boss Bars.zip","file/Better_Dogs_Optimized_Beta_V0.03.zip","file/VanillaTweaks.zip","file/ModpackResources.zip","minecraft:supporteatinganimation"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","itemswapper:default","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","file/VisualTitles.zip","file/[1.4] Enhanced Boss Bars.zip","file/Better_Dogs_Optimized_Beta_V0.03.zip","file/boss-refreshed-v1.1.0.zip","file/VanillaTweaks.zip","file/ModpackResources.zip","minecraft:supporteatinganimation"]
+incompatibleResourcePacks:["file/boss-refreshed-v1.1.0.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

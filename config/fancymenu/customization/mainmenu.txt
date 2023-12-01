@@ -69,19 +69,29 @@ customization {
   orientation = top-left
   enable_scrolling = false
   shadow = true
+  delayappearanceseconds = 2.5
   scale = 1.0
-  source = Minecraft 1.20.1
+  source = Minecraft {"placeholder":"mcversion"}
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
   x = 2
-  width = 81
+  width = 190
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = eaad3fdc-1ebe-4225-aa54-7d33069265cc1700994975090
   y = 348
+  delayappearance = true
   alignment = left
+  delayappearanceeverytime = false
   height = 11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  seconds = 2.5
+  onlyfirsttime = true
+  action = hidebuttonfor
 }
 
 customization {
