@@ -6,12 +6,16 @@ hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
 metafile = true
 
 [[files]]
+file = "config/andromeda.json"
+hash = "3cc0147965d7fc0e614e1b1c92fd258843f5ed29f90231f3f2a5a03ed0afeea3"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "85054e5c26ec280570fdf968837a1ff46642fa9df389f6a3ee9a2f9f7d5077eb"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "633c1d19e1e53dc07bb80ac07c64e7b385c763b68fabd453a5e8d7fa07d8e026"
+hash = "0810497a86a896ab435243847543ae879bd0f150a790f3e83227a4f481766a89"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -112,6 +116,14 @@ hash = "e5ffefe6cb4326278fb18b5e6ad4673cfa336006c15458e464417c5f06b8f89b"
 [[files]]
 file = "config/inventorio.json"
 hash = "4f3952ce392f4893c712441986ec26bf6e3fb1aa5022143cb5c96e3dcc3609f2"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "20a42cba740f0c34cb1fd7db6f4cb2dccb91df2172911b377f8786f4f199a6b5"
 
 [[files]]
 file = "config/lithium.properties"
