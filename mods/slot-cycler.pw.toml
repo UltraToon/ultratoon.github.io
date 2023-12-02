@@ -1,0 +1,13 @@
+name = "Slot Cycler [Forge & Fabric]"
+filename = "SlotCycler-v8.0.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f3bb31da87df7c9420f30011dce9371599b7a24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4621871
+project-id = 682569

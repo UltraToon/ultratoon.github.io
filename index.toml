@@ -188,6 +188,11 @@ hash = "ac15e771d2579726a9f6efe70a71897fe74e702d9662a7b37315af4b396eb588"
 metafile = true
 
 [[files]]
+file = "mods/andromeda.pw.toml"
+hash = "557e406196fdd6856f27fe26f562ae0bb8b76c3388a1f6fd8e166efdc9cd3924"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
 metafile = true
@@ -458,8 +463,8 @@ hash = "2e5c94e4f1bdfe8c9da4e987e9b3639599591575b3dc91ed0bb120adcee0ee85"
 metafile = true
 
 [[files]]
-file = "mods/inventorio.pw.toml"
-hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "88a9c0d5d574ecbaecaf9226c7b6a905bee7c7d73543ca9e56ec3636ce6d2782"
 metafile = true
 
 [[files]]
@@ -495,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "fbf42000436043febfb036d41cf60a0137fb46705c9f259a905a2f1c88381f90"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "c865fca57e5572a111ca9777de38b96d574d574a73faf005958ae5a407d87bb4"
 metafile = true
 
 [[files]]
@@ -548,11 +558,6 @@ hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
 metafile = true
 
 [[files]]
-file = "mods/new-nether-chest.pw.toml"
-hash = "851137b75ab67330250078ec572c2849b0fa7c9f74709c79a4cfb3b904e31342"
-metafile = true
-
-[[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "97d63258ebcccb3647115fca29153ca79d9e83409381040c2c3e539ef874bdb9"
 metafile = true
@@ -593,6 +598,11 @@ hash = "a261f3633b1536d3432124767c62e752af855fa2a833ed29a75324ab90379d9e"
 metafile = true
 
 [[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "be24150792aab6d984768c3f1c96a7a43792a1bddcd9a76490b05575573f4b37"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "5a63d33c5f1afc8ea05bf0c3dfe608b91432acb688facbfb5a72ead74ee6aa90"
 metafile = true
@@ -623,8 +633,18 @@ hash = "a7158b299041b8721912667284cdfd90c1329fcafcb8344bbde85ebf0194f9be"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "1ab03c5072f722853441d76eb142cf18fc0896b3525a0f6d1c616b3cee66417a"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "ed86dc10fc8daa5c79309678874cd8100a6587cfe7366fe0552381d1fd7d5acc"
+metafile = true
+
+[[files]]
+file = "mods/slot-cycler.pw.toml"
+hash = "18c7cb10c9df246cc0c1be466d95616e50512e54881eabd85e79f332d08bfba5"
 metafile = true
 
 [[files]]
