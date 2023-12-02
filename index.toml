@@ -478,11 +478,6 @@ hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
-file = "mods/iron-chests-for-fabric.pw.toml"
-hash = "6a147196618b614d3bce145ffb85bad8312a00a1fb1bbbec668a0f065d165bf7"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "7c43b0e71c112b5cdefe93d64ca361576ee9aedc2a25772ce1d017d3b5d10948"
 metafile = true
@@ -555,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
+metafile = true
+
+[[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "851137b75ab67330250078ec572c2849b0fa7c9f74709c79a4cfb3b904e31342"
 metafile = true
 
 [[files]]
