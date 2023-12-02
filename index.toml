@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "chocapic13-shaders.pw.toml"
-hash = "f22d3092caf76eb70ed12d5649a3216d4ee4a6107ca1bcb2a81fc39e9cc544e9"
-metafile = true
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
 metafile = true
