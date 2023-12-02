@@ -218,11 +218,6 @@ hash = "619bc01614e076f72e85826ae8f6f58fd9c4adfbdde8c87c908e65c50769871e"
 metafile = true
 
 [[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
-metafile = true
-
-[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "41c61172c039900fc122d2f4c358b63a1c1f2e6e423e4664c12097b68eb89132"
 metafile = true
@@ -433,11 +428,6 @@ hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
 metafile = true
 
 [[files]]
-file = "mods/framework-fabric.pw.toml"
-hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "959727a39eb652358453576dd6f6cb3ff03db058f4134decf607afa47ce933af"
 metafile = true
@@ -520,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "0b68cb446b2f4f7229dc7d8174e65c969fd7fc27cf8d65afc91e0c77d16b59c6"
+metafile = true
+
+[[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "d45c104e11e5ead66b5e3315812b68474c5481fbaee5ef732d2931b8dc2b68ed"
 metafile = true
 
 [[files]]
