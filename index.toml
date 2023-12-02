@@ -1,13 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "chocapic13-shaders.pw.toml"
+hash = "f22d3092caf76eb70ed12d5649a3216d4ee4a6107ca1bcb2a81fc39e9cc544e9"
+metafile = true
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
 metafile = true
 
 [[files]]
 file = "config/andromeda.json"
-hash = "3cc0147965d7fc0e614e1b1c92fd258843f5ed29f90231f3f2a5a03ed0afeea3"
+hash = "e25ee3cb2a5c55576a628ecb73d1f30656a2df1237282c37e2aa5dbaa8e55fea"
 
 [[files]]
 file = "config/c2me.toml"
@@ -19,7 +24,7 @@ hash = "0810497a86a896ab435243847543ae879bd0f150a790f3e83227a4f481766a89"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "6f00f78bc63dba0ab89f34fefcd545cf88841d2a6a86b8ee7b362b7cab96d665"
+hash = "097463fb39a64ad301852af7ca44dbb94d79a42087f89f57f234f4254f18d342"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -39,7 +44,7 @@ hash = "24f4892ce424e458cf56f7f778c0b3bce9f0e31ad2668aae6cc5863e5e4c7d1d"
 
 [[files]]
 file = "config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/audio/introaudio.wav"
-hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
+hash = "bad5630f2fbffffe60525d13a772db3a30e3f9fef99ce514ef69711bae49a8ee"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -118,12 +123,24 @@ file = "config/inventorio.json"
 hash = "4f3952ce392f4893c712441986ec26bf6e3fb1aa5022143cb5c96e3dcc3609f2"
 
 [[files]]
+file = "config/inventoryprofilesnext/cum zone/prev-villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/cum zone/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "20a42cba740f0c34cb1fd7db6f4cb2dccb91df2172911b377f8786f4f199a6b5"
+hash = "eac7eb13556d0f6e0c7f95e15cfcc3717c5574715879c46e5013d444f89dde10"
+
+[[files]]
+file = "config/inventoryprofilesnext/suggest-shell.us.e4mc.link/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
 [[files]]
 file = "config/lithium.properties"
@@ -232,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "619bc01614e076f72e85826ae8f6f58fd9c4adfbdde8c87c908e65c50769871e"
+metafile = true
+
+[[files]]
+file = "mods/bag-of-holding-forge.pw.toml"
+hash = "b8a05161d04e5c0229e961a5da3c95b1bafa31b2190453626739b64aa62b724f"
 metafile = true
 
 [[files]]

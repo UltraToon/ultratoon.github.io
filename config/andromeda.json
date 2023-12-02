@@ -44,7 +44,7 @@
   },
   "beeFlowerDuplication": true,
   "beeTallFlowerDuplication": true,
-  "villagersFollowEmeraldBlocks": false,
+  "villagersFollowEmeraldBlocks": true,
   "betterFurnaceMinecart": true,
   "maxFurnaceMinecartFuel": 45000,
   "furnaceMinecartTakeFuelWhenLow": true,
