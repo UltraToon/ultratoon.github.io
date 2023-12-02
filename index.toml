@@ -15,7 +15,7 @@ hash = "85054e5c26ec280570fdf968837a1ff46642fa9df389f6a3ee9a2f9f7d5077eb"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "0810497a86a896ab435243847543ae879bd0f150a790f3e83227a4f481766a89"
+hash = "5338e821c4d912c4c8568fa352d0a8344b30d8139f5eec838642a2651fc6098e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -287,13 +287,28 @@ hash = "9cefb6bce20863fb1803a19a8bb15e949298a8b552f1ff0d8d235786d501e222"
 metafile = true
 
 [[files]]
+file = "mods/bigger-better-end-cities.pw.toml"
+hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e0077bdc1444128be82536eb3367c6508169d31a02beb0e4e4acc8d5ae18a29b"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "3354f86b30b34a5bcb084e598605647c44df00a7dec4abaa3b8ea74086c32d21"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
@@ -384,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
 hash = "477b59137a5a421b67df55ee57cb2a31b6bc52ef1fd1c0b43ff268152fd61bff"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "9d78846a79e232e083c66120650088f36e17632604cb7fe00c1b7027c72207b8"
 metafile = true
 
 [[files]]
@@ -564,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "886f7d1b60b2badf9f1055389ae94d3e2922479c1f7125031ae5a4e6d7efcdcf"
 metafile = true
 
 [[files]]
