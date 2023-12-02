@@ -39,7 +39,7 @@ hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "8a75d57d6941bfe3df6072cd381108503467f83505553cf3552b9bc2d5d787ff"
+hash = "dcabc5769e4b9d84542d9d2707171b471e77be1efa56470ec09972b27512c923"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
