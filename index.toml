@@ -15,7 +15,7 @@ hash = "633c1d19e1e53dc07bb80ac07c64e7b385c763b68fabd453a5e8d7fa07d8e026"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ad98f72d8c2ccbb2222fd03f7f0ac3f6d6ddaef302abe04520d9ecee89cc8721"
+hash = "6f00f78bc63dba0ab89f34fefcd545cf88841d2a6a86b8ee7b362b7cab96d665"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -39,11 +39,11 @@ hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "dcabc5769e4b9d84542d9d2707171b471e77be1efa56470ec09972b27512c923"
+hash = "8a75d57d6941bfe3df6072cd381108503467f83505553cf3552b9bc2d5d787ff"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
+hash = "6ac1c257019ddb5f4f1eb7a9986ea6368b3faa7ff641bb5b9410e5109e05aa9d"
 
 [[files]]
 file = "config/fancymenu/customization/intro.txt"
@@ -51,7 +51,7 @@ hash = "3d3f2c9d3e234c83e9ec5228c3947ce74044a2207bae94310b6d79bda4771683"
 
 [[files]]
 file = "config/fancymenu/customization/mainmenu.txt"
-hash = "0edaab7ee25621ebb352d75a287a6f02984e164cffe10b0a0cf99b26295b54df"
+hash = "0c95c4474074ca625c8ca82e2c13ad43619572a89616bcee0dd7d85124798ed1"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -478,6 +478,11 @@ hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests-for-fabric.pw.toml"
+hash = "6a147196618b614d3bce145ffb85bad8312a00a1fb1bbbec668a0f065d165bf7"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "7c43b0e71c112b5cdefe93d64ca361576ee9aedc2a25772ce1d017d3b5d10948"
 metafile = true
@@ -688,8 +693,8 @@ hash = "ef3a50feefad9fd5102b761376901703d0f0c74a059f46a4343c7545393142c3"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh-1.4.19a.jar"
-hash = "2729e567127ba1ae4e2b7e9ab39b937c7e9910bcfef89b3adee6f5365fd894b4"
+file = "mods/vanillarefreshmodified.jar"
+hash = "b21789a720563846dd7149e7fa22363590549b9673a423d933605981b48e0202"
 
 [[files]]
 file = "mods/vanillatweaks.pw.toml"
