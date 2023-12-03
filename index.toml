@@ -219,7 +219,7 @@ hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "097463fb39a64ad301852af7ca44dbb94d79a42087f89f57f234f4254f18d342"
+hash = "283a0250152b1a5170c6625741fd8973944e574a06df2c3118eb41a80688fdc1"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
