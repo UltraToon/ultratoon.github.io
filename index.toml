@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/andromeda.json"
-hash = "e25ee3cb2a5c55576a628ecb73d1f30656a2df1237282c37e2aa5dbaa8e55fea"
+hash = "2873cdeca2c66bd25e58ce5cf8d65b1943d162f9a64dfc79077ba4c501be0215"
 
 [[files]]
 file = "config/c2me.toml"
@@ -116,6 +116,10 @@ hash = "e5ffefe6cb4326278fb18b5e6ad4673cfa336006c15458e464417c5f06b8f89b"
 [[files]]
 file = "config/inventorio.json"
 hash = "4f3952ce392f4893c712441986ec26bf6e3fb1aa5022143cb5c96e3dcc3609f2"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
 [[files]]
 file = "config/inventoryprofilesnext/cum zone/prev-villager-trading-config.json"
