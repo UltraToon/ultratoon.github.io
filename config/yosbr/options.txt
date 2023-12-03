@@ -10,7 +10,7 @@ entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
@@ -119,13 +119,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_inventorio.keys.use_utility:key.keyboard.unknown
-key_inventorio.keys.next_utility:key.mouse.4
-key_inventorio.keys.prev_utility:key.mouse.5
-key_inventorio.keys.empty_utility:key.keyboard.unknown
-key_inventorio.keys.rocket_boost:key.keyboard.unknown
-key_inventorio.keys.open_player_settings:key.keyboard.o
-key_inventorio.keys.open_global_settings:key.keyboard.unknown
+key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_autothirdperson.toggle:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
@@ -140,7 +135,6 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown
 key_key.map_atlases.open_minimap:key.keyboard.m
