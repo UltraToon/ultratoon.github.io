@@ -14,14 +14,6 @@ file = "config/c2me.toml"
 hash = "85054e5c26ec280570fdf968837a1ff46642fa9df389f6a3ee9a2f9f7d5077eb"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "5338e821c4d912c4c8568fa352d0a8344b30d8139f5eec838642a2651fc6098e"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "097463fb39a64ad301852af7ca44dbb94d79a42087f89f57f234f4254f18d342"
-
-[[files]]
 file = "config/enhanced_bes.properties"
 hash = "308c26f9874668513cdf52793529e510f812f412e773bf0cce95c8d65335d8ec"
 
@@ -206,6 +198,30 @@ file = "config/vanillatweaks.toml"
 hash = "bd7289cafaeaf17fca26c4d3ef821cd929c8415dba5e6316d8e82c1042b086b5"
 
 [[files]]
+file = "config/yosbr/config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "6aa99c53790605c27f1b9d397f29cbd5255a95574caf9c56c219e8caf52363ed"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/hints.json"
+hash = "e9ee152c6f68506b6150e22debb6705e746e9cebc45019bb868247b3633d66fa"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
+hash = "cc9ecc20ff5858a7e3024cd00ae9b7db0db25bbe4c04f693282068e925dfb381"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
+hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "097463fb39a64ad301852af7ca44dbb94d79a42087f89f57f234f4254f18d342"
+
+[[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "921ae9f0d0998f5d79ec85970df2bd731d0d00c0ecc19ece97b04498ded6d897"
 metafile = true
@@ -253,11 +269,6 @@ metafile = true
 [[files]]
 file = "mods/bag-of-holding-forge.pw.toml"
 hash = "b8a05161d04e5c0229e961a5da3c95b1bafa31b2190453626739b64aa62b724f"
-metafile = true
-
-[[files]]
-file = "mods/balm-fabric.pw.toml"
-hash = "41c61172c039900fc122d2f4c358b63a1c1f2e6e423e4664c12097b68eb89132"
 metafile = true
 
 [[files]]
@@ -331,6 +342,11 @@ hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "3ad0ac33db32377497577c4bf58c08d48ae40f258927d2261a7f3c02134238ca"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "182ce9c0cdb40b559255b909df255af3808fab035bdb7fd09436c76043f810c2"
 metafile = true
@@ -348,11 +364,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "595b6bfaf51003c3352364f95457a4aa17c515f97e034b3ed0d74cc71fc469ef"
-metafile = true
-
-[[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "6dc6b06e4efee5e835efdaadd8f8239bc777aa0e4efd224ed4c8315633c70a64"
 metafile = true
 
 [[files]]
@@ -611,6 +622,11 @@ hash = "a8220eb5483e87eef98558fb707d36ced18445e98a98c2cc73b364b27fe595e6"
 metafile = true
 
 [[files]]
+file = "mods/omni-hopper.pw.toml"
+hash = "e686c14e71df59bd6308cd144f7bfc014cd9afa5ccc6e60c633f781337d1fc0e"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -667,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a7158b299041b8721912667284cdfd90c1329fcafcb8344bbde85ebf0194f9be"
+hash = "0d99b850e2b3845a56f47997481e6c0814762cd809029f5fbce8a359620ef5ac"
 metafile = true
 
 [[files]]
@@ -702,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2a803d99beafd5abe39e477a1a5d56067e380c5eb5c64ce82a90b1de0e381ad8"
+hash = "08e7b11da6bf58b4f3cc9687a8ae1b58359006af4d43e80680ed0c4dedf76a11"
 metafile = true
 
 [[files]]
@@ -767,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "74aca3c4c496d4b5f955eedc6bda1d35cda98fd70713d39bb05ef00d8eea724b"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
 
 [[files]]
