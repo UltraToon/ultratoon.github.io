@@ -292,11 +292,6 @@ hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "e0077bdc1444128be82536eb3367c6508169d31a02beb0e4e4acc8d5ae18a29b"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
@@ -339,11 +334,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cacd0b884c6969862cfabaf03b1a2f90c84ad5a521738ee66bd9043e8a045d9c"
-metafile = true
-
-[[files]]
-file = "mods/dark-paintings.pw.toml"
-hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
 metafile = true
 
 [[files]]
@@ -399,11 +389,6 @@ metafile = true
 [[files]]
 file = "mods/enchanting-infuser-forge.pw.toml"
 hash = "a3d5fa3c4a79f8e222eae9d168e5ed4614030668e7df667f88006521624e46f0"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "182c7ea8331ea474af1982db5cad15a6ea31d08a76459c7decc9d483ae11c8a2"
 metafile = true
 
 [[files]]
@@ -487,6 +472,11 @@ hash = "b2d4fc6561d2627ebd5f20c262934507b67490b9b882fd75ea89a4d7ca791f77"
 metafile = true
 
 [[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "3b9f8808ee2b535588e8d39034526f7aac47f8687f39bd454cd28b64dda027d5"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b9de4aedeaef0cbd511652346c447f11edc26f0319807419648d3dd1481ca067"
 metafile = true
@@ -554,6 +544,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources-fabric.pw.toml"
 hash = "9cabb780d582531e26756092be3de8b64b487866cb1e2ae7611190fc0b22240e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "35ef52a6d47027b540e7d1822c2d0f59b5e7fa2fa1c67bf4452638407b3d5d42"
 metafile = true
 
 [[files]]
