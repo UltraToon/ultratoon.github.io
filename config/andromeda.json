@@ -98,7 +98,7 @@
     "furnaceScreenParticles": true,
     "creativeScreenParticles": true,
     "creativeScreenParticlesVelX": 0.7,
-    "gameModeSwitcherParticles": true
+    "gameModeSwitcherParticles": false
   },
   "itemFrameTooltips": true,
   "autogenRecipeAdvancements": {
