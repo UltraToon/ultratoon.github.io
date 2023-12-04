@@ -1,0 +1,13 @@
+name = "FakerLib"
+filename = "fakerlib-0.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae9908d1a841b98f617f719b7856e2c8cf87396d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4853710
+project-id = 853197

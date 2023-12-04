@@ -6,10 +6,6 @@ hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
 metafile = true
 
 [[files]]
-file = "config/andromeda.json"
-hash = "3c1151a3a5821aa0d158c2f0f18a2a65a00cab77487d0b356d22a42c7e16820c"
-
-[[files]]
 file = "config/c2me.toml"
 hash = "01538a35dee96dafbfa1d0e70f0849188cd92db50e0cd971811147825c382a0c"
 
@@ -94,28 +90,12 @@ file = "config/immediatelyfast.json"
 hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
 
 [[files]]
-file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/cum zone/prev-villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/cum zone/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "eac7eb13556d0f6e0c7f95e15cfcc3717c5574715879c46e5013d444f89dde10"
-
-[[files]]
-file = "config/inventoryprofilesnext/suggest-shell.us.e4mc.link/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+hash = "80a41d3a9eecacc8aec1f15475f24ccd067d4854321557042933ff7193bcd6df"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -210,11 +190,6 @@ metafile = true
 [[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "dc464531657482fdf16b54aef3bd251d6cac5583ffbc18216757de4c55edb55d"
-metafile = true
-
-[[files]]
-file = "mods/andromeda.pw.toml"
-hash = "557e406196fdd6856f27fe26f562ae0bb8b76c3388a1f6fd8e166efdc9cd3924"
 metafile = true
 
 [[files]]
@@ -448,6 +423,11 @@ hash = "e05ab0f2ee88a54e0a1a311c34548d069a0f494017a8a36493c284b440e8ac00"
 metafile = true
 
 [[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "78a065610d9e370a1fa7795e34a542cb46adc56d8438672344c26c211f5bb070"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "e651193b4394351dd5246cf112ccff75efd3053e152cd102fb42d0d7ae8aa018"
 metafile = true
@@ -530,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "c231d4b9b466397da607196b45f3284b0398c6af2b06cf66b90fa611f4cca69a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "244b097becffee3495d687f640415f63756e04284561c37e7999648375e3d1a4"
 metafile = true
 
 [[files]]
@@ -665,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "890b7e767681f643ae58dd1e9efb30240fbfce54afb40dde28f97d4ef5474bdb"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6bf8380f77c1792ddf97b95601afa5e68b9b7cb4d2bed9c429e6419d5b35bde6"
 metafile = true
 
 [[files]]
@@ -854,6 +844,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
+metafile = true
+
+[[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "5823be2c134ad38c5ffb0ebf3726e5ebba3a5b31e39c6904432c3c734f6051f5"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "cec730ee4b27aee519f57970920c1a76bf93b06e3e30ef14ce8972e7aa4eea62"
 metafile = true
 
 [[files]]
