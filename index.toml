@@ -208,11 +208,6 @@ hash = "ac15e771d2579726a9f6efe70a71897fe74e702d9662a7b37315af4b396eb588"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "dc464531657482fdf16b54aef3bd251d6cac5583ffbc18216757de4c55edb55d"
-metafile = true
-
-[[files]]
 file = "mods/andromeda.pw.toml"
 hash = "557e406196fdd6856f27fe26f562ae0bb8b76c3388a1f6fd8e166efdc9cd3924"
 metafile = true
@@ -290,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/bigger-better-end-cities.pw.toml"
 hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether-fabric.pw.toml"
+hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
 metafile = true
 
 [[files]]
