@@ -23,6 +23,9 @@
             "value": false
         },
         "enable_profiles_announcement": false,
+        "show_continuous_crafting_checkbox": {
+            "value": false
+        },
         "show_regular_sort_button": {
             "main": {
                 "keys": "BUTTON_3"
@@ -68,25 +71,20 @@
         },
         "sort_inventory": {
             "main": {
-                "keys": "BUTTON_3"
-            }
-        },
-        "sort_inventory_in_columns": {
-            "main": {
-                "keys": "LEFT_SHIFT,BUTTON_3"
-            }
-        },
-        "sort_inventory_in_rows": {
-            "main": {
                 "keys": "LEFT_CONTROL,BUTTON_3"
             }
         },
         "move_all_items": {
             "main": {
-                "keys": ""
+                "keys": "LEFT_ALT,BUTTON_3"
             }
         },
         "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
             "main": {
                 "keys": ""
             }

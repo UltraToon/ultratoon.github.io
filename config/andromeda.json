@@ -70,7 +70,7 @@
     "breakAfterUse": true,
     "villagerInventory": true
   },
-  "slightlyBetterItemNames": true,
+  "slightlyBetterItemNames": false,
   "totemSettings": {
     "enableInfiniteTotem": false,
     "enableTotemAscension": false
