@@ -7,23 +7,15 @@ metafile = true
 
 [[files]]
 file = "config/andromeda.json"
-hash = "2873cdeca2c66bd25e58ce5cf8d65b1943d162f9a64dfc79077ba4c501be0215"
+hash = "3c1151a3a5821aa0d158c2f0f18a2a65a00cab77487d0b356d22a42c7e16820c"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "85054e5c26ec280570fdf968837a1ff46642fa9df389f6a3ee9a2f9f7d5077eb"
-
-[[files]]
-file = "config/enhanced_bes.properties"
-hash = "308c26f9874668513cdf52793529e510f812f412e773bf0cce95c8d65335d8ec"
+hash = "01538a35dee96dafbfa1d0e70f0849188cd92db50e0cd971811147825c382a0c"
 
 [[files]]
 file = "config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "ea0bd2162b4457541159aea6b9ee645ea4d62cd4ba1371ec33aef0378ee1b5d5"
 
 [[files]]
 file = "config/fancymenu/animations/mc_cave_animation_2cfb5f2c6ab641c1/animation.properties"
@@ -95,19 +87,11 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "247b2f62b05aeaa7768173499cf00ac6e7157c20a91fbe9394ff9bc773c3b8f1"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "e5ffefe6cb4326278fb18b5e6ad4673cfa336006c15458e464417c5f06b8f89b"
-
-[[files]]
-file = "config/inventorio.json"
-hash = "4f3952ce392f4893c712441986ec26bf6e3fb1aa5022143cb5c96e3dcc3609f2"
+hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
 
 [[files]]
 file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
@@ -134,12 +118,8 @@ file = "config/inventoryprofilesnext/suggest-shell.us.e4mc.link/villager-trading
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
-hash = "8581e3341cd8c0d1187112dbb353e2c4cc34f229f5143c7645c933bf14bb3aee"
+hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
 
 [[files]]
 file = "config/modmenu.json"
@@ -147,7 +127,7 @@ hash = "211c296d2e1b7ee088888a7e6beed020afcfc401e6995ece8c0a27b53fa14047"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "4854610f7c701f65f6763b6b6895cac852b40cae2776cc5fac9938adccf79bf4"
+hash = "7821cf90e9e92015876005d2c8a946876ef9000f02c2be6e9c89e7e2365014ec"
 
 [[files]]
 file = "config/roughlyenoughitems/changelog.txt"
@@ -170,16 +150,12 @@ file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
 
 [[files]]
-file = "config/rrp.properties"
-hash = "33697aa8b7b57494a4095c4dddd7f185691683d2872e9d6fc2cf644e6e82abb8"
-
-[[files]]
 file = "config/sodium-extra-options.json"
 hash = "261e01841ed348b357f69da1293fc964bc8941307a8569da263289640793d176"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "4333f572fb5fa75f77dc649546b0fb8a7ebbcab2c62706135ace2687684d5667"
+hash = "7949086bf1d32873eae89ee46e48aa550092632d2e38e210c81f4366ab92a88e"
 
 [[files]]
 file = "config/supplementaries-common.json"
@@ -187,7 +163,7 @@ hash = "03465dd08361f533c6d178024d1db0c2d4a2b6d9b2b47e403390e0e4835c1cec"
 
 [[files]]
 file = "config/threadtweak.json"
-hash = "ce145cf2dc6d17974883908faecfb8b70377eaa4a5476cc0f03b9064fcc6976a"
+hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
 
 [[files]]
 file = "config/travelerstitles-fabric-1_20.toml"
@@ -219,7 +195,7 @@ hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4f874aa6027ceee318b6ae6ab020f3957e048a004332f88d6d95a0304de1b5c9"
+hash = "75e5c5974879254d5a59eaa7e5cccb3fb6fe3dfab34451708c4ba353f1f9e6b2"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
@@ -649,11 +625,6 @@ metafile = true
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
-metafile = true
-
-[[files]]
-file = "mods/projectile-damage-attribute.pw.toml"
-hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
 metafile = true
 
 [[files]]

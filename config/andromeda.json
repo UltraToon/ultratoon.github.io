@@ -14,7 +14,7 @@
     "incubatorRandomness": true,
     "incubatorRecipe": true
   },
-  "usefulFletching": true,
+  "usefulFletching": false,
   "bedsExplodeEverywhere": false,
   "bedExplosionPower": 5.0,
   "safeBeds": false,
