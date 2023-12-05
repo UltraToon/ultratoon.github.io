@@ -606,6 +606,11 @@ hash = "0b68cb446b2f4f7229dc7d8174e65c969fd7fc27cf8d65afc91e0c77d16b59c6"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "e49e871ab92951b5f80ecb8c79bd93f512789acee612f81ec5f8d617ffdce9a3"
 metafile = true
