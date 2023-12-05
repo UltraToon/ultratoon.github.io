@@ -178,6 +178,42 @@ file = "config/yosbr/options.txt"
 hash = "75e5c5974879254d5a59eaa7e5cccb3fb6fe3dfab34451708c4ba353f1f9e6b2"
 
 [[files]]
+file = "config/zenith/adventure.cfg"
+hash = "3c82e06469ca2e661d702eb28c1dd216d5cb13a70bc2562f5cc3a8607be55757"
+
+[[files]]
+file = "config/zenith/attributes.cfg"
+hash = "89748ab1791c021dfbb58bd8afe4828baf47ac720f42dcad0b3804096d328b5b"
+
+[[files]]
+file = "config/zenith/enchantments.cfg"
+hash = "ce46ff394305a027deb1d20819f084bcca0423545fb6f1dd74b149acdda44b0c"
+
+[[files]]
+file = "config/zenith/garden.cfg"
+hash = "f30836daebe0a987401f7cacf6d5ee4df3ef7d510b9cf315edad109cbb334e1f"
+
+[[files]]
+file = "config/zenith/names.cfg"
+hash = "492e5f68355ca22b7c5e8ba9faeb3dfcdc953067fab5949a4d9492a3fb82e29c"
+
+[[files]]
+file = "config/zenith/potion.cfg"
+hash = "95945621443449600ee86ea7dcd6bc83092122de99b73a819cd4a5e46184871d"
+
+[[files]]
+file = "config/zenith/spawner.cfg"
+hash = "0b5de0da270e635ff921656f863f1f9e978da3e2f3d422bbf6deab354139e301"
+
+[[files]]
+file = "config/zenith/village.cfg"
+hash = "311f6d845179bdf56286fb27bb54803e2e4de531cf7dcc3ff1588eafbd7c7a0a"
+
+[[files]]
+file = "config/zenith/zenith.cfg"
+hash = "420877f41bee64bd374ce8720f705874e1d5fe2a6a7b41452a73e34377552243"
+
+[[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "921ae9f0d0998f5d79ec85970df2bd731d0d00c0ecc19ece97b04498ded6d897"
 metafile = true
@@ -245,11 +281,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "8c1afd08f9ae6716649612ddf8c59e995cb9047f29ffe64a31f3f4e32bc881b7"
-metafile = true
-
-[[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "625f4fdcd85ee2cdf2614be4e465cc2e6ca363a07e2776fd9b8e413a1432cdb8"
 metafile = true
 
 [[files]]
@@ -323,11 +354,6 @@ hash = "cacd0b884c6969862cfabaf03b1a2f90c84ad5a521738ee66bd9043e8a045d9c"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "ca9a0b70fb11328d6868ab909d4d92ec1160e530f19a31387f26e0abec42f5af"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
@@ -340,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "3131a7cc2f025179514146508a9aaaafd678514fab0f73c789a6a8a2b8639cae"
-metafile = true
-
-[[files]]
-file = "mods/dungeon-and-taverns.pw.toml"
-hash = "06003a2b14f026f8d7f9833d9b9a3df8a4bb1bd7955acaa7d646de979d906977"
 metafile = true
 
 [[files]]
@@ -513,11 +534,6 @@ hash = "c231d4b9b466397da607196b45f3284b0398c6af2b06cf66b90fa611f4cca69a"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "244b097becffee3495d687f640415f63756e04284561c37e7999648375e3d1a4"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
@@ -613,6 +629,11 @@ hash = "e686c14e71df59bd6308cd144f7bfc014cd9afa5ccc6e60c633f781337d1fc0e"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "3cde5c2a43360092ff7c27df4abb7ecc327099f6948af93a58da588db35679d1"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -650,11 +671,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "890b7e767681f643ae58dd1e9efb30240fbfce54afb40dde28f97d4ef5474bdb"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "6bf8380f77c1792ddf97b95601afa5e68b9b7cb4d2bed9c429e6419d5b35bde6"
 metafile = true
 
 [[files]]
@@ -710,11 +726,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
-metafile = true
-
-[[files]]
-file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "a2952fcf07553f733aba93ca1bc4b556c33a53719ccade60d9f1681e39b2c647"
 metafile = true
 
 [[files]]
@@ -779,11 +790,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "74aca3c4c496d4b5f955eedc6bda1d35cda98fd70713d39bb05ef00d8eea724b"
 metafile = true
 
 [[files]]
