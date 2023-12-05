@@ -110,6 +110,38 @@ file = "config/moreculling.toml"
 hash = "7821cf90e9e92015876005d2c8a946876ef9000f02c2be6e9c89e7e2365014ec"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "74a16e835b407566da7f2f1666894f68a5ecba5f618f64cef47a806468d08f33"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Desert_Temples_v8.zip"
+hash = "b0147d0c9b1506c958018120a0899859909144d17466d2673588971ef9d40433"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip"
+hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Monuments_v6.zip"
+hash = "1c05059321b8928fb1a4123d1724de6ff1755af6da95fc90c106f3913296be0b"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Strongholds_v5.zip"
+hash = "4ecace941dbbef488669ff6a6e44088b2bdc9e83662855b24d28d49a171152dd"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v4.zip"
+hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
+hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
+
+[[files]]
+file = "config/openloader/data/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
+hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
+
+[[files]]
 file = "config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
@@ -574,11 +606,6 @@ hash = "0b68cb446b2f4f7229dc7d8174e65c969fd7fc27cf8d65afc91e0c77d16b59c6"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "e49e871ab92951b5f80ecb8c79bd93f512789acee612f81ec5f8d617ffdce9a3"
 metafile = true
@@ -591,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
-metafile = true
-
-[[files]]
-file = "mods/moogs-end-structures.pw.toml"
-hash = "886f7d1b60b2badf9f1055389ae94d3e2922479c1f7125031ae5a4e6d7efcdcf"
 metafile = true
 
 [[files]]
@@ -897,11 +919,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-better-end-city.pw.toml"
-hash = "9aa8ff7cc535d65cae232ad8b0911208a406f3c1892a69e3d94045b5c9e70bf2"
 metafile = true
 
 [[files]]
