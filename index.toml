@@ -114,6 +114,10 @@ file = "config/openloader/advanced_options.json"
 hash = "74a16e835b407566da7f2f1666894f68a5ecba5f618f64cef47a806468d08f33"
 
 [[files]]
+file = "config/openloader/data/RSConfig.zip"
+hash = "96bb95c973ecf76ab4174cfc4846f8ff1487618d02ae86945be62687eff6c0c6"
+
+[[files]]
 file = "config/openloader/data/Repurposed_Structures-Better_Desert_Temples_v8.zip"
 hash = "b0147d0c9b1506c958018120a0899859909144d17466d2673588971ef9d40433"
 
@@ -163,7 +167,7 @@ hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "261e01841ed348b357f69da1293fc964bc8941307a8569da263289640793d176"
+hash = "80f02e95671c93e08cf7ad694a1e56c1001bb2d9b626965c202638ac687b9542"
 
 [[files]]
 file = "config/sodium-options.json"
