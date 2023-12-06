@@ -146,6 +146,10 @@ file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v4.zip"
 hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
 
 [[files]]
+file = "config/openloader/data/Repurposed_Structures-Bountiful_v3.zip"
+hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
+
+[[files]]
 file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
 hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
 
