@@ -456,6 +456,11 @@ hash = "9f62f416e70e150c0fba02e75a89c949a70aa267d1ed0f4473f386481ce5ca47"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "949bd1d3a79e15a089db4ade5d63edacf53b71e1ac7978826b154f59aadf077f"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
