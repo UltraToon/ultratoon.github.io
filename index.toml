@@ -6,6 +6,10 @@ hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
 metafile = true
 
 [[files]]
+file = "config/adventurez.json5"
+hash = "1867ebea33064fdc6c4826dc5f80956c7c85f54c68ce5181eb5bfaa985a9f0df"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "01538a35dee96dafbfa1d0e70f0849188cd92db50e0cd971811147825c382a0c"
 
@@ -112,6 +116,10 @@ hash = "7821cf90e9e92015876005d2c8a946876ef9000f02c2be6e9c89e7e2365014ec"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "74a16e835b407566da7f2f1666894f68a5ecba5f618f64cef47a806468d08f33"
+
+[[files]]
+file = "config/openloader/data/AdventureZ_NetheriteFix_1.0+1.20.1.zip"
+hash = "bc1600f0ec31ea983ac283acc32a20c877f9c29e992d07548c93534d52f7da2f"
 
 [[files]]
 file = "config/openloader/data/RSConfig.zip"
@@ -252,6 +260,11 @@ hash = "420877f41bee64bd374ce8720f705874e1d5fe2a6a7b41452a73e34377552243"
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "921ae9f0d0998f5d79ec85970df2bd731d0d00c0ecc19ece97b04498ded6d897"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "6132e154f5e7876aecd1916390719b85924f0285904cab8ac54f34586e3deb88"
 metafile = true
 
 [[files]]
@@ -461,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "949bd1d3a79e15a089db4ade5d63edacf53b71e1ac7978826b154f59aadf077f"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
@@ -471,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
