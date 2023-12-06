@@ -348,6 +348,11 @@ hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
 metafile = true
 
 [[files]]
+file = "mods/bountiful-fabric.pw.toml"
+hash = "92667416d2a0e84719fe9d15820a37f7c4f3d809ae0f54002066574a02f53420"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
 hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
 metafile = true
@@ -484,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -575,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "7c43b0e71c112b5cdefe93d64ca361576ee9aedc2a25772ce1d017d3b5d10948"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a1aef67c1fcb62afe66af906e929c09f91ac503fca30d7903b174784f919a2df"
 metafile = true
 
 [[files]]
