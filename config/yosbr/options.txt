@@ -121,6 +121,8 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.adventurez.dragonflydown:key.keyboard.left.alt
+key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
 key_autothirdperson.toggle:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
@@ -135,6 +137,9 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
+key_fakerlib.toggleWings:key.keyboard.unknown
+key_fakerlib.toggleTrails:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown
 key_key.map_atlases.open_minimap:key.keyboard.m
@@ -148,6 +153,16 @@ key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.g
 key_key.cycleRight:key.keyboard.h
 key_key.smallships.ship_sail:key.keyboard.grave.accent
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.n
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.unknown
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.backslash
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.x
