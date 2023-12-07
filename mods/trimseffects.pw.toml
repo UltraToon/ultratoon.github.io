@@ -1,0 +1,13 @@
+name = "TrimsEffects"
+filename = "trimeffects-1.0.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33c6eb39098da5651d5bea0442c090f735088248"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4791686
+project-id = 870275

@@ -402,6 +402,11 @@ hash = "3ad0ac33db32377497577c4bf58c08d48ae40f258927d2261a7f3c02134238ca"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "182ce9c0cdb40b559255b909df255af3808fab035bdb7fd09436c76043f810c2"
 metafile = true
@@ -832,6 +837,11 @@ hash = "a69b4e6683fc454acf0ef27e2f53a94ffe6ac4a70ec5b19186edfa642b45eec0"
 metafile = true
 
 [[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "e0d4c1d05848180969860656bb31eb575395056479c4ad0ace06eabca37f1651"
+metafile = true
+
+[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "ccc8fda5bb7023bbecdb9be1ae832666f424ca874ad61ace4b219bd1b3b982f1"
 metafile = true
@@ -842,8 +852,8 @@ hash = "ef3a50feefad9fd5102b761376901703d0f0c74a059f46a4343c7545393142c3"
 metafile = true
 
 [[files]]
-file = "mods/vanillarefreshmodified.jar"
-hash = "b21789a720563846dd7149e7fa22363590549b9673a423d933605981b48e0202"
+file = "mods/vanilla-refresh-1.4.19a.jar"
+hash = "496a476f09982fa585c2d374632bf1fcfc84c5837b769299839ff621c50f96b1"
 
 [[files]]
 file = "mods/vanillatweaks.pw.toml"
@@ -941,7 +951,7 @@ hash = "858550aa0b24b7b6ec2329f39a17912c8ace777cc97d8b8f0348393dbaa763a6"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "70fdc611953c5e385691e06ae241e54615bdc74770229aa2e16d7863aa7c3765"
+hash = "82cbae9a1f50aaad5c7fd9047f3896c4f45837174c196dec84dcef0ac6d32686"
 
 [[files]]
 file = "resourcepacks/VisualTitles.zip"
