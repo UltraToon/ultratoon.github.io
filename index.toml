@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -777,6 +777,11 @@ hash = "6a29fe0efc060d4c977f15852a24ae23f9d5dec345d055daab33f3d781c4cb70"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0d8f6a1abc71a60f5cef1bc24d1a8d7f598c05cfdddb397482daa034e5178d9a"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "ed86dc10fc8daa5c79309678874cd8100a6587cfe7366fe0552381d1fd7d5acc"
 metafile = true
@@ -838,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "e0d4c1d05848180969860656bb31eb575395056479c4ad0ace06eabca37f1651"
+hash = "38f060161fa4a30157b9be54f77bd2dfabf74a9d90b8ba23a4a3027cf0c3193e"
 metafile = true
 
 [[files]]
@@ -868,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "cb780507350eda79869cc18976d04970665ed2f14cddf024c87e09bdfea33b96"
 metafile = true
 
 [[files]]
