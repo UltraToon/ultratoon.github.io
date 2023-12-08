@@ -1,0 +1,43 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+      
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "biome": "terralith:cold_shrubland"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "biome": "terralith:hot_shrubland"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "biome": "terralith:rocky_shrubland"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "biome": "terralith:shrubland"
+          }
+        }
+      }
+    ]
+  }
+  

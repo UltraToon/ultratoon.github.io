@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+
+
+    "#vanilla_refresh:night_mobs_generic",
+    "minecraft:stray",
+    "minecraft:husk",
+    "minecraft:phantom",
+    "minecraft:witch"
+    
+   
+
+    
+  ]
+}
