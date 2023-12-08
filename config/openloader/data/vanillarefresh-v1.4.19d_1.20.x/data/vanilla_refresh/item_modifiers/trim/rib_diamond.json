@@ -1,6 +1,0 @@
-[
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{Trim:{material:\"minecraft:diamond\",pattern:\"minecraft:rib\"}}"
-  }
-]

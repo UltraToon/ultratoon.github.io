@@ -1,1 +1,0 @@
-give @s carrot_on_a_stick{VanillaRefreshItem:1,VanillaRefreshTool:1,CustomModelData:51001,VanillaRefreshToolBrushCookie:1,display:{Name:'{"translate":"Cookie Wand","color":"light_purple","italic":false}',Lore:['{"translate":"Vanilla Refresh","color":"#676e75","italic": true}']}}
