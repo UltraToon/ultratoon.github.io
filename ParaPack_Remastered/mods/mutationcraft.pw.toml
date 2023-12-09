@@ -1,0 +1,13 @@
+name = "Mutationcraft [Forge]"
+filename = "Mutationcraft_1.19.2_1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7344e1e7f29a1b54dcef56f691eeafe70a3197a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4872982
+project-id = 849595

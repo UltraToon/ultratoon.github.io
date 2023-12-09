@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "27b8aa0b506b4f697ae8ea8cb8b316973b15d9a2a79d0af0ef61c0302d170723"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
+file = "mods/fungal-infection-spore.pw.toml"
+hash = "64eaa4732a41e2df7d74cde48ea24339916647257790c467fd2bbff7c66cc1ef"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "8e3a633be9b4ec08adda5c11d2019d39f6592ad546f2f064c5bb0afefe4cbba9"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a4aa21b1607eb1d763cc42d8b573b76bad30f058be29ebbaae7709dee81bdf9c"
+metafile = true
+
+[[files]]
+file = "mods/mutationcraft.pw.toml"
+hash = "ed61661df5caf979b205f83ca55f23ccfcdbb79c40c11f515e46013493db776c"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "b674929af4b3e4938af692ca833fa9ab33211c2e9008e0ac2a565eb22ec51ab2"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "0840cc829295649d960e4caec029346c59704f97abe4afdb1ec8ffbf568da161"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
