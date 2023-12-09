@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "595b6bfaf51003c3352364f95457a4aa17c515f97e034b3ed0d74cc71fc469ef"
+hash = "8a445c2fb16b2a1657c23a7ed24cf9337b3bc770fd1b742267762ddbdf071eec"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "b7cc47b149c7f249ac2589c30db80978cf8b615c98df7796f4a87c4fb2667142"
+hash = "b9a7a37dc3b8c5dc352e70aab790b0901a8e41cc36e437b8e83dea87e9fec113"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e05ab0f2ee88a54e0a1a311c34548d069a0f494017a8a36493c284b440e8ac00"
+hash = "2f4f744642f99b88f810f532a8d4b63717179e8c7acd3b367ca3d010149b958c"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "b53794cc3b94d52b223c007b01b4960c7d6b51056e887506182b7ca9bfe42ad7"
+hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "959727a39eb652358453576dd6f6cb3ff03db058f4134decf607afa47ce933af"
+hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b9de4aedeaef0cbd511652346c447f11edc26f0319807419648d3dd1481ca067"
+hash = "24ce4ba24398f4d0562d16be21b986df01f85e522d4046c0d10e76b8cb439f43"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "fbf42000436043febfb036d41cf60a0137fb46705c9f259a905a2f1c88381f90"
+hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
 metafile = true
 
 [[files]]
@@ -652,12 +652,12 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "e49e871ab92951b5f80ecb8c79bd93f512789acee612f81ec5f8d617ffdce9a3"
+hash = "68fca628c60ba165b67a8e956c2e3f98b917a0e77b66d46f4858d6dd84a8a305"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ccbaf78722772f8c9368071031f0f115d1f4c1022c29eda09819fae04429070d"
+hash = "27ed7db6809ff20c4ee7cb1fc47e5b4f89259d9a276a6fd78b9889e5c50f44c2"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "a8220eb5483e87eef98558fb707d36ced18445e98a98c2cc73b364b27fe595e6"
+hash = "7aac5fffbd7cf3d2da562e5f3b71e0c7d9722c8ed82172fead880d4536a22c05"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "70ee337f968a5b29c2ae56a7b6c62f7422ffc48dcce31782bd22c2d842c39173"
+hash = "4712bfa42f0cfd835c94a613de9eef80d5c34e0a9562a223f1c6273bebbcfc40"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "890b7e767681f643ae58dd1e9efb30240fbfce54afb40dde28f97d4ef5474bdb"
+hash = "6e895d782d8fa97fdf47edc06c52037fe1fbed6528ab609bd43a6aeef87f0aa0"
 metafile = true
 
 [[files]]

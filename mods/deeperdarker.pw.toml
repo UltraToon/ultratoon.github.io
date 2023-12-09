@@ -1,13 +1,13 @@
 name = "Deeper and Darker"
-filename = "deeperdarker-fabric-1.20-1.2.3.jar"
+filename = "deeperdarker-fabric-1.20-1.2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "efbae5fbb6a8f0f2ae09991d4666c5d19937d16a"
+hash = "212ff24c31ae20bd09b497cb18c40622952a498f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4838841
+file-id = 4934394
 project-id = 659011
