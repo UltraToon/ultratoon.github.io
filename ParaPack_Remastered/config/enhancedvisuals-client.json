@@ -348,7 +348,7 @@
         "animationSpeed": 0
       },
       "blur": {
-        "disabled": false,
+        "disabled": true,
         "opacity": 1.0
       }
     },

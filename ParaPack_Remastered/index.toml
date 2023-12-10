@@ -10,11 +10,11 @@ hash = "46d5c0868d1d3d2d82d56fef93786ccf5ffe5a070b81985ac564cc0c91729f22"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "bf967df1b7998390ca1e6a9dce87d964ac69df2612b4ab6045443f58886f7528"
+hash = "61213979be586908fddeb38b63b521d16047790ed7592a8074870669b1fee355"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "e142e9eb73f5753d631ae75ff76e0b3c06e1cc909232da91903b363fc3ad18bd"
+hash = "0cf80c264f6c968f54779398016da222e97c91fc220203efa091e6c71b753073"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -30,7 +30,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
-hash = "fd03b157c90925831dddc07d4365fcf2de5b29a4cb435113603b065357706883"
+hash = "033a777fff3f4a7ddefacfe711be948987393641e95d47062cde4b4f681e2eeb"
 
 [[files]]
 file = "config/entityculling.json"
@@ -49,8 +49,52 @@ file = "config/modernfix-mixins.properties"
 hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "74a16e835b407566da7f2f1666894f68a5ecba5f618f64cef47a806468d08f33"
+
+[[files]]
+file = "config/openloader/data/RSConfig.zip"
+hash = "96bb95c973ecf76ab4174cfc4846f8ff1487618d02ae86945be62687eff6c0c6"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Desert_Temples_v8.zip"
+hash = "b0147d0c9b1506c958018120a0899859909144d17466d2673588971ef9d40433"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip"
+hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Monuments_v6.zip"
+hash = "1c05059321b8928fb1a4123d1724de6ff1755af6da95fc90c106f3913296be0b"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Strongholds_v5.zip"
+hash = "4ecace941dbbef488669ff6a6e44088b2bdc9e83662855b24d28d49a171152dd"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v4.zip"
+hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Bountiful_v3.zip"
+hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
+
+[[files]]
+file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
+hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
+
+[[files]]
+file = "config/ores_above_diamonds-1.19.toml"
+hash = "b5b0459cfc1d659a0f9e1e405c84284d7a4268054f385324bdfe8a0b0a32cb47"
+
+[[files]]
 file = "config/parcool-client.toml"
 hash = "32066f2bd996a6c431ce638da2c68ba7908da504c8f20b484ebf693e6f04e258"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3a1590e3bc578b73512f66581db1c240b50e38365e7931851d9f2cd55827554a"
 
 [[files]]
 file = "config/roughlyenoughitems/changelog.txt"
@@ -81,6 +125,10 @@ file = "config/sodium-extra-options.json"
 hash = "a4d168ca50610b6ee842bb2eba23b7befd7b732829e769c75df8ad59f98e048b"
 
 [[files]]
+file = "config/vanillatweaks.toml"
+hash = "9c9f92a0bccd2dce31efccdaeb47897f290e99b32d661ed2238b5cb6509bf375"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "e077baca07ed156f36087a2fc6ab24eb2aa33637ad51b4a9ef73cbbdc0fea052"
 
@@ -91,6 +139,11 @@ hash = "6e125053a6cfab53912ac3aed84853ad77d5dd4ac59250ba7fd8523b4ecdea1d"
 [[files]]
 file = "mods/additional-guns.pw.toml"
 hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
+metafile = true
+
+[[files]]
+file = "mods/advanced-hook-launchers.pw.toml"
+hash = "a7552d367b378c25bcc34a48641d42dd9332790f33bc78aef3881317ae29ff1a"
 metafile = true
 
 [[files]]
@@ -109,6 +162,11 @@ hash = "8c8f8222d0a2c3e1f673b137637b17bd87535b0aad111d79e242f18af48d0169"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "75ed8d650127ffb977ae124a4c40de6f1068bab908bc7be7bd710e8184ec347b"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -124,8 +182,18 @@ hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
+file = "mods/better-animal-models.pw.toml"
+hash = "9a64e859b65f7deab438253df5671a5d59b2334296a384ea9886718c5d519d02"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+metafile = true
+
+[[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "a7cca1d9d8832a940c6cb44be4c3a24c536ff441002748dca601a87b29db9042"
 metafile = true
 
 [[files]]
@@ -149,6 +217,11 @@ hash = "fccc6b3c690cda345c9b396b54993fc9f36b25cfe99f2219e96b6f77c7bc0e0c"
 metafile = true
 
 [[files]]
+file = "mods/chunk-animator.pw.toml"
+hash = "a2b6bfb225aa8167eb767343d3a49b12fcf4a9eeb1601dc15ee738101343b23d"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "3c1816dd39da0e3dee175f8a14ce42a7cfb3b85b5557f42a3e54987bd8f1089a"
 metafile = true
@@ -156,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "6d4042c0d9742c33461f885ba263214c6cd1c8149ae9904dffe59e8b895bdc28"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
@@ -264,6 +342,11 @@ hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "8bf8fca986e0d08524a13b0e635c05d2c9a0a9b9a31cd90d647bbf1b54aa6c02"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
 metafile = true
@@ -349,6 +432,11 @@ hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "9c230cfdee2ba357a8201621adbee4b946f75a8e5f3c7d6360f74e6886959be4"
+metafile = true
+
+[[files]]
 file = "mods/ores-above-diamonds.pw.toml"
 hash = "674914f7e89b2bd8cb7d599d987046f013f56128142f932d3746b8bbdbd8ed7c"
 metafile = true
@@ -381,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
+metafile = true
+
+[[files]]
+file = "mods/reauth.pw.toml"
+hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
 
 [[files]]
@@ -439,8 +532,8 @@ hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
 metafile = true
 
 [[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+file = "mods/shield-expansion.pw.toml"
+hash = "8ba6d0695262e000bb7e303299fa51023bccbbcc8be45ef19e02487a69e4d8de"
 metafile = true
 
 [[files]]
@@ -539,6 +632,11 @@ hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
 
 [[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
 hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
 metafile = true
@@ -549,9 +647,63 @@ hash = "f66e5f6ec4db6eb852ff29dcad2f81c36448e72e030b0093718c79629439aa82"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "6a3520d3d8cd926f52d043d3be3c8a172669f724886693aaed9cd1d82692b63e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "b56fa96279e7dc53ff64a06c4114fda4f5f5ccf0b28f0e0d1ecc0a0e4a0d4f42"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "1d49afdb7073ea138fcab4f96c374aee3990657ef78bb1d088bb86a5640287d1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "81f1a11c12b5bd89a47a836a26e02ec0bdc5b92e8f5208e67a3327c12dcbb357"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "fcd9cd81f98f63d98d2e5b27daa7a84407908a91bf81fa270ba78ec92cd3861b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "3f98cb1cec9958fec03e2c43f8808be500d0d10e08af2a8e1c1e7efa31556818"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "20222a2e823e88c1732d6b346478738fd0518f15c211de8c0ff82fbec8dbfd4d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "18dca2ab04ea41ed6072bae4b8d2aa147d391f86db58a09cd094ab00c336629b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
+metafile = true
+
+[[files]]
 file = "mods/zombie-invasion.pw.toml"
 hash = "93df42a7404a822181b91223bab02a2f7752f122b8b351455ab020ca02e91b1b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "8413c3df7ffbf570671e2ea33bd157932a9308ac3f1ab94d03ebc191a45385eb"
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
