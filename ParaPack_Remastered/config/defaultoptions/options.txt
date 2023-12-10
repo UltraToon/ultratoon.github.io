@@ -38,7 +38,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/TZP_1.19.2_2.6.zip","file/TZP_Plus_Modded_Compat.zip","file/VanillaTweaks.zip"]
-incompatibleResourcePacks:["quark:emote_resources"]
+incompatibleResourcePacks:["quark:emote_resources","file/VanillaTweaks.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

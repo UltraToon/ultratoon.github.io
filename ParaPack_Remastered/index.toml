@@ -627,6 +627,11 @@ hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "69c5bf23bb8e3e16e18d7bf1861dc2475a35ccec36a93c11c01e18efa7a4ab42"
+metafile = true
+
+[[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
 metafile = true
