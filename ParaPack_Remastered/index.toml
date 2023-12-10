@@ -50,6 +50,11 @@ hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "9e9c73bdf284108852ccfef81ad0b4597f342c2104cc7bcdb409ecc0bfc3beaf"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
@@ -125,8 +130,18 @@ hash = "9b6eba81b6899e5b6961cdb6533a8dc9844baf91671048b0313fb1deb0c525c5"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "97ee2160e052cd77b8c5b5e99b336ac0f16813591d557b6599356e43e7aff931"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "3c3db423d76d506a075a7b55a33b7bed658141002de9edc337ed496b1620d857"
 metafile = true
 
 [[files]]
@@ -172,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "7d6bd464c3ec36737bd0f97c673b3bc8221f42fb2e7916af674866431c0aa1bc"
 metafile = true
 
 [[files]]
@@ -267,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/ores-above-diamonds.pw.toml"
 hash = "674914f7e89b2bd8cb7d599d987046f013f56128142f932d3746b8bbdbd8ed7c"
+metafile = true
+
+[[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+hash = "a793e307448377f212ceeec69f47cc56a61695a56a81e59509c269b4d5c47562"
 metafile = true
 
 [[files]]
@@ -402,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "5b41c25289361f7791a080ef812c7cab6d9f63ab57b63b0d3ec6694bb78d18dc"
 metafile = true
 
 [[files]]
