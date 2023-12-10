@@ -217,11 +217,6 @@ hash = "fccc6b3c690cda345c9b396b54993fc9f36b25cfe99f2219e96b6f77c7bc0e0c"
 metafile = true
 
 [[files]]
-file = "mods/chunk-animator.pw.toml"
-hash = "a2b6bfb225aa8167eb767343d3a49b12fcf4a9eeb1601dc15ee738101343b23d"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "3c1816dd39da0e3dee175f8a14ce42a7cfb3b85b5557f42a3e54987bd8f1089a"
 metafile = true
