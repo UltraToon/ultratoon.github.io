@@ -5,6 +5,10 @@ file = "README.md"
 hash = "4d313dd511f67b0db271d6f7a09e79995d25decb319ff5dceefa1cdf4613acc3"
 
 [[files]]
+file = "config/enhancedvisuals-client.json"
+hash = "fd03b157c90925831dddc07d4365fcf2de5b29a4cb435113603b065357706883"
+
+[[files]]
 file = "config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
@@ -23,6 +27,50 @@ hash = "cc9ecc20ff5858a7e3024cd00ae9b7db0db25bbe4c04f693282068e925dfb381"
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "e077baca07ed156f36087a2fc6ab24eb2aa33637ad51b4a9ef73cbbdc0fea052"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
+
+[[files]]
+file = "config/yosbr/config/embeddium-options.json"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
+
+[[files]]
+file = "icon.png"
+hash = "6e125053a6cfab53912ac3aed84853ad77d5dd4ac59250ba7fd8523b4ecdea1d"
 
 [[files]]
 file = "mods/additional-guns.pw.toml"
@@ -375,11 +423,6 @@ hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
 metafile = true
 
 [[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
 metafile = true
@@ -417,11 +460,6 @@ metafile = true
 [[files]]
 file = "mods/sulfur-and-potassium-make-more-gunpowder.pw.toml"
 hash = "927dd8afc2f83c49f785554ab4a85206b4c3f60a4ef33ee0cdd5ae7f40f55b89"
-metafile = true
-
-[[files]]
-file = "mods/swingthroughgrass.pw.toml"
-hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
 metafile = true
 
 [[files]]
@@ -483,6 +521,10 @@ metafile = true
 file = "mods/zombie-invasion.pw.toml"
 hash = "93df42a7404a822181b91223bab02a2f7752f122b8b351455ab020ca02e91b1b"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "236fa677de6c0778c1db873dc9baae3ca658f03ddf11ce847482b3ee2b3b2d88"
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
