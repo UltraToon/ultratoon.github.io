@@ -14,7 +14,7 @@ hash = "61213979be586908fddeb38b63b521d16047790ed7592a8074870669b1fee355"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "0cf80c264f6c968f54779398016da222e97c91fc220203efa091e6c71b753073"
+hash = "a6f6d383278335bd36a2fbeefe934600ef901fdf793a34dc4aae507e65f70ccd"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -53,36 +53,28 @@ file = "config/openloader/advanced_options.json"
 hash = "74a16e835b407566da7f2f1666894f68a5ecba5f618f64cef47a806468d08f33"
 
 [[files]]
-file = "config/openloader/data/RSConfig.zip"
-hash = "96bb95c973ecf76ab4174cfc4846f8ff1487618d02ae86945be62687eff6c0c6"
+file = "config/openloader/data/Repurposed_Structures-Better_Desert_Temples_v7.zip"
+hash = "06aad17c3615d77cbf5af227f9e8327e75885df6cb8bd462f4bcc588fabae43d"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Desert_Temples_v8.zip"
-hash = "b0147d0c9b1506c958018120a0899859909144d17466d2673588971ef9d40433"
+file = "config/openloader/data/Repurposed_Structures-Better_Dungeons_v4.zip"
+hash = "f91cbb7eaba6bacaaff5b982348d872887bb5325a78df2b55071781ae9147872"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip"
-hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
+file = "config/openloader/data/Repurposed_Structures-Better_Monuments_v5.zip"
+hash = "23ce950482b7106ba5e3c39f7945355d172a67d36793b7e89ffb17204dfcae62"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Monuments_v6.zip"
-hash = "1c05059321b8928fb1a4123d1724de6ff1755af6da95fc90c106f3913296be0b"
+file = "config/openloader/data/Repurposed_Structures-Better_Strongholds_v4.zip"
+hash = "8cdbff46c57521fa2961866b85f2ae5d286da998180f9e4ea4ddea2c7129c687"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Strongholds_v5.zip"
-hash = "4ecace941dbbef488669ff6a6e44088b2bdc9e83662855b24d28d49a171152dd"
+file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v3.zip"
+hash = "7c54637d365d23e2b4a1990e6c97a1351bbc4f9d6c653819cb404a4a6fdadfd5"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v4.zip"
-hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Bountiful_v3.zip"
-hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
-hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
+file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v5.zip"
+hash = "ca74e19d82104e5ae4a695574e9c0ba83bf757f88d42a83beace19a0a93b62a2"
 
 [[files]]
 file = "config/ores_above_diamonds-1.19.toml"
