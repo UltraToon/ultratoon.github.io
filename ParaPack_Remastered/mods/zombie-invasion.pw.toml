@@ -1,0 +1,13 @@
+name = "Zombie Invasion"
+filename = "Zombie Invasion 1.2.0 for Minecraft 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29448051619dcc5a539500b5049c98db24d79ca1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4419669
+project-id = 794395

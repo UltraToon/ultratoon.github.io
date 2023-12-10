@@ -1,0 +1,13 @@
+name = "Sulfur And Potassium - More Gunpowder"
+filename = "sulfurpotassiummod-1.19-2.3.4+Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e6da4e15a76273ba0c3b8c623a0ab548730190e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932473
+project-id = 295506

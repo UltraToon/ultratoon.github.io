@@ -1,0 +1,13 @@
+name = "TZP Plus Modded Compat"
+filename = "TZP_Plus_Modded_Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fb16c8d41fae4d9b9cf6fef7f12181aeef910b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4734923
+project-id = 909534

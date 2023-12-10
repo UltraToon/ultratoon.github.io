@@ -1,0 +1,13 @@
+name = "Ryan's Zombies"
+filename = "Ryan's Zombies v5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "532b6e615088e298889b9f12c2b9b492758537d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4661097
+project-id = 880054

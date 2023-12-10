@@ -1,0 +1,13 @@
+name = "ViesCraft Machines"
+filename = "viescraftmachines-1.19.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa3882b7d78fb3b1cc30b8a1751948f77a37cf84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015230
+project-id = 246795

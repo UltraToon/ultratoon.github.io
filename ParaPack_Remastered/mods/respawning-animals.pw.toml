@@ -1,0 +1,13 @@
+name = "Respawning Animals [Forge & Fabric]"
+filename = "RespawningAnimals-v4.2.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fae0f489570a65a4b32659fb8e35f9c8868e341"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945929
+project-id = 322765

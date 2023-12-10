@@ -1,0 +1,13 @@
+name = "Lunar"
+filename = "Lunar-forge-1.19.2-0.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8933c5e2b368421bdb7ec088f9a0f04b46a4657"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785033
+project-id = 602312
