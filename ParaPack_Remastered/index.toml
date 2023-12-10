@@ -524,6 +524,11 @@ hash = "dde205665711c195efaf2ef7820885940adeb94c922964331430d7410bcf7f90"
 metafile = true
 
 [[files]]
+file = "mods/vanillatweaks.pw.toml"
+hash = "4b79f99175de1f00a43568b4fec55989d5eb232e346d845c7c5cf2e3e34f1c72"
+metafile = true
+
+[[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "c20dfb48048366ee3c4dd4b68a33033c44a591afe8c71b299b0ee1047a6864ea"
 metafile = true

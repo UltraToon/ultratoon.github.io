@@ -95,13 +95,13 @@ key_vcm.keymapping.activateturbo:key.keyboard.left.control:NONE
 key_create.keyinfo.toolmenu:key.keyboard.left.alt:NONE
 key_create.keyinfo.toolbelt:key.keyboard.unknown:NONE
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown:NONE
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add:NONE
+key_gui.xaero_instant_waypoint:key.keyboard.kunknown:NONE
 key_gui.xaero_toggle_slime:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_grid:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown:NONE
-key_gui.xaero_toggle_map:key.keyboard.unknown:NONE
-key_gui.xaero_enlarge_map:key.keyboard.unknown:NONE
+key_gui.xaero_toggle_map:key.keyboard.keypad.unknown:NONE
+key_gui.xaero_enlarge_map:key.keyboard.add:NONE
 key_gui.xaero_waypoints_key:key.keyboard.unknown:NONE
 key_gui.xaero_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_zoom_out:key.keyboard.unknown:NONE
