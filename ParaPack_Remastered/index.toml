@@ -5,8 +5,52 @@ file = "README.md"
 hash = "4d313dd511f67b0db271d6f7a09e79995d25decb319ff5dceefa1cdf4613acc3"
 
 [[files]]
+file = "config/badmobs-common.toml"
+hash = "46d5c0868d1d3d2d82d56fef93786ccf5ffe5a070b81985ac564cc0c91729f22"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "bf967df1b7998390ca1e6a9dce87d964ac69df2612b4ab6045443f58886f7528"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "e142e9eb73f5753d631ae75ff76e0b3c06e1cc909232da91903b363fc3ad18bd"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
 file = "config/enhancedvisuals-client.json"
 hash = "fd03b157c90925831dddc07d4365fcf2de5b29a4cb435113603b065357706883"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
+
+[[files]]
+file = "config/parcool-client.toml"
+hash = "32066f2bd996a6c431ce638da2c68ba7908da504c8f20b484ebf693e6f04e258"
 
 [[files]]
 file = "config/roughlyenoughitems/changelog.txt"
@@ -29,44 +73,16 @@ file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "e077baca07ed156f36087a2fc6ab24eb2aa33637ad51b4a9ef73cbbdc0fea052"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
-
-[[files]]
-file = "config/yosbr/config/embeddium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
-
-[[files]]
-file = "config/yosbr/config/smoothboot.json"
+file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
+file = "config/sodium-extra-options.json"
+hash = "a4d168ca50610b6ee842bb2eba23b7befd7b732829e769c75df8ad59f98e048b"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "e077baca07ed156f36087a2fc6ab24eb2aa33637ad51b4a9ef73cbbdc0fea052"
 
 [[files]]
 file = "icon.png"
@@ -513,6 +529,11 @@ hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f66e5f6ec4db6eb852ff29dcad2f81c36448e72e030b0093718c79629439aa82"
 metafile = true
@@ -521,10 +542,6 @@ metafile = true
 file = "mods/zombie-invasion.pw.toml"
 hash = "93df42a7404a822181b91223bab02a2f7752f122b8b351455ab020ca02e91b1b"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "236fa677de6c0778c1db873dc9baae3ca658f03ddf11ce847482b3ee2b3b2d88"
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
