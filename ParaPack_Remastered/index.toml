@@ -450,11 +450,6 @@ hash = "93df42a7404a822181b91223bab02a2f7752f122b8b351455ab020ca02e91b1b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-guns.pw.toml"
-hash = "d39b61c66766f9c9f563661347bb8d4faf8435cd72680f882e7771c378d8dd10"
-metafile = true
-
-[[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "90f8121f26e2bb8eb6e057de315ba6527173d5452de9878791760df5a6305848"
 metafile = true
