@@ -439,6 +439,11 @@ hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
 metafile = true

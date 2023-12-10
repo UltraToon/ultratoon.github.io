@@ -368,8 +368,8 @@
       }
     },
     "temperature": {
-      "enabled": true,
-      "opacity": 1.0,
+      "enabled": false,
+      "opacity": 0.0,
       "fadeFactor": 0.005,
       "freeze": {
         "disabled": true,
