@@ -98,7 +98,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "14b3c7dbfcdfc66d503ec400909b251edb3542242d6a0a5cc25c1dc7369ec9a0"
+hash = "2e61fe74e49592106c44bfa11fc427fd78045e3f365f16706ecc741569df526c"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -432,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "3131a7cc2f025179514146508a9aaaafd678514fab0f73c789a6a8a2b8639cae"
-metafile = true
-
-[[files]]
-file = "mods/do-api.pw.toml"
-hash = "4eab1a56d77e60c836a68bcba03960d1db96e1737d5cdf22ac20445376fd9f1e"
 metafile = true
 
 [[files]]
@@ -862,11 +857,6 @@ metafile = true
 [[files]]
 file = "mods/vanillatweaks.pw.toml"
 hash = "b198c2eaeb74541245ff1b960c89a8107ce86ee8edc2f4a142af6995b59cfd65"
-metafile = true
-
-[[files]]
-file = "mods/vinery.pw.toml"
-hash = "bdd31cd7288a6317e19fb9c189187a2578a21450a8e61435772286bb57ba0051"
 metafile = true
 
 [[files]]
