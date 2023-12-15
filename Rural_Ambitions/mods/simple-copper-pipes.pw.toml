@@ -1,0 +1,13 @@
+name = "Simple Copper Pipes"
+filename = "SimpleCopperPipes-1.20.1-1.15.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc14832e0d7b959a5156cd0608152d984329b01c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4895981
+project-id = 571336

@@ -780,6 +780,11 @@ hash = "6a29fe0efc060d4c977f15852a24ae23f9d5dec345d055daab33f3d781c4cb70"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "1ab03c5072f722853441d76eb142cf18fc0896b3525a0f6d1c616b3cee66417a"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "ed86dc10fc8daa5c79309678874cd8100a6587cfe7366fe0552381d1fd7d5acc"
 metafile = true
