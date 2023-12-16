@@ -335,11 +335,6 @@ hash = "5b8c6c6f9fb102f6103a337502cb12f562482a147434e8cf803297a4fdfe7689"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "8c1afd08f9ae6716649612ddf8c59e995cb9047f29ffe64a31f3f4e32bc881b7"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a10610a309f11ae258ed715b32cba535ebd102f73b04b52aef169837806c2ec5"
 metafile = true
