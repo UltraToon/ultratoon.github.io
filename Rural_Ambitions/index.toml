@@ -270,6 +270,11 @@ hash = "921ae9f0d0998f5d79ec85970df2bd731d0d00c0ecc19ece97b04498ded6d897"
 metafile = true
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "932f0b08f73967909d5df35da084b2366967a4396ae459346d71c23aa0f68a67"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "6132e154f5e7876aecd1916390719b85924f0285904cab8ac54f34586e3deb88"
 metafile = true
