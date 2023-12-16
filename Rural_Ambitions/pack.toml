@@ -1,13 +1,13 @@
 name = "Rural Ambitions"
 author = "ultratoon"
-version = "1.6"
+version = "2.x"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9643813a1a0e9c2a62934d5fa7ceeba3c866bf87eeb03fc8c4734187dbae901e"
+hash = "8e49a9ed6e85a11ef9b9938551399941f26009e3bd6a705fbf90fad0b9cdd251"
 
 [versions]
-fabric = "0.15.0"
+fabric = "0.15.2"
 minecraft = "1.20.1"

@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "8a445c2fb16b2a1657c23a7ed24cf9337b3bc770fd1b742267762ddbdf071eec"
+hash = "cafed444c6c524fa1755219820d9b89dba6352f393a517a9c33d4974b463c579"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "477b59137a5a421b67df55ee57cb2a31b6bc52ef1fd1c0b43ff268152fd61bff"
+hash = "de28a74154a27290b70031126479c1fd520ac560ff4e861fbfaab8b01e2b1c69"
 metafile = true
 
 [[files]]
@@ -481,12 +481,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0e0172f9333550f5b8f21d5e0d1c521498ec561e72bb28500bdd75c6bb03ca2d"
+hash = "3272efbb9ca06763ccfcb15bd35067ed3d321ef2c2a89f7c009a7b7392f2ea41"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "9f62f416e70e150c0fba02e75a89c949a70aa267d1ed0f4473f386481ce5ca47"
+hash = "415114b6b502cf338f9879388fcec2d6903d09b24692bbe37bd6295c1521300b"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "b2d4fc6561d2627ebd5f20c262934507b67490b9b882fd75ea89a4d7ca791f77"
+hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "fbf42000436043febfb036d41cf60a0137fb46705c9f259a905a2f1c88381f90"
+hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "27ed7db6809ff20c4ee7cb1fc47e5b4f89259d9a276a6fd78b9889e5c50f44c2"
+hash = "e199772f19a4f696f6e5cd6f0f42cff175b9a59bb6eb8e52fa7254f2acca0f0b"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "8394f3320b60593b03371c8c4278018e6042b0065437cc217898286699ff8a52"
+hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
 metafile = true
 
 [[files]]
@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "08e7b11da6bf58b4f3cc9687a8ae1b58359006af4d43e80680ed0c4dedf76a11"
+hash = "df4dbaba849a0f74148554eaa8ee41b5f6beb374c684368dfbdcd46c086054e8"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "9fc9821249e1864dc07c4f234ad733ac176eeaa092eefb537e8aa30a46add173"
+hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-ending.pw.toml"
-hash = "ccc8fda5bb7023bbecdb9be1ae832666f424ca874ad61ace4b219bd1b3b982f1"
+hash = "cc83c2af6babeb7eda97819b19007a4ecdd29f91eb586b9451dc74c233ca4e73"
 metafile = true
 
 [[files]]
