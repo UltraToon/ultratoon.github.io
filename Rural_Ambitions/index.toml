@@ -645,11 +645,6 @@ hash = "35ef52a6d47027b540e7d1822c2d0f59b5e7fa2fa1c67bf4452638407b3d5d42"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "0b68cb446b2f4f7229dc7d8174e65c969fd7fc27cf8d65afc91e0c77d16b59c6"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
