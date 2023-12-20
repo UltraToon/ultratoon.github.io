@@ -5,6 +5,11 @@ file = "README.md"
 hash = "2117c2d8ee00cca934da0a51b89eb506222384dbfa41b5e20e3678ddb7a597bb"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
+
+[[files]]
 file = "config/adventurez.json5"
 hash = "1867ebea33064fdc6c4826dc5f80956c7c85f54c68ce5181eb5bfaa985a9f0df"
 
