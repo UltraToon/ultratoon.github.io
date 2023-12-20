@@ -520,6 +520,11 @@ hash = "2f4f744642f99b88f810f532a8d4b63717179e8c7acd3b367ca3d010149b958c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
+metafile = true
+
+[[files]]
 file = "mods/fakerlib.pw.toml"
 hash = "78a065610d9e370a1fa7795e34a542cb46adc56d8438672344c26c211f5bb070"
 metafile = true
@@ -782,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "ed86dc10fc8daa5c79309678874cd8100a6587cfe7366fe0552381d1fd7d5acc"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "a9adcfa8ef8eb848a913c9b7ffbab89c70b4df24a6ed075ed9c473b7b07a2166"
 metafile = true
 
 [[files]]
