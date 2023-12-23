@@ -73,7 +73,7 @@
     },
     "cage": {
       "enabled": true,
-      "allow_all_mobs": false,
+      "allow_all_mobs": true,
       "cage_allow_all_babies": false,
       "cage_auto_detect": false,
       "persistent_mobs": false,
