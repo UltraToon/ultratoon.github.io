@@ -195,7 +195,7 @@ hash = "7949086bf1d32873eae89ee46e48aa550092632d2e38e210c81f4366ab92a88e"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "03465dd08361f533c6d178024d1db0c2d4a2b6d9b2b47e403390e0e4835c1cec"
+hash = "c7a217d88ec70ce550d8c1dd575486aff55172adca0e80e6f75666cdbd8d177f"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -207,7 +207,7 @@ hash = "392d490bd48fa0fedf33a5d4c6957e640bf036e592f017604d4bd382973d95df"
 
 [[files]]
 file = "config/vanillatweaks.toml"
-hash = "bd7289cafaeaf17fca26c4d3ef821cd929c8415dba5e6316d8e82c1042b086b5"
+hash = "ebbecee60ddfe024eef85b5b85e6ee817ce0cc9486a3f177f3c076aae7ce8c39"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/changelog.txt"
@@ -635,6 +635,11 @@ hash = "c865fca57e5572a111ca9777de38b96d574d574a73faf005958ae5a407d87bb4"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
@@ -647,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
 hash = "35ef52a6d47027b540e7d1822c2d0f59b5e7fa2fa1c67bf4452638407b3d5d42"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
 
 [[files]]
