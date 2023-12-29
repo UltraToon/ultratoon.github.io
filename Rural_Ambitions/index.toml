@@ -142,10 +142,6 @@ file = "config/openloader/data/Repurposed_Structures-Better_Monuments_v6.zip"
 hash = "1c05059321b8928fb1a4123d1724de6ff1755af6da95fc90c106f3913296be0b"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Strongholds_v5.zip"
-hash = "4ecace941dbbef488669ff6a6e44088b2bdc9e83662855b24d28d49a171152dd"
-
-[[files]]
 file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v4.zip"
 hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
 
@@ -160,6 +156,11 @@ hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
 [[files]]
 file = "config/openloader/data/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
 hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-strongholds-datapack.pw.toml"
+hash = "476b90ad5ac3f768e75a9eef927a73571d9518d7fc7fe55f021f99770ab966c3"
+metafile = true
 
 [[files]]
 file = "config/openloader/data/vanillarefresh-v1.4.19d_1.20.x.zip"
