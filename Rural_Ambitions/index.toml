@@ -958,6 +958,11 @@ hash = "ab4c0b434475cfd26d6b0627c6fa3c7e10f58a5d6386549f8202de0a61822a17"
 metafile = true
 
 [[files]]
+file = "resourcepacks/repurposed-structures-better-jungle-temples-compat.pw.toml"
+hash = "b551433ea947c226639c70919c86a82a856d7b9004e233f4c43ee2f8ea7ad746"
+metafile = true
+
+[[files]]
 file = "resourcepacks/repurposed-structures-better-ocean-monuments.pw.toml"
 hash = "86984a244dfa791f8eb8fb9c1ab5394d7429232be05df36e04537548d3bffa01"
 metafile = true
@@ -975,6 +980,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/repurposed-structures-bountiful-datapack-compat.pw.toml"
 hash = "130ef0e0ee6f88189db4e7c7da210c65ccd5137c42778d2e77ff54d6ecbb63e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-bygone-nether-compat.pw.toml"
+hash = "16673ff0842b374c119ad70a9b3ca86eb262767e0bf97f515209de3ff4ed6d03"
 metafile = true
 
 [[files]]

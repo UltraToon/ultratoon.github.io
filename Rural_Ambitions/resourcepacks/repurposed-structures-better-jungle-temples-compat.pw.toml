@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Jungle Temples Compat"
+filename = "Repurposed_Structures-Better_Jungle_Temples_v5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3488af2eded78b9e1c8902ea8ebcf2b80deac0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4919783
+project-id = 917314
