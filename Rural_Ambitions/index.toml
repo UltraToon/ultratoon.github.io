@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "dc464531657482fdf16b54aef3bd251d6cac5583ffbc18216757de4c55edb55d"
+hash = "6430f9ad8dfd144c993df5063d89a6b585f986847f0c5f1e5a9096878762cc0c"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f807daaf864e31cda13dc9699a1ad1b2f9066ba2411feb58dfa3cca942b61d23"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "182ce9c0cdb40b559255b909df255af3808fab035bdb7fd09436c76043f810c2"
+hash = "9483fd7e3f2a0e49cc4fcf0164b81d4aa71e828409ba905e123e73b7613e2b30"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/endremastered-fabric.pw.toml"
-hash = "fe8743f5589bb9a250b0dfe811fc4749a536bb0ef5e746ee59bcdb287122c12b"
+hash = "4c1bb122bfbbe5b8a6522461e392cc7ec719ac1cd30e9fd14176ff1567e3ea75"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2f4f744642f99b88f810f532a8d4b63717179e8c7acd3b367ca3d010149b958c"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e199772f19a4f696f6e5cd6f0f42cff175b9a59bb6eb8e52fa7254f2acca0f0b"
+hash = "1572c240a0537eafc9f480ab52db4bbcc9c58fcccc635754d7892145ded64401"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "6e895d782d8fa97fdf47edc06c52037fe1fbed6528ab609bd43a6aeef87f0aa0"
+hash = "599d100f81518391514f51b9eec1ead455e9f7e622dd1a3b78009a76bf2b631f"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0d99b850e2b3845a56f47997481e6c0814762cd809029f5fbce8a359620ef5ac"
+hash = "7ef2b9128b7de53ad97b719689abe38096efa902df82d854817a663607d4e62e"
 metafile = true
 
 [[files]]
@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "df4dbaba849a0f74148554eaa8ee41b5f6beb374c684368dfbdcd46c086054e8"
+hash = "f25f38e6d952b24f07bf85ad1211e3cb633288dbe21123a34b369573eda8d596"
 metafile = true
 
 [[files]]
@@ -851,12 +851,12 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "38f060161fa4a30157b9be54f77bd2dfabf74a9d90b8ba23a4a3027cf0c3193e"
+hash = "22d16a8e47bf77f5a9972127dc6c1f6a0012e5ccf2c529371786a440384eed53"
 metafile = true
 
 [[files]]
 file = "mods/true-ending.pw.toml"
-hash = "cc83c2af6babeb7eda97819b19007a4ecdd29f91eb586b9451dc74c233ca4e73"
+hash = "24182fcfa13f114d3a52b67002714b6754ec33b837bd2d9bd8ec80554f423120"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
+hash = "00ecd73ec7acb98e6ca81b1edbb13ce04d6379174a52a89562333f49fab6572f"
 metafile = true
 
 [[files]]
