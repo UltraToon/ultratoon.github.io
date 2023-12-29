@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Bountiful Compat Datapack"
+filename = "Repurposed_Structures-Bountiful_v3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d865823455e10449c460afa2e682c81a44f8bd94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4708509
+project-id = 571281

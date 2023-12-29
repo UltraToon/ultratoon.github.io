@@ -1,0 +1,13 @@
+name = "AdventureZ Netherite Fix"
+filename = "AdventureZ_NetheriteFix_1.0+1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db64a91fea9d172f73e8573710adf7418efb75c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4629170
+project-id = 874208

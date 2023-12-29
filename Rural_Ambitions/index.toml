@@ -118,55 +118,6 @@ file = "config/moreculling.toml"
 hash = "7821cf90e9e92015876005d2c8a946876ef9000f02c2be6e9c89e7e2365014ec"
 
 [[files]]
-file = "config/openloader/advanced_options.json"
-hash = "74a16e835b407566da7f2f1666894f68a5ecba5f618f64cef47a806468d08f33"
-
-[[files]]
-file = "config/openloader/data/AdventureZ_NetheriteFix_1.0+1.20.1.zip"
-hash = "bc1600f0ec31ea983ac283acc32a20c877f9c29e992d07548c93534d52f7da2f"
-
-[[files]]
-file = "config/openloader/data/RSConfig.zip"
-hash = "96bb95c973ecf76ab4174cfc4846f8ff1487618d02ae86945be62687eff6c0c6"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Desert_Temples_v8.zip"
-hash = "b0147d0c9b1506c958018120a0899859909144d17466d2673588971ef9d40433"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip"
-hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Monuments_v6.zip"
-hash = "1c05059321b8928fb1a4123d1724de6ff1755af6da95fc90c106f3913296be0b"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Witch_Huts_v4.zip"
-hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Bountiful_v3.zip"
-hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
-hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
-
-[[files]]
-file = "config/openloader/data/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
-hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
-
-[[files]]
-file = "config/openloader/data/repurposed-structures-better-strongholds-datapack.pw.toml"
-hash = "476b90ad5ac3f768e75a9eef927a73571d9518d7fc7fe55f021f99770ab966c3"
-metafile = true
-
-[[files]]
-file = "config/openloader/data/vanillarefresh-v1.4.19d_1.20.x.zip"
-hash = "f1671263d42b6b9935b8648662f9ef33ec4d0346530c265bc16b35e85003f8a8"
-
-[[files]]
 file = "config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
@@ -441,6 +392,11 @@ hash = "3131a7cc2f025179514146508a9aaaafd678514fab0f73c789a6a8a2b8639cae"
 metafile = true
 
 [[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "6a86fc0be268b1e90cb9ff397f105b14181a3df3fdcc4cb273d0357d3a49353d"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "5de69336af040225c307a9b2dfaf0c3fbab5b57271b478a4f740918a5bf2f4b1"
 metafile = true
@@ -711,11 +667,6 @@ hash = "e686c14e71df59bd6308cd144f7bfc014cd9afa5ccc6e60c633f781337d1fc0e"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "3cde5c2a43360092ff7c27df4abb7ecc327099f6948af93a58da588db35679d1"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -965,12 +916,21 @@ file = "resourcepacks/ModpackResources.zip"
 hash = "858550aa0b24b7b6ec2329f39a17912c8ace777cc97d8b8f0348393dbaa763a6"
 
 [[files]]
+file = "resourcepacks/RSConfig.zip"
+hash = "96bb95c973ecf76ab4174cfc4846f8ff1487618d02ae86945be62687eff6c0c6"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "82cbae9a1f50aaad5c7fd9047f3896c4f45837174c196dec84dcef0ac6d32686"
 
 [[files]]
 file = "resourcepacks/VisualTitles.zip"
 hash = "bb3485d52354198e06ad5c5f23536e73d1e32d0a67a13e4d06cf5cf65f42f0ef"
+
+[[files]]
+file = "resourcepacks/adventurez-netherite-fix.pw.toml"
+hash = "d53d4983f6c8889132111c6f86efd7f7975dc98c7a8240d803ceb7f3eb0a4771"
+metafile = true
 
 [[files]]
 file = "resourcepacks/better-dogs.pw.toml"
@@ -986,6 +946,50 @@ metafile = true
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
 metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-desert-temples-compat.pw.toml"
+hash = "833cf05ac3834595fb0d7ef3d3fe019736689c03c1ec10943218dd7c3d8278c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
+hash = "ab4c0b434475cfd26d6b0627c6fa3c7e10f58a5d6386549f8202de0a61822a17"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-ocean-monuments.pw.toml"
+hash = "86984a244dfa791f8eb8fb9c1ab5394d7429232be05df36e04537548d3bffa01"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-strongholds-datapack.pw.toml"
+hash = "476b90ad5ac3f768e75a9eef927a73571d9518d7fc7fe55f021f99770ab966c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "0bdd91615489da6e102c9da1134bf9396ccf2f73039d14ef18470a312d5a475f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-bountiful-datapack-compat.pw.toml"
+hash = "130ef0e0ee6f88189db4e7c7da210c65ccd5137c42778d2e77ff54d6ecbb63e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-farmers-delight-datapack.pw.toml"
+hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-better-end-city.pw.toml"
+hash = "9aa8ff7cc535d65cae232ad8b0911208a406f3c1892a69e3d94045b5c9e70bf2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanillarefresh-v1.4.19d_1.20.x.zip"
+hash = "f1671263d42b6b9935b8648662f9ef33ec4d0346530c265bc16b35e85003f8a8"
 
 [[files]]
 file = "resources/mc_cave_animation_2cfb5f2c6ab641c1/frames_intro/1.jpg"
