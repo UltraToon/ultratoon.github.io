@@ -392,11 +392,6 @@ hash = "3131a7cc2f025179514146508a9aaaafd678514fab0f73c789a6a8a2b8639cae"
 metafile = true
 
 [[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "6a86fc0be268b1e90cb9ff397f105b14181a3df3fdcc4cb273d0357d3a49353d"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "5de69336af040225c307a9b2dfaf0c3fbab5b57271b478a4f740918a5bf2f4b1"
 metafile = true
@@ -664,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/omni-hopper.pw.toml"
 hash = "e686c14e71df59bd6308cd144f7bfc014cd9afa5ccc6e60c633f781337d1fc0e"
+metafile = true
+
+[[files]]
+file = "mods/paxi-fabric.pw.toml"
+hash = "b1a74054201c237e898d0dabdb8409864f1f480abdaf69b738b4194dd655a521"
 metafile = true
 
 [[files]]
