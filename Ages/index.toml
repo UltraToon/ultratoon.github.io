@@ -943,20 +943,6 @@ file = "options.txt"
 hash = "bc9488341ae6910bc8bb2d316222238fa920f1f04056a102fc6c8b76b97523ae"
 
 [[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/alacrity.pw.toml"
-hash = "f909eaf01bea642f388826bc2d3cbdb158c1ef393da121922937840ac3e78b92"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pixlli.pw.toml"
-hash = "1626b7649d5358d43b6d7948d6be3b980d9dae9df6c31f5c70c484759494a969"
-metafile = true
-
-[[files]]
 file = "shaderpacks/BSL_v8.2.09p1.zip"
 hash = "ce6d0d58353005d5c55122f04f7b94de9fdc4e353b84cf2cced03c9732cb1381"
 
