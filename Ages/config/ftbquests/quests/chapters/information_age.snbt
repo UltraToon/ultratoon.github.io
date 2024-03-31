@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "information_age"
+	group: "08873C6827980567"
+	id: "3B3A7BB965BEBC47"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Information Age"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "classical_era"
+	group: ""
+	id: "63F7656A5C6E1736"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Classical Era"
+}

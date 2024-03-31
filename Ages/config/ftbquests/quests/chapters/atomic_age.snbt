@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "atomic_age"
+	group: "08873C6827980567"
+	id: "6AFFD25FDF27D6DF"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Atomic Age"
+}

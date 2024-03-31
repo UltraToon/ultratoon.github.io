@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "expansion_age_quantum_revolution"
+	group: "634C80420D2D8CE9"
+	id: "2A4D6E6657A5B3F2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Expansion Age [Quantum Revolution]"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "transcendence_age_type_1"
+	group: "634C80420D2D8CE9"
+	id: "3B74D840AC142E4D"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Transcendence Age [Type 1]"
+}

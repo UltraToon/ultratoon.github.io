@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/ivan/.local/share/PrismLauncher/instances/Ages/.minecraft/saves/New World (11)
+}
+

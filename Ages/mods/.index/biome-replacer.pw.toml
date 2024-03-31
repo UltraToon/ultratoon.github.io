@@ -1,0 +1,13 @@
+filename = 'biome_replacer-1.2-forge.jar'
+name = 'Biome Replacer'
+side = 'both'
+
+[download]
+hash = '8319c7f0c193c6497a4994161cf9c6a8e9b239e2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4825747
+project-id = 910274

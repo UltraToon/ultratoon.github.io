@@ -1,0 +1,6 @@
+#Sat Mar 30 16:06:20 PDT 2024
+shadowDistance=192.0
+LIGHT_SHAFT=false
+FOG_DENSITY=0.00
+shadowMapResolution=1536
+SHADOW_COLOR=false

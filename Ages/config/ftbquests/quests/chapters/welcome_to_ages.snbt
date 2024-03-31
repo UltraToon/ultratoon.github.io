@@ -1,0 +1,36 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome_to_ages"
+	group: ""
+	id: "5B39C042587AA74B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"&lWhat is Ages?"
+			"Ages is a modpack centered around real world general historic events, you progress through them by meeting certain requirements in each one. The modpack also has a fictional twist to it with the Cosmic Era, where you can be a TYPE-1 civilization."
+			""
+			"&lContact"
+			"UltraToon @ github"
+			"ivan_rbz@outlook.com [for modpack inquires]"
+			"Server: [insert] @ ultratoon"
+		]
+		id: "14403194EEFAC81E"
+		rewards: [{
+			count: 5
+			id: "1EF38C85CC5D23C5"
+			item: "minecraft:cooked_beef"
+			type: "item"
+		}]
+		subtitle: "Ages is a modpack based around real world general historic events that you can progress through."
+		tasks: [{
+			id: "7CF49DE1872DD72F"
+			title: "Info"
+			type: "checkmark"
+		}]
+		x: -0.5d
+		y: -0.5d
+	}]
+	title: "Welcome to Ages!"
+}

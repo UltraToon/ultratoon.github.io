@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "neolithic__prehistory"
+	group: ""
+	id: "106363C7621A6783"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Neolithic / Prehistory"
+}

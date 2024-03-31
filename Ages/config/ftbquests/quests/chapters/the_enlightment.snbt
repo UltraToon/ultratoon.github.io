@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_enlightment"
+	group: "785AF0D93BDF04F5"
+	id: "199F2042725E197F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "The Enlightment"
+}

@@ -1,0 +1,13 @@
+filename = 'OpenLoader-Forge-1.20.1-19.0.3.jar'
+name = 'Open Loader'
+side = 'both'
+
+[download]
+hash = '8bd73a19387293da17c79ff7a719923490c29afbf2d8ff1275f3841c41ae9e2c1a417b497b7a9adc17bac3527d9ee006455397678a4e2164cb370e3e4f33a796'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KwWsINvD/versions/nU5q0Vho/OpenLoader-Forge-1.20.1-19.0.3.jar'
+
+[update.modrinth]
+mod-id = 'KwWsINvD'
+version = 'nU5q0Vho'

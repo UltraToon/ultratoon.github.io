@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "785AF0D93BDF04F5", title: "Early Modern Era" }
+		{ id: "1BAE415D71719934", title: "Modern Era" }
+		{ id: "08873C6827980567", title: "Contemporary Period" }
+		{ id: "634C80420D2D8CE9", title: "Cosmic Era [FICTION]" }
+	]
+}
