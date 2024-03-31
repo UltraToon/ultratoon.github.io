@@ -1,0 +1,13 @@
+name = "Alacrity"
+filename = "Alacrity.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14a2e70cc7fb7d3553f8ea16168c8463ad69ee48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5051841
+project-id = 520028

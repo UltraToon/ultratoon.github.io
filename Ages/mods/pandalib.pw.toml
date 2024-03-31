@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-0.1-forge-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f70dfa1b5fd5757271cfb8472eb9187ea8893b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5112634
+project-id = 975460

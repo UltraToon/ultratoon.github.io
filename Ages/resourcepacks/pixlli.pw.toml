@@ -1,0 +1,13 @@
+name = "Pixlli"
+filename = "Pixlli V28 1.20.4-1.13 128x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3f2fe2934ea1ce852a7338b4609eeee6d2919a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5123861
+project-id = 616586
