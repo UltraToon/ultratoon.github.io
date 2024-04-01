@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "first_industrial_age"
+	group: ""
+	id: "22DCB648F3C493B1"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "[First] Industrial Revolution"
+}

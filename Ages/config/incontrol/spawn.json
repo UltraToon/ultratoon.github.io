@@ -9,7 +9,9 @@
             "minecraft:stray",
             "minecraft:phantom",
             "minecraft:slime",
-            "minecraft:vex"
+            "minecraft:vex",
+	    "minecraft:enderman",
+	    "minecraft:skeleton"
         ],
         "result": "deny"
     },
@@ -17,6 +19,6 @@
         "mod": "the-dawn-era",
         "gamestage": "neolithic",
         "result": "default",
-        "onjoin": "true"
+        "when": "onjoin"
     }
 ]

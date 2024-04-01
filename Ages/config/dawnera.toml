@@ -6,3 +6,4 @@ ageAttributeMultiplier = 0.3499999940395355
 tameAttributeMultiplier = 1.25
 #Trees are falling, when broken by dinosaurs
 treeFall = true
+

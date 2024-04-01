@@ -66,3 +66,9 @@ net.minecraft.client.gui.screens.OptionsScreen {
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
+net.minecraft.client.gui.screens.achievement.StatsScreen {
+}
+
+net.minecraft.client.gui.screens.advancements.AdvancementsScreen {
+}
+

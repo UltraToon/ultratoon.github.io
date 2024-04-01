@@ -1,11 +1,11 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "atomic_age"
+	filename: "optional_world_wars"
 	group: ""
-	id: "75301F03A9A4A5C1"
-	order_index: 11
+	id: "6B55B434D015770F"
+	order_index: 8
 	quest_links: [ ]
 	quests: [ ]
-	title: "Atomic Age"
+	title: "Optional: World Wars"
 }

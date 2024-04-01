@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "technological_revolution"
+	group: ""
+	id: "080B5C107F5A1B84"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "[Second] Technological Revolution"
+}
