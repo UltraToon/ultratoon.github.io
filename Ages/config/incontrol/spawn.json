@@ -1,0 +1,22 @@
+[
+    {
+        "mob": [
+            "minecraft:creeper",
+            "minecraft:drowned",
+            "minecraft:zombie",
+            "minecraft:allay",
+            "minecraft:glow_squid",
+            "minecraft:stray",
+            "minecraft:phantom",
+            "minecraft:slime",
+            "minecraft:vex"
+        ],
+        "result": "deny"
+    },
+    {
+        "mod": "the-dawn-era",
+        "gamestage": "neolithic",
+        "result": "default",
+        "onjoin": "true"
+    }
+]

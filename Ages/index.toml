@@ -378,7 +378,7 @@ hash = "1478e6ed007ffb13d7d271f7b112bda050ef0e3a06d6f9fb0e68b2e233a6b370"
 
 [[files]]
 file = "config/gamestages/known_stages.json"
-hash = "88ef752d7e996542406516f1975e5eaaa20a54f0697db4b85caa2bd7250e82b6"
+hash = "ebff887af52ff67435b223888bd4d91d3bbc7a286c38847e8435865d5ee97553"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -391,6 +391,54 @@ hash = "85069297a7ce045a541f246e2a81d599502a4f143588bcfe3852f904444bf54a"
 [[files]]
 file = "config/immersive_weathering-common.toml"
 hash = "2835438254897f1ca01996af41a6d94fd524216e74cdbbdda9fb8081a7cecfa1"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/events.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "5768b1129bcf639184f031c110425ee2570f570d003b940eee99f9b8a1cb097a"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -777,6 +825,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "1d07e2057b0dc6e5fdcc02609e545c166171f0135d4ed6f90374cfd5c85902db"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "926c15d55496a651490df973bafe764350593c1d06c0d6b0826252a7b21ddff7"
 metafile = true
 
 [[files]]
