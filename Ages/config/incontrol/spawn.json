@@ -13,17 +13,15 @@
 	        "minecraft:enderman",   
             "minecraft:skeleton"
         ],
+        "mod": "the-dawn-era",
         "result": "deny"
     },
     {
         "mod": "the-dawn-era",
         "gamestage": "neolithic",
         "result": "default",
-        "when": "onjoin"
-    },
-    {
-        "gamestage": "neolithic",
         "passive": "false",
-        "hostile": "false"
+        "hostile": "false",
+        "when": "onjoin"
     }
 ]
