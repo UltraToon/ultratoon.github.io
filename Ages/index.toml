@@ -5,6 +5,42 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/Weather2/Debug.toml"
+hash = "6fc9671cbe29b2cfe41347da33cd4a2b59377be3ba9b05660efe399ca496f918"
+
+[[files]]
+file = "config/Weather2/Misc.toml"
+hash = "6a26fb98c17a5671a8bfb112d570112c08709b18a2b6501b5014886e89fb15f7"
+
+[[files]]
+file = "config/Weather2/Particle.toml"
+hash = "52547a402930c9468882a34a7625ceeca3f8c7b8d27288bd9389dbdc45e33d4e"
+
+[[files]]
+file = "config/Weather2/Sand.toml"
+hash = "955c746dbc7e3181b960e4cf62834d331d3bb076b706f55e98178ab213cb6c58"
+
+[[files]]
+file = "config/Weather2/Snow.toml"
+hash = "41d666b8010774b08a4cef15ed5a4a39bc14273c4718ce184c05ba9d0e2a3169"
+
+[[files]]
+file = "config/Weather2/Sound.toml"
+hash = "800dfc72487d78fb8dffb321abe84f1f5e2f95544b7034218f19287a9f997f80"
+
+[[files]]
+file = "config/Weather2/Storm.toml"
+hash = "4077f99212c5173f47c1320622b226431af47dbf8fed2c177a07ce12b71ec7ed"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "3584dac5fe3ae1eee811a5043b55067ed0dcb5aa2f1e4010f8dcd4497634f4dc"
+
+[[files]]
+file = "config/Weather2/Wind.toml"
+hash = "d6c493146b8e461ddfebfc60c91241a85bab6565117c7f609e33671c8b04a911"
+
+[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "d65113ea15e814463b1f477b0cebcc98dfe06a5d3f7100e3bacd414c7cb391ec"
 
@@ -149,6 +185,14 @@ file = "config/defaultoptions-common.toml"
 hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "7a59d1d76e28ae756f4afc0952d78a46ea7e23e958e7b48c0dcd615f009ee2e1"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "9c83c5f094e965d8b6f95d18fcece3ac0b2c4db4a32bccd60af6971e10423131"
+
+[[files]]
 file = "config/durabilitytooltip-common.toml"
 hash = "48b107ace43535e1752fd74f60890fb1f10ddb0c76088f686053d367038a4d40"
 
@@ -217,24 +261,8 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "ae2a3f40134ff3b329578ee5ba5585e31136cb743459ce638fef0be2e79fac51"
 
 [[files]]
-file = "config/fancymenu/customization/accessibility_options_screen_layout.txt"
-hash = "7fa7dcfd1ae05f8888745dce387765dc5a45a9f3a3f8c34847df27b2e26e298f"
-
-[[files]]
-file = "config/fancymenu/customization/info_page_options_layout.txt"
-hash = "da5b581e13cff0efb9d989ff55ded28c182316bc501035bbc1d541078c102d9c"
-
-[[files]]
-file = "config/fancymenu/customization/net.minecraftforge.client.gui.modlistscreen_layout.txt"
-hash = "29f918d4f38d1b97afc0c3913583971ee2c78cbb10b54a34000343576684d9fb"
-
-[[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
 hash = "1d69ce07adf411eed7c5c3e8c7b9cd1a86fb0574f059a2a72a67ac6413659062"
-
-[[files]]
-file = "config/fancymenu/customization/telemetry_info_screen_layout.txt"
-hash = "a4fba3813507e45cf48b4cc2382258a1858ad0d3de45d562e6556f4fbd610376"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -458,7 +486,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "63f0409196d05e7972b57c79e43d51362554806d270a61a212d8d5c4ade70d3e"
+hash = "f0ba68c40248470012526e7b32da0f6389c3d773b06660768247bda981187ede"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -806,6 +834,11 @@ hash = "967c15c5b3adc4cccffb0b4143cf99b944ab896215fe0358975e887856d14d5c"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a106ca77f0458289854d71c50fd3eeccba4597412b1efbf764d828523a41c478"
 metafile = true
@@ -871,11 +904,6 @@ hash = "926c15d55496a651490df973bafe764350593c1d06c0d6b0826252a7b21ddff7"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
 metafile = true
@@ -888,6 +916,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "34f1fb2e7c9fc5fa9a646a8f59b4e6054a1c5de60072d194c421662365a1bfbf"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
@@ -957,11 +990,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
-metafile = true
-
-[[files]]
-file = "mods/prism-lib.pw.toml"
-hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
 metafile = true
 
 [[files]]
@@ -1068,10 +1096,6 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "557ae59d0e34f8006056682aeed66bec043d1c3da3c15617ba4fed3945d6d212"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "bc9488341ae6910bc8bb2d316222238fa920f1f04056a102fc6c8b76b97523ae"
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.09p1.zip"
