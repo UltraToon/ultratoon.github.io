@@ -61,22 +61,6 @@ file = "config/clienttweaks-common.toml"
 hash = "3798d9ed4d748ce7f28801f5b7f2106138c02f9f0cf07208a8a5ac6150b4f4eb"
 
 [[files]]
-file = "config/combatroll/client.json5"
-hash = "e9714f119c3862a898e53eab1a4ba6220a2194a5bdf0aea86623042d6cbf57e3"
-
-[[files]]
-file = "config/combatroll/enchantments.json"
-hash = "b807ca9ebe5ca5e45c8367b08cb97a08aa73181b66da4ab7c9f92e02200ca01e"
-
-[[files]]
-file = "config/combatroll/hud_config.json"
-hash = "f51ae2a29ec3402be024d5b5c85d28e00ecccb77095435ba733ba771264befa9"
-
-[[files]]
-file = "config/combatroll/server.json5"
-hash = "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4"
-
-[[files]]
 file = "config/cpm.json"
 hash = "e8286a2b595f0a1c68bd6c09fea9aa7d872c45b85db53253dcba9eb5eac9f8cf"
 
@@ -178,7 +162,7 @@ hash = "88e60a98e6e7853de901aa74e691f2ca5d586b5b15ba2ddac9a7bc9621ee710d"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "d4e0cac9cf0b88af8146bd3ef9faa9a3c9e468c0c6928de78301357ca24a8a87"
+hash = "f1ef0d6a336483fa9edb04a5569795ccc79e8e36b19f2afcd84b995a9aac6438"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -254,7 +238,7 @@ hash = "a4fba3813507e45cf48b4cc2382258a1858ad0d3de45d562e6556f4fbd610376"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "dbd8efbadb02b0ffb720a5f18ebbc72c88f0973158c88e6dec68b51b444da212"
+hash = "ecc0a916c933cbb236f33d27eb25a013d014504754a2e0ceb893cd5d09ea2c53"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -526,7 +510,7 @@ hash = "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "b9e218f836ded9cd97ecd8664eb0cc51c469895caa08974a0df1a78723a98572"
+hash = "4ce2680ab88fc319e20460d42e367670032796c434d021b7fc82a25ffab30226"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -650,7 +634,7 @@ hash = "1cb5807421d57c43c64c74b18bc22a30452f4e84b59020ed39742c0b957ea57b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "5986121af4ecc7069a6168dacbfe9c03a997cff7f7452a07d7d75e5ba8d858a7"
+hash = "a23c381ffb85ec067ca4904b8f2ffac753a2bd65701375692da1199160363edc"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -774,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "edede622692f5c7c094ccb9ef04eceb1a096c707dc303e0c1b02750349f46a31"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
 
 [[files]]
@@ -941,6 +930,11 @@ hash = "24ff2fc07890c3fae3e080da2852b4120427393a237f810d58d5280247c40550"
 metafile = true
 
 [[files]]
+file = "mods/obscure-tooltips.pw.toml"
+hash = "fd65b1e838edc65558b89ae72af29051ac92997d1d6ef4260fc889dd350a826e"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "6fae8c1ae452f1c54248e73b743ad9c036419f4fefc31e92fb76446f02c72aaa"
 metafile = true
@@ -978,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9cb4daa54baffcda96c7f1129ba1b7df2c56d140edd473b08fa69551a21b24"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
 metafile = true
 
 [[files]]
@@ -1038,6 +1037,16 @@ metafile = true
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "78bf7e24425494d43cc77b3f99185e7bc7d5596e764eb4433f4a7848d5222ec6"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "5d99a54b1e9778a6ed6ee2a9d71fe00d47213b67b6828ce34364799334a21d3b"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "176c7b18e40ee73e40459aeb936b809049ab83ba403f506931f8ccab08985df3"
 metafile = true
 
 [[files]]

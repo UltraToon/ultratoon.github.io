@@ -10,8 +10,8 @@
             "minecraft:phantom",
             "minecraft:slime",
             "minecraft:vex",
-	    "minecraft:enderman",
-	    "minecraft:skeleton"
+	        "minecraft:enderman",   
+            "minecraft:skeleton"
         ],
         "result": "deny"
     },
@@ -20,5 +20,10 @@
         "gamestage": "neolithic",
         "result": "default",
         "when": "onjoin"
+    },
+    {
+        "gamestage": "neolithic",
+        "passive": "false",
+        "hostile": "false"
     }
 ]
