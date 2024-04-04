@@ -23,11 +23,13 @@
         "when": "onjoin"
     },
     {
+        "gamestage": "neolithic",
         "passive": "false",
         "hostile": "false"
 
     },
     {
+        "gamestage": "neolithic",
         "result": "deny"
     }
 ]
