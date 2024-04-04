@@ -20,8 +20,14 @@
         "mod": "the-dawn-era",
         "gamestage": "neolithic",
         "result": "default",
-        "passive": "false",
-        "hostile": "false",
         "when": "onjoin"
+    },
+    {
+        "passive": "false",
+        "hostile": "false"
+
+    },
+    {
+        "result": "deny"
     }
 ]
