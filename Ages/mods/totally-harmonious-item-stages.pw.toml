@@ -1,0 +1,13 @@
+name = "Totally Harmonious Item Stages"
+filename = "thitemstages-1.20.1-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42db67f4fe05b52599c25968f1067f3e8077ef6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4836385
+project-id = 628919

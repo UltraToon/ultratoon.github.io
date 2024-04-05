@@ -1068,6 +1068,11 @@ hash = "78bf7e24425494d43cc77b3f99185e7bc7d5596e764eb4433f4a7848d5222ec6"
 metafile = true
 
 [[files]]
+file = "mods/totally-harmonious-item-stages.pw.toml"
+hash = "4920f48b6310728940dff0726e895c2b09135e6ee67c1261d29f9275a19f77eb"
+metafile = true
+
+[[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "5d99a54b1e9778a6ed6ee2a9d71fe00d47213b67b6828ce34364799334a21d3b"
 metafile = true
