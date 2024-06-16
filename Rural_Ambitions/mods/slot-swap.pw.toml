@@ -1,0 +1,13 @@
+name = "Slot Swap"
+filename = "slot-swap-1.1.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "924e6f6bbfb307e2a16830174d97f13bd5f02d19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4643938
+project-id = 700985

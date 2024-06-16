@@ -1,13 +1,13 @@
 name = "Do a Barrel Roll"
-filename = "do-a-barrel-roll-3.3.7+1.20-fabric.jar"
+filename = "do_a_barrel_roll-fabric-3.6.0+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e510268ea2810fd754e5c2d7b0a2de347b98f438"
+hash = "96c639f2066944954b66505a3b4a90629ff5ebff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4864372
+file-id = 5373095
 project-id = 663658

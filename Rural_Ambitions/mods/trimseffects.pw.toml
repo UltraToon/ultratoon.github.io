@@ -1,13 +1,13 @@
 name = "TrimsEffects"
-filename = "trimeffects-1.1.0-fabric.jar"
+filename = "trimeffects-1.1.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BL7ADJ7w/versions/MwqYK3wb/trimeffects-1.1.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/BL7ADJ7w/versions/Ig73knQu/trimeffects-1.1.1-fabric.jar"
 hash-format = "sha1"
-hash = "dbfb373a12ecf47163369d6a4aaa80437cb7beb6"
+hash = "954799a0d85a35b42f7dc58a0ce1b372d5d26aa2"
 
 [update]
 [update.modrinth]
 mod-id = "BL7ADJ7w"
-version = "MwqYK3wb"
+version = "Ig73knQu"

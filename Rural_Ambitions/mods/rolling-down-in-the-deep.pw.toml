@@ -1,0 +1,13 @@
+name = "Rolling Down in the Deep"
+filename = "rolling-down-in-the-deep-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d19a8580d4d4b8faf8da56b21c99537d330b035"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5330608
+project-id = 1006270

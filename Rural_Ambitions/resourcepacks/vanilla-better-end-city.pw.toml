@@ -1,13 +1,13 @@
 name = "\"Better End Cities\""
-filename = "ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
+filename = "BetterEndCities-Vanilla.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7f8134e165b7e20b93a9a6ddc9a8153b85e7c64c"
+hash = "59cc506fa58cad9138e3bb0b84160fe2297094e4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4525278
+file-id = 5364650
 project-id = 858850

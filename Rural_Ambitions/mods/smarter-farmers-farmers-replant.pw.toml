@@ -1,13 +1,13 @@
 name = "Smarter Farmers (farmers replant)"
-filename = "smarterfarmers-1.20-1.7.3-fabric.jar"
+filename = "smarterfarmers-1.20-1.8.2-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cde93f4b403decbec6d3d8017be23ebecac9ccab"
+hash = "f0ff529e3186fa2306e759fc4d7f694a461fdc24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4618473
+file-id = 5130368
 project-id = 491290

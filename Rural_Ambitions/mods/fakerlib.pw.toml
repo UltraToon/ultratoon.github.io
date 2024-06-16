@@ -1,13 +1,13 @@
 name = "FakerLib"
-filename = "fakerlib-0.0.9.jar"
+filename = "fakerlib-0.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ae9908d1a841b98f617f719b7856e2c8cf87396d"
+hash = "612f59d83662ed6507b2ed24e9726f304a09e5f0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4853710
+file-id = 5173446
 project-id = 853197
