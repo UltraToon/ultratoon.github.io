@@ -286,6 +286,11 @@ hash = "9cefb6bce20863fb1803a19a8bb15e949298a8b552f1ff0d8d235786d501e222"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "edfccbf994600fa8fbcaa6d646a71e35608701c21a5cd91c4130ee0d0bf11b8a"
+metafile = true
+
+[[files]]
 file = "mods/bigger-better-end-cities.pw.toml"
 hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
 metafile = true
@@ -731,11 +736,6 @@ hash = "71b5e709ae85fa282df661edb0c8f3830d6f51afe59bf7ae4bad857e9724988b"
 metafile = true
 
 [[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "a9adcfa8ef8eb848a913c9b7ffbab89c70b4df24a6ed075ed9c473b7b07a2166"
-metafile = true
-
-[[files]]
 file = "mods/slot-swap.pw.toml"
 hash = "d55e40f24464a236d30ebaa860581468214fb65edb6cee7ebdad05ae3f4190a3"
 metafile = true
@@ -818,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
 
 [[files]]
