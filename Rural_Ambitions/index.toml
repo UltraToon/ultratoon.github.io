@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
@@ -481,6 +481,11 @@ hash = "10170c3de2ec472b8f5a9b4c1e7721fb41fd98bfb9b3f92960f8f55e189baa2c"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "8be6726272f4e5e9d9097ff12b01dc42915bc2dc903e6dc7c7b8bef1a49f6b72"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
 metafile = true
@@ -502,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "2dab5ebf58b5573203f3e58ee14da0043d8723ddde6b458f4e86a52d6e004d09"
+hash = "6ff8922081f3bd64ebc660cbf6c84fe5fcdb8a103a775b1a3c4aff41ebcf2331"
 metafile = true
 
 [[files]]
@@ -532,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "21829fcfe024c31224f945753671b15923aeb59d199dc771cc8773f4da81992e"
+hash = "783837acfbfa35bf645abadf97012bf76f041d3fc186feba99323aa93e1082eb"
 metafile = true
 
 [[files]]
@@ -606,6 +611,11 @@ hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
@@ -663,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/omni-hopper.pw.toml"
 hash = "65bfdecfbc71d4d5d38d0dd0e0ca864516c89884e8ce4ecf8836d9ede9b62441"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
@@ -792,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "fb8d73782e38a90c736e7067e6fc6dc8ae21109e3dc0772ee73bf212eebf0062"
+hash = "35b133e64d18f45aeef1356b54a2d7bc315981aca19447a2cac4c1ab88c797ba"
 metafile = true
 
 [[files]]
