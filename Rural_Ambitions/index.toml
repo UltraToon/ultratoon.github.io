@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "406a1a588dca0e316d54d288c9282dce5bf335018f691c34fd32213e0af315ac"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "35b133e64d18f45aeef1356b54a2d7bc315981aca19447a2cac4c1ab88c797ba"
+hash = "9eeef9ed8c548c1b8928935ad4e52b2245c341b2999fa755752b55bbd280eb6b"
 metafile = true
 
 [[files]]
