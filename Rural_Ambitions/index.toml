@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "2117c2d8ee00cca934da0a51b89eb506222384dbfa41b5e20e3678ddb7a597bb"
+hash = "e8b46ce53fa5e429d58101e8ce4703de2d9d44ba41b833eb300ab6dccf583314"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
@@ -226,6 +226,11 @@ hash = "ec5c76bfa532404643abd69460383090f6641ac918a5a64e4a530c40bb08e2ae"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "c42f5aaf3ceea7ed6f586cba6aa07fd9b5003d8c5ace7b2efba8d418369514e0"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "03fa352715705a0354e049b4fe0b3fab7772476134cd3393e343811c2862d13b"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "619bc01614e076f72e85826ae8f6f58fd9c4adfbdde8c87c908e65c50769871e"
+metafile = true
+
+[[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "8548a82eb7c0bc4d750be4399d117312debb019c7eccacf18623208698bf2a0c"
 metafile = true
 
 [[files]]
@@ -381,6 +391,11 @@ hash = "b668dcbde422d7c080dc77a820e46bf37e0ef46636e284ac29348344f86c93ef"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "bb0c53506225c3ac387812c905005ba3a1ae8633aa218a5743b5d17cd0fb1a47"
 metafile = true
@@ -476,18 +491,13 @@ hash = "d61a2e6668979d6245714e6de8618f643c85805c28e707288fd7c59dbedf0ead"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-fabric.pw.toml"
-hash = "10170c3de2ec472b8f5a9b4c1e7721fb41fd98bfb9b3f92960f8f55e189baa2c"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "8be6726272f4e5e9d9097ff12b01dc42915bc2dc903e6dc7c7b8bef1a49f6b72"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "3b86de705a9329aac3d5e44b74cfbfc40667dfad73da42dabcea55391c33f7c2"
 metafile = true
 
 [[files]]
@@ -586,13 +596,13 @@ hash = "012de3a4e455635d53ac76f73d5574c2a5f7db17e27c635c437e54829438c6d0"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+file = "mods/lithium.pw.toml"
+hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
+file = "mods/lithostitched.pw.toml"
+hash = "9cb72878d7363082aab8994167ecdfe23f2c4d9a7acbe9b01b3c57879a7403ed"
 metafile = true
 
 [[files]]
@@ -613,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
+metafile = true
+
+[[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "5cbddccd51b8aab55929b6475229bf481e37bf3ebc5e458e5d399dd6d0e19162"
 metafile = true
 
 [[files]]
@@ -723,11 +738,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "302adba0f8f48209a745dc8775f04057f428cd73a2b305d9af9fdab66abf8be4"
-metafile = true
-
-[[files]]
-file = "mods/rolling-down-in-the-deep.pw.toml"
-hash = "1baa20b5f1dc180aa996d661c0726ad040ed39821a8bc29aa28880f7445f2d2b"
 metafile = true
 
 [[files]]
