@@ -1,0 +1,13 @@
+name = "TravellersToasts"
+filename = "travellerstoasts-1.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab6aab5ca35c586a9d6cd61f145b6e19d46be6d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4597731
+project-id = 836249

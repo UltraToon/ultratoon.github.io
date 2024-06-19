@@ -102,14 +102,6 @@ file = "config/immediatelyfast.json"
 hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2e61fe74e49592106c44bfa11fc427fd78045e3f365f16706ecc741569df526c"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
 
@@ -136,10 +128,6 @@ hash = "c7a217d88ec70ce550d8c1dd575486aff55172adca0e80e6f75666cdbd8d177f"
 [[files]]
 file = "config/threadtweak.json"
 hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
-
-[[files]]
-file = "config/travelerstitles-fabric-1_20.toml"
-hash = "392d490bd48fa0fedf33a5d4c6957e640bf036e592f017604d4bd382973d95df"
 
 [[files]]
 file = "config/vanillatweaks.toml"
@@ -231,11 +219,6 @@ hash = "c42f5aaf3ceea7ed6f586cba6aa07fd9b5003d8c5ace7b2efba8d418369514e0"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "03fa352715705a0354e049b4fe0b3fab7772476134cd3393e343811c2862d13b"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
 metafile = true
@@ -268,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "619bc01614e076f72e85826ae8f6f58fd9c4adfbdde8c87c908e65c50769871e"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "0579c449170e273cb37344878a0992d90f8feaa938fcb47cded6b2c79badd505"
 metafile = true
 
 [[files]]
@@ -323,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
+file = "mods/chalk-fabric.pw.toml"
+hash = "6d2229e8eff13f43145408ccf263d9bfc1c6976e43f16f264ba451101a5f75c0"
 metafile = true
 
 [[files]]
@@ -511,6 +504,11 @@ hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "5622ca6faf2d4d237d429a679b4e17be1ddb5e7d3bd0e85dd887531d85d8d659"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "d6776ea70538b9f0d13d3b8cc02241e2cca20ddf3985fa146ee13087ea31be72"
 metafile = true
@@ -523,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "e605225c45ec3c92c775ce4cc64f0f12d6dbf9df20c8f2b44cb37d3102973d47"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "31ab4b2d98374e84ae1372e36ca1ef521954009a9e8a5ff6635e2be17500d008"
 metafile = true
 
 [[files]]
@@ -551,18 +554,13 @@ hash = "783837acfbfa35bf645abadf97012bf76f041d3fc186feba99323aa93e1082eb"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "f0b6bfe45dfe823accf5a32d6b478075e14fc5cff549ba579f4142c9906e3d53"
+file = "mods/inventory-sorting.pw.toml"
+hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "268c5ed7677153bbf1bc4d37e6d5825388fa5d444c67f4b399fd4ce708b773b5"
-metafile = true
-
-[[files]]
-file = "mods/kambrik.pw.toml"
-hash = "a1aef67c1fcb62afe66af906e929c09f91ac503fca30d7903b174784f919a2df"
 metafile = true
 
 [[files]]
@@ -588,11 +586,6 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "012de3a4e455635d53ac76f73d5574c2a5f7db17e27c635c437e54829438c6d0"
 metafile = true
 
 [[files]]
@@ -671,6 +664,11 @@ hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
+metafile = true
+
+[[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "2da7f586390738dd1b8c86d713dbf8ea9ac52b7623d4e814a388ead917249a50"
 metafile = true
@@ -716,6 +714,11 @@ hash = "356ab1d432caebfaca8e7fa9db401ae78ad2c6871439b3033745978de14b42fe"
 metafile = true
 
 [[files]]
+file = "mods/quick-stack-to-nearby-chests.pw.toml"
+hash = "e05d8a7cae8504e87281b621478f6c2faf26e39818e2079bbc0aaa2d10bf1732"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
@@ -738,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "302adba0f8f48209a745dc8775f04057f428cd73a2b305d9af9fdab66abf8be4"
+metafile = true
+
+[[files]]
+file = "mods/rolling-down-in-the-deep.pw.toml"
+hash = "1baa20b5f1dc180aa996d661c0726ad040ed39821a8bc29aa28880f7445f2d2b"
 metafile = true
 
 [[files]]
@@ -811,8 +819,8 @@ hash = "f9a82df1d57cbe4b3685290f8327116e903a22a6f85dadf73d3dd3432d1025e2"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles-fabric.pw.toml"
-hash = "801431918ee26ff945d3728f4fd6f124ef7944760a61194b3d0898379434ec28"
+file = "mods/travellerstoasts.pw.toml"
+hash = "010951025d63f46c8b0de80ba0815d602a6bdea7df30267d4a14c1e7a66ced83"
 metafile = true
 
 [[files]]
@@ -931,10 +939,6 @@ hash = "96bb95c973ecf76ab4174cfc4846f8ff1487618d02ae86945be62687eff6c0c6"
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "82cbae9a1f50aaad5c7fd9047f3896c4f45837174c196dec84dcef0ac6d32686"
-
-[[files]]
-file = "resourcepacks/VisualTitles.zip"
-hash = "bb3485d52354198e06ad5c5f23536e73d1e32d0a67a13e4d06cf5cf65f42f0ef"
 
 [[files]]
 file = "resourcepacks/adventurez-netherite-fix.pw.toml"
