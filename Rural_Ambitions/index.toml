@@ -10,8 +10,16 @@ hash = "1cd60a94640d72a8bdb67a07e52367f8a4b7143e4457e3570f0dc47eba5b8550"
 metafile = true
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "9d79fa74ccf19ffc3af54f8fa3b03707909c31238080fc49639666ee0b6c3f9f"
+
+[[files]]
 file = "config/adventurez.json5"
 hash = "1867ebea33064fdc6c4826dc5f80956c7c85f54c68ce5181eb5bfaa985a9f0df"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "6a26c41385d6d79a0430ab91270c3e64d03576233f4a66f3b9761ffb37247fb5"
 
 [[files]]
 file = "config/bestylewither.toml"
@@ -23,7 +31,7 @@ hash = "2fee38344ba42f5f19d8d50ae6c3de48427f0b92e1d508ed85ff4f06d0cc36a2"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "01538a35dee96dafbfa1d0e70f0849188cd92db50e0cd971811147825c382a0c"
+hash = "7bf27989eed5facfdab7e10f7c6ed25485a8455d97b491f1cc85f4d1b3fb82bb"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -63,7 +71,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7e2acdc1f16df52b9709c2e80c5d9c943f5a4e1e26df63ea139cb623ddff405e"
+hash = "6bf9ce5d2348d6467eee417e487b847460406a87ce38c46e2fe5e52b0f81e35d"
 
 [[files]]
 file = "config/fancymenu/panoramas/daytime/panorama/panorama_0.png"
@@ -111,7 +119,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
+hash = "3623b25dffb737b7c00d82daa9efc3444a3570d9398204fa540aacb5a2dfdabd"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -123,7 +131,7 @@ hash = "211c296d2e1b7ee088888a7e6beed020afcfc401e6995ece8c0a27b53fa14047"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "7821cf90e9e92015876005d2c8a946876ef9000f02c2be6e9c89e7e2365014ec"
+hash = "f7d5fc07567a7f19b0b587d1f9ebe824b3345739bdf5b1379b8fb4292a99fec4"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -135,7 +143,7 @@ hash = "45c43c102e99203153946160e6ba131cd261932beb5d9699fe79038397034707"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "7949086bf1d32873eae89ee46e48aa550092632d2e38e210c81f4366ab92a88e"
+hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
 
 [[files]]
 file = "config/supplementaries-common.json"
@@ -148,6 +156,10 @@ hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
 [[files]]
 file = "config/vanillatweaks.toml"
 hash = "ebbecee60ddfe024eef85b5b85e6ee817ce0cc9486a3f177f3c076aae7ce8c39"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/changelog.txt"
@@ -267,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "619bc01614e076f72e85826ae8f6f58fd9c4adfbdde8c87c908e65c50769871e"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
 
 [[files]]
@@ -685,6 +702,11 @@ hash = "2da7f586390738dd1b8c86d713dbf8ea9ac52b7623d4e814a388ead917249a50"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
@@ -692,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "d836f2b46a92aa1e0308672072c761a58b5186d6f5c2c39499b8b7f6aeaa0945"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
