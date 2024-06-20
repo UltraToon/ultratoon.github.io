@@ -34,6 +34,78 @@ file = "config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
 [[files]]
+file = "config/fancymenu/assets/customcursor.png"
+hash = "511afa2ee8020cacc0d908a07ecbf385b39d626acbd31ae93aa58f81e4df2dda"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "e85e7cca8c77fa0faf0d3b482bb3e4d44fe1272e1aea054c7f083728695dc498"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "274b4718f36350a99001e3b259b05fc81813bffe2399f3b312abcd6765478adc"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "7e2acdc1f16df52b9709c2e80c5d9c943f5a4e1e26df63ea139cb623ddff405e"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/panorama/panorama_0.png"
+hash = "f1ce66ad93510a514886c032a96c4cca6562a260005cb432675c27b1ca523585"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/panorama/panorama_1.png"
+hash = "6a8cef7cbc55c839769612e633fdc620d967f1f33d6bf081b3f4ddc8012ce727"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/panorama/panorama_2.png"
+hash = "485a4c61315b7f9440f4e039d5e71acc6d73775720757fa7cce38f9fd6294e41"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/panorama/panorama_3.png"
+hash = "101d487a5e65a9182db87a7ef84cffdcce43fb46db945e36f9ac2566e477cb05"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/panorama/panorama_4.png"
+hash = "75c57376cfde1417505a1e2412f57c1160877eca07a986b804d319b1f1bb05ed"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/panorama/panorama_5.png"
+hash = "2e56c5775f449b6c06e050eed2a0d79454d2d0a0cec12d0ff9abeed5dd7e91d4"
+
+[[files]]
+file = "config/fancymenu/panoramas/daytime/properties.txt"
+hash = "02e561031941ca16de8a946d8f138bc9b225f9b702cb08b6afdf340d6ffe0b0c"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -258,11 +330,6 @@ hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
 
 [[files]]
-file = "mods/chalk-fabric.pw.toml"
-hash = "6d2229e8eff13f43145408ccf263d9bfc1c6976e43f16f264ba451101a5f75c0"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "411ffcb97018d6ed1cf6d3d696454c74a7ae1f0c879b1070448e8dc510a1df0c"
 metafile = true
@@ -300,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/cooldown-coordinator.pw.toml"
 hash = "6877073d38d5ec618b152fd252d0c7c30509eb5931b8415b6cb3f301378dc8a5"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
 metafile = true
 
 [[files]]
@@ -450,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "6ff8922081f3bd64ebc660cbf6c84fe5fcdb8a103a775b1a3c4aff41ebcf2331"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "ec01ae5a0ea5b90e5cfddbac6f3d48c42241a52b62b0e8da4350c5ad7e55ef98"
 metafile = true
 
 [[files]]
@@ -798,13 +875,13 @@ hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
-hash = "acd55735f9afdce738488f79a359c799438447d13803929c74d45921f85f09a2"
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ac560ce69c138b924f261cfc84729a487df812d4e40fd34c614b3d5969acdfe9"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.pw.toml"
-hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+file = "mods/yacl.pw.toml"
+hash = "acd55735f9afdce738488f79a359c799438447d13803929c74d45921f85f09a2"
 metafile = true
 
 [[files]]

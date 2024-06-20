@@ -1,0 +1,13 @@
+name = "Gliders"
+filename = "vc_gliders-fabric-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32aca155866bfcd0c937603d2efaf1bd4bf18cc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5087365
+project-id = 828331
