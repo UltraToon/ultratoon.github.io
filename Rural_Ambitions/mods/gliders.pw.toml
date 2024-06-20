@@ -3,11 +3,11 @@ filename = "vc_gliders-fabric-1.1.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/9Qu0MGnH/vc_gliders-fabric-1.1.5.jar"
 hash-format = "sha1"
 hash = "32aca155866bfcd0c937603d2efaf1bd4bf18cc8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5087365
-project-id = 828331
+[update.modrinth]
+mod-id = "XiC6HzoU"
+version = "9Qu0MGnH"

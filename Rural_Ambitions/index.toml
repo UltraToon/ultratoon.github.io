@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "ec01ae5a0ea5b90e5cfddbac6f3d48c42241a52b62b0e8da4350c5ad7e55ef98"
+hash = "4c4ecbb592afa14eb622655aa29b3064152ea458fd941fb7c9004bd10863f0dc"
 metafile = true
 
 [[files]]
