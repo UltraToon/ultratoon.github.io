@@ -574,6 +574,11 @@ hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "dbebbeff4caa3b2b4f1568733e1573c2e0503fa451457e04ef32c49453ac41db"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
@@ -689,6 +694,16 @@ hash = "65bfdecfbc71d4d5d38d0dd0e0ca864516c89884e8ce4ecf8836d9ede9b62441"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
@@ -744,6 +759,11 @@ hash = "302adba0f8f48209a745dc8775f04057f428cd73a2b305d9af9fdab66abf8be4"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
+metafile = true
+
+[[files]]
 file = "mods/rolling-down-in-the-deep.pw.toml"
 hash = "1baa20b5f1dc180aa996d661c0726ad040ed39821a8bc29aa28880f7445f2d2b"
 metafile = true
@@ -794,8 +814,23 @@ hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c91ceee8ef918ef7c5f2bd6dc0d364ef2dbf2b8a8be20604f0b1f013590dbeac"
+metafile = true
+
+[[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "b5a88924ff4388710d2049c661b608d979819d0edace830b3b27c61023155847"
 metafile = true
 
 [[files]]
@@ -958,6 +993,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "34da82fd47bd2904b5fa9741b1938909f52fa4a2acf9777d94b2f7354a1947f7"
 metafile = true
 
 [[files]]
