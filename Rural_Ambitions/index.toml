@@ -5,11 +5,6 @@ file = "README.md"
 hash = "e8b46ce53fa5e429d58101e8ce4703de2d9d44ba41b833eb300ab6dccf583314"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "1cd60a94640d72a8bdb67a07e52367f8a4b7143e4457e3570f0dc47eba5b8550"
-metafile = true
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "9d79fa74ccf19ffc3af54f8fa3b03707909c31238080fc49639666ee0b6c3f9f"
 
@@ -372,6 +367,11 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "5e004570df8b7f1b0e4e57e199fcc30c2d3d7e77c802cdead2c4bc3d165f6d89"
 metafile = true
@@ -424,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "bb0c53506225c3ac387812c905005ba3a1ae8633aa218a5743b5d17cd0fb1a47"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "89cbb5954354a2819dbb46601197aa4cb991f3936ba5b8a142a17dbfff2ac263"
 metafile = true
 
 [[files]]
@@ -488,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -617,6 +622,11 @@ hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
 metafile = true
 
 [[files]]
+file = "mods/lexicon-fabric.pw.toml"
+hash = "b9ebb27080c3f5e54de41a605520681d27201111a1c1c9047157784bf63412a8"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
@@ -629,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources-fabric.pw.toml"
 hash = "9cabb780d582531e26756092be3de8b64b487866cb1e2ae7611190fc0b22240e"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "e1890de681619eecb84f1168b909ca4bf473d1337e398b74f3414cd43ba3e448"
 metafile = true
 
 [[files]]
@@ -689,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "4203328ccb3c8870b6b53faf709023593a81461d27bcdc8a9cae63e30f397196"
 metafile = true
 
 [[files]]
@@ -772,6 +792,11 @@ hash = "be24150792aab6d984768c3f1c96a7a43792a1bddcd9a76490b05575573f4b37"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "c9bbaaac723154422f147810f9bf5cc109149c87cd4b1964f7caafbdd3bcb6c4"
 metafile = true
@@ -792,8 +817,8 @@ hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
 metafile = true
 
 [[files]]
-file = "mods/rolling-down-in-the-deep.pw.toml"
-hash = "1baa20b5f1dc180aa996d661c0726ad040ed39821a8bc29aa28880f7445f2d2b"
+file = "mods/rrls.pw.toml"
+hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
 metafile = true
 
 [[files]]
@@ -889,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants-forge.pw.toml"
 hash = "ef3a50feefad9fd5102b761376901703d0f0c74a059f46a4343c7545393142c3"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "dd2c937594cfd9064d4698bb0ea1d16cd405c232c1864737ca3b0c31fa5bb5d3"
 metafile = true
 
 [[files]]
