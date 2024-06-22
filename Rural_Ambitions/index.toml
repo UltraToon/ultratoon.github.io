@@ -113,6 +113,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "283399d5f15c600d2f6e93ab5d79c4f91fc79b2ed7f59fe4c02783396ca86159"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "3623b25dffb737b7c00d82daa9efc3444a3570d9398204fa540aacb5a2dfdabd"
 
@@ -157,28 +161,8 @@ file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
-file = "config/yosbr/config/roughlyenoughitems/changelog.txt"
-hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "6aa99c53790605c27f1b9d397f29cbd5255a95574caf9c56c219e8caf52363ed"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/hints.json"
-hash = "e9ee152c6f68506b6150e22debb6705e746e9cebc45019bb868247b3633d66fa"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
-hash = "cc9ecc20ff5858a7e3024cd00ae9b7db0db25bbe4c04f693282068e925dfb381"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
-hash = "feade0e0a2733847b136907c1d9eb60a0a27cbf2ffff897c75cc8bf222bc610e"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "c2eb8b5f5724737bdcabfa66185d66ce758766bee216afdaac97ab510ebddbfc"
+hash = "08aadda72436f1fe3467c6390959bd1bc56c2eabd3091ded35b52587bf3145bf"
 
 [[files]]
 file = "config/zenith/adventure.cfg"
@@ -612,11 +596,6 @@ hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "dbebbeff4caa3b2b4f1568733e1573c2e0503fa451457e04ef32c49453ac41db"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
@@ -747,11 +726,6 @@ hash = "d836f2b46a92aa1e0308672072c761a58b5186d6f5c2c39499b8b7f6aeaa0945"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
-metafile = true
-
-[[files]]
 file = "mods/omni-hopper.pw.toml"
 hash = "65bfdecfbc71d4d5d38d0dd0e0ca864516c89884e8ce4ecf8836d9ede9b62441"
 metafile = true
@@ -829,11 +803,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
 metafile = true
 
 [[files]]
@@ -1108,7 +1077,3 @@ metafile = true
 file = "resourcepacks/vanilla-better-end-city.pw.toml"
 hash = "958dacc78bf1104190e221c6fa785c28ac84e72bff62abd6e1016db717950112"
 metafile = true
-
-[[files]]
-file = "resourcepacks/vanillarefresh-v1.4.19d_1.20.x.zip"
-hash = "f1671263d42b6b9935b8648662f9ef33ec4d0346530c265bc16b35e85003f8a8"
