@@ -396,6 +396,11 @@ hash = "4a43a88dc6fc605058ed7211999685379fc32bf5341c644593b918a9ffb31361"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "fa48c098ff9a6e47470bb3a77bc53158849fa3b413f8b5bdce35ee74ac3cbd1d"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
@@ -513,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "781137a2d19be7da0fc9a9f88a36d176fa1d82d3a7873b6dd2b0cd91e78335ec"
 metafile = true
 
 [[files]]
@@ -928,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "6e489fa65371a963a3032470c915eed767f56d9af8fbef78342462f31535d583"
 metafile = true
 
 [[files]]
