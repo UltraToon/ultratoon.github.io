@@ -1,0 +1,13 @@
+name = "Incendium: Biomes Only"
+filename = "ibo-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bde7a69c79cc5462dc9f0c51613ff812046865a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4931174
+project-id = 947039

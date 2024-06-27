@@ -162,7 +162,7 @@ hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "08aadda72436f1fe3467c6390959bd1bc56c2eabd3091ded35b52587bf3145bf"
+hash = "d9549946b9bd1be49182e72cc51741afb43e792613b1eb6fc768dfad3932929f"
 
 [[files]]
 file = "config/zenith/adventure.cfg"
@@ -213,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/adventurez.pw.toml"
 hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "c91188fce95259071890dfbffe0165e22122fe6b89e2dc72c7e702a53c0c8285"
 metafile = true
 
 [[files]]
@@ -402,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
+hash = "6dc6226c9c9cb735ff22afaede63397e4f247a7afac965b3b1ad521ac792e6a8"
 metafile = true
 
 [[files]]
@@ -501,6 +506,21 @@ hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
+metafile = true
+
+[[files]]
 file = "mods/fakerlib.pw.toml"
 hash = "5638b7449ae51f0e4238a48d1977a3a8c9b98d132d16a89866a0d92d7621ad37"
 metafile = true
@@ -526,8 +546,28 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "1a61b6fd880ddb1156ff3d5407454e833eeaeab1b3689030e53ac402dadfab37"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "e778d3ab08b4867e37b2009daf5b068ea9b4edb5baabb7fc76c05cb6941ee03d"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "03eb311abb04930c465b46d7d7201f57d6c916401d4fd5d1d48912bdf642a088"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "5622ca6faf2d4d237d429a679b4e17be1ddb5e7d3bd0e85dd887531d85d8d659"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "de134ed84c0efcfb52f94ad2f9f46cb45f53606409253744c59c4daf0c721739"
 metafile = true
 
 [[files]]
@@ -551,6 +591,11 @@ hash = "e605225c45ec3c92c775ce4cc64f0f12d6dbf9df20c8f2b44cb37d3102973d47"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "31ab4b2d98374e84ae1372e36ca1ef521954009a9e8a5ff6635e2be17500d008"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
@@ -571,13 +616,23 @@ hash = "c1b5c4e32953b35fed5caf375451543fa3315385b956cf9cb49dcb032e972fb6"
 metafile = true
 
 [[files]]
+file = "mods/incendium-biomes-only.pw.toml"
+hash = "69b480995c78e26a299ac2c3ec2191ce8892efb9e54430bce0d9fcd4d7c5b870"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "783837acfbfa35bf645abadf97012bf76f041d3fc186feba99323aa93e1082eb"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
 metafile = true
 
 [[files]]
@@ -733,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "1c620cf344fdaadbe2b4c0a56bdb58db6e969ff1c1c6449080c6f5baa260b8de"
 metafile = true
 
 [[files]]
@@ -906,6 +966,11 @@ hash = "dd2c937594cfd9064d4698bb0ea1d16cd405c232c1864737ca3b0c31fa5bb5d3"
 metafile = true
 
 [[files]]
+file = "mods/universal-ores-fabric.pw.toml"
+hash = "794fd726546cd520ac7c9be010dbaf991bfb9fe0c3d971fc89d421f18a47306d"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "65c6a19fc252bbdba213abe2fa182ec1859fc6072d7ae26b564cbe7fac836852"
 metafile = true
@@ -918,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
+metafile = true
+
+[[files]]
+file = "mods/voidz.pw.toml"
+hash = "3dfddee172c38204109beba9265296ffe62bc271c0c5afe598eeedc30ed358d0"
 metafile = true
 
 [[files]]
@@ -1001,16 +1071,17 @@ hash = "9b1afa9f9d44f45678d21bedbdc12ea4e3d31c5d7dee048ff9341e05d67129c8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ModpackResources.zip"
-hash = "858550aa0b24b7b6ec2329f39a17912c8ace777cc97d8b8f0348393dbaa763a6"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "82cbae9a1f50aaad5c7fd9047f3896c4f45837174c196dec84dcef0ac6d32686"
 
 [[files]]
 file = "resourcepacks/adventurez-netherite-fix.pw.toml"
 hash = "d53d4983f6c8889132111c6f86efd7f7975dc98c7a8240d803ceb7f3eb0a4771"
+metafile = true
+
+[[files]]
+file = "resourcepacks/advertisement-removal-icons-addon-resourcepack.pw.toml"
+hash = "5d14b2f1f94f57a8c9410d97d78a9cd4b17ec0229bb4ae06688fdcfd44204077"
 metafile = true
 
 [[files]]
@@ -1024,13 +1095,33 @@ hash = "c01f933650c4c8564cc62935ccf5bf0fc460ef7a6951fe78c0be5312b03f0241"
 metafile = true
 
 [[files]]
+file = "resourcepacks/embellished-stone-advancement-plaques.pw.toml"
+hash = "14ef2d3624489c3d2b9fd3311b436d030fa5779e49f9a5662f910ff39d196221"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fancy-gui-overhaul.pw.toml"
+hash = "e880faf917673be21b2c05ac7193d3ad4e8f3fbdac2c8438b69bbbcd0d26ae33"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "f589ad046284eb7bb0afac7bcc5f9f09a6dbeb71aa063859e195ea6896dd889c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
 hash = "34da82fd47bd2904b5fa9741b1938909f52fa4a2acf9777d94b2f7354a1947f7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "46b8abf932e405f2be82b486782b3b8234dcb4754c348419b3e1a26f07613061"
 metafile = true
 
 [[files]]
@@ -1076,4 +1167,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/vanilla-better-end-city.pw.toml"
 hash = "958dacc78bf1104190e221c6fa785c28ac84e72bff62abd6e1016db717950112"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "b71a49d454d2ab05d0be2bf44893050cb56699ec330834c14481e8ad4b4b0ed1"
 metafile = true

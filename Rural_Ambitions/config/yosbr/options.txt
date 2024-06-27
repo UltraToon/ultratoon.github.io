@@ -4,6 +4,5 @@ fullscreen:true
 guiScale:3
 maxFps:260
 tutorialStep:none
-enableVsync:true
 skipMultiplayerWarning:true
 skipRealms32bitWarning:true
