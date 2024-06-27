@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e8b46ce53fa5e429d58101e8ce4703de2d9d44ba41b833eb300ab6dccf583314"
+hash = "b13453646e0d3b0d74fde3431c99970c4bd2165a31dcbde32222a2036f9ba54f"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -1102,11 +1102,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancy-gui-overhaul.pw.toml"
-hash = "e880faf917673be21b2c05ac7193d3ad4e8f3fbdac2c8438b69bbbcd0d26ae33"
 metafile = true
 
 [[files]]
