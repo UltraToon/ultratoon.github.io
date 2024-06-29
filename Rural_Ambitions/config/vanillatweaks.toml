@@ -19,7 +19,7 @@ blazingTreasureOnly = false
 hopsTreasureOnly = false
 nimbleTreasureOnly = false
 siphonTreasureOnly = false
-veteranTreasureOnly = false
+veteranTreasureOnly = true
 vigorTreasureOnly = false
 homingTreasureOnly = false
 [loot]
@@ -28,7 +28,7 @@ namedMobsDropNameTag = true
 [tweaks]
 enableArmorStandSwapping = true
 itemFrameRotateBackwards = true
-babyZombieBurnInDaylight = true
+babyZombieBurnInDaylight = false
 creeperBurnInDaylight = false
 shearOffNameTag = true
 hoeActsAsSickle = false
