@@ -1,13 +1,13 @@
 name = "Patched"
-filename = "Patched-fabric-3.2.3+1.20.1.jar"
+filename = "Patched-3.4.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "63c42061a609c915d78fa01690def6855ad50fdf"
+hash = "d615a71b46399af9cfbf5450b17b506ff02c2c0d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4810169
+file-id = 5900966
 project-id = 689918

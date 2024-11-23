@@ -1,13 +1,13 @@
-name = "Fence On Slab!"
-filename = "fence_on_slab-fabric-1.20.x-0.1.1.jar"
+name = "Fence On Slab! [Forge/Fabric/NeoForge]"
+filename = "fence_on_slab-fabric-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fbacd5292e78f983c3606ea7e994d432741ad0a4"
+hash = "2a0da8bb1dd57ba6a8619c3e3bebf546f18bd5ca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5465387
+file-id = 5497673
 project-id = 1042138

@@ -1,13 +1,13 @@
 name = "xali's Enhanced Vanilla"
-filename = "xali's Enhanced Vanilla v1.11.1.zip"
+filename = "xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "149b43d8585dd24267c4575190bb0ca2bbf764a0"
+hash = "4eabdbc6ee1c7f8f197d346438dc9dc48f34fe88"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4435190
+file-id = 5596851
 project-id = 513425
