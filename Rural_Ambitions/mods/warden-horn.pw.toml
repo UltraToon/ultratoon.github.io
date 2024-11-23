@@ -1,0 +1,13 @@
+name = "Warden Horn"
+filename = "wardenhorn-1.7-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a34a4cff5857c645842b3dfff28447d32837ad28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4759615
+project-id = 794509

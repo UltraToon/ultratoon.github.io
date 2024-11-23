@@ -1,7 +1,7 @@
 {
   "sorting": "ascending",
   "count_libraries": true,
-  "compact_list": false,
+  "compact_list": true,
   "count_children": true,
   "mods_button_style": "replace_realms",
   "game_menu_button_style": "replace_bugs",
@@ -25,6 +25,6 @@
   "hidden_configs": [],
   "disable_update_checker": [],
   "update_checker": true,
-  "button_update_badge": false,
+  "button_update_badge": true,
   "quick_configure": true
 }

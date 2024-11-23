@@ -1,0 +1,13 @@
+name = "AdditionZ"
+filename = "additionz-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a5563c935351453dc00f7a247c74f95146b4335"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5376667
+project-id = 659920

@@ -1,0 +1,13 @@
+name = "Backported Wolves"
+filename = "[Fabric]backported_wolves-1.1.0-1.19.3-1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2794a2f8d685232cbe44f450d052c81124e83b35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5177649
+project-id = 984037
