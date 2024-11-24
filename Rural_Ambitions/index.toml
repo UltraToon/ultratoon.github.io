@@ -74,7 +74,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "e1f19db8eab7ad74a553631160f0fd1805ed41291db8126417f56200a60e0639"
+hash = "b780efa5e38892f9080ed9e247db50c203fa16a5f4b8326d5b981b7bee744049"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -211,6 +211,10 @@ hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
 [[files]]
 file = "config/supplementaries-common.json"
 hash = "c7a217d88ec70ce550d8c1dd575486aff55172adca0e80e6f75666cdbd8d177f"
+
+[[files]]
+file = "config/the_bumblezone.json"
+hash = "6760bc743bf6550540a5ba112de4b7e1052465354b614215652d7b161e3c9f5d"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -403,11 +407,6 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
-metafile = true
-
-[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "d8a282907396a7d006bc14b022b9c73a4edcf57d61e89871b7fb83a640eb95c2"
 metafile = true
@@ -445,11 +444,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
 metafile = true
 
 [[files]]
@@ -515,11 +509,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "c4b3115d686aed04d2c21bbae1769788396e5c3db50ad303e7509a348431fa0b"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "8f3d5a8b2a39fe8ac2ce04a864a3c0a3346f7787177f5806674d90423c3a8193"
 metafile = true
 
 [[files]]
@@ -630,11 +619,6 @@ metafile = true
 [[files]]
 file = "mods/explorations.pw.toml"
 hash = "f86d19c10abd28d8279c3957df5b83c3631b701eb05f38272dd75a82a4b483d8"
-metafile = true
-
-[[files]]
-file = "mods/explosive-enhancement.pw.toml"
-hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
@@ -750,11 +734,6 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "914358de6bb96f8e4c915ebef4a57566aee4e28e73a2c466bb4d233fa362b241"
-metafile = true
-
-[[files]]
-file = "mods/gliders.pw.toml"
-hash = "440d527e0944dedf72926bee06c95a7d32da327f9a3c7dd39d803ab19da909e2"
 metafile = true
 
 [[files]]
@@ -1088,16 +1067,6 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "0599605a5ee53346f9be22a542f6ac23b891952fbec50a4f22b53e994ccf3026"
-metafile = true
-
-[[files]]
-file = "mods/status-effect-bars.pw.toml"
-hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
 metafile = true
@@ -1155,11 +1124,6 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "315b4cd48761c791250d313c91f1e5e5d170b3b3f62612288400f34f04913ab2"
-metafile = true
-
-[[files]]
-file = "mods/tumbleweed.pw.toml"
-hash = "8f02083c3d918f25a7a3b9496df24d2f5b6f59b90d51b82292a629a986b192dc"
 metafile = true
 
 [[files]]
