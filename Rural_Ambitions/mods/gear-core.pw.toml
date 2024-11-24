@@ -1,0 +1,13 @@
+name = "Gear Core"
+filename = "gear_core-0.3.8+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39414965a1c421adf04f75b0ff9093f8ef926849"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5180041
+project-id = 825265

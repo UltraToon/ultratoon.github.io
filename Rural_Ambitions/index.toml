@@ -485,6 +485,11 @@ hash = "4a43a88dc6fc605058ed7211999685379fc32bf5341c644593b918a9ffb31361"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+metafile = true
+
+[[files]]
 file = "mods/customizable-elytra.pw.toml"
 hash = "22963e7f94a38dc3b0b0509cda70aaa457f6f2b0e5d6ada0cddc3a35a2c31a7f"
 metafile = true
@@ -631,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -717,6 +722,16 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "b85be89cd240dfcb8259519b4b3d1f337314a8e2d229ae925ba76be2a7717cd0"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "e57072e46573c946ddd4c7847abca44131dd1dd4f000e016de0d5b2dbf63a01e"
+metafile = true
+
+[[files]]
+file = "mods/gear-core.pw.toml"
+hash = "c9af3d647e2a203ea02dcdf8e0238715d2484aa2c3351b8fcb89ad67cdeeba53"
 metafile = true
 
 [[files]]
@@ -975,6 +990,11 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "197c7e1bad0269ea711e6bb89e11f156f66f963129778e955ea8a4b399607cd7"
+metafile = true
+
+[[files]]
 file = "mods/omni-hopper.pw.toml"
 hash = "65bfdecfbc71d4d5d38d0dd0e0ca864516c89884e8ce4ecf8836d9ede9b62441"
 metafile = true
@@ -1117,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
 
 [[files]]
