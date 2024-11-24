@@ -1,0 +1,13 @@
+name = "xali's Enchanted Books"
+filename = "xali's enchanted books v0.13.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f17ef99af271720eca016afcb32bedce919db79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5680199
+project-id = 478165
