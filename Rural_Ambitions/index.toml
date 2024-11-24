@@ -5,12 +5,16 @@ file = "README.md"
 hash = "b13453646e0d3b0d74fde3431c99970c4bd2165a31dcbde32222a2036f9ba54f"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
 file = "config/adventurez.json5"
 hash = "158f124daa53ff2c70893de14af0dba402e3be6e57c3787c71618492db21d73f"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "6a26c41385d6d79a0430ab91270c3e64d03576233f4a66f3b9761ffb37247fb5"
+hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
 
 [[files]]
 file = "config/bestylewither.toml"
@@ -22,7 +26,7 @@ hash = "2fee38344ba42f5f19d8d50ae6c3de48427f0b92e1d508ed85ff4f06d0cc36a2"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "7bf27989eed5facfdab7e10f7c6ed25485a8455d97b491f1cc85f4d1b3fb82bb"
+hash = "3d39e3f7a0bee98a938ede58764bffad1f1fb33c48dcb9570b6c0b10939fb449"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
@@ -39,6 +43,10 @@ hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
 [[files]]
 file = "config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "d32b5b05a7efa581c2017456610a745abcff55635ad13a40ceb37abb79f3eacb"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -81,6 +89,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "b09f001e6ae0047a82d5d4cac88ad4a70e6cd8a66e8e1a8c020d9d443af5c5d5"
 
 [[files]]
+file = "config/fancymenu/assets/customcursor.png"
+hash = "511afa2ee8020cacc0d908a07ecbf385b39d626acbd31ae93aa58f81e4df2dda"
+
+[[files]]
 file = "config/fancymenu/assets/minecraft_title.png"
 hash = "e85e7cca8c77fa0faf0d3b482bb3e4d44fe1272e1aea054c7f083728695dc498"
 
@@ -94,7 +106,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "274b4718f36350a99001e3b259b05fc81813bffe2399f3b312abcd6765478adc"
+hash = "24d5ca6386585f9462d77e7b050760b98d2c63b08c9b16ca236ead96a432d633"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -106,7 +118,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6bf9ce5d2348d6467eee417e487b847460406a87ce38c46e2fe5e52b0f81e35d"
+hash = "9ebe86fe97077959e82644f92e21be20ff35079090514adc0490dcc3a7c7fe81"
 
 [[files]]
 file = "config/fancymenu/panoramas/daytime/panorama/panorama_0.png"
@@ -158,7 +170,7 @@ hash = "84886602c3bc24106704c835126a23ba4f79c9f33d902f510e646bd8d92338e1"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "3623b25dffb737b7c00d82daa9efc3444a3570d9398204fa540aacb5a2dfdabd"
+hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -170,7 +182,7 @@ hash = "7ae904fcf132e6bd6ea4be43b97f09c8b2abf454c529f13664e70379485766fe"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "f7d5fc07567a7f19b0b587d1f9ebe824b3345739bdf5b1379b8fb4292a99fec4"
+hash = "8f0232d7ff96c281c4ac90ea7892ff5a559085e6d0a48260c35aa0d346a41fc2"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -194,11 +206,15 @@ hash = "c7a217d88ec70ce550d8c1dd575486aff55172adca0e80e6f75666cdbd8d177f"
 
 [[files]]
 file = "config/threadtweak.json"
-hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
+hash = "63d0b4e6a38e61f8deffabb28968ce360eee398d29f3ef63d68aaaad02a691be"
 
 [[files]]
 file = "config/vanillatweaks.toml"
 hash = "358b62a51c510edc232aa25289c7b82d19f103f4436431c8382753d26df6b5c3"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/wakes.json"
@@ -1300,16 +1316,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
 hash = "34da82fd47bd2904b5fa9741b1938909f52fa4a2acf9777d94b2f7354a1947f7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "52ff33e4ca08eebe58ba8ae2c14e63668ada8f5eadd93e5aaac68b4d3ec3a176"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icons.pw.toml"
-hash = "f96599c5b850458ad3d6b0dd6e234baa2ecc63ca635cec9827d2b8e005721a7d"
 metafile = true
 
 [[files]]
