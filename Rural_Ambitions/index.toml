@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ore-variants.pw.toml"
-hash = "4446fa71409b75ba36dd7a1c79a8afa8f675eaaa79b7648fe0a80df0ac345200"
+hash = "7aff616f5f356817f47ff2f1196f055050cc6bf2b05df047955562986bf6927e"
 metafile = true
 
 [[files]]
