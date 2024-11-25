@@ -5,10 +5,6 @@ file = "README.md"
 hash = "b13453646e0d3b0d74fde3431c99970c4bd2165a31dcbde32222a2036f9ba54f"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "b33e62d13674d8a3968627a17eb6b9df18e14696d1e3f90129b0ef9dcf384c1e"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -34,11 +30,19 @@ hash = "3d39e3f7a0bee98a938ede58764bffad1f1fb33c48dcb9570b6c0b10939fb449"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "39f75641a3cd3f649101d6c2e32b3f5cbc6a48ab0e06769cbfdb27507893cc1c"
+hash = "7e575d5445e9b707619e632659b49568e782ab78cf4dc92f41ec788361909991"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
 hash = "0ce60f99db5d2a9c1d58b25d9a8c0c8ccfb1a8f74dba4536840e56557ab99894"
+
+[[files]]
+file = "config/combatnouveau-client.toml"
+hash = "6904d018a2fc3e4fd678ac245df4a4a679b84d7cef89fbe8d133f13ab75881c2"
+
+[[files]]
+file = "config/combatnouveau-server.toml"
+hash = "1c7000bcacaceb586bb90131d4ceeca6bfd34540ec826d3c4e03de4f0fa11a18"
 
 [[files]]
 file = "config/emi.css"
@@ -231,6 +235,10 @@ hash = "358b62a51c510edc232aa25289c7b82d19f103f4436431c8382753d26df6b5c3"
 [[files]]
 file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
+file = "config/wetlands.json"
+hash = "28fcc2f4ed34116256f3b6466d157010f914e9a7e1a97cd071aad4955304c8f3"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -448,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
@@ -539,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "43f477c4e79c55347f9cae8805fd8097b3c79afea83c47aa82b9059366f25b94"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b4ca0e320b3dd66ff29fbe902bbf1d8d5106b30dc485025dc7f4c8bb42742237"
 metafile = true
 
 [[files]]
@@ -672,6 +685,11 @@ hash = "921692165d02804b0cc0aea4f01f124c2a64e27dd870c7429905126dd2ba4f48"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
@@ -683,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b85be89cd240dfcb8259519b4b3d1f337314a8e2d229ae925ba76be2a7717cd0"
+hash = "fad7ced69c46f76381d3aa03c3acbd6c19d0c6e1c3e5815031b7f93b13d8aacb"
 metafile = true
 
 [[files]]
@@ -812,6 +830,11 @@ hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
@@ -917,6 +940,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "597d5bede46aa8a0da9b50a52b1232642d137d3d0e3fdaae240eedbce74166bb"
+metafile = true
+
+[[files]]
 file = "mods/particular.pw.toml"
 hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
 metafile = true
@@ -984,6 +1012,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
 metafile = true
 
 [[files]]
@@ -1119,11 +1152,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "4208b682ff7512da07a0d9b0d786efd8fc4753fab3100d54bf4ceb1feeb956da"
 metafile = true
 
 [[files]]

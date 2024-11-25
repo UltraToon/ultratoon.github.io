@@ -1,0 +1,10 @@
+{
+  "common": {
+    "enableGolemBossBar": false,
+    "biomes": [
+      "minecraft:swamp",
+      "minecraft:mangrove_swamp",
+      "terralith:tropical_jungle"
+    ]
+  }
+}
