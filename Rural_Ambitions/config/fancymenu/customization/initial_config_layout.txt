@@ -1,0 +1,114 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = initial_config
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1732566143085
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:181fdcc2-2eab-4341-8b29-bb26540e2342-1732565655493] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  interactable = true
+  source = Welcome to Rural Ambitions! Select your preferences below.
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = f57073e3-27ef-4bf3-901f-d979ca032260-1732565661725
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = top-centered
+  x = -101
+  y = 70
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = db08e076-d746-4614-ae81-72dad4c6fa7f-1732565661725
+  [loading_requirement_container_meta:db08e076-d746-4614-ae81-72dad4c6fa7f-1732565661725] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = bf0240cf-e4c3-455e-a950-cea67a3e79f4-1732565734565
+  [executable_block:bf0240cf-e4c3-455e-a950-cea67a3e79f4-1732565734565][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = New Button
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 798586e1-fc8e-4370-9347-6e56f3ca41bb-1732565734565
+  [loading_requirement_container_meta:798586e1-fc8e-4370-9347-6e56f3ca41bb-1732565734565] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 4b8f429f-ac6f-481e-91fb-59cffbe99842-1732565734565
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -67
+  y = -13
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a40da59a-f298-4120-bda7-c0dd6bf886f0-1732565734565
+  [loading_requirement_container_meta:a40da59a-f298-4120-bda7-c0dd6bf886f0-1732565734565] = [groups:][instances:]
+}
+

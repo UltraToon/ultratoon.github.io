@@ -1,0 +1,13 @@
+name = "Variant Tools and Weaponry - More Weapons"
+filename = "vtaw_mw-fabric-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e978b71601ba115e7d33f1f3e5893306a67ec947"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4723219
+project-id = 637284
