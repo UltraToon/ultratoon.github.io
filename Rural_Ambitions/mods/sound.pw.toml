@@ -1,0 +1,13 @@
+name = "Sound​s"
+filename = "Sounds-2.2.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1386c213dbe7a07641e861d7ae20f7638df55cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5848828
+project-id = 925889

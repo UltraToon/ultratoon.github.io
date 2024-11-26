@@ -265,16 +265,6 @@ hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "e27509d05a166a20ba2853b490f64d751b1fae570559c695cd8b0e8a90059a57"
-metafile = true
-
-[[files]]
-file = "mods/ambient-environment.pw.toml"
-hash = "ac0284b9ca98047db4ed01ef7c15863d378ef57784e42197e4e88d7386bc362c"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "681511d4a168092533587895fa6fa0073edf6f64504fac271f2e8c653e20a3b4"
 metafile = true
@@ -300,18 +290,8 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
-file = "mods/athena.pw.toml"
-hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
-metafile = true
-
-[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "8b07789513bc51a5405bcd56e703e2e0b091d1a8d0a1b07640dce8570fe60572"
-metafile = true
-
-[[files]]
-file = "mods/auditory-continued.pw.toml"
-hash = "3f05d2ae8352c982c9c3e7fe0b3a22b8845be2b89a6a113aeb8cf00346062577"
 metafile = true
 
 [[files]]
@@ -382,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/bigger-better-end-cities.pw.toml"
 hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "f8be48df454c8f21215fa35611b6d3a8202d1dac17995b58ff8333de530bf114"
 metafile = true
 
 [[files]]
@@ -530,11 +515,6 @@ hash = "38c0af3a8580fdd64c9ca8a7f13a77d35964cd70c35da257cfb375fe6fafd65f"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "c4b3115d686aed04d2c21bbae1769788396e5c3db50ad303e7509a348431fa0b"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "d9bf0020f39ea4cea9c1350fdeefd5c651797ffaa01873ad91f6162fb0e210d4"
 metafile = true
@@ -635,11 +615,6 @@ hash = "9e706cb5a07c71db29cda9a3b884cea010f69e31b09c30c3017e610a2f892597"
 metafile = true
 
 [[files]]
-file = "mods/explorations.pw.toml"
-hash = "f86d19c10abd28d8279c3957df5b83c3631b701eb05f38272dd75a82a4b483d8"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "31f87b6d19c12906672487e033b6357787497e90ac24e9102467e18a8ab57612"
 metafile = true
@@ -725,6 +700,11 @@ hash = "914358de6bb96f8e4c915ebef4a57566aee4e28e73a2c466bb4d233fa362b241"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "4d8984aacfc3cc730bb0f07b6303da8bb7f81aff23d1701501915a8b8214d401"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "af771ac72b8e3391bde0e14afb849d926bf924f6ed50f05f78ac88cff8d5a627"
 metafile = true
@@ -777,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs-fabric.pw.toml"
+hash = "0e763074f945d2dbdf4e1597a953444a55086afb23caec3b98e23cabde39bc77"
 metafile = true
 
 [[files]]
@@ -835,6 +820,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "5cbddccd51b8aab55929b6475229bf481e37bf3ebc5e458e5d399dd6d0e19162"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
@@ -877,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "af08167c54469e813be96edb6240390513c74f8810e55a8d2431799ec6838815"
 metafile = true
 
 [[files]]
@@ -927,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "197c7e1bad0269ea711e6bb89e11f156f66f963129778e955ea8a4b399607cd7"
+metafile = true
+
+[[files]]
+file = "mods/off-hand-combat-fabric.pw.toml"
+hash = "cd3d2ef8f4b81f58283021af5938a5f1fa673ff89747b04fc62e5179d581106b"
 metafile = true
 
 [[files]]
@@ -1065,6 +1065,11 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "c8928922eb1aa948dd7ba8e8d6ab1557d47ed7037c4b1e4cd7671c83dee38d69"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
 metafile = true
@@ -1162,11 +1167,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "8fcbc4a7d28fa1b0dd87ff63e5e2a3001065fe63b29c7605f772ac3dcdd17e9f"
-metafile = true
-
-[[files]]
-file = "mods/warden-horn.pw.toml"
-hash = "6db87b6ebf94d95fd540b67e5fb177b024712cb2cd7b33fcd0d804f97319eda7"
 metafile = true
 
 [[files]]
