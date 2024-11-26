@@ -45,6 +45,10 @@ file = "config/combatnouveau-server.toml"
 hash = "1c7000bcacaceb586bb90131d4ceeca6bfd34540ec826d3c4e03de4f0fa11a18"
 
 [[files]]
+file = "config/couplings.toml"
+hash = "5545eb8776da3273fc9b2ef5bb52ca0247ce4c45b73cd483619cf0b3056ccc27"
+
+[[files]]
 file = "config/emi.css"
 hash = "9e6b553c5237451270d1d1f45b185c46e6e14183a71282dd9cb9db84b10eaa85"
 
@@ -182,7 +186,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "84886602c3bc24106704c835126a23ba4f79c9f33d902f510e646bd8d92338e1"
+hash = "2da9a532358fb1e966910289f3c8c7ae9fd1469509f38a971eb0bc56498108b5"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -209,6 +213,10 @@ file = "config/reacharound.json"
 hash = "ceab7e15384455070c35f175593eefe20bccbdee77c53325575525f4efab88c6"
 
 [[files]]
+file = "config/resourcify.json"
+hash = "61c712dc5be56e76bdedcc933c90f04c8e254e7d75ea7867db75407d1b2c8086"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "0e24dbe46f83a46903089aca8d80c49d4ef1301143c509b770d9331bce5c2db3"
 
@@ -233,10 +241,6 @@ file = "config/vanillatweaks.toml"
 hash = "358b62a51c510edc232aa25289c7b82d19f103f4436431c8382753d26df6b5c3"
 
 [[files]]
-file = "config/vmp.properties"
-hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
-
-[[files]]
 file = "config/wetlands.json"
 hash = "28fcc2f4ed34116256f3b6466d157010f914e9a7e1a97cd071aad4955304c8f3"
 
@@ -247,11 +251,6 @@ hash = "d9549946b9bd1be49182e72cc51741afb43e792613b1eb6fc768dfad3932929f"
 [[files]]
 file = "mods/additionz.pw.toml"
 hash = "485d1fc2d2b4fb560928199d504e8547de5d34fe09627dcb002f42fc0dbcde09"
-metafile = true
-
-[[files]]
-file = "mods/advanced-netherite-fabric.pw.toml"
-hash = "5684fd18919e9169a25ca72cf30ce7fb5538f318d0120ee8a3b62f3a4bef5ee0"
 metafile = true
 
 [[files]]
@@ -545,6 +544,11 @@ hash = "d7d713bb51ab473f8a980e70afb5b0c106e39b33e6d9fd6c8d3bfa20de4f7733"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "31e031e1e75b551ed02507dead1e3bb12a22dc7c2bb2658312cc8f6950eb0755"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9b3bea54a03323d144c7c8bc854c95dc2320862e6746396c720c907b3fbe144a"
 metafile = true
@@ -611,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9e706cb5a07c71db29cda9a3b884cea010f69e31b09c30c3017e610a2f892597"
+hash = "35f28f0b09a5623af7b6acd14cff18cd2057e01ec23429c18ccb8d211ea79303"
 metafile = true
 
 [[files]]
@@ -672,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "7d5bfb2d7dea6386110f2f1f364696f43b23afa969be6f41cebafa7e7e992335"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "e740ca5eb49784f61c2c4bc340bc83481d2629b99e3ad16af7586710877607c8"
 metafile = true
 
 [[files]]
@@ -757,11 +766,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
-metafile = true
-
-[[files]]
-file = "mods/kleeslabs-fabric.pw.toml"
-hash = "0e763074f945d2dbdf4e1597a953444a55086afb23caec3b98e23cabde39bc77"
 metafile = true
 
 [[files]]
@@ -856,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6143401e48908cf6e49218a5367a6a98a3f5e0622ff8f1cc3e8c8d7d1cc30c07"
+hash = "a668957f1b63128374bedbc0d27242a235108615ba39b5cfc6efbb06f6befc16"
 metafile = true
 
 [[files]]
@@ -1015,6 +1019,11 @@ hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "63aff48324e5200bb0a2be6d0af802c6af8153faf5a11514c51cd175d23e0626"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
 metafile = true
@@ -1031,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2f323a086ba7b8df406bbba74b14b43c903912cdae96a407bf3f4fd6b96ed2a6"
+hash = "70df51d4e74731fcc109bd6ae18c9dbb26ed387e5d3f1657115dcc4f8fbd7c71"
 metafile = true
 
 [[files]]
@@ -1155,6 +1164,11 @@ hash = "33c7c13b5eaec15b68dbcaba7cccdfe25e1ef466589a8ab9ad5a9f090f6d7add"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus-fabric.pw.toml"
+hash = "d07633020f47c59a70cebb55a0fbe620905382bb5fa2546a4167cb60cd19066b"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
 metafile = true
@@ -1240,6 +1254,10 @@ hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
 
 [[files]]
+file = "resourcepacks/RS_Config.zip"
+hash = "00e8fdfdb8f4b35a907a509296591735a458c2a875fc78bbde8664fa56419978"
+
+[[files]]
 file = "resourcepacks/adventurez-netherite-fix.pw.toml"
 hash = "d53d4983f6c8889132111c6f86efd7f7975dc98c7a8240d803ceb7f3eb0a4771"
 metafile = true
@@ -1297,19 +1315,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/repurposed-structures-bygone-nether-compat.pw.toml"
 hash = "b5bcdf7c6e3c15bda9de54a55cf89e5ad1accc7b207ca7c22e0e5b54a12fc4ee"
-metafile = true
-
-[[files]]
-file = "resourcepacks/repurposed-structures-farmers-delight-datapack.pw.toml"
-hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-better-end-city.pw.toml"
-hash = "958dacc78bf1104190e221c6fa785c28ac84e72bff62abd6e1016db717950112"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "eadf57846a8115fd26fa6065977cf0c1bfb8b6b684444235cd060baf60226bd8"
 metafile = true

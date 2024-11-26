@@ -1,7 +1,5 @@
 [resourcepacks]
-required = [
-    "resourcepacks/"
-]
+required = []
 
 [datapacks]
 required = [
@@ -9,5 +7,5 @@ required = [
 ]
 
 optional = [
-    "resourcepacks/Icons Menu (Put Above Icons).zip"
+    "resourcepacks/"
 ]
