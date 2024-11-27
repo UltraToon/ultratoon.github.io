@@ -1,0 +1,13 @@
+name = "Diversity: Better Bundle"
+filename = "Diversity Better Bundle-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cef25a197caf9e85db26b5929bb2015e51cab74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5700248
+project-id = 1081089

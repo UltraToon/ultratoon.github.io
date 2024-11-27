@@ -1,0 +1,13 @@
+name = "Where-Is-My-Stuff (Fabric)"
+filename = "where-is-my-stuff-1.1.4+1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3de357e19a9e9a470ec8d45a04a9df696ddb3e9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4765621
+project-id = 527997

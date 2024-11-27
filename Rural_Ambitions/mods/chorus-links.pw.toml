@@ -1,0 +1,13 @@
+name = "Chorus Links"
+filename = "chorus-links-1.9.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28925f9d206c032243269df9d2cf5e2ab0ba9b3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595299
+project-id = 437603

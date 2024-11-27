@@ -1,0 +1,13 @@
+name = "Reimagined Trims"
+filename = "reimagined-trims-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b910beac8a41a7323ab34609190f2b7b12169e08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5016541
+project-id = 959528

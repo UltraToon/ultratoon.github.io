@@ -1,0 +1,13 @@
+name = "Progression Reborn"
+filename = "progression-reborn-1.20-v1.3.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PE2WMGd2/versions/lWk37qwO/progression-reborn-1.20-v1.3.16.jar"
+hash-format = "sha1"
+hash = "9e8950e94ff634d8210afd51db4b4dd5af0c92ca"
+
+[update]
+[update.modrinth]
+mod-id = "PE2WMGd2"
+version = "lWk37qwO"
