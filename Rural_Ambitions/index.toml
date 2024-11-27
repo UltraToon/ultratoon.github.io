@@ -1316,3 +1316,7 @@ metafile = true
 file = "resourcepacks/villagersplus-supplementaries-compatability.pw.toml"
 hash = "6087a65613a3118d6e39aa5246ab517629d1ad28d7b8efbf0dc9a0dbbf114b78"
 metafile = true
+
+[[files]]
+file = "resources/datapacks/test.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
