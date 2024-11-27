@@ -364,11 +364,6 @@ hash = "52cfd9436bd6d6e0c7257ea6dd87925a5301ca7caea5bee562c4fbfb94e46fd3"
 metafile = true
 
 [[files]]
-file = "mods/biome-replacer.pw.toml"
-hash = "f8be48df454c8f21215fa35611b6d3a8202d1dac17995b58ff8333de530bf114"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e5739bf8e8668a5d94ae545f7ddabcffcdfec64b0e72d7d2d88d8f64f480977e"
 metafile = true
@@ -641,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "3464cc256356dd6c7414ee90fe68c39c4c22516c63b84c71c8bce4d02986d6d3"
 metafile = true
 
 [[files]]
