@@ -1,10 +1,23 @@
 [resourcepacks]
-required = []
+required = [
+    "resourcepacks/Ore Variants v2.9.zip"
+]
 
 [datapacks]
 required = [
-    "resourcepacks/required_data/"
+    "resourcepacks/AdventureZ_NetheriteFix_1.0+1.20.1.zip",
+    "resourcepacks/VillagersPlus - Supplementaries Compatability.zip",
+    "resourcepacks/RS_Config.zip",
+    "resourcepacks/Repurposed_Structures-Better_Desert_Temples_v8.zip",
+    "resourcepacks/Repurposed_Structures-Better_Dungeons_v5.zip",
+    "resourcepacks/Repurposed_Structures-Better_Jungle_Temples_v6.zip",
+    "resourcepacks/Repurposed_Structures-Better_Monuments_v6.zip",
+    "resourcepacks/Repurposed_Structures-Better_Strongholds_v5.zip",
+    "resourcepacks/Repurposed_Structures-Better_Witch_Huts_v4.zip",
+    "resourcepacks/Repurposed_Structures-Bygone_Nether_v2.zip"
 ]
 
 optional = [
+    "resourcepacks/FreshAnimations_v1.9.2.zip",
+    "resourcepacks/boss-refreshed-v1.4.zip"
 ]

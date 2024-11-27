@@ -186,7 +186,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "03d5c82de0c10bf6d6345966d38d7dd45f7e88391d6087b2fda0cf83f7d1bbdd"
+hash = "c669cf5bb3f46fc99f673b550b0154bba6129141eb0c04d3cf3146a10e28e93a"
 
 [[files]]
 file = "config/immediatelyfast.json"
