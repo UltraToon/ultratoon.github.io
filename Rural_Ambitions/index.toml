@@ -186,7 +186,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "c669cf5bb3f46fc99f673b550b0154bba6129141eb0c04d3cf3146a10e28e93a"
+hash = "ba085ca9c77dc1e08ef4d0b5b6e784ad9a37f04ce1e649c110c28522dc04022a"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1316,7 +1316,3 @@ metafile = true
 file = "resourcepacks/villagersplus-supplementaries-compatability.pw.toml"
 hash = "6087a65613a3118d6e39aa5246ab517629d1ad28d7b8efbf0dc9a0dbbf114b78"
 metafile = true
-
-[[files]]
-file = "resources/datapacks/test.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
