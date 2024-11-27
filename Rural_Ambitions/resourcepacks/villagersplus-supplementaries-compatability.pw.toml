@@ -1,0 +1,13 @@
+name = "VillagersPlus - Supplementaries Compatability"
+filename = "VillagersPlus - Supplementaries Compatability.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11c15f42a865499d721d5bc2df15a8e274946032"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4706344
+project-id = 903049

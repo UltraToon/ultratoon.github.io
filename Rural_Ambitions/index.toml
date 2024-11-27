@@ -186,7 +186,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "2da9a532358fb1e966910289f3c8c7ae9fd1469509f38a971eb0bc56498108b5"
+hash = "03d5c82de0c10bf6d6345966d38d7dd45f7e88391d6087b2fda0cf83f7d1bbdd"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -661,11 +661,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "921692165d02804b0cc0aea4f01f124c2a64e27dd870c7429905126dd2ba4f48"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
 metafile = true
 
 [[files]]
@@ -1315,4 +1310,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/repurposed-structures-bygone-nether-compat.pw.toml"
 hash = "b5bcdf7c6e3c15bda9de54a55cf89e5ad1accc7b207ca7c22e0e5b54a12fc4ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/villagersplus-supplementaries-compatability.pw.toml"
+hash = "6087a65613a3118d6e39aa5246ab517629d1ad28d7b8efbf0dc9a0dbbf114b78"
 metafile = true
