@@ -58,7 +58,7 @@ hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "19c1a178112cf6fe55b2bfd1a612d49e7bfef396eb417a20e44111d238e345cc"
+hash = "b61d3baaef3241d81dd54240a49ac22d6586dfae3fddcfbda2cdfa443189e9ce"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
