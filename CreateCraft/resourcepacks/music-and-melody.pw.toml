@@ -1,0 +1,13 @@
+name = "Music and Melody"
+filename = "music-and-melody-1.20-v1.3.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/7DZdnWOH/music-and-melody-1.20-v1.3.2.zip"
+hash-format = "sha1"
+hash = "bde93b8d0e164923b4787a5df3c32c7c3ede3533"
+
+[update]
+[update.modrinth]
+mod-id = "dAU9uKaA"
+version = "7DZdnWOH"

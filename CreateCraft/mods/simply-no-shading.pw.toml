@@ -1,0 +1,13 @@
+name = "Simply No Shading"
+filename = "simply-no-shading-7.6.1+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gx5Xvc5/versions/ZNnZu7z1/simply-no-shading-7.6.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "f234a2e36b7dd60839dd468caddccf4509466b33"
+
+[update]
+[update.modrinth]
+mod-id = "9gx5Xvc5"
+version = "ZNnZu7z1"

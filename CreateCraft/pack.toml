@@ -1,0 +1,13 @@
+name = "Create Craft"
+author = "ultratoon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1de9615324e59a90fdfeceba1e8009fd81a03e2c6a639b834eaf0b248a8d994e"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

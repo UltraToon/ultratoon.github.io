@@ -1,0 +1,13 @@
+name = "Fast Better Grass"
+filename = "Fast Better Grass.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dspVZXKP/versions/NjQ6roD9/Fast%20Better%20Grass.zip"
+hash-format = "sha1"
+hash = "1a8b557464fc01328f1f6ee428c2669b905dfdce"
+
+[update]
+[update.modrinth]
+mod-id = "dspVZXKP"
+version = "NjQ6roD9"
