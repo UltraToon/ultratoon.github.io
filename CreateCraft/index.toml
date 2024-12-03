@@ -21,12 +21,20 @@ file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "ea47a8971cd80991fcf4b55fc23168b1e094b4665ae02abd8d03a46eef6ecdb3"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "0c7bce18b789113e0e9fe7197228d0a3f36887496d71cbe4932633d68e1e2cae"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -37,12 +45,20 @@ file = "config/sodium-options.json"
 hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
 
 [[files]]
+file = "config/supplementaries-client.json"
+hash = "0eb441ed67579dafec5dfdb22973b476db1c5bd32b73344018cd552122deac0a"
+
+[[files]]
 file = "config/threadtweak.json"
 hash = "63d0b4e6a38e61f8deffabb28968ce360eee398d29f3ef63d68aaaad02a691be"
 
 [[files]]
 file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "2ff9f937becfda1948ffcb513667aa49a799d5844401dc412462ff60e71b90da"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -62,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/auditory-continued.pw.toml"
 hash = "3f05d2ae8352c982c9c3e7fe0b3a22b8845be2b89a6a113aeb8cf00346062577"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
@@ -155,6 +176,11 @@ hash = "3e9b6969df15bf6fc56840fddfd1d38744f558d5a903e4b80e6c1bde52e46290"
 metafile = true
 
 [[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "6a86fc0be268b1e90cb9ff397f105b14181a3df3fdcc4cb273d0357d3a49353d"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "31e031e1e75b551ed02507dead1e3bb12a22dc7c2bb2658312cc8f6950eb0755"
 metafile = true
@@ -176,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -437,6 +463,16 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
 metafile = true
 
 [[files]]
