@@ -10,7 +10,7 @@ hash = "3d39e3f7a0bee98a938ede58764bffad1f1fb33c48dcb9570b6c0b10939fb449"
 
 [[files]]
 file = "config/emi.css"
-hash = "9e6b553c5237451270d1d1f45b185c46e6e14183a71282dd9cb9db84b10eaa85"
+hash = "f742289d0a3f9e240cb7035c786767d18c6b608326823eb6a8cad0043da6edf1"
 
 [[files]]
 file = "config/entityculling.json"
@@ -330,6 +330,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "844a99b3d685f506f10779e9b99a18f3d342c7dd5e6175ec173bdaefd6be2611"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
 metafile = true
@@ -337,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "7a1876d2b39c82818b7a189c4fe6807d663d3027a635ed456caad99b393587f8"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "16786b5f5f7ebc52a3edcaab8613f4030c06a7693fe64d3bc7549074548acceb"
 metafile = true
 
 [[files]]

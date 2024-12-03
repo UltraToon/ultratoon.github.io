@@ -41,12 +41,12 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-craftables;
+	recipe-book-action: toggle-visibility;
 
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: left;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -71,7 +71,7 @@
 	/**
 	 * The unit to display fluids as.
 	 */
-	fluid-unit: liters;
+	fluid-unit: millibuckets;
 
 	/**
 	 * Whether to use the batched render system. Batching is faster, but may have
@@ -93,7 +93,17 @@
 	/**
 	 * Which sidebar type to focus when the search is empty.
 	 */
-	empty-search-sidebar-focus: none;
+	empty-search-sidebar-focus: craftables;
+
+	/**
+	 * Whether the EMI config button should be visible.
+	 */
+	emi-config-button-visibility: shown;
+
+	/**
+	 * Whether the recipe tree button should be visible.
+	 */
+	recipe-tree-button-visibility: auto;
 
 	/**
 	 * The maximum height the recipe screen will grow to be if space is available in
@@ -152,7 +162,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -162,7 +172,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 8, 7;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -172,7 +182,7 @@
 	/**
 	 * Where to position the left sidebar
 	 */
-	left-sidebar-align: left, top;
+	left-sidebar-align: right, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
@@ -182,32 +192,32 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: transparent;
+	left-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index;
+	right-sidebar-pages: craftables, index, favorites;
 
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: craftables 1;
+	right-sidebar-subpanels: none;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 8, 7;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 20, 20, 20, 20;
+	right-sidebar-margins: 2, 2, 2, 2;
 
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: right, top;
+	right-sidebar-align: left, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
@@ -298,7 +308,7 @@
 	toggle-visibility: "ctrl key.keyboard.o";
 
 	/**
-	 * Focuse the search bar.
+	 * Focuses the search bar.
 	 */
 	focus-search: "ctrl key.keyboard.f";
 
