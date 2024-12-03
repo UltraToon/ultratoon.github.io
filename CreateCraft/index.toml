@@ -22,7 +22,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "ea47a8971cd80991fcf4b55fc23168b1e094b4665ae02abd8d03a46eef6ecdb3"
+hash = "72eadf7d59e99da97dd192c1e8c8a24dbf7c417c7a913ef818a3a8b41f1389ff"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -34,7 +34,7 @@ hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "0c7bce18b789113e0e9fe7197228d0a3f36887496d71cbe4932633d68e1e2cae"
+hash = "44e72ac38a899c48ab91a35d427bf403ca2702a23d2c9fd0c259c5b629c80f37"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -58,7 +58,7 @@ hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2ff9f937becfda1948ffcb513667aa49a799d5844401dc412462ff60e71b90da"
+hash = "19c1a178112cf6fe55b2bfd1a612d49e7bfef396eb417a20e44111d238e345cc"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
