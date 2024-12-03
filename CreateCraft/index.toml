@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d590152451869b55fedbb88490e2b20e514b994adaff13fea374d763d2f3fb77"
+hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4cb3a4d97a207e4f0891fa31fefbb2b9090d07ddc897f2aa5c602f3a5e4cc3d1"
+hash = "e208db5949d740af56dc496ede6b6bf18be256f3a0c5a589b128ec7a402f615f"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
