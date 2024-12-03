@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "3d39e3f7a0bee98a938ede58764bffad1f1fb33c48dcb9570b6c0b10939fb449"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "d32b5b05a7efa581c2017456610a745abcff55635ad13a40ceb37abb79f3eacb"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "8f0232d7ff96c281c4ac90ea7892ff5a559085e6d0a48260c35aa0d346a41fc2"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "63d0b4e6a38e61f8deffabb28968ce360eee398d29f3ef63d68aaaad02a691be"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "54d56e62cc589ed836efd59f5edb819b41bb94a4d824524ec4410173ea2d79c8"
 metafile = true
