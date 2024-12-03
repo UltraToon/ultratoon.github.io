@@ -41,6 +41,10 @@ file = "config/moreculling.toml"
 hash = "8f0232d7ff96c281c4ac90ea7892ff5a559085e6d0a48260c35aa0d346a41fc2"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "194044f3ddfc2917a53b1b01a05cc00a752854c50c5b99ac63aa78906891fc25"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
 
@@ -58,7 +62,7 @@ hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b61d3baaef3241d81dd54240a49ac22d6586dfae3fddcfbda2cdfa443189e9ce"
+hash = "14f018412aff5879cf96aeb1863a0017cd187e0b3f5f7417e9df7b8121097cf5"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -173,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "3e9b6969df15bf6fc56840fddfd1d38744f558d5a903e4b80e6c1bde52e46290"
-metafile = true
-
-[[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "6a86fc0be268b1e90cb9ff397f105b14181a3df3fdcc4cb273d0357d3a49353d"
 metafile = true
 
 [[files]]
@@ -463,11 +462,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-immersive-aircrafts-data-pack.pw.toml"
-hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
 metafile = true
 
 [[files]]
