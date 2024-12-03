@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "2e6e486766a67af1772874d16a715638e9e769c1d7353e8819e9d76342c81f01"
+hash = "31e031e1e75b551ed02507dead1e3bb12a22dc7c2bb2658312cc8f6950eb0755"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "831512d32dca29c875882bf6d612054c171f6ad2b5e87eb0e69a227b26209448"
+hash = "0e0878b16c8cd2f112597e47e6e2411287e8ef4e9b6bbec44a433f008b512d65"
 metafile = true
 
 [[files]]
@@ -340,8 +340,13 @@ hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "b9c46de0fcb623eb747743e240f00a376e5243fc2b2b1e9b26e90e3c003e7a39"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "63839e2846c860c6a545c1756220f9cc751d513eec32dc764628a32c5739d95f"
+hash = "6a35e1cb7d8a681459740410d033fba0cdcde1fed7e5886985c0412b7bdeb5ee"
 metafile = true
 
 [[files]]
@@ -356,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "76a6f4db0e9d0d4290cf56ee1c5e1d2f47616f02602709ae53d9cca9ca0bb46e"
+hash = "5c707050537b081afb9bd1f68560c166d35eaebc095a64a9f21c3b0329c5c807"
 metafile = true
 
 [[files]]
@@ -416,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+hash = "2296aaae436965ab309b283d700cc49bc2a118c1c196e137797ad84d19fd6eb1"
 metafile = true
 
 [[files]]
