@@ -21,10 +21,6 @@ file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
-file = "config/global_data_and_resourcepacks.toml"
-hash = "72eadf7d59e99da97dd192c1e8c8a24dbf7c417c7a913ef818a3a8b41f1389ff"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
 

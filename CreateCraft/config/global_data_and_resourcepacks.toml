@@ -1,9 +1,0 @@
-[resourcepacks]
-required = []
-
-[datapacks]
-required = [
-    "resourcepacks/"
-]
-
-optional = []
