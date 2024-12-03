@@ -435,6 +435,11 @@ hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "f71396b186ce5ecec39923831d890c2e70edc4dc2c65a6c07d70a77db9e77aa1"
 metafile = true
