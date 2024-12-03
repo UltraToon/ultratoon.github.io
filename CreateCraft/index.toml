@@ -9,6 +9,10 @@ file = "config/c2me.toml"
 hash = "3d39e3f7a0bee98a938ede58764bffad1f1fb33c48dcb9570b6c0b10939fb449"
 
 [[files]]
+file = "config/emi.css"
+hash = "9e6b553c5237451270d1d1f45b185c46e6e14183a71282dd9cb9db84b10eaa85"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
@@ -191,8 +195,23 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "44efbd1c8561f3431c31e7c49deb433d0a9e48e4b3dd2ed78251120ce8baa315"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ca512e9453708c8b4e145e9a24d7b74603ea7d4737f03028c7f1b9f4cdb0bc2d"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
 
 [[files]]
@@ -228,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "7f99d01b59f1cdb90e42367cef097b9ddf1539c82bba8f4693cadb3a25ec636f"
 metafile = true
 
 [[files]]
@@ -268,11 +292,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0e9b4a996662c249debac700d6f50f3f5de3c70851f9c752814233cb14375730"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "93eae4c1e9899ecd8472208d67138b7043340eccd83433dffdc0d44604f5d5c1"
 metafile = true
 
 [[files]]
