@@ -145,6 +145,11 @@ hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "7d8fe92da9ff5b1a8d370c5e68c2e29ba68b400660266347106d7d9ec6f71182"
+metafile = true
+
+[[files]]
 file = "mods/create-connected-fabric.pw.toml"
 hash = "d98a04d6e59566b368d7c549dca1a6004f714bcc8a1d8e790cf3700fd8180c32"
 metafile = true
