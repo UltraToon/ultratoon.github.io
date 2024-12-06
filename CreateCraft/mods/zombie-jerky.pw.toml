@@ -1,0 +1,13 @@
+name = "Zombie Jerky [ Fabric ]"
+filename = "fabric-zombie-jerky-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d68afd9cfbc5f8369f23beeab34b6903c31eeb0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5390380
+project-id = 432819
