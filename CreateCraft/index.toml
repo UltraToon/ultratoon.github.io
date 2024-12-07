@@ -355,6 +355,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "cd1e54a0717ec21306365b8a87869bfad2afb694d273c83367eac9028775ae8d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "4200aa5f5da6e8eee3eaf057da296b9d72a53b8b0fce66a19cb368d243bfde5d"
 metafile = true
