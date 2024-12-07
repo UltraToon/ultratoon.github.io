@@ -191,12 +191,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "97d2e9ab747c3dbef852e239b7c2638df45dca8085c5889a9d021cbcb0e0f075"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "cf8fc65e09bf5baef6b6681de9c505d4ab8661f61f53603544a07ef5df12c20d"
 metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "3e9b6969df15bf6fc56840fddfd1d38744f558d5a903e4b80e6c1bde52e46290"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7829eb3d2bb0e05cc590404dcc35c8803d4f3985c711884fe304ff7900e85389"
 metafile = true
 
 [[files]]
@@ -325,6 +335,11 @@ hash = "0e9b4a996662c249debac700d6f50f3f5de3c70851f9c752814233cb14375730"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "0e0878b16c8cd2f112597e47e6e2411287e8ef4e9b6bbec44a433f008b512d65"
 metafile = true
@@ -422,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "b9c46de0fcb623eb747743e240f00a376e5243fc2b2b1e9b26e90e3c003e7a39"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
