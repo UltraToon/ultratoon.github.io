@@ -85,6 +85,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "9f8df5cd59d9d9bcccbeff4acd3950c380ec20ca535cadb7e050fa1e33462ce7"
+metafile = true
+
+[[files]]
 file = "mods/auditory-continued.pw.toml"
 hash = "3f05d2ae8352c982c9c3e7fe0b3a22b8845be2b89a6a113aeb8cf00346062577"
 metafile = true
@@ -442,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
+metafile = true
+
+[[files]]
+file = "mods/shuffle.pw.toml"
+hash = "d69b62e93867d009ee798cc5a2fc38500d617ffc6edcc8a4511689d4c48ad13c"
 metafile = true
 
 [[files]]

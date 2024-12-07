@@ -1,0 +1,13 @@
+name = "Shuffle"
+filename = "shuffle-fabric-9.0.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WUvGZLgB/versions/sPce9t3y/shuffle-fabric-9.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "4f4532dbd41e4ce83ce5e2dc31c38cd91776ae59"
+
+[update]
+[update.modrinth]
+mod-id = "WUvGZLgB"
+version = "sPce9t3y"
