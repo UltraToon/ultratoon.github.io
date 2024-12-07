@@ -100,11 +100,6 @@ hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "7ba990ce2509a23376debc95dc2ffdbe46cc3975c9d1aa1c6a6b02db66ccea87"
 metafile = true
@@ -200,6 +195,11 @@ hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "df683b2d57412c600a5e0b0ed80392bd59052511d821aab624101f62b03206b2"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "cf8fc65e09bf5baef6b6681de9c505d4ab8661f61f53603544a07ef5df12c20d"
 metafile = true
@@ -285,6 +285,11 @@ hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
 metafile = true
 
 [[files]]
+file = "mods/fxnt-create-storage.pw.toml"
+hash = "ee95957047529759ed16bfc5eb70883c4fc462b759bfa087b794ee86d2f87e05"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "7f99d01b59f1cdb90e42367cef097b9ddf1539c82bba8f4693cadb3a25ec636f"
 metafile = true
@@ -312,6 +317,16 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "030dd0477a7fb9815fda9ee031dd652a382a3436bba596ab4e628802d05b971f"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "b0f4b48c7e028dfea65c221c40b7203fb3ed48b2453d7d45e9a2640a3f2f7ad2"
 metafile = true
 
 [[files]]
