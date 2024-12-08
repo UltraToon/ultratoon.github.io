@@ -9,6 +9,14 @@ file = "config/c2me.toml"
 hash = "3d39e3f7a0bee98a938ede58764bffad1f1fb33c48dcb9570b6c0b10939fb449"
 
 [[files]]
+file = "config/cull-less-leaves.json"
+hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+
+[[files]]
 file = "config/emi.css"
 hash = "f742289d0a3f9e240cb7035c786767d18c6b608326823eb6a8cad0043da6edf1"
 
@@ -30,7 +38,7 @@ hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
+hash = "e6490f4cc4446999df023122804fb0cee57481cdc3a1531a3c50a437ffd7cc7e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -39,6 +47,10 @@ hash = "44e72ac38a899c48ab91a35d427bf403ca2702a23d2c9fd0c259c5b629c80f37"
 [[files]]
 file = "config/moreculling.toml"
 hash = "8f0232d7ff96c281c4ac90ea7892ff5a559085e6d0a48260c35aa0d346a41fc2"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -317,16 +329,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
-metafile = true
-
-[[files]]
-file = "mods/integrated-api.pw.toml"
-hash = "030dd0477a7fb9815fda9ee031dd652a382a3436bba596ab4e628802d05b971f"
-metafile = true
-
-[[files]]
-file = "mods/integrated-stronghold.pw.toml"
-hash = "b0f4b48c7e028dfea65c221c40b7203fb3ed48b2453d7d45e9a2640a3f2f7ad2"
 metafile = true
 
 [[files]]
