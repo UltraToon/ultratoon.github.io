@@ -6,6 +6,11 @@ hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "268f35112d9b1637f9d5e7beea999d9dbda8ae746d1d98fb2cd8e23c5f5ac98f"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
 metafile = true
 
 [[files]]
@@ -36,6 +46,11 @@ hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "1ea13b5d62c61c7cdbdd69db1e7a9c0ffded53e18454527282b6c4b901d89f36"
 metafile = true
@@ -56,6 +71,11 @@ hash = "54943bb78f42b06ae8312e0cb4b1e97492e5e1407500d8495149f5b40205bda5"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "f684e2251ae867923da13bf75df42e1086a0f50018ab4c70eaf4b888d52b7251"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
 metafile = true
@@ -71,6 +91,16 @@ hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "3272f1c8e94191a33400bf0b790bf50a3cac71b6029db3344ddcf9cc5a85631b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "298501d10980ed74135b92bb0ce3aea2008094c682176cdcf9e6274c03690407"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
@@ -81,8 +111,18 @@ hash = "0b0b2c7e921305404fe652e860a245687a4cd90b512ff74a85208fab8b437e28"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d848c65a8efab21ca7ac671104c53afbb295ddfb60f9987c103435b44ec27aff"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "2d82970956a15ded6c9edda34ec047ac9bb7655736da5d1beaa2e829d4c88d70"
 metafile = true
 
 [[files]]
@@ -91,8 +131,23 @@ hash = "f5949130a686b8d76f9d6131ad5d50b2021a3387d7755dccb8bae57f8d5c506e"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "4c0636c6a1ff3b53f8a85ca3283e07d4296f02f083b3ed1ecb837b6eaaaa7e93"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
 
 [[files]]
@@ -101,11 +156,31 @@ hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "5272e11044b75ff850de0617b4a5cf0e3e7e0467b8cf542a24b88ed72bfbb983"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "dbfc9aa1442ee8975bccc78834e17ddadc9bd74a8951a009ee8c03713ebd4830"
+metafile = true
+
+[[files]]
+file = "mods/tweakerge.pw.toml"
+hash = "f171f0971c6ab2d92e9934df424ff18030789da783df65dcae90a5d14d8338d2"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "943c497e1f537129a6eaaed1886f89043f0c06753e199abe890c5385ba026069"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
