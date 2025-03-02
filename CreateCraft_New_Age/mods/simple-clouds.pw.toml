@@ -1,0 +1,13 @@
+name = "Simple Clouds"
+filename = "simpleclouds-0.6.3+1.21-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LtZfKhel/versions/ZTMGu8Uk/simpleclouds-0.6.3%2B1.21-all.jar"
+hash-format = "sha512"
+hash = "7a926058bc4f0a1ee38bcf8eec4dd953ea9c633346290a523eba5108c2058ece528587440e2b0bd110e7b5f922ec904e3272a236dc52466f8e408fb90f10b92a"
+
+[update]
+[update.modrinth]
+mod-id = "LtZfKhel"
+version = "ZTMGu8Uk"

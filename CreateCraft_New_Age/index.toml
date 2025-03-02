@@ -26,11 +26,6 @@ hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
@@ -76,6 +71,11 @@ hash = "f684e2251ae867923da13bf75df42e1086a0f50018ab4c70eaf4b888d52b7251"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "e8e70aea617237c1ad95883dba901d8e9b7570cb52f885d38b33a3e7db47da81"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
 metafile = true
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "0b0b2c7e921305404fe652e860a245687a4cd90b512ff74a85208fab8b437e28"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
 metafile = true
 
 [[files]]
@@ -151,6 +156,16 @@ hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "225fad05428589bf0efe18c3540a9103eaf3280fa15ad1293ef04efa3318b14f"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
 metafile = true
@@ -158,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "5272e11044b75ff850de0617b4a5cf0e3e7e0467b8cf542a24b88ed72bfbb983"
+metafile = true
+
+[[files]]
+file = "mods/simple-clouds.pw.toml"
+hash = "9e275755771bf00e11623c65c0faaaea74af097a2d738dfb79bce05c41f0cbf0"
 metafile = true
 
 [[files]]
@@ -171,8 +191,28 @@ hash = "dbfc9aa1442ee8975bccc78834e17ddadc9bd74a8951a009ee8c03713ebd4830"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
+metafile = true
+
+[[files]]
 file = "mods/tweakerge.pw.toml"
 hash = "f171f0971c6ab2d92e9934df424ff18030789da783df65dcae90a5d14d8338d2"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "21f2fe5e9a7adc5ba8c5e8c47243002fe17b64dce90227d9ed8c3207af152422"
 metafile = true
 
 [[files]]
