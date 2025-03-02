@@ -46,6 +46,11 @@ hash = "552ac54a4cc206dcc3214c24170ba501e25cd4066ead732959c05c69ede0b5c3"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "bbb1ee402d978d122fb440e43b1225b6fc048490313461954d74a9c8ea48642e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
 metafile = true
@@ -61,6 +66,11 @@ hash = "27ffeceea1bb50c9d613538924e7b37e1bc36e3bbaf9839f2b5abd47bf941838"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
 metafile = true
@@ -73,6 +83,21 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "48c96f96c87d8b4a4d74c5e1b60beb3adcdf9accd3c284e5cfc8ffc8aab9808b"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "074a008d586ffe3f37feadb8bf9fd655e8fae055564f7af47cee7d785d452267"
 metafile = true
 
 [[files]]
@@ -103,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
@@ -226,6 +256,11 @@ hash = "4c0636c6a1ff3b53f8a85ca3283e07d4296f02f083b3ed1ecb837b6eaaaa7e93"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "6092d22901ad01c854380e2946a27e193fcdd4340889d5fe8f790b8a36d24a26"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
@@ -258,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -303,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1ea93119aea75c88b41e9a45ce392b763a68444a29b245221165494e25387bb0"
 metafile = true
 
 [[files]]
