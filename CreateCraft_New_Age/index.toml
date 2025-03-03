@@ -5,6 +5,14 @@ file = "autoupdatecmd.txt"
 hash = "e65b4eefcebc29baebe2829c5e7ab37a5dcedb1aec703db05ea83ecd940ad2af"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "25e23f3558dbf8b012367d88e1c1f5ce1c7e31d9cfae2012f80f9154283e5d5c"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "9c3f531560f222f9a75ef157e8cbf94a9887fc1ac98c3fcca77c1491286cc22e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
 metafile = true
