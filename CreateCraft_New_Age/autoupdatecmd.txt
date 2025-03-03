@@ -1,0 +1,1 @@
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/UltraToon/ultratoon.github.io/refs/heads/main/CreateCraft_New_Age/pack.toml

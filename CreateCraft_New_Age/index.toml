@@ -11,6 +11,11 @@ hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "29ee18f6cc9ff4948029892820bd83dd645580691e79bae2192711d54bc38e89"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
+metafile = true
+
+[[files]]
+file = "mods/aviator-dreams.pw.toml"
+hash = "95d8df57628b0ad746e8be769f5ce357f64d39249dd9e575f317b573e3523bd2"
 metafile = true
 
 [[files]]
@@ -58,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
-metafile = true
-
-[[files]]
-file = "mods/charmonium.pw.toml"
-hash = "c615510ba8f891872c0ad705a47bb55bdeef65c9f148024851be942feb60c59c"
 metafile = true
 
 [[files]]
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2b7e219bada386ccaef89cfc13e67a0f8420728d73bfb8519f27b8c96615182b"
 metafile = true
 
 [[files]]
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "8da78a0ede953607199bdb40864ac978a9d28be418a5b60037d6b3f91ba59d13"
 metafile = true
 
 [[files]]
