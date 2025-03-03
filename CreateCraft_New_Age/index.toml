@@ -36,6 +36,11 @@ hash = "268f35112d9b1637f9d5e7beea999d9dbda8ae746d1d98fb2cd8e23c5f5ac98f"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "5af1ab48d40722d15489800cdd9cf14e816a094f0b18232a3746d0362ac38684"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "407e593de87937b8131b322ec034b2f5671f4210d2123451d630560d7918824a"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "e8e70aea617237c1ad95883dba901d8e9b7570cb52f885d38b33a3e7db47da81"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
@@ -343,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
