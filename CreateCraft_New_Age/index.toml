@@ -106,6 +106,11 @@ hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
@@ -363,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "943c497e1f537129a6eaaed1886f89043f0c06753e199abe890c5385ba026069"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "9de861902c7a3f7cc88f51a920bbf93be84f2beca2206073eb511a2963d37914"
 metafile = true
 
 [[files]]
