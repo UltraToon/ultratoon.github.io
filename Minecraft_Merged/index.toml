@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "92d72f5285be384347c246b4f6edfa08bf4eb8e162eea8cc9597686ed825f955"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "15b88bd2a5af445cf36c8c0388d19ca94e4ad8a0b24ce6206822a847426f930b"
+
+[[files]]
+file = "config/emi.css"
+hash = "46dcc18454b0470d54b1931acfd347f009ef5eedb9ae488c156f3408b931d1d1"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
@@ -76,18 +88,8 @@ hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-content.pw.toml"
-hash = "cfb76142e1e5691867d4c6212a26d0098059cafa7f3a455d93a31811ff2fe299"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "d85616e93899be77080aeac6ce9b120eed76dd29981b794722797e2ae07a2f88"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "a9b49e95db3a99d60c1c19e6814ca7d314f1ae4f1c8c77ab65a622ffef087915"
 metafile = true
 
 [[files]]
@@ -141,6 +143,11 @@ hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
 metafile = true
@@ -166,13 +173,13 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-dungeons-content.pw.toml"
-hash = "c16c0df9435108c8f0b5d35a1a8f4c030193d4159fcca826121d6b7c8d6b3ab5"
+file = "mods/modernfix.pw.toml"
+hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+file = "mods/moonlight.pw.toml"
+hash = "2ad92a3b23a7e8944ac872caee3d73cd7bd5046bcc6a9a5635533ba3cf5660b1"
 metafile = true
 
 [[files]]
