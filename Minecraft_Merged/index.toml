@@ -6,6 +6,11 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "1bedf1b1cc49bca9ab53d5d63a6da8034af4f8d15565ff7983cc37871c25a3bd"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -41,6 +46,11 @@ hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-content.pw.toml"
+hash = "cfb76142e1e5691867d4c6212a26d0098059cafa7f3a455d93a31811ff2fe299"
 metafile = true
 
 [[files]]
