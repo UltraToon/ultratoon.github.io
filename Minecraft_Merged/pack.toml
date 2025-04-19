@@ -1,0 +1,13 @@
+name = "Minecraft Merged"
+author = "ultratoon"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bb13487d835c9e44f549acab8db43b1bbab4b6b05af2546651ae4ae87f080f78"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
