@@ -6,11 +6,6 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "1bedf1b1cc49bca9ab53d5d63a6da8034af4f8d15565ff7983cc37871c25a3bd"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -31,6 +26,11 @@ hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
 metafile = true
 
 [[files]]
+file = "mods/better-trees.pw.toml"
+hash = "eb17b0f883e87b2db95b64a32ee0fb68097a9752892ecdc425ab0a149d09e129"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "99e5f6aef604ebfc4a7ab9ae149c5246535392886ed428bf8a30751b206bbbe4"
 metafile = true
@@ -38,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
+metafile = true
+
+[[files]]
+file = "mods/clifftree.pw.toml"
+hash = "2a88287148ae0ab3a4625dfa35ec4849464b87c8555d02e68bfdbb3f0f431bde"
 metafile = true
 
 [[files]]
@@ -81,6 +86,11 @@ hash = "d85616e93899be77080aeac6ce9b120eed76dd29981b794722797e2ae07a2f88"
 metafile = true
 
 [[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "a9b49e95db3a99d60c1c19e6814ca7d314f1ae4f1c8c77ab65a622ffef087915"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true
 
 [[files]]
@@ -183,6 +198,16 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "4684da1c9486b17aa9029f441b8b573a738bd256f413c30279950d2c9e8fe34f"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "604edd7e35da63507548276e57328d2f066fd2c58184f11b7605d2ee49bd5b42"
 metafile = true
 
 [[files]]
