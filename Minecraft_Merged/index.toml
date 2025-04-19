@@ -166,6 +166,11 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-dungeons-content.pw.toml"
+hash = "c16c0df9435108c8f0b5d35a1a8f4c030193d4159fcca826121d6b7c8d6b3ab5"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
