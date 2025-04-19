@@ -1,0 +1,13 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-forge-1.20.1-8.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/wDu3YDC6/inventoryessentials-forge-1.20.1-8.2.7.jar"
+hash-format = "sha512"
+hash = "e2f54091484e32946574c14db30e217f292490c267ecc436f5b12297a6b260242e651595f6fbe6002e1b43a69586a968e7eb00ac59d25c199cb44d518ee87a81"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "wDu3YDC6"

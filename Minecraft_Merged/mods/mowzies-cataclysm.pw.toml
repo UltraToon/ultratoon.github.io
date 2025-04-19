@@ -1,0 +1,13 @@
+name = "Mowzie's Cataclysm"
+filename = "mowzies_cataclysm-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7UsJsd1y/versions/62mVzgAp/mowzies_cataclysm-1.2.0.jar"
+hash-format = "sha512"
+hash = "813e340727547773595a21c33ec79f619ffa5ca50fcc86decc1bd706a021133f4de9ca583fb6ad99f9b577335eda9c365fe538ae045c9998667a7f0200492cb8"
+
+[update]
+[update.modrinth]
+mod-id = "7UsJsd1y"
+version = "62mVzgAp"

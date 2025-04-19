@@ -1,0 +1,13 @@
+name = "The Root of Fear"
+filename = "rootoffear-1.20.1-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/44mGKYce/versions/VsHmNiXf/rootoffear-1.20.1-1.0.10.jar"
+hash-format = "sha512"
+hash = "92eb253e36b14d0c1d49b3f8945947c44d331a7d4338194c24eb841e91ce15626a8d1301dade57b54c6ccb586c1e6d21420f3ed1f9b1d2a9b57a109b90638cc2"
+
+[update]
+[update.modrinth]
+mod-id = "44mGKYce"
+version = "VsHmNiXf"
