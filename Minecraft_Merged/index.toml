@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "05675ca5db90b84eefa0b174a7bddee84ccda0d2eda14a8d44a4e5c1d0c0791b"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "92d72f5285be384347c246b4f6edfa08bf4eb8e162eea8cc9597686ed825f955"
 
@@ -120,11 +124,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
-metafile = true
-
-[[files]]
-file = "mods/exileds-boss-music-mod.pw.toml"
-hash = "5dadafc70ca290ce19108eab6888c11e78551d0c7e50b5bb23cff4012cbb107c"
 metafile = true
 
 [[files]]
