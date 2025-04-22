@@ -138,6 +138,11 @@ hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items-reforged.pw.toml"
+hash = "722950486d3b82eef5882f3b8dff190804a19a83857cde3a16ae938977e36772"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
