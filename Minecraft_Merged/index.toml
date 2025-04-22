@@ -13,6 +13,11 @@ file = "config/emi.css"
 hash = "46dcc18454b0470d54b1931acfd347f009ef5eedb9ae488c156f3408b931d1d1"
 
 [[files]]
+file = "mods/alexs-mobs-extra-music.pw.toml"
+hash = "7454168269bc96ba35aaa0d51f50ca537e62a0c0ddfab4c490158f395849cdd8"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
@@ -40,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/better-trees.pw.toml"
 hash = "eb17b0f883e87b2db95b64a32ee0fb68097a9752892ecdc425ab0a149d09e129"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
@@ -113,6 +123,11 @@ hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
+file = "mods/exileds-boss-music-mod.pw.toml"
+hash = "5dadafc70ca290ce19108eab6888c11e78551d0c7e50b5bb23cff4012cbb107c"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
@@ -135,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
+metafile = true
+
+[[files]]
+file = "mods/grace.pw.toml"
+hash = "1128169561082c465c6bddce124e0b87b120d253dddd53ed9851910b9564862e"
 metafile = true
 
 [[files]]
@@ -228,6 +248,11 @@ hash = "604edd7e35da63507548276e57328d2f066fd2c58184f11b7605d2ee49bd5b42"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
@@ -243,6 +268,11 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/terramity.pw.toml"
+hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
+metafile = true
+
+[[files]]
 file = "mods/the-root-of-fear.pw.toml"
 hash = "66a5bdf6490b038a00160f6d819a82845fe1c437106fe663cba3dba65b895b91"
 metafile = true
@@ -250,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "592b8163d8c37719226b9f6801902efa4349a47e1f3b8a3d4b2c08a6c8a743d7"
 metafile = true
 
 [[files]]
@@ -265,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "9f036fd7c6a35da985a6bb653ec6f3bcb21a82fdafbfa355f3bb560139d21b71"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
