@@ -1,6 +1,6 @@
 {
-	"pack:" {
-		"description": "Modpack configurations, KEEP ON."
+	"pack": {
+		"description": "Modpack configurations, KEEP ON.",
 		"pack_format": 15
 	},
 	"filter": {

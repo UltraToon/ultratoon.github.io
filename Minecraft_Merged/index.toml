@@ -384,7 +384,7 @@ hash = "f009ea51b4c4cd072e22aff91d90e8b962267d66ff0ac63acbcda27ad98c6e8b"
 
 [[files]]
 file = "patchouli_books/guide_book/en_us/entries/lore/lore_entry.json"
-hash = "7c6f2ffd150bf046afd90b94858fc657139d26bc3173dc1b3cb0ebd274f067a7"
+hash = "5e8c4c66bbd330f95136e24e181c4aab6f1ca344d99f6e6bbfb0301b9c8792d0"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
@@ -405,7 +405,7 @@ hash = "ba3754c2001ca8d6ae22bf7e18387cd65ab92b68ed9eb968ac4ca1494176f80f"
 
 [[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"
-hash = "86ec636f5eb250a92c85711c182259707e65d024d57f87a67bb43687a4ca9f56"
+hash = "75a7c5a41d41555eafc8b1e47eedbb0233d69f01008efa539149e6d09f32166f"
 
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"

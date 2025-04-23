@@ -1,6 +1,7 @@
 {
     "name": "Lore",
     "icon": "minecraft:writable_book",
+    "category": "patchouli:lore_category",
     "pages": [
         {
             "type": "patchouli:text",
