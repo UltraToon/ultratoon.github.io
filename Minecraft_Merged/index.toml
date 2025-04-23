@@ -25,22 +25,6 @@ file = "config/endrem.toml"
 hash = "4e82a21cc52ba9597ac9fda3a3d61215ab283f209fda9120a7b691cca93642e6"
 
 [[files]]
-file = "modpack-config/.zip"
-hash = "0b3e1c0982ecd63731f51a8093eb43b1a6d694e2ad6ebae06bb4ef18f86f2549"
-
-[[files]]
-file = "modpack-config/data/guide_book/advancements/grant_book_on_first_join.json"
-hash = "94bdb9956bef22ca7c140873076af931a290af10d2461614a058ec4802890efe"
-
-[[files]]
-file = "modpack-config/data/guide_book/loot_tables/grant_book_on_first_join.json"
-hash = "ba3754c2001ca8d6ae22bf7e18387cd65ab92b68ed9eb968ac4ca1494176f80f"
-
-[[files]]
-file = "modpack-config/pack.mcmeta"
-hash = "86ec636f5eb250a92c85711c182259707e65d024d57f87a67bb43687a4ca9f56"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -198,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
 
 [[files]]
@@ -401,6 +390,22 @@ hash = "7c6f2ffd150bf046afd90b94858fc657139d26bc3173dc1b3cb0ebd274f067a7"
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modpack-config/.zip"
+hash = "0b3e1c0982ecd63731f51a8093eb43b1a6d694e2ad6ebae06bb4ef18f86f2549"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/guide_book/advancements/grant_book_on_first_join.json"
+hash = "94bdb9956bef22ca7c140873076af931a290af10d2461614a058ec4802890efe"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/guide_book/loot_tables/grant_book_on_first_join.json"
+hash = "ba3754c2001ca8d6ae22bf7e18387cd65ab92b68ed9eb968ac4ca1494176f80f"
+
+[[files]]
+file = "resourcepacks/modpack-config/pack.mcmeta"
+hash = "86ec636f5eb250a92c85711c182259707e65d024d57f87a67bb43687a4ca9f56"
 
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"
