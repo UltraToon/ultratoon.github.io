@@ -396,12 +396,12 @@ file = "resourcepacks/modpack-config/.zip"
 hash = "0b3e1c0982ecd63731f51a8093eb43b1a6d694e2ad6ebae06bb4ef18f86f2549"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/guide_book/advancements/grant_book_on_first_join.json"
-hash = "94bdb9956bef22ca7c140873076af931a290af10d2461614a058ec4802890efe"
+file = "resourcepacks/modpack-config/data/patchouli/advancements/grant_book_on_first_join.json"
+hash = "37cfc8e263af72459cc4dbf9cb53a212a902733ea9d1aa0558abf8be3b15dafc"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/guide_book/loot_tables/grant_book_on_first_join.json"
-hash = "ba3754c2001ca8d6ae22bf7e18387cd65ab92b68ed9eb968ac4ca1494176f80f"
+file = "resourcepacks/modpack-config/data/patchouli/loot_tables/grant_book_on_first_join.json"
+hash = "8fd632edf53dc9465b80c732e2b4d8ff0195fa6b5e7e099d3a3114e1778faaa9"
 
 [[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"
