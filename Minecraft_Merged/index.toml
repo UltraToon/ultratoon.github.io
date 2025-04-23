@@ -17,6 +17,11 @@ file = "config/emi.css"
 hash = "46dcc18454b0470d54b1931acfd347f009ef5eedb9ae488c156f3408b931d1d1"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-extra-music.pw.toml"
 hash = "7454168269bc96ba35aaa0d51f50ca537e62a0c0ddfab4c490158f395849cdd8"
 metafile = true
@@ -37,6 +42,16 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/arkane-domains.pw.toml"
+hash = "4a18ae02479f100a8323bd10eec389fbae7008288e4360326d596be5b379ba82"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
@@ -44,6 +59,16 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
 
 [[files]]
@@ -69,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/clifftree.pw.toml"
 hash = "2a88287148ae0ab3a4625dfa35ec4849464b87c8555d02e68bfdbb3f0f431bde"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -99,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
+metafile = true
+
+[[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "5ad19b15bfa230f578faa0cfbe5cf4e6c824c707eec184d05844ea90e1cd826f"
 metafile = true
 
 [[files]]
@@ -157,6 +192,11 @@ hash = "1128169561082c465c6bddce124e0b87b120d253dddd53ed9851910b9564862e"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
@@ -174,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
@@ -197,6 +242,11 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "4b67c06d2041eadb1ce4d504987cdbb37e5e7c63f2ef0a09debe434ae909eabb"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
@@ -207,6 +257,11 @@ hash = "2ad92a3b23a7e8944ac872caee3d73cd7bd5046bcc6a9a5635533ba3cf5660b1"
 metafile = true
 
 [[files]]
+file = "mods/more-advancements-mod-fabric.pw.toml"
+hash = "e160588b838872727b60c073d7daaff7ca484966797bdd96b4255c30a85375b4"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-cataclysm.pw.toml"
 hash = "427589fd8d3a116fd28a1523ecca8ffd42e083b9556b78cc13667163751143d2"
 metafile = true
@@ -214,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "89290315b6a193b9fb134b53f881583a80c9f4cc5d4293a8b903681574c53b47"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
 metafile = true
 
 [[files]]
@@ -237,6 +297,11 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
+file = "mods/pale-garden-backport.pw.toml"
+hash = "7b736762e240861c6672e6538adabd2808abf65c7266aa0de38a1fc0aefdc12d"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "4684da1c9486b17aa9029f441b8b573a738bd256f413c30279950d2c9e8fe34f"
 metafile = true
@@ -249,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
@@ -267,8 +337,28 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
+metafile = true
+
+[[files]]
+file = "mods/sounds-of-the-forest.pw.toml"
+hash = "a632167cdbc7cfd28254dcc799877a1ea4ad717100539fe77ac947c56bfe02f8"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
 file = "mods/terramity.pw.toml"
 hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
+metafile = true
+
+[[files]]
+file = "mods/the-masquerade-(illager-boss).pw.toml"
+hash = "f0275610058b217f3eb890e2331f0d9a82fd586f28ebf5212ec1f1fd0a5722bc"
 metafile = true
 
 [[files]]
@@ -304,4 +394,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"
 hash = "cf829960e7f98d5bed6dbc7ccfc9e25a2f639ede3354ed6c6dea059f3d77037f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/overlays.pw.toml"
+hash = "db362cc15a6a6cc6d71bcf284e2a2d3649aacb39c1f90598986dddca727f1b76"
 metafile = true
