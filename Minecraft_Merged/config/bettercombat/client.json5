@@ -5,7 +5,7 @@
 	"isAttackInsteadOfMineWhenEnemiesCloseEnabled": true,
 	"isHighlightCrosshairEnabled": false,
 	"hudHighlightColor": 16711680,
-	"isShowingArmsInFirstPerson": true,
+	"isShowingArmsInFirstPerson": false,
 	"isShowingOtherHandFirstPerson": false,
 	"isSweepingParticleEnabled": true,
 	"isTooltipAttackRangeEnabled": true,
