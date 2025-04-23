@@ -1,0 +1,13 @@
+name = "ARKANE DOMAINS"
+filename = "arkane_domains-1.1.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eedb57bc54f09707cf74797c0c5f422085299ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6431264
+project-id = 1112669
