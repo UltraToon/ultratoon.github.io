@@ -1,0 +1,18 @@
+{
+	"pack:" {
+		"description": "Modpack configurations, KEEP ON."
+		"pack_format": 15
+	},
+	"filter": {
+		"block": [
+		{
+			"namespace": "endrem",
+			"path": "loot_tables"
+		},
+		{
+			"namespace": "endrem",
+			"path": "recipes"
+		}
+		]
+	}
+}

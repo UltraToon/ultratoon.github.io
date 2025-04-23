@@ -51,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: left-compressed;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -103,7 +103,7 @@
 	/**
 	 * Whether the EMI config button should be visible.
 	 */
-	emi-config-button-visibility: hidden;
+	emi-config-button-visibility: auto;
 
 	/**
 	 * Whether the recipe tree button should be visible.
