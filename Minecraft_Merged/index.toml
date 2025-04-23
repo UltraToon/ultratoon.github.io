@@ -375,16 +375,16 @@ hash = "9f036fd7c6a35da985a6bb653ec6f3bcb21a82fdafbfa355f3bb560139d21b71"
 metafile = true
 
 [[files]]
-file = "patchouli_books/guide_book/book.json"
-hash = "109f2e61bfc72e58b3c261d26c55c91f80c1faf09219c0b868c0620c78810549"
+file = "patchouli_books/modpack_info/book.json"
+hash = "44d16b40d8b1c7515b50fdcd48c1e56cd2645c20c7b7aafcce025546bf144fd8"
 
 [[files]]
-file = "patchouli_books/guide_book/en_us/categories/lore_catgory.json"
+file = "patchouli_books/modpack_info/en_us/categories/lore_catgory.json"
 hash = "f009ea51b4c4cd072e22aff91d90e8b962267d66ff0ac63acbcda27ad98c6e8b"
 
 [[files]]
-file = "patchouli_books/guide_book/en_us/entries/lore/lore_entry.json"
-hash = "5e8c4c66bbd330f95136e24e181c4aab6f1ca344d99f6e6bbfb0301b9c8792d0"
+file = "patchouli_books/modpack_info/en_us/entries/lore/lore_entry.json"
+hash = "9801089e35fb6b85c58a3416da3ec9ab5b590286d79311daaf4b06bbcb9b218f"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
@@ -401,7 +401,11 @@ hash = "37cfc8e263af72459cc4dbf9cb53a212a902733ea9d1aa0558abf8be3b15dafc"
 
 [[files]]
 file = "resourcepacks/modpack-config/data/patchouli/loot_tables/grant_book_on_first_join.json"
-hash = "8fd632edf53dc9465b80c732e2b4d8ff0195fa6b5e7e099d3a3114e1778faaa9"
+hash = "0bc69fb55e25b4a86656f75ecabe3d7a096d6b66e2cefcd7c47e0c0d8dc93673"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/patchouli/recipes/my_book_recipe_shapeless.json"
+hash = "9c6baaff077194856792667cfc2ed0e787155b6cde17efa8cf34c6dd65c90ad2"
 
 [[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"

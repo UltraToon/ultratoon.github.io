@@ -1,0 +1,7 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [{
+      "item": "minecraft:dirt"
+  }],
+  "book": "guide_book"
+}

@@ -10,7 +10,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{\"patchouli:book\": \"guide_book\"}"
+              "tag": "{\"patchouli:book\": \"patchouli:modpack_info\"}"
             }
           ]
         }
