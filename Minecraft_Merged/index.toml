@@ -70,11 +70,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/arkane-domains.pw.toml"
-hash = "4a18ae02479f100a8323bd10eec389fbae7008288e4360326d596be5b379ba82"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
