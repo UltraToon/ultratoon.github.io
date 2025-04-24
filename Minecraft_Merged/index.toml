@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "05675ca5db90b84eefa0b174a7bddee84ccda0d2eda14a8d44a4e5c1d0c0791b"
+hash = "86a006a67d4e11b9c912fb2809bf4f32c2cc3746050a981a54e5315b9a227381"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -17,12 +17,20 @@ file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
+file = "config/chloride-client.json"
+hash = "9e9cfefe9c41ee6baf86e613cae484b4ca9650786cba99c893f0310a9a585a02"
+
+[[files]]
 file = "config/emi.css"
 hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
 
 [[files]]
 file = "config/endrem.toml"
 hash = "4e82a21cc52ba9597ac9fda3a3d61215ab283f209fda9120a7b691cca93642e6"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "0c034ba7c280d46635fc3877ba225dbfb69656e3fbf1d45e761756f10d314360"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -70,6 +78,11 @@ hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
@@ -101,7 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -111,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
+hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
 metafile = true
 
 [[files]]
@@ -127,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
@@ -155,8 +178,18 @@ hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
@@ -311,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
@@ -332,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/sounds-of-the-forest.pw.toml"
 hash = "a632167cdbc7cfd28254dcc799877a1ea4ad717100539fe77ac947c56bfe02f8"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "41d8b092986ad05e543d1ba225ee29dc1c47b6e75b306728d12f9dc2292788a8"
 metafile = true
 
 [[files]]
@@ -367,6 +405,16 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "c56a0139f577ff615648c2164255de17654e5f8db95770d78deb8676d8cc6dd3"
+metafile = true
+
+[[files]]
+file = "mods/wither-spawn-animation.pw.toml"
+hash = "2cb25d9c221c17b16745d56c7c45652e7feaa8f7938a3ab6e76c98f90648ad13"
+metafile = true
+
+[[files]]
+file = "mods/wither-storm-combat.pw.toml"
+hash = "06c454c5f12efa731251677de6a97baadbcd83d92ad2a42b0746683bb3d3b5c9"
 metafile = true
 
 [[files]]
@@ -408,6 +456,10 @@ file = "resourcepacks/modpack-config/data/patchouli/recipes/my_book_recipe_shape
 hash = "9c6baaff077194856792667cfc2ed0e787155b6cde17efa8cf34c6dd65c90ad2"
 
 [[files]]
+file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
+hash = "5cb00a6eb7e3b183d1e7046253b3b85926fd25202412da94c92b8df6b0eab421"
+
+[[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"
 hash = "75a7c5a41d41555eafc8b1e47eedbb0233d69f01008efa539149e6d09f32166f"
 
@@ -419,4 +471,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/overlays.pw.toml"
 hash = "db362cc15a6a6cc6d71bcf284e2a2d3649aacb39c1f90598986dddca727f1b76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vn4s-fresh-wither-storm.pw.toml"
+hash = "73b830eec94b68b9091f158523a3487040ef5e577d3de05d2d2718e003df3c22"
 metafile = true

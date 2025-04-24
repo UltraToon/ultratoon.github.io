@@ -1,0 +1,13 @@
+name = "Wither Storm Combat"
+filename = "WScombat1.2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "884d3c91d09c4708dda9d3c9a1f6bd3e62c0e4bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6396351
+project-id = 1082018
