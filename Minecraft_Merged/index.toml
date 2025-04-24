@@ -146,11 +146,6 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
-file = "mods/creature-compendium.pw.toml"
-hash = "8e806c8c7385fb923b8dadc0d6b803ab518bc83f8b16474ce42e8193da34dff3"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -462,12 +457,8 @@ file = "resourcepacks/modpack-config/.zip"
 hash = "0b3e1c0982ecd63731f51a8093eb43b1a6d694e2ad6ebae06bb4ef18f86f2549"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/addition/advancements/root.json"
-hash = "5986871bb0cc6c3788587e86e0741344f3588d2c79dcb873530aa1cb6f31c724"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/addition/advancements/wshelp.json"
-hash = "acc2dba5b79f52ae594bd22fe0c550dee8160ea5a0dd2e3669462533bb73844e"
+file = "resourcepacks/modpack-config/data/custom/recipes/command_block.json"
+hash = "03287743f88bd55d66781a9a7dac5f06b2e223b5a0b10f9eefc6a2474c3bd255"
 
 [[files]]
 file = "resourcepacks/modpack-config/data/minecraft/tags/functions/load.json"
@@ -492,26 +483,6 @@ hash = "50ec45364030b94f84dde68905424b57c4b6e281e2b353520a49242bbead97a1"
 [[files]]
 file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5cb00a6eb7e3b183d1e7046253b3b85926fd25202412da94c92b8df6b0eab421"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/witherstormmod/structures/storm_spawn_platform.nbt"
-hash = "29dda506d5e841d406c9347c710f3e7d994fe6571f88478c8e0cf0f1a473a4fc"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/wshelp/functions/controls.mcfunction"
-hash = "5fcebab1675975b66c83dbbeed8a43558726db7aa75d1b1f509b6aa80cdb1c40"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/wshelp/functions/load.mcfunction"
-hash = "bf88321288ecd5ceb648c1a631c38538483120701eae7b413bdb035627a516dd"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/wshelp/functions/loop.mcfunction"
-hash = "7c8c6b1147045ba534e1a133d55c2920373e26c29640943a66ec2e1db014ab6d"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/wshelp/functions/summon.mcfunction"
-hash = "e81929ad5eb21d19450d15ade3209012a14bfc066c98764a96c723d0f6877ea5"
 
 [[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"
