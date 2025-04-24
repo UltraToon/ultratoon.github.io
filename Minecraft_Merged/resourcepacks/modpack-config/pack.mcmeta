@@ -15,7 +15,7 @@
 		},
 		{
 			"namespace": "witherstormmod",
-			"path": "structures/auto_spawn_platform.nbt"
+			"path": "structures/.*spawn_platform\\.nbt"
 		}
 		]
 	}
