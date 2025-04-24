@@ -381,6 +381,11 @@ hash = "a632167cdbc7cfd28254dcc799877a1ea4ad717100539fe77ac947c56bfe02f8"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "41d8b092986ad05e543d1ba225ee29dc1c47b6e75b306728d12f9dc2292788a8"
 metafile = true
