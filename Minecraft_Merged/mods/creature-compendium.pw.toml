@@ -1,0 +1,13 @@
+name = "Creature Compendium"
+filename = "creature_compendium-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n9qawiAe/versions/AP8sp7y0/creature_compendium-1.3.1.jar"
+hash-format = "sha512"
+hash = "e0268396de643ce3cd56a008b6b5f2a72f8bbc7585aa1a8cc9da944261e2e1cbe50417f444c6b3109a3c32c00ae1738a2fb4a870c9afec97dcdedef4e18e3ada"
+
+[update]
+[update.modrinth]
+mod-id = "n9qawiAe"
+version = "AP8sp7y0"

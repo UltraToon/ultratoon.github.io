@@ -38,6 +38,11 @@ hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-extra-music.pw.toml"
 hash = "7454168269bc96ba35aaa0d51f50ca537e62a0c0ddfab4c490158f395849cdd8"
 metafile = true
@@ -114,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -135,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
+file = "mods/creature-compendium.pw.toml"
+hash = "8e806c8c7385fb923b8dadc0d6b803ab518bc83f8b16474ce42e8193da34dff3"
 metafile = true
 
 [[files]]
@@ -175,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "170a341c0cfc02b56374f1a2c4391e89a6705a8636b3ba6712e6cd13d786a35f"
 metafile = true
 
 [[files]]
@@ -353,6 +368,11 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
+file = "mods/rediscovered.pw.toml"
+hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -375,11 +395,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/terramity.pw.toml"
-hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
 metafile = true
 
 [[files]]
@@ -435,6 +450,11 @@ file = "patchouli_books/modpack_info/en_us/entries/lore/lore_entry.json"
 hash = "9801089e35fb6b85c58a3416da3ec9ab5b590286d79311daaf4b06bbcb9b218f"
 
 [[files]]
+file = "resourcepacks/blinking-ender-eyes.pw.toml"
+hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
@@ -453,7 +473,7 @@ hash = "0bc69fb55e25b4a86656f75ecabe3d7a096d6b66e2cefcd7c47e0c0d8dc93673"
 
 [[files]]
 file = "resourcepacks/modpack-config/data/patchouli/recipes/my_book_recipe_shapeless.json"
-hash = "9c6baaff077194856792667cfc2ed0e787155b6cde17efa8cf34c6dd65c90ad2"
+hash = "50ec45364030b94f84dde68905424b57c4b6e281e2b353520a49242bbead97a1"
 
 [[files]]
 file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"

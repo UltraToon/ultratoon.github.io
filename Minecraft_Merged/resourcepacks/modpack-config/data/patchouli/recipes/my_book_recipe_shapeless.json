@@ -3,5 +3,5 @@
   "ingredients": [{
       "item": "minecraft:dirt"
   }],
-  "book": "guide_book"
+  "book": "patchouli:modpack_info"
 }
