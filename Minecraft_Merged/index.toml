@@ -21,6 +21,14 @@ file = "config/chloride-client.json"
 hash = "9e9cfefe9c41ee6baf86e613cae484b4ca9650786cba99c893f0310a9a585a02"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "af653d2056489d25544cc7887e41ccdf497590c154026e82c6255ae4c2098347"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "209b1f227daee90a15d86c162f4b1b5466ec066f820b0721026dff3cfd89fe93"
+
+[[files]]
 file = "config/emi.css"
 hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
 
@@ -110,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
-metafile = true
-
-[[files]]
-file = "mods/clifftree.pw.toml"
-hash = "2a88287148ae0ab3a4625dfa35ec4849464b87c8555d02e68bfdbb3f0f431bde"
 metafile = true
 
 [[files]]
@@ -229,17 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
-metafile = true
-
-[[files]]
-file = "mods/grace.pw.toml"
-hash = "1128169561082c465c6bddce124e0b87b120d253dddd53ed9851910b9564862e"
 metafile = true
 
 [[files]]
@@ -255,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
-metafile = true
-
-[[files]]
-file = "mods/keep-some-inventory.pw.toml"
-hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
 metafile = true
 
 [[files]]
@@ -464,6 +457,22 @@ file = "resourcepacks/modpack-config/.zip"
 hash = "0b3e1c0982ecd63731f51a8093eb43b1a6d694e2ad6ebae06bb4ef18f86f2549"
 
 [[files]]
+file = "resourcepacks/modpack-config/data/addition/advancements/root.json"
+hash = "5986871bb0cc6c3788587e86e0741344f3588d2c79dcb873530aa1cb6f31c724"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/addition/advancements/wshelp.json"
+hash = "acc2dba5b79f52ae594bd22fe0c550dee8160ea5a0dd2e3669462533bb73844e"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/minecraft/tags/functions/load.json"
+hash = "401e97116d70db32fabb833eb1c418d007c30c49faf411211a7799770a234cd2"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/minecraft/tags/functions/tick.json"
+hash = "f4d80c187f0ef983a09d48e8917ae408e61ae4479eab831e36bb6f5e0ec96833"
+
+[[files]]
 file = "resourcepacks/modpack-config/data/patchouli/advancements/grant_book_on_first_join.json"
 hash = "37cfc8e263af72459cc4dbf9cb53a212a902733ea9d1aa0558abf8be3b15dafc"
 
@@ -478,6 +487,26 @@ hash = "50ec45364030b94f84dde68905424b57c4b6e281e2b353520a49242bbead97a1"
 [[files]]
 file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5cb00a6eb7e3b183d1e7046253b3b85926fd25202412da94c92b8df6b0eab421"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/witherstormmod/structures/storm_spawn_platform.nbt"
+hash = "29dda506d5e841d406c9347c710f3e7d994fe6571f88478c8e0cf0f1a473a4fc"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/wshelp/functions/controls.mcfunction"
+hash = "5fcebab1675975b66c83dbbeed8a43558726db7aa75d1b1f509b6aa80cdb1c40"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/wshelp/functions/load.mcfunction"
+hash = "bf88321288ecd5ceb648c1a631c38538483120701eae7b413bdb035627a516dd"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/wshelp/functions/loop.mcfunction"
+hash = "7c8c6b1147045ba534e1a133d55c2920373e26c29640943a66ec2e1db014ab6d"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/wshelp/functions/summon.mcfunction"
+hash = "e81929ad5eb21d19450d15ade3209012a14bfc066c98764a96c723d0f6877ea5"
 
 [[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"

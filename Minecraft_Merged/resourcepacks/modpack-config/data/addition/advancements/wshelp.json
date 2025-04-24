@@ -1,0 +1,30 @@
+{
+    "display": {
+        "title": {
+            "text": "Random Wither Storm",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Version 1.0.0"
+        },
+        "icon": {
+            "item": "witherstormmod:formidibomb",
+            "nbt": "{}"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "a": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "a"
+        ]
+    ],
+    "parent": "addition:root"
+}
