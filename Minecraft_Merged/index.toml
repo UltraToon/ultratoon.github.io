@@ -41,6 +41,10 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "0c034ba7c280d46635fc3877ba225dbfb69656e3fbf1d45e761756f10d314360"
 
 [[files]]
+file = "config/mowziesmobs-common.toml"
+hash = "327d2ace119de8dd838cf8f1c17e4051cd28f04fc60f71f5628a9b27a273513a"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -148,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
 metafile = true
 
 [[files]]
@@ -483,6 +482,10 @@ hash = "50ec45364030b94f84dde68905424b57c4b6e281e2b353520a49242bbead97a1"
 [[files]]
 file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5cb00a6eb7e3b183d1e7046253b3b85926fd25202412da94c92b8df6b0eab421"
+
+[[files]]
+file = "resourcepacks/modpack-config/data/witherstormmod/structures/storm_spawn_platform.nbt"
+hash = "29dda506d5e841d406c9347c710f3e7d994fe6571f88478c8e0cf0f1a473a4fc"
 
 [[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"
