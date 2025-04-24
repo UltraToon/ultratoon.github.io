@@ -484,12 +484,8 @@ file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_
 hash = "5cb00a6eb7e3b183d1e7046253b3b85926fd25202412da94c92b8df6b0eab421"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/witherstormmod/structures/storm_spawn_platform.nbt"
-hash = "29dda506d5e841d406c9347c710f3e7d994fe6571f88478c8e0cf0f1a473a4fc"
-
-[[files]]
 file = "resourcepacks/modpack-config/pack.mcmeta"
-hash = "75a7c5a41d41555eafc8b1e47eedbb0233d69f01008efa539149e6d09f32166f"
+hash = "4b5a9c86eb7782a9396b3429d03a1c2fe7a75be06808f3dfcbeb9988b982a5f3"
 
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"

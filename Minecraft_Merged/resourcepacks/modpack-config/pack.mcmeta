@@ -12,6 +12,10 @@
 		{
 			"namespace": "endrem",
 			"path": "recipes"
+		},
+		{
+			"namespace": "witherstormmod",
+			"path": "structures/auto_spawn_platform.nbt"
 		}
 		]
 	}
