@@ -14,11 +14,13 @@ ServerEvents.tags('worldgen/biome', event => {
 
 // COMMAND BLOCK
 ServerEvents.recipes(event => {
-event.shaped('minecraft:command_block', 1, [
+event.shaped('minecraft:command_block', 1),
+  [
     'ABC',
     'DEF', // arg 2: the shape (array of strings)
     'GBI'
-  ], {
+  ], 
+  {
     A: 'endrem:cursed_eye',
     B: 'minecraft:beacon',  //arg 3: the mapping object
     C: 'minecraft:totem_of_undying',
@@ -27,8 +29,8 @@ event.shaped('minecraft:command_block', 1, [
     F: 'rediscovered:red_dragon_egg',
     G: 'minecraft:netherite_block',
     I: 'minecraft:heart_of_the_sea'
-  });
-});
+  }
+})
 
 BlockEvents.rightClicked(event => {
   const { player, block } = event;

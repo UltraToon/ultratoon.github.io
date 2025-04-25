@@ -74,11 +74,11 @@ hash = "e5f2399ab9f05d88994a1d27db6011a6643a9d59dcc730d8a2261b805df30998"
 
 [[files]]
 file = "kubejs/server_scripts/guidebook.js"
-hash = "7e50e079630225081faada39afc93136b929911a205fca7bad240932b4f5c1c0"
+hash = "29d3141eb2b7079e31dc3d6faef1a3315f1b7414c78e5d7220e5067ffc0f9995"
 
 [[files]]
 file = "kubejs/server_scripts/witherstorm.js"
-hash = "49330fbd042cde18d1d49cafa19b9a72e7cb08b038b54d78cac8a9c005f053b3"
+hash = "5e4f2eb50d00745c0f1c7ab2ebdcceec309b1b5714a5b21c01f822ac9f3e1d0e"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

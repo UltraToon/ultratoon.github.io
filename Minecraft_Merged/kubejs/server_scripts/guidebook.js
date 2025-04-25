@@ -4,12 +4,11 @@ PlayerEvents.loggedIn(event => {
   event.player.give('patchouli:modpack_info')
 })
 
-ServerEvents.recipes(event => {
-  event.shapeless(
-  Item.of('patchouli:modpack_info', 1), // arg 1: output
-  [
-    'minecraft:dirt',
-  ]
-)
+event.custom({
+  type: 'patchouli:shapeless_book_recipe',
+  ingredients: [
+    { item: 'minecraft:dirt' }
+  ],
+  book: "patchouli:modpack_info"
 })
 
