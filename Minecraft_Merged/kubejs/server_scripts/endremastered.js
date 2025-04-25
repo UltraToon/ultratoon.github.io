@@ -1,9 +1,9 @@
-ServerEvents.recipes(event => {
-  event.remove({ mod: 'endrem' })
-})
+//ServerEvents.recipes(event => {
+//  event.remove({ mod: 'endrem' })
+//})
 
-ServerEvents.blockLootTables(event => {
+//ServerEvents.blockLootTables(event => {
   // Remove any eye from End Remastered structure chests
-  event.removeLoot({ mod: 'endrem' });
-});
+  //event.removeLoot({ mod: 'endrem' });
+//});
 

@@ -5,6 +5,10 @@ file = "config/alexsmobs.toml"
 hash = "b39d3653a67058430732633071d5ccc7f389194d91f210dde19cdc87b35343c5"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "12dc31bc6b9f556fe1e644d08378b013208bacda27b7c116334ed76c982d5d25"
+
+[[files]]
 file = "config/bettercombat/client.json5"
 hash = "24e0491135f1cd02970840ba97e32bf6c97130e96ebef0ebc2f262abde27fd7d"
 
@@ -21,12 +25,12 @@ file = "config/chloride-client.json"
 hash = "7e135300dc2d62e6f8c22423d9ad98537c9dd7f87b9e3c818adea6a665a1a5d9"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "af653d2056489d25544cc7887e41ccdf497590c154026e82c6255ae4c2098347"
+file = "config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "209b1f227daee90a15d86c162f4b1b5466ec066f820b0721026dff3cfd89fe93"
+file = "config/embeddium-options.json"
+hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
 
 [[files]]
 file = "config/emi.css"
@@ -37,12 +41,32 @@ file = "config/endrem.toml"
 hash = "2e3ac9e8b9264854e695684bfbc6e0fb6386efa649ea67a8bfc7eaf2bf7bc8bd"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "0c034ba7c280d46635fc3877ba225dbfb69656e3fbf1d45e761756f10d314360"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+
+[[files]]
 file = "config/mowziesmobs-common.toml"
 hash = "327d2ace119de8dd838cf8f1c17e4051cd28f04fc60f71f5628a9b27a273513a"
+
+[[files]]
+file = "config/radium.properties"
+hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -65,12 +89,16 @@ file = "kubejs/config/common.properties"
 hash = "a9ac0b15dda327cd7cabcdf3440ab87f962ff78b07c2d9f06ce68014e7d3ccad"
 
 [[files]]
+file = "kubejs/data/enrem_remove_loot_recipes.zip"
+hash = "4620df111f4a268d4ae202d71aca95e22fd0c5f6bf51fb8351063f468f8f9c2e"
+
+[[files]]
 file = "kubejs/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5304080e2cc4876c4cdca92cfe10d5e0aec5c94e9373c2b753c8880d911b3a78"
 
 [[files]]
 file = "kubejs/server_scripts/endremastered.js"
-hash = "e5f2399ab9f05d88994a1d27db6011a6643a9d59dcc730d8a2261b805df30998"
+hash = "10ddd47ba6f875df434560c4fa4bc1d24825804d09eaf71087d26e166224d5b8"
 
 [[files]]
 file = "kubejs/server_scripts/guidebook.js"
@@ -82,7 +110,7 @@ hash = "32f5b76479e9bc50c26da5a9bc93591afe53108849a2830b929534fc364786f8"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
-hash = "bd348813aa1267a6c322f8c3b21c6c057f558438dbc17f3ca0a518722c151bc3"
+hash = "47c090cf863cdef0bac03a4c8cd029d459a7d491babe5beab5976a128d0d24a1"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -192,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
@@ -514,11 +537,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"
 hash = "cf829960e7f98d5bed6dbc7ccfc9e25a2f639ede3354ed6c6dea059f3d77037f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/overlays.pw.toml"
-hash = "db362cc15a6a6cc6d71bcf284e2a2d3649aacb39c1f90598986dddca727f1b76"
 metafile = true
 
 [[files]]
