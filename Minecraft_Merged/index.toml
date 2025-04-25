@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "86a006a67d4e11b9c912fb2809bf4f32c2cc3746050a981a54e5315b9a227381"
+hash = "b39d3653a67058430732633071d5ccc7f389194d91f210dde19cdc87b35343c5"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -34,7 +34,7 @@ hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
 
 [[files]]
 file = "config/endrem.toml"
-hash = "4e82a21cc52ba9597ac9fda3a3d61215ab283f209fda9120a7b691cca93642e6"
+hash = "2e3ac9e8b9264854e695684bfbc6e0fb6386efa649ea67a8bfc7eaf2bf7bc8bd"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -43,6 +43,46 @@ hash = "0c034ba7c280d46635fc3877ba225dbfb69656e3fbf1d45e761756f10d314360"
 [[files]]
 file = "config/mowziesmobs-common.toml"
 hash = "327d2ace119de8dd838cf8f1c17e4051cd28f04fc60f71f5628a9b27a273513a"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "2a4a158190b48bb940a953c0c5800b2c62bb07c5fdcfd77c4ff84a332043d514"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "a9ac0b15dda327cd7cabcdf3440ab87f962ff78b07c2d9f06ce68014e7d3ccad"
+
+[[files]]
+file = "kubejs/server_scripts/commandblock.js"
+hash = "071e11d221d3d5546771d6a07c4f275c2487d3726c2fc0b7fae58ad1c0b41c89"
+
+[[files]]
+file = "kubejs/server_scripts/endremastered.js"
+hash = "e5f2399ab9f05d88994a1d27db6011a6643a9d59dcc730d8a2261b805df30998"
+
+[[files]]
+file = "kubejs/server_scripts/guidebook.js"
+hash = "7e50e079630225081faada39afc93136b929911a205fca7bad240932b4f5c1c0"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -180,6 +220,11 @@ hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
 
 [[files]]
+file = "mods/ender-trigon.pw.toml"
+hash = "571205ec9ce64c02a23df9bee083a75f467326dd903e31a55ce9ab856a5767a1"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
 metafile = true
@@ -252,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
@@ -360,6 +410,11 @@ hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -450,42 +505,6 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
-
-[[files]]
-file = "resourcepacks/modpack-config/.zip"
-hash = "0b3e1c0982ecd63731f51a8093eb43b1a6d694e2ad6ebae06bb4ef18f86f2549"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/custom/recipes/command_block.json"
-hash = "03287743f88bd55d66781a9a7dac5f06b2e223b5a0b10f9eefc6a2474c3bd255"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/minecraft/tags/functions/load.json"
-hash = "401e97116d70db32fabb833eb1c418d007c30c49faf411211a7799770a234cd2"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/minecraft/tags/functions/tick.json"
-hash = "f4d80c187f0ef983a09d48e8917ae408e61ae4479eab831e36bb6f5e0ec96833"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/patchouli/advancements/grant_book_on_first_join.json"
-hash = "37cfc8e263af72459cc4dbf9cb53a212a902733ea9d1aa0558abf8be3b15dafc"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/patchouli/loot_tables/grant_book_on_first_join.json"
-hash = "0bc69fb55e25b4a86656f75ecabe3d7a096d6b66e2cefcd7c47e0c0d8dc93673"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/patchouli/recipes/my_book_recipe_shapeless.json"
-hash = "50ec45364030b94f84dde68905424b57c4b6e281e2b353520a49242bbead97a1"
-
-[[files]]
-file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
-hash = "5cb00a6eb7e3b183d1e7046253b3b85926fd25202412da94c92b8df6b0eab421"
-
-[[files]]
-file = "resourcepacks/modpack-config/pack.mcmeta"
-hash = "9fa5c4488f94fd3070ae608dd65bb85e30b9f679df6287564710e959686668df"
 
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"
