@@ -105,6 +105,10 @@ file = "kubejs/config/common.properties"
 hash = "a9ac0b15dda327cd7cabcdf3440ab87f962ff78b07c2d9f06ce68014e7d3ccad"
 
 [[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "99fa2bf7d43ecb648367a75f79d536437742cea538e119d41eed7c2478cd0c53"
+
+[[files]]
 file = "kubejs/data/enrem_remove_loot_recipes.zip"
 hash = "4620df111f4a268d4ae202d71aca95e22fd0c5f6bf51fb8351063f468f8f9c2e"
 
