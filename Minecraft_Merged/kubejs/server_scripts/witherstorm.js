@@ -32,11 +32,11 @@ event.shaped(Item.of('minecraft:dirt', 1),
   })
 })
 
-BlockEvents.placed('minecraft:dirt', event => {
+BlockEvents.placed('kubejs:ivors_wrath', event => {
   event.block.set('minecraft:command_block')
 })
 
 BlockEvents.leftClicked('minecraft:command_block', event => {
-  event.player.give('minecraft:dirt')
+  event.player.give('kubejs:ivors_wrath')
   event.block.set('minecraft:air')
 })

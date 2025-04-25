@@ -78,11 +78,11 @@ hash = "29d3141eb2b7079e31dc3d6faef1a3315f1b7414c78e5d7220e5067ffc0f9995"
 
 [[files]]
 file = "kubejs/server_scripts/witherstorm.js"
-hash = "73d5b6e37a1c5531fc65733756585502f8d0425aa56d8c110729555caa202f9e"
+hash = "b2b2d87fcd18ccfaea25706efa7e9ea8ca135f6b986153cf5b5c2b57c5f6b666"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
-hash = "7a3033df19b9b5d4df408af06bffef99c44b6533a96265e2ae108d71e45013e7"
+hash = "27c8390e68e29c82a9e729f18da2ec3daa4c3992ec2f7353c279c06d9cbb3a8e"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
