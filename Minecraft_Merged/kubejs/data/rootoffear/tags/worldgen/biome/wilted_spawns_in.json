@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:mangrove_swamp",
+		"palegardenbackport:pale_garden"
+	]
+}
