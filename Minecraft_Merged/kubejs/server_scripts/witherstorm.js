@@ -14,7 +14,7 @@ ServerEvents.tags('worldgen/biome', event => {
 
 // COMMAND BLOCK
 ServerEvents.recipes(event => {
-event.shaped('minecraft:command_block', 1),
+event.shaped(Item.of('minecraft:dirt', 1),
   [
     'ABC',
     'DEF', // arg 2: the shape (array of strings)
@@ -29,20 +29,14 @@ event.shaped('minecraft:command_block', 1),
     F: 'rediscovered:red_dragon_egg',
     G: 'minecraft:netherite_block',
     I: 'minecraft:heart_of_the_sea'
-  }
+  })
 })
 
-BlockEvents.rightClicked(event => {
-  const { player, block } = event;
-  if(player != null && block != null && player.mainHandItem != null && player.mainHandItem.id == 'minecraft:command_block'){
-    player.mainHandItem.count -= 1;
-    player.level.getBlock(block.x, block.y + 1, block.z).set('minecraft:command_block');
-  }
+BlockEvents.placed('minecraft:dirt', event => {
+  event.block.set('minecraft:command_block')
 })
 
 BlockEvents.leftClicked('minecraft:command_block', event => {
-  event.player.give('minecraft:command_block')
+  event.player.give('minecraft:dirt')
   event.block.set('minecraft:air')
 })
-
-

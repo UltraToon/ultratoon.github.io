@@ -3,11 +3,11 @@ filename = "witherstormmod-1.20.1-4.2.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bd32ea3f44812b6b1744739633ea25d32197f4b8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kWjNGDUH/versions/nY68hRY1/witherstormmod-1.20.1-4.2.1-all.jar"
+hash-format = "sha512"
+hash = "bbd0704962588c51337891cff0770b4ec3b008d504458b7323f4550c0ef3ac0515408d5ac8db2616b3f7f873ff3d58b8a7ebe7405ed237ae660eebfc020d1b5e"
 
 [update]
-[update.curseforge]
-file-id = 5619741
-project-id = 621405
+[update.modrinth]
+mod-id = "kWjNGDUH"
+version = "nY68hRY1"

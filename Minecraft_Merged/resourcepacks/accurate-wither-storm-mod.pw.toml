@@ -1,0 +1,13 @@
+name = "Accurate Wither Storm Mod"
+filename = "Accurate_Wither_Storm-1.2-MC1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/70ZTHNUB/versions/BieDlS9g/Accurate_Wither_Storm-1.2-MC1.20.1.zip"
+hash-format = "sha512"
+hash = "b5fd24067b8f59673dccf522c63fd4b36a69390b61eff0be043c6f8fce765538bbb0d6d1b22573ac40687c80737499d113eeb8fd9efc2f8d4d3aab88941e7430"
+
+[update]
+[update.modrinth]
+mod-id = "70ZTHNUB"
+version = "BieDlS9g"

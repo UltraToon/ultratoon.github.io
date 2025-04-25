@@ -78,11 +78,11 @@ hash = "29d3141eb2b7079e31dc3d6faef1a3315f1b7414c78e5d7220e5067ffc0f9995"
 
 [[files]]
 file = "kubejs/server_scripts/witherstorm.js"
-hash = "5e4f2eb50d00745c0f1c7ab2ebdcceec309b1b5714a5b21c01f822ac9f3e1d0e"
+hash = "73d5b6e37a1c5531fc65733756585502f8d0425aa56d8c110729555caa202f9e"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+file = "kubejs/startup_scripts/registry.js"
+hash = "7a3033df19b9b5d4df408af06bffef99c44b6533a96265e2ae108d71e45013e7"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
+hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
 metafile = true
 
 [[files]]
@@ -495,6 +495,11 @@ hash = "f009ea51b4c4cd072e22aff91d90e8b962267d66ff0ac63acbcda27ad98c6e8b"
 [[files]]
 file = "patchouli_books/modpack_info/en_us/entries/lore/lore_entry.json"
 hash = "9801089e35fb6b85c58a3416da3ec9ab5b590286d79311daaf4b06bbcb9b218f"
+
+[[files]]
+file = "resourcepacks/accurate-wither-storm-mod.pw.toml"
+hash = "9d886db6ca5af56c5db047a2c53dcffeccf3ff6ea199563a8f7a0b5878c507b5"
+metafile = true
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
