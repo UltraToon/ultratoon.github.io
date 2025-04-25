@@ -29,7 +29,7 @@
   "leavesCulling": "OFF",
   "fastChests": false,
   "fastBeds": false,
-  "tileEntityDistanceCulling": false,
+  "tileEntityDistanceCulling": true,
   "tileEntityCullingDistanceX": 4096,
   "tileEntityCullingDistanceY": 32,
   "entityDistanceCulling": false,

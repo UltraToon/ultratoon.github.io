@@ -22,7 +22,15 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "7e135300dc2d62e6f8c22423d9ad98537c9dd7f87b9e3c818adea6a665a1a5d9"
+hash = "018e66cabef0b5d1c9bf27566acc0f00c5447e93cafbbc8e173771457600cf79"
+
+[[files]]
+file = "config/connector.json"
+hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
+
+[[files]]
+file = "config/cull-less-leaves.json"
+hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -39,6 +47,10 @@ hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
 [[files]]
 file = "config/endrem.toml"
 hash = "2e3ac9e8b9264854e695684bfbc6e0fb6386efa649ea67a8bfc7eaf2bf7bc8bd"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/entityculling.json"
@@ -67,6 +79,10 @@ hash = "327d2ace119de8dd838cf8f1c17e4051cd28f04fc60f71f5628a9b27a273513a"
 [[files]]
 file = "config/radium.properties"
 hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "71e0bd4bd57f1802f35e78a450723191b9af8224304e38a38af3015757d33c80"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -183,11 +199,6 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
-file = "mods/chloride.pw.toml"
-hash = "99e5f6aef604ebfc4a7ab9ae149c5246535392886ed428bf8a30751b206bbbe4"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
 metafile = true
@@ -200,6 +211,16 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -218,6 +239,11 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "9533bf5a38bb96fe67df246f0c2ac5ce26604c375bfc069487a715e44fabecb9"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -230,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "d85616e93899be77080aeac6ce9b120eed76dd29981b794722797e2ae07a2f88"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
@@ -280,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
@@ -438,6 +474,11 @@ hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -478,6 +519,11 @@ hash = "66a5bdf6490b038a00160f6d819a82845fe1c437106fe663cba3dba65b895b91"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
 metafile = true
@@ -505,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "9f036fd7c6a35da985a6bb653ec6f3bcb21a82fdafbfa355f3bb560139d21b71"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
