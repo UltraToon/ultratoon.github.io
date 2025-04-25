@@ -1090,7 +1090,7 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "9e9cfefe9c41ee6baf86e613cae484b4ca9650786cba99c893f0310a9a585a02"
+hash = "7e135300dc2d62e6f8c22423d9ad98537c9dd7f87b9e3c818adea6a665a1a5d9"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -1150,7 +1150,7 @@ hash = "7e50e079630225081faada39afc93136b929911a205fca7bad240932b4f5c1c0"
 
 [[files]]
 file = "kubejs/server_scripts/witherstorm.js"
-hash = "071e11d221d3d5546771d6a07c4f275c2487d3726c2fc0b7fae58ad1c0b41c89"
+hash = "b8b847a3576e853713a077dc87480a7b905373c808b8434acd3f4f83ce8fec12"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
