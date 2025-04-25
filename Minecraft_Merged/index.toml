@@ -78,7 +78,7 @@ hash = "29d3141eb2b7079e31dc3d6faef1a3315f1b7414c78e5d7220e5067ffc0f9995"
 
 [[files]]
 file = "kubejs/server_scripts/witherstorm.js"
-hash = "b2b2d87fcd18ccfaea25706efa7e9ea8ca135f6b986153cf5b5c2b57c5f6b666"
+hash = "32f5b76479e9bc50c26da5a9bc93591afe53108849a2830b929534fc364786f8"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"

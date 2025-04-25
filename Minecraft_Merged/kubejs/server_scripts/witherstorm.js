@@ -14,7 +14,7 @@ ServerEvents.tags('worldgen/biome', event => {
 
 // COMMAND BLOCK
 ServerEvents.recipes(event => {
-event.shaped(Item.of('minecraft:dirt', 1),
+event.shaped(Item.of('kubejs:ivors_wrath', 1),
   [
     'ABC',
     'DEF', // arg 2: the shape (array of strings)
