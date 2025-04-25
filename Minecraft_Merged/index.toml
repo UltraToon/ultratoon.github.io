@@ -82,7 +82,7 @@ hash = "32f5b76479e9bc50c26da5a9bc93591afe53108849a2830b929534fc364786f8"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
-hash = "27c8390e68e29c82a9e729f18da2ec3daa4c3992ec2f7353c279c06d9cbb3a8e"
+hash = "09e7c5e0e591d378f00ed8725b484f863f836884a5743c51b737aca8ae399245"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
