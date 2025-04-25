@@ -12,5 +12,5 @@ hash = "4551ba83b76e9606e37acb321012514f046a46412dd4aed5f9f6d9b7431859b0"
 forge = "47.4.0"
 minecraft = "1.20.1"
 
-[options]
-no-internal-hashes = true
+#[options]
+#no-internal-hashes = true
