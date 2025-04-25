@@ -11,29 +11,10 @@ ServerEvents.tags('worldgen/biome', event => {
 })
 // NOTE, Try MCMeta Method.
 
-const witherStormHead = Item.of('minecraft:player_head', 1, {
-  SkullOwner: {
-    Id: 'b5d5a7b2-3f4e-4c9e-bf3e-2c2b7b5d5a7b',
-    Properties: {
-      textures: [{
-        Value: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE0MzA1NTBkNzc2YmU5MWI4ZWQ1MTg1M2ZlMzg4ZDU1MjYwMjU2YWMzMWY2OGU2N2RkNzJlNGY0NTg0M2M2MCJ9fX0='
-      }]
-    }
-  },
-  display: {
-    Name: '{"text":"The Core","color":"gold","bold":true,"underlined":true,"italic":false}',
-    Lore: [
-      '{"text":"Forged in defiance of fate—this remnant calls forth the storm that once consumed worlds.","color":"purple","italic":true}',
-      '{"text":"WARNING: This can destroy worlds.","color":"red","bold":true}'
-    ]
-  }
-});
-
-
 
 // COMMAND BLOCK
 ServerEvents.recipes(event => {
-event.shaped(witherStormHead, [
+event.shaped('minecraft:command_block', 1, [
     'ABC',
     'DEF', // arg 2: the shape (array of strings)
     'GBI'
@@ -49,21 +30,16 @@ event.shaped(witherStormHead, [
   });
 });
 
-/*BlockEvents.rightClicked(event => {
+BlockEvents.rightClicked(event => {
   const { player, block } = event;
   if(player != null && block != null && player.mainHandItem != null && player.mainHandItem.id == 'minecraft:command_block'){
     player.mainHandItem.count -= 1;
     player.level.getBlock(block.x, block.y + 1, block.z).set('minecraft:command_block');
   }
-})*/ // PLACEABLE COMMAND BLOCKS, complicated code tho
-
-BlockEvents.placed(witherStormHead, event => {
-  event.player.tell('What are you doing...')
-  event.block.set('minecraft:command_block')
 })
 
-BlockEvents.leftClicked(witherStormHead, event => {
-  event.player.give(witherStormHead)
+BlockEvents.leftClicked('minecraft:command_block', event => {
+  event.player.give('minecraft:command_block')
   event.block.set('minecraft:air')
 })
 
