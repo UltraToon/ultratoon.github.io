@@ -1,0 +1,13 @@
+name = "Chunk Activity Tracker"
+filename = "chunkactivitytracker-forge-1.0.1-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BNuR43mM/versions/61oMCzZv/chunkactivitytracker-forge-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "89cfd210a4f9314ffae236b2c2382a3018a01d148e25412d2859e8f6ec3041dc844754ba18893c955e23fba7e3e366a28c2515797319c61b243027aa3233e10e"
+
+[update]
+[update.modrinth]
+mod-id = "BNuR43mM"
+version = "61oMCzZv"
