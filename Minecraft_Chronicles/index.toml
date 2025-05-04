@@ -553,304 +553,328 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/ancient_remnant.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/ancient_remnant.json"
 hash = "59d7b7f79dc7168be9773287edbf0997a167028495e7bd827977b13f9a247e82"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/ferrous_wroughtnaut.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/ferrous_wroughtnaut.json"
 hash = "cf8813c38417e89f5975b0be38ea456f8b6d5a6dad9566491947e2905d08644e"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/frostmaw.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/frostmaw.json"
 hash = "92279896abc803369bd32391c72e3f0fcc918ff29268ea27ae04a91adc3fe40e"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/harbinger.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/harbinger.json"
 hash = "6686f0179c6f85e53dbb936700b63732b1c5ee8eb1c5ec783d7d9bc8abf2547a"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/ignis.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/ignis.json"
 hash = "5cf1f5f7e54eec4658a86c631e0f2323311439a4fcb977fbcab9b77554753ae9"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/leviathan.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/leviathan.json"
 hash = "e8af6c38f4a071f4ca255cfb7fec0887cef8f7d5f6aa576f91b6a0dffcff8b4f"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/maledictus.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/maledictus.json"
 hash = "b46a294878098932aeb2c2a2cdb93e32f19f4a81517226a16a84b5f18e24ad89"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/netherite_monstrosity.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/netherite_monstrosity.json"
 hash = "6d2d2170051488f5eaa73229acf71ecb348d55003cd600a1015d12a577038c97"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/sculptor.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/sculptor.json"
 hash = "66aed294fa1f5e8459469ba17f9cfb1659fc96800d6c1ba07367543cd11319d6"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/umvuthi.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/umvuthi.json"
 hash = "c393e6acb7e8f00ed9d95f411c2a24b2ae1f975890f593783f0a5ab748ea7813"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/warden.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/warden.json"
 hash = "bcc0ce99dbf8e4f71e0ef16b3d15245f741bd1169ed06d8f27759c30377008de"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_modifiers/wither.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/wither.json"
 hash = "acb5769096ff773abd13eaeef8f4a32c68813043b75ae730d598985e4401ee11"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_ancient_remnant.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_ancient_remnant.json"
 hash = "5d55ced9538be5e327b8bc840e2a536d136f565705187494536eeff80a599ff5"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_ferrous_wroughtnaut.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_ferrous_wroughtnaut.json"
 hash = "5b823f9a4dd7c9d1e6a5a1824b637b0bb50868eafe0f6479b983fba7cd3eb9ac"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_frostmaw.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_frostmaw.json"
 hash = "66be6960ea45639216576c2231ebe95020f984306122622c7d9f61eee3498d4e"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_harbinger.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_harbinger.json"
 hash = "c7c9c31f306d82ae9d44f6e1007dc92299b5c64e081e33239a2ec0600e61c9cb"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_ignis.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_ignis.json"
 hash = "e7827a651512b7939be650a68f383253ff93e01b933b90f0d0f53eb46c28ae31"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_leviathan.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_leviathan.json"
 hash = "4e8b4b87bb46b0a266ce0530bc3b9fa5f451591388782a92cb0f16e65772ee31"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_maledictus.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_maledictus.json"
 hash = "1b4c1e4c7cbd42bf97f9f2a780751a674ec0234f9b612f9ba665e220b5b76c35"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_netherite_monstrosity.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_netherite_monstrosity.json"
 hash = "1788270bd63648ab739dec6941b810feceaae9d9d00e0ff9a4eb07473f16f288"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_sculptor.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_sculptor.json"
 hash = "4fedb34d0baa7576f89e25da787f3c46ac812833becaa1ca8c07f0f45ad00315"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_umvuthi.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_umvuthi.json"
 hash = "383869c4b161f7451c7a61879e36e90be90829bea17d1034295f218b0aa83940"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_warden.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_warden.json"
 hash = "8c7971a6eb1abf14618345c67de40b3ecb5ba8e9cd2153f911f62a024b20c936"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/endrem/loot_tables/entities/inject_wither.json"
+file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_wither.json"
 hash = "d24e9f67e8ccc92f10c8dc270a919a2476da02f9f297ec8636e9747b9cc6436f"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/forge/loot_modifiers/global_loot_modifiers.json"
+file = "resourcepacks/modpack-data/data/forge/loot_modifiers/global_loot_modifiers.json"
 hash = "805958f386a6726c536cdcc21f6999e0e055060a1116a13627d1bcbe3ddee4b4"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_ancient_factory.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_ancient_factory.json"
 hash = "3e03dd7aef6c6a3c7aa29529e0a8d0e554bc95e9f03f715159a44e794d2387d5"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_burning_arena.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_burning_arena.json"
 hash = "1117f6b4f1b1b8cc436786ad4482177b9c5c61e89f3f544e5b88b5d604886ca3"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_cursed_pyramid.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_cursed_pyramid.json"
 hash = "4cacfab5102352bd2488bb41dd2ea6c73f0f28da7160ead54fd0bdc2c6ce0bf1"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_frosted_prison.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_frosted_prison.json"
 hash = "b8574699c64298a64138a97217c666635887d7940fe4cef56e00cf8a322db5bb"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_monastery.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_monastery.json"
 hash = "c5581391fc27733152e98433ad9b4c896238b481db025bc7fe42b2e07f7ddc82"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_ruined_citadel.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_ruined_citadel.json"
 hash = "24aa1ce3bbe212ab6e50b65adac20d70047e04a79cdb3fa743d1b9a7cae1bc49"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_soul_black_smith.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_soul_black_smith.json"
 hash = "f0db289ba8537fb7fe95e4d6f0c136b938ead0c12eb73cb9f436e3d8158adad9"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_sunken_city.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_sunken_city.json"
 hash = "4840d963872dd77943e60f5821ced6bb93290bf416a47bb2696afbe6d94aa32e"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_umvuthana_grove.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_umvuthana_grove.json"
 hash = "6e30b69c1c56f763d6d97b8ddbecb9d8e81afd83725e44f13fa8f6fb237052b7"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/find_wrought_chamber.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_wrought_chamber.json"
 hash = "ea5d5c9e302add874c0a49d0cdcc4b81c4570255ae1609c2ba4913a8c9a822ef"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_black_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_black_eye.json"
 hash = "bb6734b1320eeb4f425e8016800aec4bc4de4c6508121973a3a4cf6e05503da7"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_cold_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_cold_eye.json"
 hash = "90ee16ed3765e00bd208e093050d407dacf8b4ea61030bf89c40dc72048f9e77"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_corrupted_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_corrupted_eye.json"
 hash = "73d7c4bf1e429a562b651de8f4e52b4696a21ee611fefafc32a8c190364f7e30"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_cryptic_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_cryptic_eye.json"
 hash = "8d8d207666eb88af6b92a6e450f5f7a751bdf299a54387f0370f22e0fcb6b18c"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_cursed_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_cursed_eye.json"
 hash = "9c7f72f41cea13d100d6c46146829c63e1d518c1fe0d96e0a3ebcbb4e2200f6d"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_evil_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_evil_eye.json"
 hash = "aab093ac2e1938b819c97ce0791f24881ace150de7406c432f103ff6090240eb"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_exotic_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_exotic_eye.json"
 hash = "23e1eb60af935eae2e08183953bcdf86400b2241987c7d677a4066801dce8a18"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_lost_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_lost_eye.json"
 hash = "e6dd9658379278f82896715e931b5c487320a76bde4fde0d9f2655c45abc2706"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_magical_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_magical_eye.json"
 hash = "dbcd29f04bea017954cd874a11b5371db5ed34d7298836b4b033b658c9f426c8"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_nether_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_nether_eye.json"
 hash = "702fc02b8acd008cdac4c9e9a7bb962925c05bb3ed5cf73b5435a3b34741d8dc"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_old_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_old_eye.json"
 hash = "addddcaf1e881e6834f22d7c248cd6e65864dd15cca125df135dd53c0a819737"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_undead_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_undead_eye.json"
 hash = "875105b5d7b957dca8e6aa739dc12d9e13ccd6bb8a4099d3a858af8e7f5cc98a"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/get_wither_eye.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_wither_eye.json"
 hash = "18a2147386bd1c3fe1758be36577734a6935933af0ac26cf84812baf301ffc57"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_bluff.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_bluff.json"
 hash = "721e6b6a9af5867de12a933603f52e721caba75331a46a07a574e2e4212b2779"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_ender_golem.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_ender_golem.json"
 hash = "066a7a69020f982658f3a0d29209458c002e3cdf5e959c4080e77ef1b96f6a9e"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_ender_guardian.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_ender_guardian.json"
 hash = "a37bfa3f29405f53ce8c5c9d3300f32262def5f16faa40f20b0c8c73c231fac0"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_ferrous_wroughtnaut.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_ferrous_wroughtnaut.json"
 hash = "99876cbfb73079c41bb62413426f93b7a3f02074178b94e21a2fdc85d5897f3a"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_frostmaw.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_frostmaw.json"
 hash = "8146ae66ebf6b800016802beffdcc105f96b82d35132b4031db793f7eda3703a"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_harbinger.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_harbinger.json"
 hash = "10a82cf6dc8bd66f116e58dcb146b2dc91e82abc75271e9ae21edee317bdf631"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_ignis.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_ignis.json"
 hash = "948cc894c54ce56cd938a896b61c85c17a98182f18ba89aba44d0ef3ffac41a8"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_leviathan.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_leviathan.json"
 hash = "5a607f87a0f7a4c553b5a4072827a1b8b93398317f2944ea39cc4a4c90bbc083"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_maledictus.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_maledictus.json"
 hash = "9f0502c02ebd7eb2abf8b6e7367e0d1cfe8491407e8ddae7a6ea8c1def8fadfc"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_monstrosity.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_monstrosity.json"
 hash = "415febf9b3e7036437f1de0e0011178fcbeb32a7898dda17a8aab9862bbb75b9"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_remnant.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_remnant.json"
 hash = "cc63eb49f887a76e6556fd4acc1d5b217a206678d96eae75fc16963fd36b7a7e"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_sculptor.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_sculptor.json"
 hash = "23325055aeffbec41f450ccdaa9cd71f48d5882f8da9be5df17363b5a45ae36c"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_umvuthi.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_umvuthi.json"
 hash = "352682ef6055718ead7fd58b23f9255a15505fef88e6aaecb80a197dbca7e044"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_warden.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_warden.json"
 hash = "b0b402bf8d4e10569b510014415f6f5cb8007528efbd4974ae0aadef72028c17"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/kill_wither.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_wither.json"
 hash = "b5ac38a2c89fb48003b5c29b108779ef254621a956403bc49863bb0c7da4f005"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/root.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/root.json"
 hash = "0441deb38b1a22897a03c347aef625e0777f0a8aeb88c3e74854d8c7d92780a7"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/sculptor_challenge.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/sculptor_challenge.json"
 hash = "3fd8483f05c073e4debb9ac0b6329eed1c81e3ef40a0ebb298097ec6a9790428"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/sculptor_failure.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/sculptor_failure.json"
 hash = "bc06ec33b4e89f3285703bf1b1ab51fcd1e2accf6291eb571025cea6e2a56b37"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/sneak_grove.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/sneak_grove.json"
 hash = "b872e246ba857b815c9828b1c20382072782187ca5be70ed2cb8729c2cf5978d"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/steal_ice_crystal.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/steal_ice_crystal.json"
 hash = "e8d796f4ea99e275f0cb4261d505893f0deacedc8fa5ef9782977902221ab10a"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/eyes/suns_blessing.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/suns_blessing.json"
 hash = "2a5c4558e34caf6d7ca2b0e060391523187561fc9191dfe713621320699f01bd"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/lore/lore.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/lore/lore.json"
 hash = "ac4751f219ff9bb1695625bde630339cd9f6207a00a4cf2d18d18d60177fd2ac"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/lore/root.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/lore/root.json"
 hash = "45ce2c0b71cfb2f34fb058d00344d8dfa1600f8dcd48212854e42096a5341f9d"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/advancements/lore/tips.json"
+file = "resourcepacks/modpack-data/data/modpack/advancements/lore/tips.json"
 hash = "81838b8dc425d66ae864f9b266a03c62ec7227e9e202f057b14fb57af10ea78f"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/modpack/functions/unfold_adv.mcfunction"
+file = "resourcepacks/modpack-data/data/modpack/functions/unfold_adv.mcfunction"
 hash = "58d6a40e0044b1838e4486d5c3d109e68a793d55fd380a2ad6a962482a8ecc29"
 
 [[files]]
-file = "resourcepacks/modpack-config/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
+file = "resourcepacks/modpack-data/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5e840ea9d7867274168644f96c2a16d779e4e27bc98c8914934abcbc5dbaa3e4"
 
 [[files]]
-file = "resourcepacks/modpack-config/pack.mcmeta"
+file = "resourcepacks/modpack-data/pack.mcmeta"
 hash = "d4a125f323eb156ff2fee66f473bfa5bcd20eb1db22e06b6562478d24264489d"
+
+[[files]]
+file = "resourcepacks/modpack-resource/assets/endrem/lang/en_us.json"
+hash = "484bf4dfea82255d79528aec0b9bcf410fe5182eae1372c00a015222b2bfa05f"
+
+[[files]]
+file = "resourcepacks/modpack-resource/assets/endrem/textures/block/eyes/black.png"
+hash = "a16c7a98cf73ddbca9e7cc88f709d7b35a688a40780933b68e51fc49b01dd7e4"
+
+[[files]]
+file = "resourcepacks/modpack-resource/assets/endrem/textures/block/eyes/evil.png"
+hash = "9d782a8dd9d037004ae9a7f826c811de2ae7efe16c401eca3ee4938257601292"
+
+[[files]]
+file = "resourcepacks/modpack-resource/assets/endrem/textures/item/black_eye.png"
+hash = "28371a9d7dd4c4f72d764dafc4e2adc6864e14aaeadb8b9497864b1e297b4756"
+
+[[files]]
+file = "resourcepacks/modpack-resource/assets/endrem/textures/item/evil_eye.png"
+hash = "d8017ffd92a8318a5ba671136356dc6fc17ed4f5e5643429911ebc18f1d25112"
+
+[[files]]
+file = "resourcepacks/modpack-resource/pack.mcmeta"
+hash = "08db22e68c83a80be8db2ed6cec08cf5f874914553d71695632895489490eb6b"
 
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"
