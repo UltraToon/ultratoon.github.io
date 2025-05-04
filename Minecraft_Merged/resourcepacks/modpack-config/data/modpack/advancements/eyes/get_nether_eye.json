@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_ignis",
+  "display": {
+    "icon": { "item": "endrem:nether_eye" },
+    "title": { "text": "Stare Into Despair" },
+    "description": { "text": "Claim Ignis's Nether Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "nether_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:nether_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

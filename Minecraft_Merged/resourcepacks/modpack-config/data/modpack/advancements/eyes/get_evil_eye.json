@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_harbinger",
+  "display": {
+    "icon": { "item": "endrem:evil_eye" },
+    "title": { "text": "Cover Me In Nuts And Bolts" },
+    "description": { "text": "Claim The Harbinger's Mech Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "evil_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:evil_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

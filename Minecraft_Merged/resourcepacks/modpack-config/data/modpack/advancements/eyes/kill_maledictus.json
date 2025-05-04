@@ -1,0 +1,25 @@
+{
+  "parent": "modpack:eyes/find_frosted_prison",
+  "display": {
+    "icon": {
+      "item": "cataclysm:cursed_tombstone"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_maledictus.title"
+    },
+    "description": {
+      "translate": "advancements.cataclysm.kill_maledictus.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "ignis": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:maledictus"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_remnant",
+  "display": {
+    "icon": { "item": "endrem:old_eye" },
+    "title": { "text": "Fortune Seeker" },
+    "description": { "text": "Claim The Ancient Remnant's Old Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "old_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:old_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

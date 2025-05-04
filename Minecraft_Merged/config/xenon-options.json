@@ -1,0 +1,10 @@
+{
+  "advanced": {
+    "cpu_render_ahead_limit": 4
+  },
+  "notifications": {
+    "force_disable_donation_prompts": true,
+    "has_cleared_donation_button": true,
+    "has_seen_donation_prompt": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_umvuthi",
+  "display": {
+    "icon": { "item": "endrem:cryptic_eye" },
+    "title": { "text": "The Storm Waits To Awaken from Its Ancient Slumber" },
+    "description": { "text": "Claim Umvuthi's Cryptic Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "cryptic_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:cryptic_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

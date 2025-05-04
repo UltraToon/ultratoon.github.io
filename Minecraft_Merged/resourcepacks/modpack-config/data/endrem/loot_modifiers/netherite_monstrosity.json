@@ -1,0 +1,11 @@
+{
+  "type": "endrem:loot_injection",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "cataclysm:entities/netherite_monstrosity"
+    }
+  ],
+  "loot_table_id": "endrem:entities/inject_netherite_monstrosity",
+  "allow_recursive_glms": true
+}

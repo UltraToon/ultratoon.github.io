@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_maledictus",
+  "display": {
+    "icon": { "item": "endrem:undead_eye" },
+    "title": { "text": "The Mirror Of The Soul" },
+    "description": { "text": "Claim Maledictus's Undead Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "undead_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:undead_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

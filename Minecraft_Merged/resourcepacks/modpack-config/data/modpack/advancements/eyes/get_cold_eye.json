@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_frostmaw",
+  "display": {
+    "icon": { "item": "endrem:cold_eye" },
+    "title": { "text": "A Nice-y Look" },
+    "description": { "text": "Claim The Frostmaw's Cold Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "cold_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:cold_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

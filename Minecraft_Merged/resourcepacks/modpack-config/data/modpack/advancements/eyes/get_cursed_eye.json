@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_ender_guardian",
+  "display": {
+    "icon": { "item": "endrem:cursed_eye" },
+    "title": { "text": "And When The Storm Awakes, The World Will Tremble" },
+    "description": { "text": "Claim The Ender Guardian's Cur§kWITHERSTORM" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "cursed_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:cursed_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}

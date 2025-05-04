@@ -1,0 +1,23 @@
+{
+  "parent": "modpack:eyes/kill_wither",
+  "display": {
+    "icon": { "item": "endrem:wither_eye" },
+    "title": { "text": "Wither You Want It Or Not" },
+    "description": { "text": "Claim The Wither's Eye" },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "wither_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["endrem:wither_eye"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": { "function": "modpack:unfold_adv" }
+}
