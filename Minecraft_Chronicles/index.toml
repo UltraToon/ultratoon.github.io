@@ -73,6 +73,11 @@ file = "config/xenon-options.json"
 hash = "4e3d3129a3fbf2a2342721b981150e2702e9da773e45ec98fceec79b7e8404a9"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -163,6 +168,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -195,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/despawn-tweaks.pw.toml"
 hash = "eb59f5a2c37ea48f6f5ececc9713f2f08c2b9c060a51e9feadbc0544747ea6ef"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
 metafile = true
 
 [[files]]
@@ -293,6 +308,11 @@ hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
+file = "mods/immersivemc.pw.toml"
+hash = "d4d2fb37395b6556b4c935684a6a1fd5bf7370d196880c49b069013fd14a3c83"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
 metafile = true
@@ -388,8 +408,23 @@ hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
@@ -409,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
@@ -844,7 +879,7 @@ hash = "d4a125f323eb156ff2fee66f473bfa5bcd20eb1db22e06b6562478d24264489d"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/endrem/lang/en_us.json"
-hash = "484bf4dfea82255d79528aec0b9bcf410fe5182eae1372c00a015222b2bfa05f"
+hash = "f2d7d9e86f793769eabbe9847a62082e30f8262673d43c3828a683ad82c7924e"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/endrem/textures/block/eyes/black.png"
@@ -875,3 +910,22 @@ metafile = true
 file = "resourcepacks/vn4s-fresh-wither-storm.pw.toml"
 hash = "73b830eec94b68b9091f158523a3487040ef5e577d3de05d2d2718e003df3c22"
 metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "151e2f983c52716bb185aa0f468676b28faf999f095ead6f6fcb714115f0c7e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "0c768f542dd2d7422360aa590fb6345864e9382a292550425396629f25bc110e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/superDuperVanilla.zip.txt"
+hash = "79704ccb76e5ddcdf6d8d07276564f1ec3bc5c935d0129e6da3e2544be49fd15"

@@ -1,0 +1,13 @@
+name = "Super Duper Vanilla"
+filename = "superDuperVanilla.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LMIZZNxZ/versions/JpNRNtO7/superDuperVanilla.zip"
+hash-format = "sha512"
+hash = "6fcb15dd513bc2ac1b0990b799d90042a25346984790b9a04dadb18e61726d25944d9bf23bdf5f722fb58eb4a7ac57f4279f948d433315c21ac535ab1d75949c"
+
+[update]
+[update.modrinth]
+mod-id = "LMIZZNxZ"
+version = "JpNRNtO7"
