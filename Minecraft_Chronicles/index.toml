@@ -50,7 +50,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "7f53672de4d6a9c95be48c050839a0d40d2ebfa246158f67dc9d84ff139fbaaa"
+hash = "8075c235f6e969d652357a13e0d3e7ef1ef058ba064967f871ba81021c9bc6d3"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -83,11 +83,6 @@ hash = "4e3d3129a3fbf2a2342721b981150e2702e9da773e45ec98fceec79b7e8404a9"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
-metafile = true
-
-[[files]]
-file = "mods/a-good-place.pw.toml"
-hash = "169d21a1e6155c8400068faed766b7f61d342ea8f17dfe45dce17f943b3e18e8"
 metafile = true
 
 [[files]]
@@ -153,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "e2bc63cea33a1fb1924909db08c8eb8e8bb6ac4fb0404a5e7dff85b038371612"
 metafile = true
 
 [[files]]
@@ -311,6 +311,11 @@ hash = "ef02d7733259ff599e02575534f1bd8d793d7e929b2e42b237b8844cdebb1302"
 metafile = true
 
 [[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "710a1cc6aa24e68ba6c4cb93d686b17688d093ff7baecc1d0fa3036a3426ff35"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -431,11 +436,6 @@ hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
 
 [[files]]
-file = "mods/more-advancements-mod-fabric.pw.toml"
-hash = "e160588b838872727b60c073d7daaff7ca484966797bdd96b4255c30a85375b4"
-metafile = true
-
-[[files]]
 file = "mods/mowzies-cataclysm.pw.toml"
 hash = "427589fd8d3a116fd28a1523ecca8ffd42e083b9556b78cc13667163751143d2"
 metafile = true
@@ -491,11 +491,6 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
-file = "mods/pale-garden-backport.pw.toml"
-hash = "154f1a84435b2f25eea684dfc4475c664a68d4b007b98aa7d37696c3e56577a4"
-metafile = true
-
-[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "4684da1c9486b17aa9029f441b8b573a738bd256f413c30279950d2c9e8fe34f"
 metafile = true
@@ -533,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/rediscovered.pw.toml"
 hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "35c4484a3bd6b9055f3f944ed8bdc27fb8c62a385277b9e7f89fd19bccfa4191"
 metafile = true
 
 [[files]]
@@ -576,11 +576,6 @@ hash = "a632167cdbc7cfd28254dcc799877a1ea4ad717100539fe77ac947c56bfe02f8"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
 file = "mods/spyglass-of-curios.pw.toml"
 hash = "2a1eb7d830ff7e9e8a3b3edb9cd6dbf802506d8b4d19059fc75dc0ad0e3353f6"
 metafile = true
@@ -613,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/the-root-of-fear.pw.toml"
 hash = "66a5bdf6490b038a00160f6d819a82845fe1c437106fe663cba3dba65b895b91"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "84ded57af76b2117a986fc935e201e37d3eb89e43e34ca6ad042875571677d71"
 metafile = true
 
 [[files]]
@@ -658,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/xenon-forge.pw.toml"
 hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]
@@ -1048,13 +1043,13 @@ file = "shaderpacks/superDuperVanilla.zip.txt"
 hash = "79704ccb76e5ddcdf6d8d07276564f1ec3bc5c935d0129e6da3e2544be49fd15"
 
 [[files]]
-file = "unsup.toml"
-hash = "fd074c90b4d79f881a4cc9e192d51175e598c61431666866c4d4d77a412d3f8d"
-
-[[files]]
-file = "unsup/unsup.ini"
+file = "unsup.ini"
 hash = "9e265266f8addf2e7e6f8759e291502081f8b49b5d04c53b2370e7bd3f4e7070"
 
 [[files]]
-file = "unsup/unsup.jar"
-hash = "448bcf3d99ca9bca6d1565b30108e60ff039509aa5e58ebc61d28f1169a347bb"
+file = "unsup.jar"
+hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
+
+[[files]]
+file = "unsup.toml"
+hash = "8c0b25b5c21fdd032ff1ac64b300f74cf4cd74be9a27b12189a1f1ad8e713e4a"
