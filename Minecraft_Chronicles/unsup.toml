@@ -1,0 +1,7 @@
+[flavor_groups.distanthorizons]
+name = "Distant Horizons"
+id = "distanthorizons"
+description = "Distant Horizons toggle, turn off if you have low specs, otherwise recommended to be on."
+side = "client"
+choices = ["distanthorizons_off", "distanthorizons_on"]
+

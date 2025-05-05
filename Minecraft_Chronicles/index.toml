@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "46b276b7afe9a1b5aa8de4fc15cdf50fbe44e485da6870c7b5f1f36c0845f276"
+hash = "01c83dbe3a427ee897b756e1ac2908ebdf8dad1bc46b56f3064d446a1ce0df0a"
 metafile = true
 
 [[files]]
@@ -365,11 +365,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "7b99af69051b8e607d955c53d77acb62d74899b8f83ada62750a3e3baa3417c8"
 metafile = true
 
 [[files]]
@@ -409,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
@@ -429,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
@@ -458,8 +453,8 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
@@ -470,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "0d422c8149fafa618f0d1d227e610f661fbbe66608b33a60b9d614127ffbb08c"
 metafile = true
 
 [[files]]
@@ -939,3 +939,15 @@ metafile = true
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip.txt"
 hash = "79704ccb76e5ddcdf6d8d07276564f1ec3bc5c935d0129e6da3e2544be49fd15"
+
+[[files]]
+file = "unsup.toml"
+hash = "9a572efd8f153180ec4f71685c0ed1bee7f429206e7203587e69f76371af0d81"
+
+[[files]]
+file = "unsup/unsup.ini"
+hash = "2dc16c68396d6aea7b07eac19ea428c95104735e9e4b51f533307348c69a951b"
+
+[[files]]
+file = "unsup/unsup.jar"
+hash = "448bcf3d99ca9bca6d1565b30108e60ff039509aa5e58ebc61d28f1169a347bb"
