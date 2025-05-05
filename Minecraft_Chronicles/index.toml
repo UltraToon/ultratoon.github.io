@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "415c1bb058287bd60abb4ffc9210963699259862e32b039ececf3c0b497e968b"
+hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
+hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/deltaboxlib.pw.toml"
-hash = "5ad19b15bfa230f578faa0cfbe5cf4e6c824c707eec184d05844ea90e1cd826f"
+hash = "85a976363930871d17581d127533f9628b6ff4ee1cf76b779c1a47f2277a505b"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2ad92a3b23a7e8944ac872caee3d73cd7bd5046bcc6a9a5635533ba3cf5660b1"
+hash = "7b99af69051b8e607d955c53d77acb62d74899b8f83ada62750a3e3baa3417c8"
 metafile = true
 
 [[files]]
@@ -384,7 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "89290315b6a193b9fb134b53f881583a80c9f4cc5d4293a8b903681574c53b47"
+hash = "7168f65994208be646432b925c1705364bdaa08b7f8db69637a5bcfaa3a50a07"
+metafile = true
+
+[[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "ba12164bafdf225f02816c6d8d8a1ae702e400056fe83ba48d0034afcbb4e237"
 metafile = true
 
 [[files]]
@@ -429,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/pale-garden-backport.pw.toml"
-hash = "7b736762e240861c6672e6538adabd2808abf65c7266aa0de38a1fc0aefdc12d"
+hash = "154f1a84435b2f25eea684dfc4475c664a68d4b007b98aa7d37696c3e56577a4"
 metafile = true
 
 [[files]]
@@ -499,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "41d8b092986ad05e543d1ba225ee29dc1c47b6e75b306728d12f9dc2292788a8"
+hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
 metafile = true
 
 [[files]]
@@ -518,6 +523,11 @@ hash = "66a5bdf6490b038a00160f6d819a82845fe1c437106fe663cba3dba65b895b91"
 metafile = true
 
 [[files]]
+file = "mods/toadlib.pw.toml"
+hash = "84ded57af76b2117a986fc935e201e37d3eb89e43e34ca6ad042875571677d71"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
 metafile = true
@@ -529,12 +539,12 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "c56a0139f577ff615648c2164255de17654e5f8db95770d78deb8676d8cc6dd3"
+hash = "9e5b8969a8c723f9f2fb261c950b997e5850bb1440f68e999532e38674ad6f7a"
 metafile = true
 
 [[files]]
 file = "mods/wither-spawn-animation.pw.toml"
-hash = "2cb25d9c221c17b16745d56c7c45652e7feaa8f7938a3ab6e76c98f90648ad13"
+hash = "ba758f77d7e7d65f6c1ba0254a4cb66a83c3eb6fc110315475875787ed42dcb0"
 metafile = true
 
 [[files]]
@@ -903,7 +913,7 @@ hash = "08db22e68c83a80be8db2ed6cec08cf5f874914553d71695632895489490eb6b"
 
 [[files]]
 file = "resourcepacks/music-and-melody.pw.toml"
-hash = "cf829960e7f98d5bed6dbc7ccfc9e25a2f639ede3354ed6c6dea059f3d77037f"
+hash = "32241726bc3be7bafc106d965837565e41d08a61a49d75d0da407cde8a656e12"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Music and Melody"
-filename = "legacies-music-1.20-v1.3.1.zip"
+filename = "music-and-melody-1.20-v1.3.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/otN8o2K1/legacies-music-1.20-v1.3.1.zip"
+url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/7DZdnWOH/music-and-melody-1.20-v1.3.2.zip"
 hash-format = "sha512"
-hash = "9ee102232a6af6e1ecd097ad95f0f4e90c217d24ae33e1ccc3838ae837da1aafece38bf7ba9eff696e9f0520ed61d1c10b9f1f498fe0aa09831f538abd0e3cec"
+hash = "958d6833050aa03985e3a66d5867bd9ae3c59d7f0b7aadd3f7d388a41be8f0b14d2d1492c5bb7629939f3686ffb3975a4014ded45b00dfe446b90c61d27b4c95"
 
 [update]
 [update.modrinth]
 mod-id = "dAU9uKaA"
-version = "otN8o2K1"
+version = "7DZdnWOH"
