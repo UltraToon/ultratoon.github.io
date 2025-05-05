@@ -21,6 +21,14 @@ file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "2dfca3dcbaefcd07c023d14f23835d86375d76435bd670208e418b12a548c67e"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "25a1c3710717d481e7ca80f3aad4e6990949492d5b3147ec077a4e5c71c5794f"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
@@ -320,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
+metafile = true
+
+[[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "3281105a960a606d823f513b2cac3c061005201341019992496e05896cac39fc"
 metafile = true
 
 [[files]]
@@ -947,11 +960,11 @@ hash = "79704ccb76e5ddcdf6d8d07276564f1ec3bc5c935d0129e6da3e2544be49fd15"
 
 [[files]]
 file = "unsup.toml"
-hash = "9a572efd8f153180ec4f71685c0ed1bee7f429206e7203587e69f76371af0d81"
+hash = "fd074c90b4d79f881a4cc9e192d51175e598c61431666866c4d4d77a412d3f8d"
 
 [[files]]
 file = "unsup/unsup.ini"
-hash = "2dc16c68396d6aea7b07eac19ea428c95104735e9e4b51f533307348c69a951b"
+hash = "9e265266f8addf2e7e6f8759e291502081f8b49b5d04c53b2370e7bd3f4e7070"
 
 [[files]]
 file = "unsup/unsup.jar"

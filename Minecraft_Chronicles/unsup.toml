@@ -5,3 +5,9 @@ description = "Distant Horizons toggle, turn off if you have low specs, otherwis
 side = "client"
 choices = ["distanthorizons_off", "distanthorizons_on"]
 
+[flavor_groups.oculus]
+name = "Shader Support (Oculus)"
+id = "oculus"
+description = "Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
+side = "client"
+choices = ["oculus_off", "oculus_on"]
