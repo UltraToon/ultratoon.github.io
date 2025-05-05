@@ -1,0 +1,13 @@
+name = "Cataclysmic Combat"
+filename = "cataclysmiccombat-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MehxyiU4/versions/tBvJicXF/cataclysmiccombat-1.4.jar"
+hash-format = "sha512"
+hash = "a367e5c3fdfb9929dee6f1294084d875637b0f4ed7c34af006efca61392c1afbcb7371a842938de8a95c9bf85bdc9fc415911296eab9ec5eb4b05aefc28c66d7"
+
+[update]
+[update.modrinth]
+mod-id = "MehxyiU4"
+version = "tBvJicXF"

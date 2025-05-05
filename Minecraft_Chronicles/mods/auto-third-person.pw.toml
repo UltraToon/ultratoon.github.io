@@ -1,0 +1,13 @@
+name = "Auto Third Person"
+filename = "auto_third_person-forge-1.20.1-2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANu8FMzT/versions/m8X9EICJ/auto_third_person-forge-1.20.1-2.1.jar"
+hash-format = "sha512"
+hash = "e0acc3ef89c1ee04b0e5b4901c6a9b7cf704ee88aa530f7191544372fc49b93e36626729a3180e7fcb0f43ae869d9c854e5eb45b1fb80f2734420434e755acb1"
+
+[update]
+[update.modrinth]
+mod-id = "ANu8FMzT"
+version = "m8X9EICJ"

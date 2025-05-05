@@ -26,7 +26,7 @@ hash = "2dfca3dcbaefcd07c023d14f23835d86375d76435bd670208e418b12a548c67e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "25a1c3710717d481e7ca80f3aad4e6990949492d5b3147ec077a4e5c71c5794f"
+hash = "deecfe83f6dc14d102ba8ea1282aaf6d29ba06a0c6cddfe6720775af0236cdb7"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -50,7 +50,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "0c034ba7c280d46635fc3877ba225dbfb69656e3fbf1d45e761756f10d314360"
+hash = "7f53672de4d6a9c95be48c050839a0d40d2ebfa246158f67dc9d84ff139fbaaa"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -86,6 +86,11 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/a-good-place.pw.toml"
+hash = "169d21a1e6155c8400068faed766b7f61d342ea8f17dfe45dce17f943b3e18e8"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -111,6 +116,11 @@ hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "155bf176cec5f849aed266e39716932f73a7a32f45a36b7b6a64b3fd3ce80bff"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -123,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "b2361bd940792464869acd3863f00d70dfa64afcf1b536117691c7206032fff3"
 metafile = true
 
 [[files]]
@@ -151,8 +166,18 @@ hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
+file = "mods/cataclysmic-combat.pw.toml"
+hash = "8acb63dff6a8d3ea88623ef6abf5ff6c1d17d1eaa62bb52a5a5444ff46abbd5c"
 metafile = true
 
 [[files]]
@@ -188,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -276,6 +306,11 @@ hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "ef02d7733259ff599e02575534f1bd8d793d7e929b2e42b237b8844cdebb1302"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -321,6 +356,11 @@ hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "db67b75db18d2ce8bebe92b72f5d5a3f64de4077edfd4439e8f633517c6f53c1"
+metafile = true
+
+[[files]]
 file = "mods/immersivemc.pw.toml"
 hash = "d4d2fb37395b6556b4c935684a6a1fd5bf7370d196880c49b069013fd14a3c83"
 metafile = true
@@ -358,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
 
 [[files]]
@@ -461,8 +506,18 @@ hash = "be2cd243fe83f4253d406afaf81781ffafb12d86903fcac8df913f247d84a0df"
 metafile = true
 
 [[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "a36f67262378d07560eda5ecd6ed06029f861ab4d973c116ec422e5d9f266be2"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
 
 [[files]]
@@ -496,6 +551,21 @@ hash = "dcf41b44fb2b0f4e393e2f9a41017aa9b10bd21e804b03218458a07ba70221ca"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "860fc3d1f54380f99f3337029b441cc0665c33bdf6356f23a2c9adf21fca3072"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
@@ -508,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-of-curios.pw.toml"
+hash = "2a1eb7d830ff7e9e8a3b3edb9cd6dbf802506d8b4d19059fc75dc0ad0e3353f6"
 metafile = true
 
 [[files]]
@@ -561,6 +636,11 @@ hash = "9e5b8969a8c723f9f2fb261c950b997e5850bb1440f68e999532e38674ad6f7a"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
 file = "mods/wither-spawn-animation.pw.toml"
 hash = "ba758f77d7e7d65f6c1ba0254a4cb66a83c3eb6fc110315475875787ed42dcb0"
 metafile = true
@@ -589,6 +669,10 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "c9aa910106e0c2a38685e5528f3d80160049fdbf43fac1d2dfe41d0ad163690c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "6e2f80f8d6f704f7453eaaaa4ab9b9e764b3ca0a48e39d96d9671dd9f1168bb7"
 
 [[files]]
 file = "resourcepacks/accurate-wither-storm-mod.pw.toml"
@@ -947,6 +1031,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/mellow.pw.toml"
 hash = "151e2f983c52716bb185aa0f468676b28faf999f095ead6f6fcb714115f0c7e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
 metafile = true
 
 [[files]]

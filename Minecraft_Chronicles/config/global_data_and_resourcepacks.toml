@@ -4,6 +4,7 @@
 [resourcepacks]
 required = [
     #"other_folder/random_pack.zip" # You can also point at specific files!
+    "resourcepacks/VanillaTweaks.zip"
     "resourcepacks/"
 ]
 
