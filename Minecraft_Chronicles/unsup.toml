@@ -2,7 +2,7 @@
 name = "Distant Horizons"
 id = "distanthorizons"
 description = "[WIP] Distant Horizons toggle, turn off if you have low specs or want to avoid experiments, otherwise it can be on."
-side = "client"
+side = "both"
 choices = ["distanthorizons_off", "distanthorizons_on"]
 
 [flavor_groups.oculus]
@@ -12,8 +12,8 @@ description = "Shader support, turn off if you have low specs (or no shadders to
 side = "client"
 choices = ["oculus_off", "oculus_on"]
 
-[metafile.distanthorizons]
-flavors = ["distanthorizons_off", "distanthorizons_on"]
-[metafile.oculus]
-flavors = ["oculus_off", "oculus_on"]
+#[metafile.distanthorizons]
+#flavors = ["distanthorizons_off", "distanthorizons_on"]
+#[metafile.oculus]
+#flavors = ["oculus_off", "oculus_on"]
 

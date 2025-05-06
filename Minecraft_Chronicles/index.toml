@@ -1044,7 +1044,7 @@ hash = "79704ccb76e5ddcdf6d8d07276564f1ec3bc5c935d0129e6da3e2544be49fd15"
 
 [[files]]
 file = "unsup.ini"
-hash = "a24dd12ec3c06638f208de225724194019d10f75986fcb689ea373beeafc0bd5"
+hash = "95753ce14dbbffa7f480cf8d1a699c17a7a02f6b52a9643c9be648ddc915eee6"
 
 [[files]]
 file = "unsup.jar"
@@ -1052,4 +1052,4 @@ hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
 
 [[files]]
 file = "unsup.toml"
-hash = "8c0b25b5c21fdd032ff1ac64b300f74cf4cd74be9a27b12189a1f1ad8e713e4a"
+hash = "24ddd91f85ff1ec12ec8c96430b8e5f78ce906ffa7f463ffff6b60fb0c191fb0"
