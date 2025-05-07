@@ -156,6 +156,11 @@ hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
 metafile = true
 
 [[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "d001000953fec8ed50134bab2c109bf0aa205aa8e26a50906600469961dd91bb"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
@@ -181,8 +186,18 @@ hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
 metafile = true
 
 [[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "0db676692b1170ee7eb2bffc6607d505d55846ab183e5fdf42d2a328d60ff180"
 metafile = true
 
 [[files]]
@@ -211,6 +226,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/coastal-waves.pw.toml"
+hash = "49f54ce2926c147a8affea14944492c63ce73888491bc031a9569551a88dc340"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
 metafile = true
@@ -218,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/constant-music.pw.toml"
+hash = "beab7ecc509cde5adbf7ffe75c9bc66d9cd34327c75d9a989ad6dbfecb8aaf47"
 metafile = true
 
 [[files]]
@@ -361,6 +386,11 @@ hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
 
 [[files]]
+file = "mods/golem-spawn-animation.pw.toml"
+hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -386,8 +416,18 @@ hash = "d4d2fb37395b6556b4c935684a6a1fd5bf7370d196880c49b069013fd14a3c83"
 metafile = true
 
 [[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "1626a0cab2a54794dfd69105f526e30543d18460e591febd7e36c063aa814c00"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
+metafile = true
+
+[[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
 metafile = true
 
 [[files]]
@@ -441,6 +481,11 @@ hash = "4b67c06d2041eadb1ce4d504987cdbb37e5e7c63f2ef0a09debe434ae909eabb"
 metafile = true
 
 [[files]]
+file = "mods/mini-boss-boss-bars.pw.toml"
+hash = "6df5836ca0c66795bb1fb5b146fd5372be35cfb4bd98d9e0808194d3e7632444"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "4b145c7939f87a21c8317bcfc5909f08f440f2936f1b6c80ce0c0cc88ff0aef9"
 metafile = true
@@ -486,6 +531,11 @@ hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+hash = "5789ae04e953cd14d7b29baee83701dd3c882ed3df9c5255a2034bec72f20d3e"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
@@ -513,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "a36f67262378d07560eda5ecd6ed06029f861ab4d973c116ec422e5d9f266be2"
+metafile = true
+
+[[files]]
+file = "mods/perception.pw.toml"
+hash = "c289c64b7d30cc2288508fe26dca04f4e2b15c5009bb31baaa72f32bf6f2dd9c"
 metafile = true
 
 [[files]]
@@ -690,8 +745,8 @@ hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
 
 [[files]]
-file = "resourcepacks/boss-refreshed.pw.toml"
-hash = "09de59c701f89c92d888893c7f8018229a1eb1f017440268e9de82d475b02565"
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
 metafile = true
 
 [[files]]
@@ -1027,11 +1082,6 @@ hash = "d8017ffd92a8318a5ba671136356dc6fc17ed4f5e5643429911ebc18f1d25112"
 [[files]]
 file = "resourcepacks/modpack-resource/pack.mcmeta"
 hash = "08db22e68c83a80be8db2ed6cec08cf5f874914553d71695632895489490eb6b"
-
-[[files]]
-file = "resourcepacks/music-and-melody.pw.toml"
-hash = "32241726bc3be7bafc106d965837565e41d08a61a49d75d0da407cde8a656e12"
-metafile = true
 
 [[files]]
 file = "resourcepacks/vn4s-fresh-wither-storm.pw.toml"

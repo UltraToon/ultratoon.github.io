@@ -1,0 +1,13 @@
+name = "Constant Music"
+filename = "constantmusic-forge-1.20.1-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tvuSEM6E/versions/sVcfrlUC/constantmusic-forge-1.20.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "8dc1ae04f483b320b77e0b090b6fb8df59299fb309c4a8bf77e709d97e52bf9a895c2991ff79c19e12b6a4c036a8122dd5252e41ee7cb64323ebb19a21ca9777"
+
+[update]
+[update.modrinth]
+mod-id = "tvuSEM6E"
+version = "sVcfrlUC"

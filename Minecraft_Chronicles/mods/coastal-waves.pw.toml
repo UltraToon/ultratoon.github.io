@@ -1,0 +1,13 @@
+name = "Coastal Waves"
+filename = "Waves-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbbc8dfa855b3af469a48eb55687eb7363246263"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6353969
+project-id = 1155936

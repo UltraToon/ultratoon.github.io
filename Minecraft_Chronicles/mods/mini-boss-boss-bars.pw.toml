@@ -1,0 +1,13 @@
+name = "Mini-boss Boss Bars"
+filename = "Mini-boss Boss Bars 1.0.121.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14377d89f4a247377aac2ca87dbca00c39072493"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6483569
+project-id = 1001151

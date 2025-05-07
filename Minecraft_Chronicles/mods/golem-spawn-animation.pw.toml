@@ -1,0 +1,13 @@
+name = "Golem Spawn Animation"
+filename = "golem_spawn_animation-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1FoZ14MZ/versions/mNUzo6Lw/golem_spawn_animation-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "910bb8e090e6a737bdc40c30180e37587b83a298e466a7c7ec1bdd0591b4892f6a0da2d98efe9ff91dfbcf5d7ea1ea78557e5fcb14b12ae54aa378ec145967e7"
+
+[update]
+[update.modrinth]
+mod-id = "1FoZ14MZ"
+version = "mNUzo6Lw"
