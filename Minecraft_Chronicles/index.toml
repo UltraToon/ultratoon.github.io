@@ -616,11 +616,6 @@ hash = "0d422c8149fafa618f0d1d227e610f661fbbe66608b33a60b9d614127ffbb08c"
 metafile = true
 
 [[files]]
-file = "mods/shield-expansion.pw.toml"
-hash = "dcf41b44fb2b0f4e393e2f9a41017aa9b10bd21e804b03218458a07ba70221ca"
-metafile = true
-
-[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
@@ -668,11 +663,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/the-masquerade-(illager-boss).pw.toml"
-hash = "f0275610058b217f3eb890e2331f0d9a82fd586f28ebf5212ec1f1fd0a5722bc"
 metafile = true
 
 [[files]]
