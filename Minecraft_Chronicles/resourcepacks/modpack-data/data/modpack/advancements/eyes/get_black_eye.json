@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_warden",
   "display": {
     "icon": { "item": "endrem:black_eye" },
-    "title": { "text": "No Eyesight" },
-    "description": { "text": "Claim The Warden's Sonic Eye" },
+    "title": { "translate": "advancements.main.black_eye.title" },
+    "description": { "translate": "advancements.main.black_eye.description" },
     "frame": "goal",
     "hidden": true
   },

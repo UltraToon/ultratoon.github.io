@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_umvuthi",
   "display": {
     "icon": { "item": "endrem:cryptic_eye" },
-    "title": { "text": "The Storm Waits To Awaken from Its Ancient Slumber" },
-    "description": { "text": "Claim Umvuthi's Cryptic Eye" },
+    "title": { "translate": "advancements.main.cryptic_eye.title" },
+    "description": { "translate": "advancements.main.cryptic_eye.description" },
     "frame": "goal",
     "hidden": true
   },

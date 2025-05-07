@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_frostmaw",
   "display": {
     "icon": { "item": "endrem:cold_eye" },
-    "title": { "text": "A Nice-y Look" },
-    "description": { "text": "Claim The Frostmaw's Cold Eye" },
+    "title": { "translate": "advancements.main.cold_eye.title" },
+    "description": { "translate": "advancements.main.cold_eye.description" },
     "frame": "goal",
     "hidden": true
   },

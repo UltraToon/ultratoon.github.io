@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_maledictus",
   "display": {
     "icon": { "item": "endrem:undead_eye" },
-    "title": { "text": "The Mirror Of The Soul" },
-    "description": { "text": "Claim Maledictus's Undead Eye" },
+    "title": { "translate": "advancements.main.undead_eye.title" },
+    "description": { "translate": "advancements.main.undead_eye.description" },
     "frame": "goal",
     "hidden": true
   },

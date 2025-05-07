@@ -13,5 +13,5 @@
     "endrem:ferrous_wroughtnaut",
     "endrem:wither"
   ],
-  "replace": true
+  "replace": false
 }

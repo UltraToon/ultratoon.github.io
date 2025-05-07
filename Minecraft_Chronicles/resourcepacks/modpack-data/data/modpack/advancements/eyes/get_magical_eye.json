@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_sculptor",
   "display": {
     "icon": { "item": "endrem:magical_eye" },
-    "title": { "text": "Fallen Sorcerer" },
-    "description": { "text": "Claim The Sculptor's Magical Eye" },
+    "title": { "translate": "advancements.main.magical_eye.title" },
+    "description": { "translate": "advancements.main.magical_eye.description" },
     "frame": "goal",
     "hidden": true
   },

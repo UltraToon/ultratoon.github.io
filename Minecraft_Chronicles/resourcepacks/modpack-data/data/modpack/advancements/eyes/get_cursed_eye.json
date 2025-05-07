@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_ender_guardian",
   "display": {
     "icon": { "item": "endrem:cursed_eye" },
-    "title": { "text": "And When The Storm Awakes, The World Will Tremble" },
-    "description": { "text": "Claim The Ender Guardian's Cur§kWITHERSTORM" },
+    "title": { "translate": "advancements.main.cursed_eye.title" },
+    "description": { "translate": "advancements.main.cursed_eye.description" },
     "frame": "goal",
     "hidden": true
   },

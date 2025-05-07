@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_leviathan",
   "display": {
     "icon": { "item": "endrem:exotic_eye" },
-    "title": { "text": "Where's Atlantis?" },
-    "description": { "text": "Claim The Leviathan's Exotic Eye" },
+    "title": { "translate": "advancements.main.exotic_eye.title" },
+    "description": { "translate": "advancements.main.exotic_eye.description" },
     "frame": "goal",
     "hidden": true
   },

@@ -86,8 +86,18 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "00514c9314f52b85916c096ee73f64989d92a5b1cba6ef9a01dfdf5fafbf4fb8"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
+metafile = true
+
+[[files]]
+file = "mods/advancements-tracker.pw.toml"
+hash = "4d6c9e06986ae335246a321bd283a401972b352fbdb5cfd853517128920e77cb"
 metafile = true
 
 [[files]]
@@ -303,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
+metafile = true
+
+[[files]]
+file = "mods/farsighted-mobs.pw.toml"
+hash = "fe070f1c9916a21c0328eb6647270dc653d71e0d624999d5ede30edbf85a69f9"
 metafile = true
 
 [[files]]
@@ -526,6 +541,11 @@ hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
 metafile = true
 
 [[files]]
+file = "mods/refined-advancements.pw.toml"
+hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "35c4484a3bd6b9055f3f944ed8bdc27fb8c62a385277b9e7f89fd19bccfa4191"
 metafile = true
@@ -606,11 +626,6 @@ hash = "66a5bdf6490b038a00160f6d819a82845fe1c437106fe663cba3dba65b895b91"
 metafile = true
 
 [[files]]
-file = "mods/trashslot.pw.toml"
-hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
-metafile = true
-
-[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "6d5ac3ede55fc03df56dbf655538179b2afe1425cfbeba7a9ba88e19cc9ec117"
 metafile = true
@@ -675,8 +690,18 @@ hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
 
 [[files]]
+file = "resourcepacks/boss-refreshed.pw.toml"
+hash = "09de59c701f89c92d888893c7f8018229a1eb1f017440268e9de82d475b02565"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshly-modded.pw.toml"
+hash = "bbfaee55a0a6382a69db198d7b9f14fcd36d3b7d995bf19e1e54556ad849cd08"
 metafile = true
 
 [[files]]
@@ -777,7 +802,7 @@ hash = "d24e9f67e8ccc92f10c8dc270a919a2476da02f9f297ec8636e9747b9cc6436f"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/forge/loot_modifiers/global_loot_modifiers.json"
-hash = "805958f386a6726c536cdcc21f6999e0e055060a1116a13627d1bcbe3ddee4b4"
+hash = "b1a6d62dcebd7b37cd9343d803338e77e0418ddc8f5dd93c23b8a55d5b79d744"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_ancient_factory.json"
@@ -821,55 +846,55 @@ hash = "ea5d5c9e302add874c0a49d0cdcc4b81c4570255ae1609c2ba4913a8c9a822ef"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_black_eye.json"
-hash = "bb6734b1320eeb4f425e8016800aec4bc4de4c6508121973a3a4cf6e05503da7"
+hash = "c7ba5c63cd092c1b9fcc5069d4a8706982de636a96db37aa6ce9860780ee132d"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_cold_eye.json"
-hash = "90ee16ed3765e00bd208e093050d407dacf8b4ea61030bf89c40dc72048f9e77"
+hash = "5bfe07592fab13c7821f1a736f668ea7b24312c8778910b127f3b56807b44f04"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_corrupted_eye.json"
-hash = "73d7c4bf1e429a562b651de8f4e52b4696a21ee611fefafc32a8c190364f7e30"
+hash = "4fb1d011415375cc11f6fe577a64e3d0ee60a71551e75a4f3bb73f6eb3f3ef7b"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_cryptic_eye.json"
-hash = "8d8d207666eb88af6b92a6e450f5f7a751bdf299a54387f0370f22e0fcb6b18c"
+hash = "158f8a69ef9f306c86e1ebf1432f12daf36ced8e34de0143681cb574ae54bbf5"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_cursed_eye.json"
-hash = "9c7f72f41cea13d100d6c46146829c63e1d518c1fe0d96e0a3ebcbb4e2200f6d"
+hash = "578ba4be78e60ed029510d28e6b138f8eceb4117d39cf0651b36eda28564853b"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_evil_eye.json"
-hash = "aab093ac2e1938b819c97ce0791f24881ace150de7406c432f103ff6090240eb"
+hash = "9cd9bf6b620690e6946f2e92a12ba2d86f3d27978095f649a068131c1233f9bd"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_exotic_eye.json"
-hash = "23e1eb60af935eae2e08183953bcdf86400b2241987c7d677a4066801dce8a18"
+hash = "e4772c773c7c757472aab41fe52bb6397910b2d396149ac7f4bce437ad95ae8b"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_lost_eye.json"
-hash = "e6dd9658379278f82896715e931b5c487320a76bde4fde0d9f2655c45abc2706"
+hash = "d49306e0363417a8a241a429fb8ee2c205455f261ae84192faec9ddf149f26ab"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_magical_eye.json"
-hash = "dbcd29f04bea017954cd874a11b5371db5ed34d7298836b4b033b658c9f426c8"
+hash = "b83e15c8bd896303ca7aa4def841db9e7431dccda93d5fa723ea07ac2f9522f9"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_nether_eye.json"
-hash = "702fc02b8acd008cdac4c9e9a7bb962925c05bb3ed5cf73b5435a3b34741d8dc"
+hash = "dcc0b2d7ea852cab7dce739dc412cc008a6466aaca3e1c491c82e0f60c7aee5d"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_old_eye.json"
-hash = "addddcaf1e881e6834f22d7c248cd6e65864dd15cca125df135dd53c0a819737"
+hash = "f6c8527e2600ac62cf0420c86ec4a0a21980ac25eb46aa0ef10ae29277336f71"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_undead_eye.json"
-hash = "875105b5d7b957dca8e6aa739dc12d9e13ccd6bb8a4099d3a858af8e7f5cc98a"
+hash = "5fae799b1eb552f536d36d43bf4d1e42b8654e0020dc6d3818cb5facc1b1ccd3"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/get_wither_eye.json"
-hash = "18a2147386bd1c3fe1758be36577734a6935933af0ac26cf84812baf301ffc57"
+hash = "3fe33684cbf7604ec549c8ea7344d27791ce1cec7319569f5f6e24ef3815f464"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/kill_bluff.json"
@@ -977,11 +1002,11 @@ hash = "5e840ea9d7867274168644f96c2a16d779e4e27bc98c8914934abcbc5dbaa3e4"
 
 [[files]]
 file = "resourcepacks/modpack-data/pack.mcmeta"
-hash = "d4a125f323eb156ff2fee66f473bfa5bcd20eb1db22e06b6562478d24264489d"
+hash = "5a67f7e125ab1d0bfa058493582f0536ff0065f98c8eca3cbe6e26c6b00ce270"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/endrem/lang/en_us.json"
-hash = "f2d7d9e86f793769eabbe9847a62082e30f8262673d43c3828a683ad82c7924e"
+hash = "d686165cfcad282e85ab303228904bb744d7a08ae6f4abd7066460b1d8be65f7"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/endrem/textures/block/eyes/black.png"

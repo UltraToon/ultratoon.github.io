@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_ignis",
   "display": {
     "icon": { "item": "endrem:nether_eye" },
-    "title": { "text": "Stare Into Despair" },
-    "description": { "text": "Claim Ignis's Nether Eye" },
+    "title": { "translate": "advancements.main.nether_eye.title" },
+    "description": { "translate": "advancements.main.nether_eye.description" },
     "frame": "goal",
     "hidden": true
   },

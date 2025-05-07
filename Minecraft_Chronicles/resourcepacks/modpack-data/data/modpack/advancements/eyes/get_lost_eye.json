@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_monstrosity",
   "display": {
     "icon": { "item": "endrem:lost_eye" },
-    "title": { "text": "Need A Map?" },
-    "description": { "text": "Claim The Netherite Monstrosities Lost Eye" },
+    "title": { "translate": "advancements.main.lost_eye.title" },
+    "description": { "translate": "advancements.main.lost_eye.description" },
     "frame": "goal",
     "hidden": true
   },

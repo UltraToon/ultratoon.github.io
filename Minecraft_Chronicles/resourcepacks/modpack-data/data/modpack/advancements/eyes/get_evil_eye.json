@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_harbinger",
   "display": {
     "icon": { "item": "endrem:evil_eye" },
-    "title": { "text": "Cover Me In Nuts And Bolts" },
-    "description": { "text": "Claim The Harbinger's Mech Eye" },
+    "title": { "translate": "advancements.main.evil_eye.title" },
+    "description": { "translate": "advancements.main.evil_eye.description" },
     "frame": "goal",
     "hidden": true
   },

@@ -1,0 +1,13 @@
+name = "Boss Refreshed"
+filename = "boss-refreshed-v1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZbZNRA1g/versions/g6G1ETKh/boss-refreshed-v1.3.zip"
+hash-format = "sha512"
+hash = "fca7914e66494b93b8722233b6ab39614dadafd3f790f9bea887fa4e43581fbf5f06536913f02c8c8b41ab19729c044f024bd84aec3e04aa599693ad095df25d"
+
+[update]
+[update.modrinth]
+mod-id = "ZbZNRA1g"
+version = "g6G1ETKh"

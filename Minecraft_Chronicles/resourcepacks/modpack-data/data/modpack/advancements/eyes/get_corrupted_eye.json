@@ -2,8 +2,10 @@
   "parent": "modpack:eyes/kill_ferrous_wroughtnaut",
   "display": {
     "icon": { "item": "endrem:corrupted_eye" },
-    "title": { "text": "Knightmare Vision" },
-    "description": { "text": "Claim Ferrous Wroughtnaut's Corrupted Eye" },
+    "title": { "translate": "advancements.main.corrupted_eye.title" },
+    "description": {
+      "translate": "advancements.main.corrupted_eye.description"
+    },
     "frame": "goal",
     "hidden": true
   },

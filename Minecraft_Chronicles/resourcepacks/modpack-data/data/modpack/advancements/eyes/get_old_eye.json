@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_remnant",
   "display": {
     "icon": { "item": "endrem:old_eye" },
-    "title": { "text": "Fortune Seeker" },
-    "description": { "text": "Claim The Ancient Remnant's Old Eye" },
+    "title": { "translate": "advancements.main.old_eye.title" },
+    "description": { "translate": "advancements.main.old_eye.description" },
     "frame": "goal",
     "hidden": true
   },

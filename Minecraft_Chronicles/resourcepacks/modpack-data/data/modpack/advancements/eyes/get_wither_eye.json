@@ -2,8 +2,8 @@
   "parent": "modpack:eyes/kill_wither",
   "display": {
     "icon": { "item": "endrem:wither_eye" },
-    "title": { "text": "Wither You Want It Or Not" },
-    "description": { "text": "Claim The Wither's Eye" },
+    "title": { "translate": "advancements.main.wither_eye.title" },
+    "description": { "translate": "advancements.main.wither_eye.description" },
     "frame": "goal",
     "hidden": true
   },
