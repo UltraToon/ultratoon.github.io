@@ -1,0 +1,13 @@
+name = "Cracker's Wither Storm Plus Datapack"
+filename = "CWSPLUS Datapack 1.20.1 v2.2.2.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "198d2b10a26d44a9e737e116a06e927cf10e7c42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6445683
+project-id = 1109751

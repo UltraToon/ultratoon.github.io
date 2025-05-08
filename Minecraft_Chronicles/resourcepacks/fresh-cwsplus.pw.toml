@@ -1,0 +1,13 @@
+name = "Fresh CWSPLUS"
+filename = "FRESH CWSPLUS v2.1.6.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bbcdcd6505614a06550aace3664e29a155d80c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5918457
+project-id = 1022138

@@ -81,6 +81,11 @@ file = "config/xenon-options.json"
 hash = "4e3d3129a3fbf2a2342721b981150e2702e9da773e45ec98fceec79b7e8404a9"
 
 [[files]]
+file = "crackers-wither-storm-plus-datapack.pw.toml"
+hash = "d5b5d5b158e823e8a3998944fa50eb213daf558d9743f4d7db716b6268e94cf7"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
@@ -297,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d85616e93899be77080aeac6ce9b120eed76dd29981b794722797e2ae07a2f88"
+hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
 metafile = true
 
 [[files]]
@@ -322,7 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+hash = "efb8a4921c466e737afaa484eca9aedc55c4be1d5647a3b447f961d66482faaf"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "f3e80a5b8992883cdad15ec2e431152ae67c48db3a131a7b1b5ce705da3f89f2"
 metafile = true
 
 [[files]]
@@ -367,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "09076e5476afb63e495a1dac36c1b00628577a27fbf42f690682521a06edff24"
+hash = "53e690e118baf442ae92faee438328e629ba387cd77ad788ded22055773db80f"
 metafile = true
 
 [[files]]
@@ -437,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
@@ -447,12 +457,12 @@ metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm-delight.pw.toml"
-hash = "9f9637867117165756b0c4a0831b5172a8707dd058f2a5239bddbe5c3b62ba15"
+hash = "32394301b277af0e898b57da66b2e72af6e536772f2dca2f9f4b3ca37d0fd90f"
 metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
-hash = "6f64ecd2d5634dcc29ba24dbd0f98ea823c2e3705324b5851892c9b795fe8e6d"
+hash = "6bd7c616b8027b8e8da66f625cc0d21126447206a99d8823d58cbe2179e53bcc"
 metafile = true
 
 [[files]]
@@ -612,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0d422c8149fafa618f0d1d227e610f661fbbe66608b33a60b9d614127ffbb08c"
+hash = "db3668dfd6f72c4b3f45d69482a01ae0609decc266674e4e1d43426d331aada9"
 metafile = true
 
 [[files]]
@@ -656,6 +666,11 @@ hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "a47052662859ef91a9631c566d0cf6099a5217feb00de53b69e5ab476b4f5556"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
 metafile = true
@@ -663,11 +678,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/the-root-of-fear.pw.toml"
-hash = "66a5bdf6490b038a00160f6d819a82845fe1c437106fe663cba3dba65b895b91"
 metafile = true
 
 [[files]]
@@ -725,13 +735,13 @@ file = "resourcepacks/VanillaTweaks.zip"
 hash = "6e2f80f8d6f704f7453eaaaa4ab9b9e764b3ca0a48e39d96d9671dd9f1168bb7"
 
 [[files]]
-file = "resourcepacks/accurate-wither-storm-mod.pw.toml"
-hash = "9d886db6ca5af56c5db047a2c53dcffeccf3ff6ea199563a8f7a0b5878c507b5"
+file = "resourcepacks/blinking-ender-eyes.pw.toml"
+hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
 
 [[files]]
-file = "resourcepacks/blinking-ender-eyes.pw.toml"
-hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
+file = "resourcepacks/crackers-wither-storm-plus.pw.toml"
+hash = "7464aea226130145469a9541df9cfc1894188e5186414c3e86da52d275cc86cb"
 metafile = true
 
 [[files]]
@@ -742,6 +752,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-cwsplus.pw.toml"
+hash = "6b445f7d97700eb5e74ee4aa1bd6ec394dc63d4f7f843ab65c3cdc2b5a034c54"
 metafile = true
 
 [[files]]
@@ -1100,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip.txt"
-hash = "79704ccb76e5ddcdf6d8d07276564f1ec3bc5c935d0129e6da3e2544be49fd15"
+hash = "60584dc3a19c93e409e203970adc93870680f7ef3f21edae4c850b58da15680e"
 
 [[files]]
 file = "unsup.ini"

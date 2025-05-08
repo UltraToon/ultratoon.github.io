@@ -1,13 +1,13 @@
 name = "L_Ender's Cataclysm"
-filename = "L_Enders_Cataclysm-2.64.jar"
+filename = "L_Enders_Cataclysm 1.20.1-2.66.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/46KJle7n/versions/kjMK29YM/L_Enders_Cataclysm-2.64.jar"
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/a4mPtmjF/L_Enders_Cataclysm%201.20.1-2.66.jar"
 hash-format = "sha512"
-hash = "b963a006397a654cc854cdc5f18eea342997b3ac889a34a981c6dd146c5feae0f5a1aa7e455286033024ed74b19d1c76c04621e45f9444b3062a89565024b513"
+hash = "f82f71620a96a5aeee89684271f05045c39a7b6ad391103f469b6c3724f9b3d0ef4bab48dde29c3515c35a9a57adcb99af00726ab3ee9cd5679dbf2abf659650"
 
 [update]
 [update.modrinth]
 mod-id = "46KJle7n"
-version = "kjMK29YM"
+version = "a4mPtmjF"
