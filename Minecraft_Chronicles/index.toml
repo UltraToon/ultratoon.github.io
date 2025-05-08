@@ -50,7 +50,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "8075c235f6e969d652357a13e0d3e7ef1ef058ba064967f871ba81021c9bc6d3"
+hash = "9b02ef3de81e705aa3bdd398e296f5574edaa75659f1cd1ea1b565848753e0f5"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -156,6 +156,11 @@ hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
 metafile = true
 
 [[files]]
+file = "mods/battlemusic.pw.toml"
+hash = "9f70ad82a98dc6a94fe23d1b084c0d618f0e3e72a7dc4fa25d95ca12c2af8048"
+metafile = true
+
+[[files]]
 file = "mods/be-style-wither.pw.toml"
 hash = "d001000953fec8ed50134bab2c109bf0aa205aa8e26a50906600469961dd91bb"
 metafile = true
@@ -178,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
 metafile = true
 
 [[files]]
@@ -306,11 +306,6 @@ hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
 
 [[files]]
-file = "mods/ender-trigon.pw.toml"
-hash = "571205ec9ce64c02a23df9bee083a75f467326dd903e31a55ce9ab856a5767a1"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
 metafile = true
@@ -396,6 +391,11 @@ hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
 
 [[files]]
+file = "mods/happy-ghast-mod.pw.toml"
+hash = "d2ce84da34dba8d0e989c8a3bb23de84f4d7dfea5e2a375f0cdc8eac969d6a30"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -466,6 +466,11 @@ hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
 metafile = true
 
 [[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "0c6a080492d16f771194bf297614b086d9130be598dc9a098a6d5cc3559357d2"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
@@ -498,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
 metafile = true
 
 [[files]]
@@ -731,13 +741,19 @@ hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "c9aa910106e0c2a38685e5528f3d80160049fdbf43fac1d2dfe41d0ad163690c"
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks.zip"
-hash = "6e2f80f8d6f704f7453eaaaa4ab9b9e764b3ca0a48e39d96d9671dd9f1168bb7"
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "c9aa910106e0c2a38685e5528f3d80160049fdbf43fac1d2dfe41d0ad163690c"
+metafile = true
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
@@ -745,13 +761,13 @@ hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
 
 [[files]]
-file = "resourcepacks/crackers-wither-storm-plus.pw.toml"
-hash = "7464aea226130145469a9541df9cfc1894188e5186414c3e86da52d275cc86cb"
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
 metafile = true
 
 [[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+file = "resourcepacks/ender-dragon-revamp.pw.toml"
+hash = "147e24fa90a93776d3fa7f57496182283cc1e4f8f03a2b3f8eb41954acebaf16"
 metafile = true
 
 [[files]]
@@ -762,11 +778,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-cwsplus.pw.toml"
-hash = "6b445f7d97700eb5e74ee4aa1bd6ec394dc63d4f7f843ab65c3cdc2b5a034c54"
 metafile = true
 
 [[files]]
@@ -1052,11 +1063,11 @@ hash = "2a5c4558e34caf6d7ca2b0e060391523187561fc9191dfe713621320699f01bd"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/lore/lore.json"
-hash = "ac4751f219ff9bb1695625bde630339cd9f6207a00a4cf2d18d18d60177fd2ac"
+hash = "0aa8b9c101af756806669af08350d7e00dd3f99dbbc36cf5ceff7bbe17b99695"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/lore/root.json"
-hash = "45ce2c0b71cfb2f34fb058d00344d8dfa1600f8dcd48212854e42096a5341f9d"
+hash = "69d8cbf9b91d6759ee2d1847a4166d86c005378935e3752e78083639121bd53b"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/lore/tips.json"

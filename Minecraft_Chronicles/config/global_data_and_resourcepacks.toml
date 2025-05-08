@@ -2,7 +2,6 @@
 required = [
     #"other_folder/random_pack.zip" # You can also point at specific files!
     "resourcepacks/modpack-resource",
-    "resourcepacks/VanillaTweaks.zip",
     "resourcepacks/"
 ]
 

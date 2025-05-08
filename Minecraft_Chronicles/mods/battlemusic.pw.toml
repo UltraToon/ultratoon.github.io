@@ -1,0 +1,13 @@
+name = "Battle Music"
+filename = "battlemusic-1.20.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8HFCp5k3/versions/pbhBAHRz/battlemusic-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "1e33ae346a3160ea8128bc594436ed2de37384f1f906439e70b9f3a4e647e24976d94eddd5b310a3c8f54777b1a6c68be0ae0651d5d6aad66791e9a541f7082e"
+
+[update]
+[update.modrinth]
+mod-id = "8HFCp5k3"
+version = "pbhBAHRz"
