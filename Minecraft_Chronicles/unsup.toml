@@ -12,7 +12,7 @@ description = "Shader support, turn off if you have low specs (or no shadders to
 side = "client"
 choices = ["oculus_off", "oculus_on"]
 
-[flavor_groups.oculus]
+[flavor_groups.immersiveportals]
 name = "Immersive Portals"
 id = "immersiveportals"
 description = "Immersive Portals support, it preloads chunks through portals that you can view (check page if confused). Affects chunk performance, recommended to be on."
