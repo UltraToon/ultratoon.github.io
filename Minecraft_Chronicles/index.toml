@@ -437,6 +437,10 @@ hash = "73b830eec94b68b9091f158523a3487040ef5e577d3de05d2d2718e003df3c22"
 metafile = true
 
 [[files]]
+file = "config/openloader/what.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/radium.properties"
 hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
 
