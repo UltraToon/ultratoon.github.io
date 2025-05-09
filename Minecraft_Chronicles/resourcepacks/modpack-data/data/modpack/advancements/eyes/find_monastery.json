@@ -20,7 +20,7 @@
   },
   "display": {
     "description": {
-      "text": "Find the Monastery"
+      "text": "Find the Monastery - Bring Jump Boost >2 Potions!"
     },
     "icon": { "item": "mowziesmobs:gong" },
     "title": { "text": "Monastery" }
