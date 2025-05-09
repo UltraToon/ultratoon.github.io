@@ -545,11 +545,6 @@ hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
 metafile = true
 
 [[files]]
-file = "mods/now-playing.pw.toml"
-hash = "5789ae04e953cd14d7b29baee83701dd3c882ed3df9c5255a2034bec72f20d3e"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
@@ -1173,7 +1168,7 @@ hash = "60584dc3a19c93e409e203970adc93870680f7ef3f21edae4c850b58da15680e"
 
 [[files]]
 file = "unsup.ini"
-hash = "0263e24ab70f66d65f01c2fa26f67fcdb1f9f841c088b7a2e007c08755d7a7df"
+hash = "94ab1a83de9ec37b1b29e5e268484a0617657b2026413389d8675ec46b602c9b"
 
 [[files]]
 file = "unsup.jar"

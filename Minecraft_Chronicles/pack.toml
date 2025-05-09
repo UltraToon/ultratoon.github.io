@@ -1,14 +1,14 @@
-name = "Minecraft Merged"
+name = "Minecraft: Chronicles"
 author = "ultratoon"
-version = "1.05"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3a381eeb0069615c6d4593d3f14f82f8b1b8b49a1c18884099117bc27a9b2d8d"
+hash = "c2f6084ad60aa4b65948e8af42d5f8c7ed746afd7b3172562cfb99c8dca21159"
 
 [versions]
 forge = "47.4.0"
 minecraft = "1.20.1"
-unsup = "1.1-pre9"
+unsup = "1.1.2"
