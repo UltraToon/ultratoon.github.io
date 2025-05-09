@@ -1,0 +1,28 @@
+{
+  "parent": "modpack:eyes/root",
+  "criteria": {
+    "monastery": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "mowziesmobs:monastery"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "text": "Find the Monastery"
+    },
+    "icon": { "item": "mowziesmobs:gong" },
+    "title": { "text": "Monastery" }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:beef"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.sculptor_failure.title"
+    },
+    "description": {
+      "translate": "advancements.mowziesmobs.sculptor_failure.description"
+    }
+  },
+  "parent": "modpack:eyes/find_monastery",
+  "criteria": {
+    "sculptor_failure": {
+      "trigger": "mowziesmobs:sculptor_failure"
+    }
+  }
+}

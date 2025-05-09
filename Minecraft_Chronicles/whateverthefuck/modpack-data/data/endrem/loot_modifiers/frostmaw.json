@@ -1,0 +1,11 @@
+{
+  "type": "endrem:loot_injection",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "mowziesmobs:entities/frostmaw"
+    }
+  ],
+  "loot_table_id": "endrem:entities/inject_frostmaw",
+  "allow_recursive_glms": true
+}

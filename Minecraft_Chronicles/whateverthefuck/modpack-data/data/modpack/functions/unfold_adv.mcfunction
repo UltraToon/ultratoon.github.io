@@ -1,0 +1,1 @@
+execute unless entity @s[advancements={modpack:eyes/root=true}] run advancement grant @s only modpack:eyes/root unfold

@@ -1,0 +1,37 @@
+{
+  "parent": "modpack:eyes/root",
+  "criteria": {
+    "wrought_chamber": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "mowziesmobs:wrought_chamber"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Find the Wrought Chamber"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mowziesmobs:wrought_axe"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Wrought Chamber"
+    }
+  },
+  "requirements": [["wrought_chamber"]]
+}

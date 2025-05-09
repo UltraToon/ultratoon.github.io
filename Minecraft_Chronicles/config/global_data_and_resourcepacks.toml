@@ -5,6 +5,10 @@ required = [
     "resourcepacks/"
 ]
 
+optional = [
+    "global_packs/optional_data/"
+]
+
 [datapacks]
 required = [
     "resourcepacks/modpack-data",
