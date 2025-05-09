@@ -186,6 +186,11 @@ hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
 
 [[files]]
+file = "mods/better-village.pw.toml"
+hash = "54ae10628ed7323f20d50d323163bf7db81f5426eca19722b740887225a0c105"
+metafile = true
+
+[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
 metafile = true
@@ -411,6 +416,11 @@ hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
+metafile = true
+
+[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "db67b75db18d2ce8bebe92b72f5d5a3f64de4077edfd4439e8f633517c6f53c1"
 metafile = true
@@ -476,6 +486,11 @@ hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "9e8dd3e6c43542e5edc72259a9be1d3815b87cc3baca9ea071b39c3f06dbb1fc"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
@@ -483,11 +498,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "01c83dbe3a427ee897b756e1ac2908ebdf8dad1bc46b56f3064d446a1ce0df0a"
-metafile = true
-
-[[files]]
-file = "mods/lukis-grand-capitals.pw.toml"
-hash = "4b67c06d2041eadb1ce4d504987cdbb37e5e7c63f2ef0a09debe434ae909eabb"
 metafile = true
 
 [[files]]
@@ -741,8 +751,33 @@ hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
 metafile = true
 
 [[files]]
@@ -751,8 +786,18 @@ hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
+metafile = true
+
+[[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "c9aa910106e0c2a38685e5528f3d80160049fdbf43fac1d2dfe41d0ad163690c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
 
 [[files]]
@@ -763,6 +808,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/detailed-animations.pw.toml"
 hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
+file = "resourcepacks/end-crystal-bossbar.pw.toml"
+hash = "8e73d9d66ae6c150251c8b44fe7b541357fe6428ae8457634c781fb7b5c18ec3"
 metafile = true
 
 [[files]]
@@ -1078,6 +1128,10 @@ file = "resourcepacks/modpack-data/data/modpack/functions/unfold_adv.mcfunction"
 hash = "58d6a40e0044b1838e4486d5c3d109e68a793d55fd380a2ad6a962482a8ecc29"
 
 [[files]]
+file = "resourcepacks/modpack-data/data/mowziesmobs/advancements/root.json"
+hash = "029fe60b275a8fb91a36ddfdc3045b1cb0b1b1c41d3c4435b814f58fb50631f2"
+
+[[files]]
 file = "resourcepacks/modpack-data/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5e840ea9d7867274168644f96c2a16d779e4e27bc98c8914934abcbc5dbaa3e4"
 
@@ -1140,7 +1194,7 @@ hash = "60584dc3a19c93e409e203970adc93870680f7ef3f21edae4c850b58da15680e"
 
 [[files]]
 file = "unsup.ini"
-hash = "95753ce14dbbffa7f480cf8d1a699c17a7a02f6b52a9643c9be648ddc915eee6"
+hash = "a69240f3bc993a96644bee795d8d79a0e61cbd4e55957398fe47d339e69b10ac"
 
 [[files]]
 file = "unsup.jar"
@@ -1148,4 +1202,4 @@ hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
 
 [[files]]
 file = "unsup.toml"
-hash = "24ddd91f85ff1ec12ec8c96430b8e5f78ce906ffa7f463ffff6b60fb0c191fb0"
+hash = "a56e6f7faef8a6655469ff85c2bc5e17c92bacf4f5f966d1b8ef416b7f7842cf"

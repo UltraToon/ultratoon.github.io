@@ -12,8 +12,16 @@ description = "Shader support, turn off if you have low specs (or no shadders to
 side = "client"
 choices = ["oculus_off", "oculus_on"]
 
-#[metafile.distanthorizons]
-#flavors = ["distanthorizons_off", "distanthorizons_on"]
-#[metafile.oculus]
-#flavors = ["oculus_off", "oculus_on"]
+[flavor_groups.oculus]
+name = "Immersive Portals"
+id = "immersiveportals"
+description = "Immersive Portals support, it preloads chunks through portals that you can view (check page if confused). Affects chunk performance, recommended to be on."
+choices = ["immersiveportals_off", "immersiveportals_on"]
+
+[metafile.distanthorizons]
+flavors = ["distanthorizons_off", "distanthorizons_on"]
+[metafile.oculus]
+flavors = ["oculus_off", "oculus_on"]
+[metafile.immersive-portals-for-forge]
+flavors = ["immersiveportals_off", "immersiveportals_on"]
 

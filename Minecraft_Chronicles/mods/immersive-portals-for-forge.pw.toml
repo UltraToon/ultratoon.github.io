@@ -1,0 +1,13 @@
+name = "Immersive Portals (for Forge)"
+filename = "immersive-portals-3.0.7-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4a6d71ca7dc07a1da33e7272befabc6ce95057b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6368524
+project-id = 355440
