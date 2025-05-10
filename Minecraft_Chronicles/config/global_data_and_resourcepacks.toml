@@ -1,13 +1,11 @@
 [resourcepacks]
 required = [
-    "resourcepacks/modpack-resource"
-]
-
-optional = [
+    "resourcepacks/modpack-resource",
     "resourcepacks/"
 ]
 
 [datapacks]
 required = [
-    "resourcepacks/modpack-data"
+    "resourcepacks/modpack-data",
+    "resourcepacks"
 ]

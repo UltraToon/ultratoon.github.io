@@ -26,7 +26,7 @@ hash = "2dfca3dcbaefcd07c023d14f23835d86375d76435bd670208e418b12a548c67e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "deecfe83f6dc14d102ba8ea1282aaf6d29ba06a0c6cddfe6720775af0236cdb7"
+hash = "305c530ffd164b37102b831deab114e849d73048f19fc3055a35249f8bb237cc"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -39,6 +39,10 @@ hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
 [[files]]
 file = "config/endrem.toml"
 hash = "2e3ac9e8b9264854e695684bfbc6e0fb6386efa649ea67a8bfc7eaf2bf7bc8bd"
+
+[[files]]
+file = "config/entities.toml"
+hash = "8e155f8dc59d3843263982f0d10f542d52cde7c2bd9509733148fde573667512"
 
 [[files]]
 file = "config/entityculling.json"
@@ -90,7 +94,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "721d7c1684cef4294c45307fe44ad4c72f70c8a25d03b261e60501214e790c79"
+hash = "6ed94f1cdbced930e10bcf84376d83c39e675c2e1dafde3f253ab7b1736ec47d"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -356,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "73d089a80008bfb83e410726e68f279221b9b6113af0d0aa40a71ca730b0500a"
 metafile = true
 
 [[files]]
@@ -786,11 +795,6 @@ metafile = true
 [[files]]
 file = "mods/wither-storm-combat.pw.toml"
 hash = "06c454c5f12efa731251677de6a97baadbcd83d92ad2a42b0746683bb3d3b5c9"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "9f036fd7c6a35da985a6bb653ec6f3bcb21a82fdafbfa355f3bb560139d21b71"
 metafile = true
 
 [[files]]
