@@ -22,6 +22,9 @@
         "namespace": "cataclysm",
         "path": "advancement*"
       },
+      { "namespace": "mowziesmobs",
+        "path": "advancement*"
+      },
       {
         "namespace": "witherstormmod",
         "path": "structures/.*spawn_platform\\.nbt",

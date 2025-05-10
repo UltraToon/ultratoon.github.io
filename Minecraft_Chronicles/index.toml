@@ -45,6 +45,46 @@ file = "config/entityculling.json"
 hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "5e4b54bbecfd24771521dc65ddee3994844f0a93ea1d091175a0b1242e23c013"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "cc55b5e91cf13d70f8d8add3ecad1f88dda613acea512f9eb0eb7b717700bb6b"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "76f62a95be8efd1772bc599a3a8ecf07785072fe6d2ee2188d21dabd83d02db4"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "0c0c3e3cf593069e490e29c6c29c53173e9725e2cc3c57108bc96ac23d26bc2d"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
@@ -1141,16 +1181,12 @@ file = "resourcepacks/modpack-data/data/modpack/functions/unfold_adv.mcfunction"
 hash = "58d6a40e0044b1838e4486d5c3d109e68a793d55fd380a2ad6a962482a8ecc29"
 
 [[files]]
-file = "resourcepacks/modpack-data/data/mowziesmobs/advancements/root.json"
-hash = "029fe60b275a8fb91a36ddfdc3045b1cb0b1b1c41d3c4435b814f58fb50631f2"
-
-[[files]]
 file = "resourcepacks/modpack-data/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
 hash = "5e840ea9d7867274168644f96c2a16d779e4e27bc98c8914934abcbc5dbaa3e4"
 
 [[files]]
 file = "resourcepacks/modpack-data/pack.mcmeta"
-hash = "5a67f7e125ab1d0bfa058493582f0536ff0065f98c8eca3cbe6e26c6b00ce270"
+hash = "51d47f0a8f8b053d64d5d2dcc7432687e650c25d5622e31b61cf0f96dffbe7cb"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/endrem/lang/en_us.json"
@@ -1174,7 +1210,7 @@ hash = "d8017ffd92a8318a5ba671136356dc6fc17ed4f5e5643429911ebc18f1d25112"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/edition.png"
-hash = "355941d5591292de4eabcd351eba1b374de7b0d027b3d1c9110ceb5dda2935c3"
+hash = "25404504c4ed49aad64ac2ec0b2e19ec927309ec14b80ad82dfe361de7eec442"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/mojangstudios.png"
