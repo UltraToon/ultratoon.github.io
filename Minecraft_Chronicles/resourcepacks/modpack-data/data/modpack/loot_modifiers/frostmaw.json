@@ -6,6 +6,6 @@
       "loot_table_id": "mowziesmobs:entities/frostmaw"
     }
   ],
-  "loot_table_id": "endrem:entities/inject_frostmaw",
+  "loot_table_id": "modpack:entities/inject_frostmaw",
   "allow_recursive_glms": true
 }

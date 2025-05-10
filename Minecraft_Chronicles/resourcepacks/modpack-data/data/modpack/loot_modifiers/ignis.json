@@ -6,6 +6,6 @@
       "loot_table_id": "cataclysm:entities/ignis"
     }
   ],
-  "loot_table_id": "endrem:entities/inject_ignis",
+  "loot_table_id": "modpack:entities/inject_ignis",
   "allow_recursive_glms": true
 }

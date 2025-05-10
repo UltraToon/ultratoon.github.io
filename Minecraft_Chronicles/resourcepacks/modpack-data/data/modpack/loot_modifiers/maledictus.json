@@ -6,6 +6,6 @@
       "loot_table_id": "cataclysm:entities/maledictus"
     }
   ],
-  "loot_table_id": "endrem:entities/inject_maledictus",
+  "loot_table_id": "modpack:entities/inject_maledictus",
   "allow_recursive_glms": true
 }

@@ -6,6 +6,6 @@
       "loot_table_id": "cataclysm:entities/the_leviathan"
     }
   ],
-  "loot_table_id": "endrem:entities/inject_leviathan",
+  "loot_table_id": "modpack:entities/inject_leviathan",
   "allow_recursive_glms": true
 }
