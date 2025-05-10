@@ -199,6 +199,11 @@ hash = "54ae10628ed7323f20d50d323163bf7db81f5426eca19722b740887225a0c105"
 metafile = true
 
 [[files]]
+file = "mods/betterskies.pw.toml"
+hash = "a67a7134638dd44399f28f6a8972cbccc5e3ada121ddf5be0d37a3fdece0095c"
+metafile = true
+
+[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
 metafile = true
