@@ -1173,28 +1173,12 @@ file = "resourcepacks/modpack-resource/assets/endrem/textures/item/evil_eye.png"
 hash = "d8017ffd92a8318a5ba671136356dc6fc17ed4f5e5643429911ebc18f1d25112"
 
 [[files]]
-file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
+file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/edition.png"
+hash = "355941d5591292de4eabcd351eba1b374de7b0d027b3d1c9110ceb5dda2935c3"
 
 [[files]]
-file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
-
-[[files]]
-file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
-
-[[files]]
-file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
-
-[[files]]
-file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
-
-[[files]]
-file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
+file = "resourcepacks/modpack-resource/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "70197e4aa47e78624218b6f7bc40973136bccf0193f22fe6b8fdfc61d4a6baf4"
 
 [[files]]
 file = "resourcepacks/modpack-resource/pack.mcmeta"
