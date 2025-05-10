@@ -1,17 +1,17 @@
 {
   "entries": [
-    "endrem:ancient_remnant",
-    "endrem:frostmaw",
-    "endrem:harbinger",
-    "endrem:ignis",
-    "endrem:leviathan",
-    "endrem:maledictus",
-    "endrem:netherite_monstrosity",
-    "endrem:sculptor",
-    "endrem:umvuthi",
-    "endrem:warden",
-    "endrem:ferrous_wroughtnaut",
-    "endrem:wither"
+    "endrem:entities/ancient_remnant",
+    "endrem:entities/frostmaw",
+    "endrem:entities/harbinger",
+    "endrem:entities/ignis",
+    "endrem:entities/leviathan",
+    "endrem:entities/maledictus",
+    "endrem:entities/netherite_monstrosity",
+    "endrem:entities/sculptor",
+    "endrem:entities/umvuthi",
+    "endrem:entities/warden",
+    "endrem:entities/ferrous_wroughtnaut",
+    "endrem:entities/wither"
   ],
   "replace": false
 }

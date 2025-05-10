@@ -3,9 +3,9 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "cataclysm:entities/the_harbinger"
+      "loot_table_id": "cataclysm:entities/ignis"
     }
   ],
-  "loot_table_id": "modpack:entities/inject_harbinger",
+  "loot_table_id": "endrem:entities/inject_ignis",
   "allow_recursive_glms": true
 }

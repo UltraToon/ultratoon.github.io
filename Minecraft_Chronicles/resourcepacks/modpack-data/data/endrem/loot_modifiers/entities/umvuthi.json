@@ -3,9 +3,9 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "mowziesmobs:entities/ferrous_wroughtnaut"
+      "loot_table_id": "mowziesmobs:entities/umvuthi"
     }
   ],
-  "loot_table_id": "modpack:entities/inject_ferrous_wroughtnaut",
+  "loot_table_id": "endrem:entities/inject_umvuthi",
   "allow_recursive_glms": true
 }

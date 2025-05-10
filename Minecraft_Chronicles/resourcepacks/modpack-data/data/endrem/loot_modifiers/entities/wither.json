@@ -6,6 +6,6 @@
       "loot_table_id": "minecraft:entities/wither"
     }
   ],
-  "loot_table_id": "modpack:entities/inject_wither",
+  "loot_table_id": "endrem:entities/inject_wither",
   "allow_recursive_glms": true
 }

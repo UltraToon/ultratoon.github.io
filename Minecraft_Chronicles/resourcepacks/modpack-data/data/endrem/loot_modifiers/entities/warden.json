@@ -6,6 +6,6 @@
       "loot_table_id": "minecraft:entities/warden"
     }
   ],
-  "loot_table_id": "modpack:entities/inject_warden",
+  "loot_table_id": "endrem:entities/inject_warden",
   "allow_recursive_glms": true
 }

@@ -3,9 +3,9 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "mowziesmobs:entities/frostmaw"
+      "loot_table_id": "cataclysm:entities/the_leviathan"
     }
   ],
-  "loot_table_id": "modpack:entities/inject_frostmaw",
+  "loot_table_id": "endrem:entities/inject_leviathan",
   "allow_recursive_glms": true
 }

@@ -17,7 +17,7 @@
     "background": "endrem:textures/backgrounds/advance_back.png"
   },
   "criteria": {
-    "custom_test_name": {
+    "STARTING_INFO": {
       "trigger": "minecraft:tick"
     }
   }

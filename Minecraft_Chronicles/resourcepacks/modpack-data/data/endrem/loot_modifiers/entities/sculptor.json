@@ -3,9 +3,9 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "cataclysm:entities/the_leviathan"
+      "loot_table_id": "mowziesmobs:entities/sculptor"
     }
   ],
-  "loot_table_id": "modpack:entities/inject_leviathan",
+  "loot_table_id": "endrem:entities/inject_sculptor",
   "allow_recursive_glms": true
 }
