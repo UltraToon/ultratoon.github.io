@@ -564,11 +564,6 @@ hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
-file = "mods/neruina.pw.toml"
-hash = "370cc7013d4161ac19543d08d386376a979a4a6a0b016f6c76cd391784ba0634"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
@@ -691,11 +686,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-of-curios.pw.toml"
-hash = "2a1eb7d830ff7e9e8a3b3edb9cd6dbf802506d8b4d19059fc75dc0ad0e3353f6"
 metafile = true
 
 [[files]]
