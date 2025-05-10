@@ -893,102 +893,6 @@ hash = "bbfaee55a0a6382a69db198d7b9f14fcd36d3b7d995bf19e1e54556ad849cd08"
 metafile = true
 
 [[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/ancient_remnant.json"
-hash = "59d7b7f79dc7168be9773287edbf0997a167028495e7bd827977b13f9a247e82"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/ferrous_wroughtnaut.json"
-hash = "cf8813c38417e89f5975b0be38ea456f8b6d5a6dad9566491947e2905d08644e"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/frostmaw.json"
-hash = "92279896abc803369bd32391c72e3f0fcc918ff29268ea27ae04a91adc3fe40e"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/harbinger.json"
-hash = "6686f0179c6f85e53dbb936700b63732b1c5ee8eb1c5ec783d7d9bc8abf2547a"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/ignis.json"
-hash = "5cf1f5f7e54eec4658a86c631e0f2323311439a4fcb977fbcab9b77554753ae9"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/leviathan.json"
-hash = "e8af6c38f4a071f4ca255cfb7fec0887cef8f7d5f6aa576f91b6a0dffcff8b4f"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/maledictus.json"
-hash = "b46a294878098932aeb2c2a2cdb93e32f19f4a81517226a16a84b5f18e24ad89"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/netherite_monstrosity.json"
-hash = "6d2d2170051488f5eaa73229acf71ecb348d55003cd600a1015d12a577038c97"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/sculptor.json"
-hash = "66aed294fa1f5e8459469ba17f9cfb1659fc96800d6c1ba07367543cd11319d6"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/umvuthi.json"
-hash = "c393e6acb7e8f00ed9d95f411c2a24b2ae1f975890f593783f0a5ab748ea7813"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/warden.json"
-hash = "bcc0ce99dbf8e4f71e0ef16b3d15245f741bd1169ed06d8f27759c30377008de"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_modifiers/wither.json"
-hash = "acb5769096ff773abd13eaeef8f4a32c68813043b75ae730d598985e4401ee11"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_ancient_remnant.json"
-hash = "5d55ced9538be5e327b8bc840e2a536d136f565705187494536eeff80a599ff5"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_ferrous_wroughtnaut.json"
-hash = "5b823f9a4dd7c9d1e6a5a1824b637b0bb50868eafe0f6479b983fba7cd3eb9ac"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_frostmaw.json"
-hash = "66be6960ea45639216576c2231ebe95020f984306122622c7d9f61eee3498d4e"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_harbinger.json"
-hash = "c7c9c31f306d82ae9d44f6e1007dc92299b5c64e081e33239a2ec0600e61c9cb"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_ignis.json"
-hash = "e7827a651512b7939be650a68f383253ff93e01b933b90f0d0f53eb46c28ae31"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_leviathan.json"
-hash = "4e8b4b87bb46b0a266ce0530bc3b9fa5f451591388782a92cb0f16e65772ee31"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_maledictus.json"
-hash = "1b4c1e4c7cbd42bf97f9f2a780751a674ec0234f9b612f9ba665e220b5b76c35"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_netherite_monstrosity.json"
-hash = "1788270bd63648ab739dec6941b810feceaae9d9d00e0ff9a4eb07473f16f288"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_sculptor.json"
-hash = "4fedb34d0baa7576f89e25da787f3c46ac812833becaa1ca8c07f0f45ad00315"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_umvuthi.json"
-hash = "383869c4b161f7451c7a61879e36e90be90829bea17d1034295f218b0aa83940"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_warden.json"
-hash = "8c7971a6eb1abf14618345c67de40b3ecb5ba8e9cd2153f911f62a024b20c936"
-
-[[files]]
-file = "resourcepacks/modpack-data/data/endrem/loot_tables/entities/inject_wither.json"
-hash = "d24e9f67e8ccc92f10c8dc270a919a2476da02f9f297ec8636e9747b9cc6436f"
-
-[[files]]
 file = "resourcepacks/modpack-data/data/forge/loot_modifiers/global_loot_modifiers.json"
 hash = "b1a6d62dcebd7b37cd9343d803338e77e0418ddc8f5dd93c23b8a55d5b79d744"
 
@@ -1185,12 +1089,104 @@ file = "resourcepacks/modpack-data/data/modpack/functions/unfold_adv.mcfunction"
 hash = "58d6a40e0044b1838e4486d5c3d109e68a793d55fd380a2ad6a962482a8ecc29"
 
 [[files]]
-file = "resourcepacks/modpack-data/data/rootoffear/tags/worldgen/biome/wilted_spawns_in.json"
-hash = "5e840ea9d7867274168644f96c2a16d779e4e27bc98c8914934abcbc5dbaa3e4"
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/ancient_remnant.json"
+hash = "59d7b7f79dc7168be9773287edbf0997a167028495e7bd827977b13f9a247e82"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/ferrous_wroughtnaut.json"
+hash = "cf8813c38417e89f5975b0be38ea456f8b6d5a6dad9566491947e2905d08644e"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/frostmaw.json"
+hash = "92279896abc803369bd32391c72e3f0fcc918ff29268ea27ae04a91adc3fe40e"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/harbinger.json"
+hash = "6686f0179c6f85e53dbb936700b63732b1c5ee8eb1c5ec783d7d9bc8abf2547a"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/ignis.json"
+hash = "5cf1f5f7e54eec4658a86c631e0f2323311439a4fcb977fbcab9b77554753ae9"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/leviathan.json"
+hash = "e8af6c38f4a071f4ca255cfb7fec0887cef8f7d5f6aa576f91b6a0dffcff8b4f"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/maledictus.json"
+hash = "b46a294878098932aeb2c2a2cdb93e32f19f4a81517226a16a84b5f18e24ad89"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/netherite_monstrosity.json"
+hash = "6d2d2170051488f5eaa73229acf71ecb348d55003cd600a1015d12a577038c97"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/sculptor.json"
+hash = "66aed294fa1f5e8459469ba17f9cfb1659fc96800d6c1ba07367543cd11319d6"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/umvuthi.json"
+hash = "c393e6acb7e8f00ed9d95f411c2a24b2ae1f975890f593783f0a5ab748ea7813"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/warden.json"
+hash = "bcc0ce99dbf8e4f71e0ef16b3d15245f741bd1169ed06d8f27759c30377008de"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_modifiers/wither.json"
+hash = "acb5769096ff773abd13eaeef8f4a32c68813043b75ae730d598985e4401ee11"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_ancient_remnant.json"
+hash = "5d55ced9538be5e327b8bc840e2a536d136f565705187494536eeff80a599ff5"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_ferrous_wroughtnaut.json"
+hash = "5b823f9a4dd7c9d1e6a5a1824b637b0bb50868eafe0f6479b983fba7cd3eb9ac"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_frostmaw.json"
+hash = "66be6960ea45639216576c2231ebe95020f984306122622c7d9f61eee3498d4e"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_harbinger.json"
+hash = "c7c9c31f306d82ae9d44f6e1007dc92299b5c64e081e33239a2ec0600e61c9cb"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_ignis.json"
+hash = "e7827a651512b7939be650a68f383253ff93e01b933b90f0d0f53eb46c28ae31"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_leviathan.json"
+hash = "4e8b4b87bb46b0a266ce0530bc3b9fa5f451591388782a92cb0f16e65772ee31"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_maledictus.json"
+hash = "1b4c1e4c7cbd42bf97f9f2a780751a674ec0234f9b612f9ba665e220b5b76c35"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_netherite_monstrosity.json"
+hash = "1788270bd63648ab739dec6941b810feceaae9d9d00e0ff9a4eb07473f16f288"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_sculptor.json"
+hash = "4fedb34d0baa7576f89e25da787f3c46ac812833becaa1ca8c07f0f45ad00315"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_umvuthi.json"
+hash = "383869c4b161f7451c7a61879e36e90be90829bea17d1034295f218b0aa83940"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_warden.json"
+hash = "8c7971a6eb1abf14618345c67de40b3ecb5ba8e9cd2153f911f62a024b20c936"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/loot_tables/entities/inject_wither.json"
+hash = "d24e9f67e8ccc92f10c8dc270a919a2476da02f9f297ec8636e9747b9cc6436f"
 
 [[files]]
 file = "resourcepacks/modpack-data/pack.mcmeta"
-hash = "51d47f0a8f8b053d64d5d2dcc7432687e650c25d5622e31b61cf0f96dffbe7cb"
+hash = "7a8e22a420cd6c63ba1ac66a79a268124e39e6fd779b0976ab495d345e2f6d8e"
 
 [[files]]
 file = "resourcepacks/modpack-resource/assets/endrem/lang/en_us.json"
@@ -1222,7 +1218,7 @@ hash = "70197e4aa47e78624218b6f7bc40973136bccf0193f22fe6b8fdfc61d4a6baf4"
 
 [[files]]
 file = "resourcepacks/modpack-resource/pack.mcmeta"
-hash = "08db22e68c83a80be8db2ed6cec08cf5f874914553d71695632895489490eb6b"
+hash = "4c0462dc43369450131e6722ab1556f152a89e3b4eceb49b4222b3b9632d8b11"
 
 [[files]]
 file = "resourcepacks/vn4s-fresh-wither-storm.pw.toml"

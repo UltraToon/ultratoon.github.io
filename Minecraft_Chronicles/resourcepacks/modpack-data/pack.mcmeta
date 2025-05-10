@@ -3,17 +3,13 @@
     "description": "Minecraft modpack configurations. REQUIRED.",
     "pack_format": 15
   },
+  "features": {
+    "enabled": [
+      "minecraft:minecart_improvements"
+    ]
+  },
   "filter": {
     "block": [
-      {
-        "namespace": "endrem",
-        "path": "forge*",
-        "comment": "prevent forge loot injectors to be loaded"
-      },
-      {
-        "namespace": "endrem",
-        "path": "loot_tables*"
-      },
       {
         "namespace": "endrem",
         "path": "recipe*"
@@ -22,8 +18,10 @@
         "namespace": "cataclysm",
         "path": "advancement*"
       },
-      { "namespace": "mowziesmobs",
-        "path": "advancement*"
+      {
+        "namespace": "mowziesmobs",
+        "path": "advancement*",
+        "comment": "enrem forge loot modifier removal breaks this?"
       },
       {
         "namespace": "witherstormmod",
