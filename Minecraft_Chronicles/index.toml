@@ -21,6 +21,10 @@ file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "be22d2a83620072adc237418e18987a58ced2f0ebaa0c5bb9c09bfeb120c490f"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "2dfca3dcbaefcd07c023d14f23835d86375d76435bd670208e418b12a548c67e"
 
@@ -243,6 +247,11 @@ hash = "54ae10628ed7323f20d50d323163bf7db81f5426eca19722b740887225a0c105"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "94e6f056dc615fac3ee327ce73d147188e6ca9f4269c4bd6e62d5a82edf7acd2"
+metafile = true
+
+[[files]]
 file = "mods/betterskies.pw.toml"
 hash = "a67a7134638dd44399f28f6a8972cbccc5e3ada121ddf5be0d37a3fdece0095c"
 metafile = true
@@ -250,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
@@ -328,6 +342,11 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -358,6 +377,21 @@ hash = "e31ce9fd7a0e872eeed7cb3e2b49e965c964d2425f2c8d91e81e908ef2208420"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
 metafile = true
@@ -370,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
 metafile = true
 
 [[files]]
@@ -743,6 +782,11 @@ hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
 metafile = true
 
 [[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "753058a28cedf5e133a8cc5ad77fefb4f005298fb24923190841f7d0accac31a"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
 metafile = true
@@ -998,6 +1042,10 @@ file = "resourcepacks/modpack-data/data/forge/loot_modifiers/global_loot_modifie
 hash = "a937b1004d19d2e81e8b7467ebe700113812382c0adcf27fc0bd6ec3ce90ee9f"
 
 [[files]]
+file = "resourcepacks/modpack-data/data/minecraft/tags/functions/load.json"
+hash = "0408c869d52ef10522186333722480f7c0218c3117b35fae76d894b602286222"
+
+[[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/eyes/find_ancient_factory.json"
 hash = "3e03dd7aef6c6a3c7aa29529e0a8d0e554bc95e9f03f715159a44e794d2387d5"
 
@@ -1184,6 +1232,10 @@ hash = "69d8cbf9b91d6759ee2d1847a4166d86c005378935e3752e78083639121bd53b"
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/advancements/lore/tips.json"
 hash = "362e4b350ab7aded2e2293eb41781ae0ecb3195443f5461b7d6313dc9da93140"
+
+[[files]]
+file = "resourcepacks/modpack-data/data/modpack/functions/load.mcfunction"
+hash = "ba76d811ac999ed4b161613ba6863b904afd9b18cb64861ab9059cf5822d1b4b"
 
 [[files]]
 file = "resourcepacks/modpack-data/data/modpack/functions/unfold_adv.mcfunction"
