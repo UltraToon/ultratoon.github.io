@@ -1,0 +1,7 @@
+{
+  "configVersion": 10,
+  "enableAnimationSmoothing": false,
+  "enableLadderAnimation": false,
+  "holdUpItemsMode": "NONE",
+  "disableLegSmoothing": true,
+}

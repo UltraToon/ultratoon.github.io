@@ -1,0 +1,34 @@
+[sleeping]
+playerSnoreChance = 0.5
+playerSnoreSoundVolume = 0.75
+playersHaveSleepingZs = true
+villagerSnoreChance = 1.0
+villagerSnoreSoundVolume = 1.0
+villagersHaveSleepingZs = true
+foxesHaveSleepingZs = true
+batsHaveSleepingZs = true
+catsHaveSleepingZs = true
+otherMobsHaveSleepingZs = true
+displaySleepingZsOnlyWhenSnoring = false
+adjustNameTagWhenSleeping = true
+
+[humanoids.player]
+stomachGrowlingThreshold = 0
+stomachGrowlingVolume = 0.0
+stomachGrowlingWaitTime = 15
+heartBeatingThreshold = 6
+heartbeatVolume = 1.0
+heartBeatingWaitTime = 3
+
+[dustClouds]
+scale = 2.0
+alpha = 1.0
+preventWhenRaining = false
+flyIntoWall = true
+lessViewBlocking = true
+playerFell = true
+mobFell = true
+landMaceAttack = true
+playerRunning = false
+mobRunning = true
+playerRunningRequiresSpeed = true

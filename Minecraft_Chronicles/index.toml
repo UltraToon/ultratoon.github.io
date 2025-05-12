@@ -22,7 +22,7 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/betterdays-common.toml"
-hash = "be22d2a83620072adc237418e18987a58ced2f0ebaa0c5bb9c09bfeb120c490f"
+hash = "2ef9ec38a5b3a7ee9b4500c0c44fe6d6abb2cebe01c13906865bd7cfa1377df4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -43,10 +43,6 @@ hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
 [[files]]
 file = "config/endrem.toml"
 hash = "2e3ac9e8b9264854e695684bfbc6e0fb6386efa649ea67a8bfc7eaf2bf7bc8bd"
-
-[[files]]
-file = "config/entities.toml"
-hash = "8e155f8dc59d3843263982f0d10f542d52cde7c2bd9509733148fde573667512"
 
 [[files]]
 file = "config/entityculling.json"
@@ -113,12 +109,20 @@ file = "config/mowziesmobs-common.toml"
 hash = "20ec0f444dc2cc0130767e071b8301490f8d7a78751853b82002144856faf3f5"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "522f1dd84f2f1122586333ee446258ec0424de7b5abb7aacae3beb62515417e6"
+
+[[files]]
 file = "config/oculus.properties"
 hash = "7b613340104afced1adf9852171b440b2a6bda66ba6b2318452abc5d3f89235a"
 
 [[files]]
 file = "config/radium.properties"
 hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "9ea671984a27dc7e0be74337fb12192b4c2a4ae52335fe3e5bca6b70c34577cd"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -159,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-mediumcore.pw.toml"
 hash = "8ebc5472aadc616c74070041e13713da333565cdcaea3060a76648f024414fef"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs-extra-music.pw.toml"
-hash = "7454168269bc96ba35aaa0d51f50ca537e62a0c0ddfab4c490158f395849cdd8"
 metafile = true
 
 [[files]]
@@ -542,6 +541,11 @@ hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
 metafile = true
 
 [[files]]
+file = "mods/items-displayed-forge.pw.toml"
+hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
+metafile = true
+
+[[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
 metafile = true
@@ -732,11 +736,6 @@ hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "35c4484a3bd6b9055f3f944ed8bdc27fb8c62a385277b9e7f89fd19bccfa4191"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -809,11 +808,6 @@ metafile = true
 [[files]]
 file = "mods/totally-accurate-wither-storm-plus.pw.toml"
 hash = "4b35f89a6ad7aa2cc8e2e8a183383aa344a14e1944d4ed3e1c5b3c09d1cb7e95"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
 metafile = true
 
 [[files]]
