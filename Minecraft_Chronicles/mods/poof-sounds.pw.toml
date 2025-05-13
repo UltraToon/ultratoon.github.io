@@ -1,0 +1,13 @@
+name = "Poof Sounds"
+filename = "Poofsounds5.3-1.20.1FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YIo5YQXP/versions/PqMVLtDn/Poofsounds5.3-1.20.1FORGE.jar"
+hash-format = "sha512"
+hash = "77e133e5c0ccab4172da3e9f9aee8b09780f3b3501f82d6029294a5b1b76f05d555a71d1103f7b440be3fdd26b8cd2112d9a08dee4cf9bdf352a1d01fb22801f"
+
+[update]
+[update.modrinth]
+mod-id = "YIo5YQXP"
+version = "PqMVLtDn"

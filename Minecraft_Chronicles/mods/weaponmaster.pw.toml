@@ -1,0 +1,13 @@
+name = "YDM's Weapon Master"
+filename = "weaponmaster_ydm-forge-1.20.1-4.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qi1sj2da/versions/D7JWWIQX/weaponmaster_ydm-forge-1.20.1-4.2.3.jar"
+hash-format = "sha512"
+hash = "1e1e3f3a999bca1737edd06170562bdee614d87fb2f1d7788ff0d4d1ac25f999fb4dd48b3f77962d385a330f5e5389b2f6703934f2ed3e083abf7ca47e54f424"
+
+[update]
+[update.modrinth]
+mod-id = "qi1sj2da"
+version = "D7JWWIQX"
