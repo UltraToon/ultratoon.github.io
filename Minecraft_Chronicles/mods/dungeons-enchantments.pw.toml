@@ -1,0 +1,13 @@
+name = "Dungeons Enchantments"
+filename = "dungeonsenchantments-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWQSZxmj/versions/dtxRDwoi/dungeonsenchantments-1.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "26515c2274f27764cea4d9ab1be5d34b62eac713a25a4605832c269d2af171ecd93ba2985c4e1e0d2c89ea03b731f1d538863202219b8f4da3df063ddf313791"
+
+[update]
+[update.modrinth]
+mod-id = "hWQSZxmj"
+version = "dtxRDwoi"

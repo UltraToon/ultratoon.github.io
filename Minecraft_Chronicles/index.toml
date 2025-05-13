@@ -13,6 +13,10 @@ file = "config/badoptimizations.txt"
 hash = "12dc31bc6b9f556fe1e644d08378b013208bacda27b7c116334ed76c982d5d25"
 
 [[files]]
+file = "config/betteradvancements-client.toml"
+hash = "a93edd7895e0ffc4ef9d1a7785de3b7d19c480deb5a8945ced40588ad672f5f4"
+
+[[files]]
 file = "config/bettercombat/client.json5"
 hash = "24e0491135f1cd02970840ba97e32bf6c97130e96ebef0ebc2f262abde27fd7d"
 
@@ -27,6 +31,10 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 [[files]]
 file = "config/betterdays-common.toml"
 hash = "2ef9ec38a5b3a7ee9b4500c0c44fe6d6abb2cebe01c13906865bd7cfa1377df4"
+
+[[files]]
+file = "config/completionistsindex-client.toml"
+hash = "e9de9807407d9177274ce75ef00a4a88c2631f44c94fc3ad2c6b2c4cb3837815"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -105,6 +113,10 @@ file = "config/immediatelyfast.json"
 hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
+file = "config/lootr-client.toml"
+hash = "865c7ea2d2ba65ad63fc5db52b0f5ca59eb34f4f393b3df950df1e3204bbefa2"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
@@ -134,7 +146,7 @@ hash = "de20ddd01dec1e39634ddb8881c6ff13a50c389e9584d4e6a50d868428226654"
 
 [[files]]
 file = "config/witherstormmod-client.toml"
-hash = "b3cee2ea11fce86ec255b2711b668ee65e39a56418cb40370b333cc932cd1d4b"
+hash = "32f8890a8a0ab7fef5718c98199ff28ccb3b83246fad712d6f4ba1b366bc37b5"
 
 [[files]]
 file = "config/xenon++.toml"
@@ -157,16 +169,6 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
-metafile = true
-
-[[files]]
-file = "mods/advancements-tracker.pw.toml"
-hash = "4d6c9e06986ae335246a321bd283a401972b352fbdb5cfd853517128920e77cb"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mediumcore.pw.toml"
-hash = "8ebc5472aadc616c74070041e13713da333565cdcaea3060a76648f024414fef"
 metafile = true
 
 [[files]]
@@ -200,8 +202,8 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
+file = "mods/auroras.pw.toml"
+hash = "db633cf7f2797928319ad5908ecdd3f6af8de5b7058d909b582675e28bf86dcf"
 metafile = true
 
 [[files]]
@@ -400,11 +402,6 @@ hash = "9bec8badf58155579d8314ad2571cb264a6e37537b485d50a99687ca83a066ad"
 metafile = true
 
 [[files]]
-file = "mods/dungeon-and-taverns.pw.toml"
-hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
@@ -412,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-enchantments.pw.toml"
+hash = "5517f40b6b212af75e4c87e914bb6f877845133751fc377a4b5c6db0a9033c31"
 metafile = true
 
 [[files]]
@@ -475,6 +477,11 @@ hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "620a8a114b79b0a5363a60a746023b6c8fae9f42c6cf3df3337361a1128708c0"
 metafile = true
@@ -535,6 +542,11 @@ hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "43cb463e7f9da338a1124031efa35ba8b5ed75b1f2796f066b5b324e85c17738"
+metafile = true
+
+[[files]]
 file = "mods/golem-spawn-animation.pw.toml"
 hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
@@ -582,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/items-displayed-forge.pw.toml"
 hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
 metafile = true
 
 [[files]]
@@ -665,11 +682,6 @@ hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
 
 [[files]]
-file = "mods/mini-boss-boss-bars.pw.toml"
-hash = "6df5836ca0c66795bb1fb5b146fd5372be35cfb4bd98d9e0808194d3e7632444"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "4b145c7939f87a21c8317bcfc5909f08f440f2936f1b6c80ce0c0cc88ff0aef9"
 metafile = true
@@ -677,6 +689,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
@@ -775,6 +792,11 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
+file = "mods/rainboows.pw.toml"
+hash = "768ceab9247faa36690099e0b9e825f2dfa4bdf535513a4227f41bf879631bbd"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
@@ -857,11 +879,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/totally-accurate-wither-storm-plus.pw.toml"
-hash = "4b35f89a6ad7aa2cc8e2e8a183383aa344a14e1944d4ed3e1c5b3c09d1cb7e95"
 metafile = true
 
 [[files]]

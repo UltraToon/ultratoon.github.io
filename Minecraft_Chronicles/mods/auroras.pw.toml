@@ -1,0 +1,13 @@
+name = "Auroras"
+filename = "Auroras-1.20.1-1.6.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q7VPWopC/versions/Y1QQeYYi/Auroras-1.20.1-1.6.2.jar"
+hash-format = "sha512"
+hash = "41a678484369764a2acbd98ae153b0eb104a8e201cd5600dd1cd5b31ec4d94d72266044102c2d82273ddbd8c089cd854a18d6b1366ffa1e2aa403b58ecf5cfce"
+
+[update]
+[update.modrinth]
+mod-id = "Q7VPWopC"
+version = "Y1QQeYYi"
