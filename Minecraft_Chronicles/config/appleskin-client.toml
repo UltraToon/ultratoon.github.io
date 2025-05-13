@@ -1,0 +1,4 @@
+
+[client]
+	#If true, shows your food exhaustion as a progress bar behind the hunger bars
+	showFoodExhaustionHudUnderlay = false

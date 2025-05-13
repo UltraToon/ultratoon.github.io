@@ -24,7 +24,7 @@
 	/**
 	 * Which sidebar should be searched using the search bar.
 	 */
-	search-sidebar: right;
+	search-sidebar: left;
 
 	/**
 	 * Whether normal search queries should include the tooltip.
@@ -51,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: left-compressed;
+	effect-location: top;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -61,7 +61,7 @@
 	/**
 	 * Whether to add mod name to tooltips
 	 */
-	append-mod-id: true;
+	append-mod-id: false;
 
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
@@ -88,7 +88,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: false;
+	center-search-bar: true;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -98,12 +98,12 @@
 	/**
 	 * Which sidebar type to focus when the search is empty.
 	 */
-	empty-search-sidebar-focus: none;
+	empty-search-sidebar-focus: craftables;
 
 	/**
 	 * Whether the EMI config button should be visible.
 	 */
-	emi-config-button-visibility: auto;
+	emi-config-button-visibility: hidden;
 
 	/**
 	 * Whether the recipe tree button should be visible.
@@ -167,12 +167,12 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: none;
+	left-sidebar-pages: craftables, index, favorites;
 
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: none;
+	left-sidebar-subpanels: lookup-history 1;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
@@ -202,7 +202,7 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: craftables, favorites, index;
+	right-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the right sidebar
@@ -212,7 +212,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 8, 7;
+	right-sidebar-size: 12, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -222,7 +222,7 @@
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: left, center;
+	right-sidebar-align: right, top;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
@@ -232,7 +232,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: vanilla;
+	right-sidebar-theme: modern;
 
 	/**
 	 * The pages in the top sidebar

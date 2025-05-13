@@ -5,6 +5,10 @@ file = "config/alexsmobs.toml"
 hash = "b39d3653a67058430732633071d5ccc7f389194d91f210dde19cdc87b35343c5"
 
 [[files]]
+file = "config/appleskin-client.toml"
+hash = "ec0ff490dd2c6b6557204be99c38e33e664463d12abcac5971c73e0615751cd9"
+
+[[files]]
 file = "config/badoptimizations.txt"
 hash = "12dc31bc6b9f556fe1e644d08378b013208bacda27b7c116334ed76c982d5d25"
 
@@ -38,7 +42,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "config/emi.css"
-hash = "b4ec18ef71b346463be8366b762af5ae8b7b2b8bd823af35fad59ae99fb1f05c"
+hash = "4aa67cc046eae64caeecad3e929075914ca4149ab4d21180a459c3674d0cdc55"
 
 [[files]]
 file = "config/endrem.toml"
@@ -576,16 +580,6 @@ hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
 metafile = true
 
 [[files]]
-file = "mods/item-placer.pw.toml"
-hash = "1c6039c6d4a831a7b1efb874f121958da545dd883ffe016344dd717858e86e14"
-metafile = true
-
-[[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "f22ed96cbe57135e229a2cb014cd4a6327ecd78b48354f906924a51ab1afacc7"
-metafile = true
-
-[[files]]
 file = "mods/items-displayed-forge.pw.toml"
 hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
 metafile = true
@@ -806,11 +800,6 @@ hash = "db3668dfd6f72c4b3f45d69482a01ae0609decc266674e4e1d43426d331aada9"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
-metafile = true
-
-[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
@@ -883,11 +872,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
-metafile = true
-
-[[files]]
-file = "mods/via-romana.pw.toml"
-hash = "9e5b8969a8c723f9f2fb261c950b997e5850bb1440f68e999532e38674ad6f7a"
 metafile = true
 
 [[files]]
