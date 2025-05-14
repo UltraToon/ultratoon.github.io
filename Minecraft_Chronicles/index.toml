@@ -272,11 +272,6 @@ hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf-lib.pw.toml"
-hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -442,11 +437,6 @@ hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
 metafile = true
@@ -514,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/fog.pw.toml"
 hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "820142b7322a4aef0e08008c3dc9fb840e26d4dd869c2a6787dcab4ae48c5e7b"
 metafile = true
 
 [[files]]
@@ -589,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "63df8f79c1c239a0500e4fe37b98963e44a5a715aa10d4fa2fb2e82440ba12e5"
 metafile = true
 
 [[files]]
@@ -802,6 +802,11 @@ hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
+metafile = true
+
+[[files]]
 file = "mods/rediscovered.pw.toml"
 hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
 metafile = true
@@ -812,6 +817,11 @@ hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
 metafile = true
 
 [[files]]
+file = "mods/river-redux.pw.toml"
+hash = "544caa7a7c4b42dc7e9bf51bb4403d62cefb439041cdd630797f497754c33db6"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -819,6 +829,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "db3668dfd6f72c4b3f45d69482a01ae0609decc266674e4e1d43426d331aada9"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
@@ -924,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]
@@ -1353,6 +1373,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
 hash = "bbfaee55a0a6382a69db198d7b9f14fcd36d3b7d995bf19e1e54556ad849cd08"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mod-descriptions.pw.toml"
+hash = "5813d051e0393b3fc31df97265d94b0be6813a38590cbebdfdf896f76d1da88f"
 metafile = true
 
 [[files]]
