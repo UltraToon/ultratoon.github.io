@@ -2,1470 +2,1150 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "b39d3653a67058430732633071d5ccc7f389194d91f210dde19cdc87b35343c5"
 
 [[files]]
 file = "config/appleskin-client.toml"
-hash = "ec0ff490dd2c6b6557204be99c38e33e664463d12abcac5971c73e0615751cd9"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "12dc31bc6b9f556fe1e644d08378b013208bacda27b7c116334ed76c982d5d25"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
-hash = "a93edd7895e0ffc4ef9d1a7785de3b7d19c480deb5a8945ced40588ad672f5f4"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "24e0491135f1cd02970840ba97e32bf6c97130e96ebef0ebc2f262abde27fd7d"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
-hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
 
 [[files]]
 file = "config/bettercombat/server.json5"
-hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/betterdays-common.toml"
-hash = "2ef9ec38a5b3a7ee9b4500c0c44fe6d6abb2cebe01c13906865bd7cfa1377df4"
 
 [[files]]
 file = "config/completionistsindex-client.toml"
-hash = "e9de9807407d9177274ce75ef00a4a88c2631f44c94fc3ad2c6b2c4cb3837815"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "2dfca3dcbaefcd07c023d14f23835d86375d76435bd670208e418b12a548c67e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "305c530ffd164b37102b831deab114e849d73048f19fc3055a35249f8bb237cc"
 
 [[files]]
 file = "config/dynamic_fps.json"
-hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "config/emi.css"
-hash = "4aa67cc046eae64caeecad3e929075914ca4149ab4d21180a459c3674d0cdc55"
 
 [[files]]
 file = "config/endrem.toml"
-hash = "2e3ac9e8b9264854e695684bfbc6e0fb6386efa649ea67a8bfc7eaf2bf7bc8bd"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "5e4b54bbecfd24771521dc65ddee3994844f0a93ea1d091175a0b1242e23c013"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
-hash = "cc55b5e91cf13d70f8d8add3ecad1f88dda613acea512f9eb0eb7b717700bb6b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "76f62a95be8efd1772bc599a3a8ecf07785072fe6d2ee2188d21dabd83d02db4"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0c0c3e3cf593069e490e29c6c29c53173e9725e2cc3c57108bc96ac23d26bc2d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "6ed94f1cdbced930e10bcf84376d83c39e675c2e1dafde3f253ab7b1736ec47d"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "config/item_descriptions.json"
-hash = "08be54aae5843b10d05519cc18fd8df7e54386c8b53f789f55ef1b876ad0c4a1"
 
 [[files]]
 file = "config/lootr-client.toml"
-hash = "865c7ea2d2ba65ad63fc5db52b0f5ca59eb34f4f393b3df950df1e3204bbefa2"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
 [[files]]
 file = "config/mowziesmobs-common.toml"
-hash = "20ec0f444dc2cc0130767e071b8301490f8d7a78751853b82002144856faf3f5"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "522f1dd84f2f1122586333ee446258ec0424de7b5abb7aacae3beb62515417e6"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "7b613340104afced1adf9852171b440b2a6bda66ba6b2318452abc5d3f89235a"
 
 [[files]]
 file = "config/radium.properties"
-hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "9ea671984a27dc7e0be74337fb12192b4c2a4ae52335fe3e5bca6b70c34577cd"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "de20ddd01dec1e39634ddb8881c6ff13a50c389e9584d4e6a50d868428226654"
 
 [[files]]
 file = "config/witherstormmod-client.toml"
-hash = "32f8890a8a0ab7fef5718c98199ff28ccb3b83246fad712d6f4ba1b366bc37b5"
 
 [[files]]
 file = "config/xenon++.toml"
-hash = "dfcafa5c89e9f97b9bbaccd333f8f5ea4a33416eefda1608e398dd18ee1b145a"
 
 [[files]]
 file = "config/xenon-options.json"
-hash = "4e3d3129a3fbf2a2342721b981150e2702e9da773e45ec98fceec79b7e8404a9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
-hash = "00514c9314f52b85916c096ee73f64989d92a5b1cba6ef9a01dfdf5fafbf4fb8"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
-hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "155bf176cec5f849aed266e39716932f73a7a32f45a36b7b6a64b3fd3ce80bff"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
 file = "mods/auroras.pw.toml"
-hash = "db633cf7f2797928319ad5908ecdd3f6af8de5b7058d909b582675e28bf86dcf"
 metafile = true
 
 [[files]]
 file = "mods/auto-third-person.pw.toml"
-hash = "b2361bd940792464869acd3863f00d70dfa64afcf1b536117691c7206032fff3"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
 metafile = true
 
 [[files]]
 file = "mods/battlemusic.pw.toml"
-hash = "9f70ad82a98dc6a94fe23d1b084c0d618f0e3e72a7dc4fa25d95ca12c2af8048"
 metafile = true
 
 [[files]]
 file = "mods/be-style-wither.pw.toml"
-hash = "d001000953fec8ed50134bab2c109bf0aa205aa8e26a50906600469961dd91bb"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "e2bc63cea33a1fb1924909db08c8eb8e8bb6ac4fb0404a5e7dff85b038371612"
 metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
 metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
 
 [[files]]
 file = "mods/better-tridents.pw.toml"
-hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
 metafile = true
 
 [[files]]
 file = "mods/better-village.pw.toml"
-hash = "54ae10628ed7323f20d50d323163bf7db81f5426eca19722b740887225a0c105"
 metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "94e6f056dc615fac3ee327ce73d147188e6ca9f4269c4bd6e62d5a82edf7acd2"
 metafile = true
 
 [[files]]
 file = "mods/biome_particle_weather.pw.toml"
-hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
 metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "0db676692b1170ee7eb2bffc6607d505d55846ab183e5fdf42d2a328d60ff180"
 metafile = true
 
 [[files]]
 file = "mods/cataclysmic-combat.pw.toml"
-hash = "8acb63dff6a8d3ea88623ef6abf5ff6c1d17d1eaa62bb52a5a5444ff46abbd5c"
 metafile = true
 
 [[files]]
 file = "mods/cerulean-advancements.pw.toml"
-hash = "2723c4b5a96c50cfc77dfbf633b385619487dd97914c408db8bcedbaee2ac02f"
 metafile = true
 
 [[files]]
 file = "mods/chunk-activity-tracker.pw.toml"
-hash = "011c399b2aa36e732c1610682cc0ed31cc6e7c0470b0bc406ca01cfd9f003c99"
 metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
 metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
 file = "mods/cmdcam.pw.toml"
-hash = "b1594687e49efac809d90262d5d3378c90d58c0e780f5fd164a21f541ed023c8"
 metafile = true
 
 [[files]]
 file = "mods/coastal-waves.pw.toml"
-hash = "49f54ce2926c147a8affea14944492c63ce73888491bc031a9569551a88dc340"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
 metafile = true
 
 [[files]]
 file = "mods/completionists-index.pw.toml"
-hash = "eb21f935e929abfe91a8016fda8ca0a2187e4ec6bc692e5063b7ed7f21200d81"
 metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
 file = "mods/deltaboxlib.pw.toml"
-hash = "85a976363930871d17581d127533f9628b6ff4ee1cf76b779c1a47f2277a505b"
 metafile = true
 
 [[files]]
 file = "mods/despawn-tweaks.pw.toml"
-hash = "eb59f5a2c37ea48f6f5ececc9713f2f08c2b9c060a51e9feadbc0544747ea6ef"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
 metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "e31ce9fd7a0e872eeed7cb3e2b49e965c964d2425f2c8d91e81e908ef2208420"
 metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "9bec8badf58155579d8314ad2571cb264a6e37537b485d50a99687ca83a066ad"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-enchantments.pw.toml"
-hash = "5517f40b6b212af75e4c87e914bb6f877845133751fc377a4b5c6db0a9033c31"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "73d089a80008bfb83e410726e68f279221b9b6113af0d0aa40a71ca730b0500a"
 metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
 metafile = true
 
 [[files]]
 file = "mods/eating-animation-forge.pw.toml"
-hash = "9085071da51ad9cf0865d7294c42a850389c34933845aeede842c43326a69307"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
 
 [[files]]
 file = "mods/endrem.pw.toml"
-hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-boss-bars-mod.pw.toml"
-hash = "170a341c0cfc02b56374f1a2c4391e89a6705a8636b3ba6712e6cd13d786a35f"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "efb8a4921c466e737afaa484eca9aedc55c4be1d5647a3b447f961d66482faaf"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f3e80a5b8992883cdad15ec2e431152ae67c48db3a131a7b1b5ce705da3f89f2"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
-hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "620a8a114b79b0a5363a60a746023b6c8fae9f42c6cf3df3337361a1128708c0"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
 metafile = true
 
 [[files]]
 file = "mods/farsighted-mobs.pw.toml"
-hash = "fe070f1c9916a21c0328eb6647270dc653d71e0d624999d5ede30edbf85a69f9"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "ef02d7733259ff599e02575534f1bd8d793d7e929b2e42b237b8844cdebb1302"
 metafile = true
 
 [[files]]
 file = "mods/fastquit-forge.pw.toml"
-hash = "710a1cc6aa24e68ba6c4cb93d686b17688d093ff7baecc1d0fa3036a3426ff35"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
-hash = "820142b7322a4aef0e08008c3dc9fb840e26d4dd869c2a6787dcab4ae48c5e7b"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "37f1b3f45cb39418f5c309b6d17cf5c2a7038fd1d3dee9619610b83a94db449a"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "53e690e118baf442ae92faee438328e629ba387cd77ad788ded22055773db80f"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
 file = "mods/geophilic-reforged.pw.toml"
-hash = "5f4e3fdc30e27bdb602e202d054a4984663fbd23cb264ac64651baf440b9e58a"
 metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
 
 [[files]]
 file = "mods/gml.pw.toml"
-hash = "961fafdef363b7306dcf437d0a2d4a025a8b17bae688130a88de6dce5b0db099"
 metafile = true
 
 [[files]]
 file = "mods/goated.pw.toml"
-hash = "43cb463e7f9da338a1124031efa35ba8b5ed75b1f2796f066b5b324e85c17738"
 metafile = true
 
 [[files]]
 file = "mods/golem-spawn-animation.pw.toml"
-hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "447524944a1c5ed9a90f7eabac4bcf58e8f8eaa08e349f138df664128975a8cd"
 metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "976de93f788a24c01590e07b3c0d9c70bfbc8093593ff80d5e479c0aceec2e3d"
 metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "db67b75db18d2ce8bebe92b72f5d5a3f64de4077edfd4439e8f633517c6f53c1"
 metafile = true
 
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
-hash = "1626a0cab2a54794dfd69105f526e30543d18460e591febd7e36c063aa814c00"
 metafile = true
 
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
-hash = "88aa2aed83cf21b265019e3061bb2095a9b6ab9cf9bf2f4b1ead487f25690daf"
 metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "5149305a220887b3d3bf49a34d21ebbb3c6068df8c7dd0fb41a22d0e858adbb7"
 metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "63df8f79c1c239a0500e4fe37b98963e44a5a715aa10d4fa2fb2e82440ba12e5"
 metafile = true
 
 [[files]]
 file = "mods/items-displayed-forge.pw.toml"
-hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
 metafile = true
 
 [[files]]
 file = "mods/keep-some-inventory.pw.toml"
-hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
 metafile = true
 
 [[files]]
 file = "mods/keybind-bundles.pw.toml"
-hash = "3281105a960a606d823f513b2cac3c061005201341019992496e05896cac39fc"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm-delight.pw.toml"
-hash = "32394301b277af0e898b57da66b2e72af6e536772f2dca2f9f4b3ca37d0fd90f"
 metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
-hash = "6bd7c616b8027b8e8da66f625cc0d21126447206a99d8823d58cbe2179e53bcc"
 metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
 metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "0c6a080492d16f771194bf297614b086d9130be598dc9a098a6d5cc3559357d2"
 metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
 
 [[files]]
 file = "mods/library-ferret.pw.toml"
-hash = "9e8dd3e6c43542e5edc72259a9be1d3815b87cc3baca9ea071b39c3f06dbb1fc"
 metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "01c83dbe3a427ee897b756e1ac2908ebdf8dad1bc46b56f3064d446a1ce0df0a"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "72f1a5bebbe6f81c877e31325022a22e08d831bab9b85d86f084fe60d930331e"
 metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
 file = "mods/mixintrace-reforged.pw.toml"
-hash = "4b145c7939f87a21c8317bcfc5909f08f440f2936f1b6c80ce0c0cc88ff0aef9"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
-hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
 metafile = true
 
 [[files]]
 file = "mods/mowzies-cataclysm.pw.toml"
-hash = "427589fd8d3a116fd28a1523ecca8ffd42e083b9556b78cc13667163751143d2"
 metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "7168f65994208be646432b925c1705364bdaa08b7f8db69637a5bcfaa3a50a07"
 metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
 metafile = true
 
 [[files]]
 file = "mods/nerb.pw.toml"
-hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
 metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
-hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "4684da1c9486b17aa9029f441b8b573a738bd256f413c30279950d2c9e8fe34f"
 metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "be2cd243fe83f4253d406afaf81781ffafb12d86903fcac8df913f247d84a0df"
 metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "a36f67262378d07560eda5ecd6ed06029f861ab4d973c116ec422e5d9f266be2"
 metafile = true
 
 [[files]]
 file = "mods/perception.pw.toml"
-hash = "c289c64b7d30cc2288508fe26dca04f4e2b15c5009bb31baaa72f32bf6f2dd9c"
 metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "f061cf67998fb04b45f6e46a9963486e5265f628e9c13bf14592c5f4f821d04a"
 metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
 file = "mods/rainboows.pw.toml"
-hash = "768ceab9247faa36690099e0b9e825f2dfa4bdf535513a4227f41bf879631bbd"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
 
 [[files]]
 file = "mods/redirected.pw.toml"
-hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
 metafile = true
 
 [[files]]
 file = "mods/rediscovered.pw.toml"
-hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
 metafile = true
 
 [[files]]
 file = "mods/refined-advancements.pw.toml"
-hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
 
 [[files]]
 file = "mods/river-redux.pw.toml"
-hash = "544caa7a7c4b42dc7e9bf51bb4403d62cefb439041cdd630797f497754c33db6"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "db3668dfd6f72c4b3f45d69482a01ae0609decc266674e4e1d43426d331aada9"
 metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "860fc3d1f54380f99f3337029b441cc0665c33bdf6356f23a2c9adf21fca3072"
 metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
-hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
 metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "753058a28cedf5e133a8cc5ad77fefb4f005298fb24923190841f7d0accac31a"
 metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "10d6b259205e6ad804c75cefc66706521c0ffa91ea0a3c4951a6717aa8a1ea65"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "a47052662859ef91a9631c566d0cf6099a5217feb00de53b69e5ab476b4f5556"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
 file = "mods/true-ending.pw.toml"
-hash = "6d5ac3ede55fc03df56dbf655538179b2afe1425cfbeba7a9ba88e19cc9ec117"
 metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
 metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "56a7195e6819ed4bc3176d7ce49b0a39963ea04b76793e3878de91630fd9898e"
 metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
 metafile = true
 
 [[files]]
 file = "mods/weaponmaster.pw.toml"
-hash = "7ed4fd2adbada52733cd7643f36f661b13d5f3853a95c3239a64760dafbab8d6"
 metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
 
 [[files]]
 file = "mods/wither-spawn-animation.pw.toml"
-hash = "ba758f77d7e7d65f6c1ba0254a4cb66a83c3eb6fc110315475875787ed42dcb0"
 metafile = true
 
 [[files]]
 file = "mods/wither-storm-combat.pw.toml"
-hash = "06c454c5f12efa731251677de6a97baadbcd83d92ad2a42b0746683bb3d3b5c9"
 metafile = true
 
 [[files]]
 file = "mods/xenon-forge.pw.toml"
-hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
-hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
-hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/ancient_remnant.json"
-hash = "59d7b7f79dc7168be9773287edbf0997a167028495e7bd827977b13f9a247e82"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/ferrous_wroughtnaut.json"
-hash = "cf8813c38417e89f5975b0be38ea456f8b6d5a6dad9566491947e2905d08644e"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/frostmaw.json"
-hash = "92279896abc803369bd32391c72e3f0fcc918ff29268ea27ae04a91adc3fe40e"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/harbinger.json"
-hash = "6686f0179c6f85e53dbb936700b63732b1c5ee8eb1c5ec783d7d9bc8abf2547a"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/ignis.json"
-hash = "5cf1f5f7e54eec4658a86c631e0f2323311439a4fcb977fbcab9b77554753ae9"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/leviathan.json"
-hash = "e8af6c38f4a071f4ca255cfb7fec0887cef8f7d5f6aa576f91b6a0dffcff8b4f"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/maledictus.json"
-hash = "b46a294878098932aeb2c2a2cdb93e32f19f4a81517226a16a84b5f18e24ad89"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/netherite_monstrosity.json"
-hash = "6d2d2170051488f5eaa73229acf71ecb348d55003cd600a1015d12a577038c97"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/sculptor.json"
-hash = "66aed294fa1f5e8459469ba17f9cfb1659fc96800d6c1ba07367543cd11319d6"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/umvuthi.json"
-hash = "c393e6acb7e8f00ed9d95f411c2a24b2ae1f975890f593783f0a5ab748ea7813"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/warden.json"
-hash = "bcc0ce99dbf8e4f71e0ef16b3d15245f741bd1169ed06d8f27759c30377008de"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_modifiers/entities/wither.json"
-hash = "acb5769096ff773abd13eaeef8f4a32c68813043b75ae730d598985e4401ee11"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_ancient_remnant.json"
-hash = "5d55ced9538be5e327b8bc840e2a536d136f565705187494536eeff80a599ff5"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_ferrous_wroughtnaut.json"
-hash = "5b823f9a4dd7c9d1e6a5a1824b637b0bb50868eafe0f6479b983fba7cd3eb9ac"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_frostmaw.json"
-hash = "66be6960ea45639216576c2231ebe95020f984306122622c7d9f61eee3498d4e"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_harbinger.json"
-hash = "c7c9c31f306d82ae9d44f6e1007dc92299b5c64e081e33239a2ec0600e61c9cb"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_ignis.json"
-hash = "e7827a651512b7939be650a68f383253ff93e01b933b90f0d0f53eb46c28ae31"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_leviathan.json"
-hash = "4e8b4b87bb46b0a266ce0530bc3b9fa5f451591388782a92cb0f16e65772ee31"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_maledictus.json"
-hash = "1b4c1e4c7cbd42bf97f9f2a780751a674ec0234f9b612f9ba665e220b5b76c35"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_netherite_monstrosity.json"
-hash = "1788270bd63648ab739dec6941b810feceaae9d9d00e0ff9a4eb07473f16f288"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_sculptor.json"
-hash = "4fedb34d0baa7576f89e25da787f3c46ac812833becaa1ca8c07f0f45ad00315"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_umvuthi.json"
-hash = "383869c4b161f7451c7a61879e36e90be90829bea17d1034295f218b0aa83940"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_warden.json"
-hash = "8c7971a6eb1abf14618345c67de40b3ecb5ba8e9cd2153f911f62a024b20c936"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/endrem/loot_tables/entities/inject_wither.json"
-hash = "d24e9f67e8ccc92f10c8dc270a919a2476da02f9f297ec8636e9747b9cc6436f"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/forge/loot_modifiers/global_loot_modifiers.json"
-hash = "a937b1004d19d2e81e8b7467ebe700113812382c0adcf27fc0bd6ec3ce90ee9f"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/minecraft/tags/functions/load.json"
-hash = "0408c869d52ef10522186333722480f7c0218c3117b35fae76d894b602286222"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/cutscenes/wither.json"
-hash = "bfb39b6af3f4333e426626ad02cfc0d5c4b5787df6c027f0d6f8329109adcd76"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_ancient_factory.json"
-hash = "3e03dd7aef6c6a3c7aa29529e0a8d0e554bc95e9f03f715159a44e794d2387d5"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_burning_arena.json"
-hash = "1117f6b4f1b1b8cc436786ad4482177b9c5c61e89f3f544e5b88b5d604886ca3"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_cursed_pyramid.json"
-hash = "4cacfab5102352bd2488bb41dd2ea6c73f0f28da7160ead54fd0bdc2c6ce0bf1"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_frosted_prison.json"
-hash = "b8574699c64298a64138a97217c666635887d7940fe4cef56e00cf8a322db5bb"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_monastery.json"
-hash = "20d16d753f8d7bbc9b7f97eebc883bb8b7d5b4f4b21f9188fa6cd536fef18bdd"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_ruined_citadel.json"
-hash = "24aa1ce3bbe212ab6e50b65adac20d70047e04a79cdb3fa743d1b9a7cae1bc49"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_soul_black_smith.json"
-hash = "f0db289ba8537fb7fe95e4d6f0c136b938ead0c12eb73cb9f436e3d8158adad9"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_sunken_city.json"
-hash = "4840d963872dd77943e60f5821ced6bb93290bf416a47bb2696afbe6d94aa32e"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_umvuthana_grove.json"
-hash = "6e30b69c1c56f763d6d97b8ddbecb9d8e81afd83725e44f13fa8f6fb237052b7"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/find_wrought_chamber.json"
-hash = "ea5d5c9e302add874c0a49d0cdcc4b81c4570255ae1609c2ba4913a8c9a822ef"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_black_eye.json"
-hash = "c7ba5c63cd092c1b9fcc5069d4a8706982de636a96db37aa6ce9860780ee132d"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_cold_eye.json"
-hash = "5bfe07592fab13c7821f1a736f668ea7b24312c8778910b127f3b56807b44f04"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_corrupted_eye.json"
-hash = "4fb1d011415375cc11f6fe577a64e3d0ee60a71551e75a4f3bb73f6eb3f3ef7b"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_cryptic_eye.json"
-hash = "158f8a69ef9f306c86e1ebf1432f12daf36ced8e34de0143681cb574ae54bbf5"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_cursed_eye.json"
-hash = "578ba4be78e60ed029510d28e6b138f8eceb4117d39cf0651b36eda28564853b"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_evil_eye.json"
-hash = "9cd9bf6b620690e6946f2e92a12ba2d86f3d27978095f649a068131c1233f9bd"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_exotic_eye.json"
-hash = "e4772c773c7c757472aab41fe52bb6397910b2d396149ac7f4bce437ad95ae8b"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_lost_eye.json"
-hash = "d49306e0363417a8a241a429fb8ee2c205455f261ae84192faec9ddf149f26ab"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_magical_eye.json"
-hash = "b83e15c8bd896303ca7aa4def841db9e7431dccda93d5fa723ea07ac2f9522f9"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_nether_eye.json"
-hash = "dcc0b2d7ea852cab7dce739dc412cc008a6466aaca3e1c491c82e0f60c7aee5d"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_old_eye.json"
-hash = "f6c8527e2600ac62cf0420c86ec4a0a21980ac25eb46aa0ef10ae29277336f71"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_undead_eye.json"
-hash = "5fae799b1eb552f536d36d43bf4d1e42b8654e0020dc6d3818cb5facc1b1ccd3"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/get_wither_eye.json"
-hash = "3fe33684cbf7604ec549c8ea7344d27791ce1cec7319569f5f6e24ef3815f464"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_bluff.json"
-hash = "721e6b6a9af5867de12a933603f52e721caba75331a46a07a574e2e4212b2779"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_ender_golem.json"
-hash = "066a7a69020f982658f3a0d29209458c002e3cdf5e959c4080e77ef1b96f6a9e"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_ender_guardian.json"
-hash = "a37bfa3f29405f53ce8c5c9d3300f32262def5f16faa40f20b0c8c73c231fac0"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_ferrous_wroughtnaut.json"
-hash = "99876cbfb73079c41bb62413426f93b7a3f02074178b94e21a2fdc85d5897f3a"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_frostmaw.json"
-hash = "8146ae66ebf6b800016802beffdcc105f96b82d35132b4031db793f7eda3703a"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_harbinger.json"
-hash = "10a82cf6dc8bd66f116e58dcb146b2dc91e82abc75271e9ae21edee317bdf631"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_ignis.json"
-hash = "948cc894c54ce56cd938a896b61c85c17a98182f18ba89aba44d0ef3ffac41a8"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_leviathan.json"
-hash = "5a607f87a0f7a4c553b5a4072827a1b8b93398317f2944ea39cc4a4c90bbc083"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_maledictus.json"
-hash = "9f0502c02ebd7eb2abf8b6e7367e0d1cfe8491407e8ddae7a6ea8c1def8fadfc"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_monstrosity.json"
-hash = "415febf9b3e7036437f1de0e0011178fcbeb32a7898dda17a8aab9862bbb75b9"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_remnant.json"
-hash = "cc63eb49f887a76e6556fd4acc1d5b217a206678d96eae75fc16963fd36b7a7e"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_sculptor.json"
-hash = "23325055aeffbec41f450ccdaa9cd71f48d5882f8da9be5df17363b5a45ae36c"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_umvuthi.json"
-hash = "352682ef6055718ead7fd58b23f9255a15505fef88e6aaecb80a197dbca7e044"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_warden.json"
-hash = "b0b402bf8d4e10569b510014415f6f5cb8007528efbd4974ae0aadef72028c17"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/kill_wither.json"
-hash = "b5ac38a2c89fb48003b5c29b108779ef254621a956403bc49863bb0c7da4f005"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/root.json"
-hash = "0441deb38b1a22897a03c347aef625e0777f0a8aeb88c3e74854d8c7d92780a7"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/sculptor_challenge.json"
-hash = "3fd8483f05c073e4debb9ac0b6329eed1c81e3ef40a0ebb298097ec6a9790428"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/sculptor_failure.json"
-hash = "bc06ec33b4e89f3285703bf1b1ab51fcd1e2accf6291eb571025cea6e2a56b37"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/sneak_grove.json"
-hash = "b872e246ba857b815c9828b1c20382072782187ca5be70ed2cb8729c2cf5978d"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/steal_ice_crystal.json"
-hash = "e8d796f4ea99e275f0cb4261d505893f0deacedc8fa5ef9782977902221ab10a"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/suns_blessing.json"
-hash = "2a5c4558e34caf6d7ca2b0e060391523187561fc9191dfe713621320699f01bd"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/lore/lore.json"
-hash = "0aa8b9c101af756806669af08350d7e00dd3f99dbbc36cf5ceff7bbe17b99695"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/lore/root.json"
-hash = "69d8cbf9b91d6759ee2d1847a4166d86c005378935e3752e78083639121bd53b"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/lore/tips.json"
-hash = "362e4b350ab7aded2e2293eb41781ae0ecb3195443f5461b7d6313dc9da93140"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/functions/cutscenes/wither.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/functions/load.mcfunction"
-hash = "ba76d811ac999ed4b161613ba6863b904afd9b18cb64861ab9059cf5822d1b4b"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/functions/unfold_adv.mcfunction"
-hash = "58d6a40e0044b1838e4486d5c3d109e68a793d55fd380a2ad6a962482a8ecc29"
 
 [[files]]
 file = "resourcepacks/chronicles-data/pack.mcmeta"
-hash = "55fdd8283325fc70f3ee7f4fc9de2bb1d661efcfd33121561889394321a53f93"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/endrem/lang/en_us.json"
-hash = "d686165cfcad282e85ab303228904bb744d7a08ae6f4abd7066460b1d8be65f7"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/endrem/textures/block/eyes/black.png"
-hash = "a16c7a98cf73ddbca9e7cc88f709d7b35a688a40780933b68e51fc49b01dd7e4"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/endrem/textures/block/eyes/evil.png"
-hash = "9d782a8dd9d037004ae9a7f826c811de2ae7efe16c401eca3ee4938257601292"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/endrem/textures/item/black_eye.png"
-hash = "28371a9d7dd4c4f72d764dafc4e2adc6864e14aaeadb8b9497864b1e297b4756"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/endrem/textures/item/evil_eye.png"
-hash = "d8017ffd92a8318a5ba671136356dc6fc17ed4f5e5643429911ebc18f1d25112"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/minecraft/textures/gui/title/edition.png"
-hash = "25404504c4ed49aad64ac2ec0b2e19ec927309ec14b80ad82dfe361de7eec442"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/assets/minecraft/textures/gui/title/mojangstudios.png"
-hash = "70197e4aa47e78624218b6f7bc40973136bccf0193f22fe6b8fdfc61d4a6baf4"
 
 [[files]]
 file = "resourcepacks/chronicles-resource/pack.mcmeta"
-hash = "4c0462dc43369450131e6722ab1556f152a89e3b4eceb49b4222b3b9632d8b11"
 
 [[files]]
 file = "resourcepacks/detailed-animations.pw.toml"
-hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
 metafile = true
 
 [[files]]
 file = "resourcepacks/end-crystal-bossbar.pw.toml"
-hash = "8e73d9d66ae6c150251c8b44fe7b541357fe6428ae8457634c781fb7b5c18ec3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ender-dragon-revamp.pw.toml"
-hash = "147e24fa90a93776d3fa7f57496182283cc1e4f8f03a2b3f8eb41954acebaf16"
 metafile = true
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
-hash = "bbfaee55a0a6382a69db198d7b9f14fcd36d3b7d995bf19e1e54556ad849cd08"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"
-hash = "5813d051e0393b3fc31df97265d94b0be6813a38590cbebdfdf896f76d1da88f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "8d9628d4203ba80fdd8679ba92802c9f12dc58b971716fc619a6b5962cf106c3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vn4s-fresh-wither-storm.pw.toml"
-hash = "73b830eec94b68b9091f158523a3487040ef5e577d3de05d2d2718e003df3c22"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
 metafile = true
 
 [[files]]
 file = "shaderpacks/mellow.pw.toml"
-hash = "151e2f983c52716bb185aa0f468676b28faf999f095ead6f6fcb714115f0c7e7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "0c768f542dd2d7422360aa590fb6345864e9382a292550425396629f25bc110e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip.txt"
-hash = "60584dc3a19c93e409e203970adc93870680f7ef3f21edae4c850b58da15680e"
 
 [[files]]
 file = "unsup.ini"
-hash = "15eb056d99146f27979118502e47ee0334f717bf03e23eb74ce72a66d5ce8577"
 
 [[files]]
 file = "unsup.jar"
-hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
 
 [[files]]
 file = "unsup.toml"
-hash = "03412fc6321cb76de850e6ac57ad4ce2149db43d48a34766068645f2360a80b5"
