@@ -1,0 +1,13 @@
+name = "Vanilla Backport"
+filename = "vanillabackport-forge-1.20.1-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/30bSWPyj/vanillabackport-forge-1.20.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "3dd0fa8ec5effb40b0fd83222099e5b2cb1fdc01066d2cc19b5d4e18acf0381a69520123915b0cde8bea86181230a301f885b2eeec4f55da02ff2d1019cfc27c"
+
+[update]
+[update.modrinth]
+mod-id = "6xwxDTgf"
+version = "30bSWPyj"

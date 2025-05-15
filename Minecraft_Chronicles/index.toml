@@ -113,6 +113,10 @@ file = "config/immediatelyfast.json"
 hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
+file = "config/item_descriptions.json"
+hash = "0ed5b3d311a77dab822161a43787631962a2f8f37e45b31d82f3ab41fe3bf012"
+
+[[files]]
 file = "config/lootr-client.toml"
 hash = "865c7ea2d2ba65ad63fc5db52b0f5ca59eb34f4f393b3df950df1e3204bbefa2"
 
@@ -287,6 +291,11 @@ hash = "8acb63dff6a8d3ea88623ef6abf5ff6c1d17d1eaa62bb52a5a5444ff46abbd5c"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "2723c4b5a96c50cfc77dfbf633b385619487dd97914c408db8bcedbaee2ac02f"
+metafile = true
+
+[[files]]
 file = "mods/chunk-activity-tracker.pw.toml"
 hash = "011c399b2aa36e732c1610682cc0ed31cc6e7c0470b0bc406ca01cfd9f003c99"
 metafile = true
@@ -432,6 +441,11 @@ hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation-forge.pw.toml"
+hash = "9085071da51ad9cf0865d7294c42a850389c34933845aeede842c43326a69307"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
@@ -482,6 +496,11 @@ hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
+metafile = true
+
+[[files]]
 file = "mods/farsighted-mobs.pw.toml"
 hash = "fe070f1c9916a21c0328eb6647270dc653d71e0d624999d5ede30edbf85a69f9"
 metafile = true
@@ -499,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
@@ -537,6 +561,11 @@ hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
 
 [[files]]
+file = "mods/gml.pw.toml"
+hash = "961fafdef363b7306dcf437d0a2d4a025a8b17bae688130a88de6dce5b0db099"
+metafile = true
+
+[[files]]
 file = "mods/goated.pw.toml"
 hash = "43cb463e7f9da338a1124031efa35ba8b5ed75b1f2796f066b5b324e85c17738"
 metafile = true
@@ -544,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/golem-spawn-animation.pw.toml"
 hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
-metafile = true
-
-[[files]]
-file = "mods/happy-ghast-mod.pw.toml"
-hash = "d2ce84da34dba8d0e989c8a3bb23de84f4d7dfea5e2a375f0cdc8eac969d6a30"
 metafile = true
 
 [[files]]
@@ -562,13 +586,13 @@ hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
-file = "mods/icterine.pw.toml"
-hash = "718f446359f3a69ec2d537744bf089c13b681464f630ea75d8d771c4121c4394"
+file = "mods/immediatelyfast.pw.toml"
+hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
+file = "mods/immersive-optimization.pw.toml"
+hash = "976de93f788a24c01590e07b3c0d9c70bfbc8093593ff80d5e479c0aceec2e3d"
 metafile = true
 
 [[files]]
@@ -579,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
 hash = "1626a0cab2a54794dfd69105f526e30543d18460e591febd7e36c063aa814c00"
+metafile = true
+
+[[files]]
+file = "mods/improved-village-placement.pw.toml"
+hash = "88aa2aed83cf21b265019e3061bb2095a9b6ab9cf9bf2f4b1ead487f25690daf"
 metafile = true
 
 [[files]]
@@ -682,6 +711,11 @@ hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "4b145c7939f87a21c8317bcfc5909f08f440f2936f1b6c80ce0c0cc88ff0aef9"
 metafile = true
@@ -767,13 +801,13 @@ hash = "c289c64b7d30cc2288508fe26dca04f4e2b15c5009bb31baaa72f32bf6f2dd9c"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+file = "mods/platform.pw.toml"
+hash = "f061cf67998fb04b45f6e46a9963486e5265f628e9c13bf14592c5f4f821d04a"
 metafile = true
 
 [[files]]
-file = "mods/poof-sounds.pw.toml"
-hash = "8a297ccda841a494be007ec56e8fb825c82df87a352b76d37c336325b6f1d18c"
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
@@ -817,6 +851,11 @@ hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
 file = "mods/river-redux.pw.toml"
 hash = "544caa7a7c4b42dc7e9bf51bb4403d62cefb439041cdd630797f497754c33db6"
 metafile = true
@@ -857,11 +896,6 @@ hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
 
 [[files]]
-file = "mods/sounds-of-the-forest.pw.toml"
-hash = "a632167cdbc7cfd28254dcc799877a1ea4ad717100539fe77ac947c56bfe02f8"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
@@ -879,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "10d6b259205e6ad804c75cefc66706521c0ffa91ea0a3c4951a6717aa8a1ea65"
 metafile = true
 
 [[files]]
@@ -904,6 +943,16 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
+metafile = true
+
+[[files]]
+file = "mods/underground-rivers.pw.toml"
+hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "56a7195e6819ed4bc3176d7ce49b0a39963ea04b76793e3878de91630fd9898e"
 metafile = true
 
 [[files]]

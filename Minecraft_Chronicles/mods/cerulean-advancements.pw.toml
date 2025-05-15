@@ -1,0 +1,13 @@
+name = "Cerulean"
+filename = "cerulean-forge-1.0.0-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dv57xmf9/versions/znxRjAmZ/cerulean-forge-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "7a1cf8ff7d5bb397503609936673ebb35fcbd8dfa789b9ac74a0f9d11dd0ad39798a811f8cf1e8dbfd77cba96ab48bcf27b0662203996a88dd699b09b367e77f"
+
+[update]
+[update.modrinth]
+mod-id = "dv57xmf9"
+version = "znxRjAmZ"
