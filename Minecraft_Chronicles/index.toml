@@ -79,6 +79,9 @@ file = "config/fancymenu/user_variables.db"
 file = "config/ferritecore.mixin.properties"
 
 [[files]]
+file = "config/fml.toml"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 
 [[files]]
