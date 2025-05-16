@@ -1,0 +1,336 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = help_menu
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1747373416876
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:c9253385-b50b-4dcc-814a-a7aabce8f032-1747373403489] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 3.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  interactable = true
+  source = # Welcome to Minecraft: Chronicles!%n%%n%A **semi-vanilla story-focused** modpack made by ultratoon/Kaspar0v that focuses on a new adventure with inspired aspects from Story Mode, Legends, and the Minecraft movie.%n%> **This tab will include valuable info for basic aspects.**%n%%n%## How do I use this menu?%n%### %#FF5555%DO NOT feel the need to read this menu inside and out!%#%%n%Most gameplay features should come easily, but *if* you have issues or want to learn more, refer to this.%n%Each tab on the left corresponds to a section that you might need. If you are stuck on something, check the correspondent tab.%n%%n%The help menu is **good** for:%n%- Finding common important keybinds%n%- Common tips%n%- Troubleshooting%n%%n%The help menu is **bad** for:%n%- Trying to find progression%n%- Can break immersion if you rely on it too much%n%- Not taking any chances for finding things your own way and relying on this [again]%n%%n%# Other questions%n%Common questions that might arise. Hopefully these help!%n%%n%### No quest mod? Why?%n%I found in modpacks that theres two progression systems: quests and advancements, with the latter in the dust.%n%In mine, I decided on unity and "upgrade" the advancement system (with linked advancements, and helper functions).%n%Im aware of other modpacks like Sky Factory 4, though its a bit outdated and I want to revive its style for the best.%n%> The datapack in this mod configures the advancements, and even though its more difficult than those easy quest GUI's, you learn JSON and datapacks better.%n%%n%### How do I disable player animations?%n%1. Go to your resource packs, and turn off the "Detailed Animations" resource pack.%n%2. Go to "Mods" → Search up "Not Enough Animations" → Press "Config"%n%3. You will see an array of options, update these ones:%n%    - Animation Smoothing = OFF%n%    - Disable Leg Smoothing = ON%n%    - Ladder Animation = OFF%n%    - Holding Up Items = No Items%n%**Do this process in opposite to enable player animations again.**%n%%n%### What is unsup and is it safe?%n%Unsup (Una's Simple Updater) allows me to:%n%- Publish updates without the wait time by modrinth or curseforge.%n%- Synchronise modpacks with everyone to avoid issues%n%- Give options for the modpack (shaders, DH, lite or not)%n%%n%## Contact%n%- Email me at: [link]%n%- Discord server: [link]%n%- WIP: Create a feedback ticket in menu > feedback%n%%n%# Disclaimer%n%> This modpack is a **fan-made project** and is **not affiliated** with *Mojang, Microsoft, Telltale Games*, or any official Minecraft product including *Minecraft: Story Mode, Minecraft Dungeons, or the Minecraft Movie.*%n%All rights to trademarks, characters, and original content belong to their respective owners.%n%This modpack does not use any official game assets from the above titles and is intended purely as a community-created, inspired experience.%n%%n%
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 828939e2-606a-484d-b5d4-8614663bcf11-1747363785802
+  custom_element_layer_name = Modpack Info TEXT
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-right
+  x = -533
+  y = -167
+  width = 518
+  height = 345
+  stretch_x = false
+  stretch_y = true
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 4d952054-2c93-4c89-a8b9-1bddc0b39f6d-1747363785802
+  [loading_requirement_container_meta:4d952054-2c93-4c89-a8b9-1bddc0b39f6d-1747363785802] = [groups:][instances:fa468b17-f98c-411d-97f0-f0678464f58b-1747371091655;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:fa468b17-f98c-411d-97f0-f0678464f58b-1747371091655] = help:modpack_info
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = true
+}
+
+element {
+  interactable = true
+  source = # How do I start?%n%%n%The progression is hinted through the **advancements** system. You can access it through the default `[L]` keybind or the **inventory** tab.%n%> You might develop many advancement tabs. Thankfully, ones by us are marked with [Chronicles] in their title.%n%%n%### Why is there a tiny amount of custom advancements?%n%It is dynamically linked, meaning that in order to see a "hidden" advancement, you must unlock its prior (which depends if its hinted or not).
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = fef238c1-2541-4375-ae2d-6629cdfb2e64-1747372027570
+  custom_element_layer_name = Starting Point TEXT
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-right
+  x = -533
+  y = -165
+  width = 518
+  height = 346
+  stretch_x = false
+  stretch_y = true
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = f0e1f5ec-73d4-4404-ba0e-415a66803ac6-1747372027570
+  [loading_requirement_container_meta:f0e1f5ec-73d4-4404-ba0e-415a66803ac6-1747372027570] = [groups:][instances:6c7fe6e9-6c28-45e5-a370-e498289a3f9e-1747372367692;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:6c7fe6e9-6c28-45e5-a370-e498289a3f9e-1747372367692] = help:starting_point
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  button_element_executable_block_identifier = e7951270-0f49-4d88-969e-ca4f95eaebf6-1747363754555
+  [executable_action_instance:d3ac6df0-d49a-4f92-ae44-3ffc998b06e4-1747371775758][action_type:set_variable] = help:modpack_info
+  [executable_block:e7951270-0f49-4d88-969e-ca4f95eaebf6-1747363754555][type:generic] = [executables:d3ac6df0-d49a-4f92-ae44-3ffc998b06e4-1747371775758;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Modpack Info
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 53c016c4-0445-4be2-8fe1-a9b56ed90784-1747363754555
+  [loading_requirement_container_meta:53c016c4-0445-4be2-8fe1-a9b56ed90784-1747363754555] = [groups:][instances:de36aa9e-e591-4dc5-87d7-8ac07b5e0102-1747371879266;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:de36aa9e-e591-4dc5-87d7-8ac07b5e0102-1747371879266] = help:modpack_info
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = aba2e9f6-8dc5-4b0e-bf67-056852fb133e-1747363754555
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 4
+  y = 14
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3d88b079-df22-49db-b598-a238a5f6cfba-1747363754555
+  [loading_requirement_container_meta:3d88b079-df22-49db-b598-a238a5f6cfba-1747363754555] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  button_element_executable_block_identifier = 2d323102-0910-48d6-a78b-54cbf36592c9-1747372386226
+  [executable_action_instance:c9f0aa31-1466-438c-9634-8c8c64867c6c-1747372602878][action_type:set_variable] = help:starting_point
+  [executable_block:2d323102-0910-48d6-a78b-54cbf36592c9-1747372386226][type:generic] = [executables:c9f0aa31-1466-438c-9634-8c8c64867c6c-1747372602878;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Starting Point
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 0b561d43-ab3d-490a-9dc5-f06e290fc58d-1747372386226
+  [loading_requirement_container_meta:0b561d43-ab3d-490a-9dc5-f06e290fc58d-1747372386226] = [groups:][instances:da6a39ef-5365-472d-95c6-43f762f6c03d-1747372727200;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:da6a39ef-5365-472d-95c6-43f762f6c03d-1747372727200] = help:starting_point
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = 32b54ce2-a461-4966-b2a9-76f3e103d660-1747372386226
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = aba2e9f6-8dc5-4b0e-bf67-056852fb133e-1747363754555
+  x = 0
+  y = 25
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3d55bc27-1987-46bd-acab-5f21327ba15b-1747372386226
+  [loading_requirement_container_meta:3d55bc27-1987-46bd-acab-5f21327ba15b-1747372386226] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  button_element_executable_block_identifier = a91176c6-16d5-4738-85e9-a382888a3a20-1747373311498
+  [executable_action_instance:6673fe10-675b-433d-9a8a-37815cd1c073-1747373350653][action_type:opengui] = pause_screen
+  [executable_block:a91176c6-16d5-4738-85e9-a382888a3a20-1747373311498][type:generic] = [executables:6673fe10-675b-433d-9a8a-37815cd1c073-1747373350653;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Done
+  navigatable = true
+  widget_active_state_requirement_container_identifier = e5dcf824-264a-4bdf-b0e2-95ca807ac408-1747373311498
+  [loading_requirement_container_meta:e5dcf824-264a-4bdf-b0e2-95ca807ac408-1747373311498] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = 29d94033-f619-47d1-84c1-12a2696cf03b-1747373311498
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = bottom-left
+  x = 4
+  y = -25
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = aa0f2a06-87d7-411d-a254-bbe7479e2339-1747373311498
+  [loading_requirement_container_meta:aa0f2a06-87d7-411d-a254-bbe7479e2339-1747373311498] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+

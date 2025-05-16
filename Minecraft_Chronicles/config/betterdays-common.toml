@@ -91,7 +91,7 @@
 	#Note: Other mods may override this ability.
 	allowDaySleep = false
 	#When true, a clock is displayed in the sleep interface.
-	displayBedClock = false
+	displayBedClock = true
 
 	#This section defines settings for notification messages.
 	#All messages support Minecraft formatting codes (https://minecraft.fandom.com/wiki/Formatting_codes).
@@ -111,7 +111,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who were sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who were sleeping (does not include % symbol).
-			message = "§e§oAnother Blocky Day!"
+			message = "§e§oA new day begins."
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
@@ -128,7 +128,7 @@
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who are sleeping (does not include % symbol).
 			# [${sleepingPlayers}/${totalPlayers}]"
-			message = "${player} is now sleeping. May the clock spin!"
+			message = "${player} is now sleeping. Sweet dreams!"
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
@@ -143,7 +143,8 @@
 			#sleepingPlayers -> the number of players in the current dimension who are sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who are sleeping (does not include % symbol).
-			message = "${player} has left their bed. [${sleepingPlayers}/${totalPlayers}]"
+			# [${sleepingPlayers}/${totalPlayers}]"
+			message = "${player} has left their bed."
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"

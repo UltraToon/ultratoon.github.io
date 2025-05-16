@@ -30,7 +30,7 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/betterdays-common.toml"
-hash = "2ef9ec38a5b3a7ee9b4500c0c44fe6d6abb2cebe01c13906865bd7cfa1377df4"
+hash = "14089ee204bff27ba398ab4bec216b9d0219e6d3e25535d0b806ad7943a2e0f5"
 
 [[files]]
 file = "config/completionistsindex-client.toml"
@@ -62,15 +62,27 @@ hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "0046ebceedb02975bde6439ea6f241e2d5756b45d443f0af48267a96274e31f4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "5e4b54bbecfd24771521dc65ddee3994844f0a93ea1d091175a0b1242e23c013"
+hash = "d112443ba715a7e70ecdd61db47fa1f5c0245b40fbe884993aecdf41d39b9064"
+
+[[files]]
+file = "config/fancymenu/customization/creative_mode_inventory_screen_layout.txt"
+hash = "3ade3b4216ad682b254ceab5df96e68646c79e2d320189a2d16861b04c1c7c48"
+
+[[files]]
+file = "config/fancymenu/customization/help_menu_layout.txt"
+hash = "9df45327644fb6581c3bb69a5b2778126e2b0a6ad347e8ae831b20c3b0383ca6"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
 hash = "cc55b5e91cf13d70f8d8add3ecad1f88dda613acea512f9eb0eb7b717700bb6b"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "da1ee3ae73f17ccd9248e49a5dc83380529ae764345fa59d52ec364c170c088c"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -78,7 +90,7 @@ hash = "76f62a95be8efd1772bc599a3a8ecf07785072fe6d2ee2188d21dabd83d02db4"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "e9310881308e0a55b6a708e8df03e2ee11ef89412a2917a3dc1c971f4976558f"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -98,7 +110,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash = "522040251908f5e8505db92178aebdcab700704e4804a2f7805b60d69a19a776"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -119,6 +131,10 @@ hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 [[files]]
 file = "config/item_descriptions.json"
 hash = "08be54aae5843b10d05519cc18fd8df7e54386c8b53f789f55ef1b876ad0c4a1"
+
+[[files]]
+file = "config/leawind_third_person.json"
+hash = "3da30e8ad54c86ba63b296935a71d083346e7cc74e5f1119c41d21fb15d3a361"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -146,7 +162,7 @@ hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "9ea671984a27dc7e0be74337fb12192b4c2a4ae52335fe3e5bca6b70c34577cd"
+hash = "03153e5ab034d14fa3c30b8f346f1852991c061290f7133ba0cd600e49488125"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -187,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "1047a7b018546f650c04d6999110a3b80b246fd0ab716e8375d3565c3942dcfe"
 metafile = true
 
 [[files]]
@@ -315,6 +336,11 @@ hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "d546f8ff5855e30e79749ab70e9a98e25ae944bea145f7956ae6356838b43cd6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -400,6 +426,11 @@ hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "e31ce9fd7a0e872eeed7cb3e2b49e965c964d2425f2c8d91e81e908ef2208420"
 metafile = true
@@ -482,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
-metafile = true
-
-[[files]]
-file = "mods/fallingleavesforge.pw.toml"
-hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
 metafile = true
 
 [[files]]
@@ -580,6 +606,11 @@ hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items-reforged.pw.toml"
+hash = "758db3c0df8183d72cdbc924123801e24442c2d3f42906194094cbc160277812"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "447524944a1c5ed9a90f7eabac4bcf58e8f8eaa08e349f138df664128975a8cd"
 metafile = true
@@ -630,18 +661,8 @@ hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
-metafile = true
-
-[[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
-metafile = true
-
-[[files]]
-file = "mods/keybind-bundles.pw.toml"
-hash = "3281105a960a606d823f513b2cac3c061005201341019992496e05896cac39fc"
 metafile = true
 
 [[files]]
@@ -757,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "370cc7013d4161ac19543d08d386376a979a4a6a0b016f6c76cd391784ba0634"
 metafile = true
 
 [[files]]
@@ -1050,6 +1076,11 @@ hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "57924536ad15dd2702e17c57a9ecff6db754d2994b574e6ecdcb925ddd9026f3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
 hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
@@ -1316,7 +1347,7 @@ hash = "b5ac38a2c89fb48003b5c29b108779ef254621a956403bc49863bb0c7da4f005"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/root.json"
-hash = "0441deb38b1a22897a03c347aef625e0777f0a8aeb88c3e74854d8c7d92780a7"
+hash = "2f13ec91a9e0f960e9ae27c12697b62f3e386ea4393aba9282d366c20d238ea7"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/sculptor_challenge.json"
@@ -1339,16 +1370,8 @@ file = "resourcepacks/chronicles-data/data/modpack/advancements/eyes/suns_blessi
 hash = "2a5c4558e34caf6d7ca2b0e060391523187561fc9191dfe713621320699f01bd"
 
 [[files]]
-file = "resourcepacks/chronicles-data/data/modpack/advancements/lore/lore.json"
-hash = "0aa8b9c101af756806669af08350d7e00dd3f99dbbc36cf5ceff7bbe17b99695"
-
-[[files]]
 file = "resourcepacks/chronicles-data/data/modpack/advancements/lore/root.json"
-hash = "69d8cbf9b91d6759ee2d1847a4166d86c005378935e3752e78083639121bd53b"
-
-[[files]]
-file = "resourcepacks/chronicles-data/data/modpack/advancements/lore/tips.json"
-hash = "362e4b350ab7aded2e2293eb41781ae0ecb3195443f5461b7d6313dc9da93140"
+hash = "e4de281caf44a9b755e5eef4240fc70eac41d7b396fc59244a0dd5f387be9e8f"
 
 [[files]]
 file = "resourcepacks/chronicles-data/data/modpack/functions/cutscenes/wither.mcfunction"

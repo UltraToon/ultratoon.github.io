@@ -1,0 +1,13 @@
+name = "Client Sort"
+filename = "clientsort-forge-1.3.3+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0AkAin6/versions/tDCJi2Ej/clientsort-forge-1.3.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "598279c82018dc51350a92b34b81558089633080bcbc5a11d69374270163321340d17885826966502963aecb7dc6edc16af43c98cb1487e6456ff56c67cc967a"
+
+[update]
+[update.modrinth]
+mod-id = "K0AkAin6"
+version = "tDCJi2Ej"

@@ -1,12 +1,12 @@
 name = "Minecraft: Chronicles"
 author = "ultratoon"
-version = "1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bf2bfd8535e8c4effc6705811dbdd5facf3d78245901c1a961d9cd475fb9278a"
+hash = "c1111fd04d7ee4b53e2ebcfbc45632080371f2201f1852715412dc217b526dac"
 
 [versions]
 forge = "47.4.0"
