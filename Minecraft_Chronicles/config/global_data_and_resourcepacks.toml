@@ -1,11 +1,11 @@
 [resourcepacks]
 required = [
-    "resourcepacks/modpack-resource",
-    "resourcepacks/"
+    "resourcepacks/required/modpack-resource",
+    "resourcepacks/required/"
 ]
 
 [datapacks]
 required = [
-    "resourcepacks/modpack-data",
-    "resourcepacks"
+    "resourcepacks/required/modpack-data",
+    "resourcepacks/required/"
 ]
