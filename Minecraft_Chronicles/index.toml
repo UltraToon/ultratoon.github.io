@@ -379,6 +379,10 @@ file = "config/betterdays-common.toml"
 hash = "14089ee204bff27ba398ab4bec216b9d0219e6d3e25535d0b806ad7943a2e0f5"
 
 [[files]]
+file = "config/combatroll/client.json5"
+hash = "f62a88fb50baebedab7738d7fadf45dfb6669ba1aaa50ddc515ce2fe1527c313"
+
+[[files]]
 file = "config/completionistsindex-client.toml"
 hash = "e9de9807407d9177274ce75ef00a4a88c2631f44c94fc3ad2c6b2c4cb3837815"
 
@@ -1289,11 +1293,6 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
