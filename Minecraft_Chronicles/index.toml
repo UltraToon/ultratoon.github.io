@@ -1331,6 +1331,11 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
+file = "mods/toadlib.pw.toml"
+hash = "84ded57af76b2117a986fc935e201e37d3eb89e43e34ca6ad042875571677d71"
+metafile = true
+
+[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "6d5ac3ede55fc03df56dbf655538179b2afe1425cfbeba7a9ba88e19cc9ec117"
 metafile = true
