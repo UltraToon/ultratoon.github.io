@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "155bf176cec5f849aed266e39716932f73a7a32f45a36b7b6a64b3fd3ce80bff"
+hash = "252f756f2ed3073d34560aeb39e25298285ecaae6db344addc24d2aea8ee3c19"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
+hash = "4439e1b9d2a828841dc521295308836fb16d8a9ea37ec998fe7593eb7399c9e6"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "0db676692b1170ee7eb2bffc6607d505d55846ab183e5fdf42d2a328d60ff180"
+hash = "8ac038851a2aa16cf70c570b38009274efe7db5211bfee0fe91020a53e43b5a9"
 metafile = true
 
 [[files]]
@@ -817,6 +817,11 @@ hash = "9bec8badf58155579d8314ad2571cb264a6e37537b485d50a99687ca83a066ad"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
@@ -898,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "620a8a114b79b0a5363a60a746023b6c8fae9f42c6cf3df3337361a1128708c0"
+hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
 metafile = true
 
 [[files]]
@@ -914,11 +919,6 @@ metafile = true
 [[files]]
 file = "mods/farsighted-mobs.pw.toml"
 hash = "fe070f1c9916a21c0328eb6647270dc653d71e0d624999d5ede30edbf85a69f9"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "ef02d7733259ff599e02575534f1bd8d793d7e929b2e42b237b8844cdebb1302"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "01c83dbe3a427ee897b756e1ac2908ebdf8dad1bc46b56f3064d446a1ce0df0a"
+hash = "7434ca9527d73883e01d71f0e09edd9c864b87276a284eb83ae42c09d3d01b2a"
 metafile = true
 
 [[files]]
@@ -1123,7 +1123,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+hash = "1ccbf99a17011f1f6c3b13024e575a0cfe71047729c53db3b5bd9e8e0b28635b"
 metafile = true
 
 [[files]]
@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "a36f67262378d07560eda5ecd6ed06029f861ab4d973c116ec422e5d9f266be2"
+hash = "f1cf4f9fc68c80799ff2b09c57d991777a309edee3de75b1d5c6fd8fc63e1e07"
 metafile = true
 
 [[files]]
@@ -1278,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "db3668dfd6f72c4b3f45d69482a01ae0609decc266674e4e1d43426d331aada9"
+hash = "6c8fe855482559b5b1f79dedacec091eb7e35c48399e5bf11132e4941334da54"
 metafile = true
 
 [[files]]
@@ -1348,7 +1348,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
 
 [[files]]
@@ -1367,8 +1367,8 @@ hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
 metafile = true
 
 [[files]]
-file = "mods/weaponmaster.pw.toml"
-hash = "7ed4fd2adbada52733cd7643f36f661b13d5f3853a95c3239a64760dafbab8d6"
+file = "mods/weapon-master.pw.toml"
+hash = "02ec135bab6115a3adf8dfbc0d5a1c0cf4f624a8f59fcef825154f5324ac9e5f"
 metafile = true
 
 [[files]]
@@ -1394,6 +1394,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "c4968d2539190a1a2e2623814db027d8229fd75800f58f76b51a39f25e7ea3b2"
 metafile = true
 
 [[files]]
