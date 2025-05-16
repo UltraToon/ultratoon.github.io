@@ -1,0 +1,13 @@
+name = "A Good Place"
+filename = "a_good_place-1.20-1.2.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BwPeriwJ/versions/jHRARwp9/a_good_place-1.20-1.2.7.jar"
+hash-format = "sha512"
+hash = "b9ac1ec1e80d0d5e203c3db10bc2bbfaf5431359438980d9b7ef35b5956f25709a3061b1d5d33fbf67be21b196a76c7189a3d02f3d74f2a9d9fde2fe56974d4c"
+
+[update]
+[update.modrinth]
+mod-id = "BwPeriwJ"
+version = "jHRARwp9"

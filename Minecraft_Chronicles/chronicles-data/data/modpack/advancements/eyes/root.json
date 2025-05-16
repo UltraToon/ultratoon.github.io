@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "title": {
+      "text": "[CHRONICLE] The Beginning of An Adventure"
+    },
+    "description": {
+      "text": "Find your first boss structure to get an eye!"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "cataclysm:textures/block/obsidian_bricks.png"
+  },
+  "criteria": {
+    "unfold": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

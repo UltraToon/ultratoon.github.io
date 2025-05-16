@@ -1,0 +1,28 @@
+{
+  "parent": "modpack:eyes/root",
+  "criteria": {
+    "factory": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "cataclysm:ancient_factory"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cataclysm.ancient_factory.description"
+    },
+    "icon": { "item": "cataclysm:emp" },
+    "title": { "translate": "advancements.cataclysm.ancient_factory.title" }
+  }
+}

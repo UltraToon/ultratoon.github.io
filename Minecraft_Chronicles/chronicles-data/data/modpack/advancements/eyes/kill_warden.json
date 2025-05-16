@@ -1,0 +1,25 @@
+{
+  "parent": "modpack:eyes/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:echo_shard"
+    },
+    "title": {
+      "text": "Sonic Sears"
+    },
+    "description": {
+      "text": "Kill the Warden"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "barako": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:warden"
+        }
+      }
+    }
+  }
+}
