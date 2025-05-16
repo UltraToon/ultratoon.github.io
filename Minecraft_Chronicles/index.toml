@@ -827,11 +827,6 @@ hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns.pw.toml"
-hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-enchantments.pw.toml"
 hash = "5517f40b6b212af75e4c87e914bb6f877845133751fc377a4b5c6db0a9033c31"
 metafile = true
@@ -1028,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "63df8f79c1c239a0500e4fe37b98963e44a5a715aa10d4fa2fb2e82440ba12e5"
+hash = "6558aa1aad1293a67fca9e7fedaae252efb85da64fd6baafc4553083053e442e"
 metafile = true
 
 [[files]]
@@ -1124,11 +1119,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ccbf99a17011f1f6c3b13024e575a0cfe71047729c53db3b5bd9e8e0b28635b"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
