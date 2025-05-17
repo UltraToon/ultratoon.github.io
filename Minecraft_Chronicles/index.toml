@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "authentic-shadows.pw.toml"
-hash = "57924536ad15dd2702e17c57a9ecff6db754d2994b574e6ecdcb925ddd9026f3"
-metafile = true
-
-[[files]]
-file = "blinking-ender-eyes.pw.toml"
-hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
-metafile = true
-
-[[files]]
 file = "chronicles-data/data/endrem/loot_modifiers/entities/ancient_remnant.json"
 hash = "59d7b7f79dc7168be9773287edbf0997a167028495e7bd827977b13f9a247e82"
 
@@ -400,7 +390,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "config/emi.css"
-hash = "4aa67cc046eae64caeecad3e929075914ca4149ab4d21180a459c3674d0cdc55"
+hash = "6dd3d3f4a6aaec372db6d720668add6470775f2f78803a7068a35728aa3fb173"
 
 [[files]]
 file = "config/endrem.toml"
@@ -472,7 +462,7 @@ hash = "f777cc9dd8ba5101bec8fcc333c28a6a6a007787d5e926eb32578ac62fa94bbc"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "e232495a8c1a540468dbc189a2c9c76cb01bae27fa878b1b98b8bb60f2e23654"
+hash = "567e84e5d64d0e0660c48cccfc37149bea120fbcc8df55a2746a50ae38295b6c"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -531,41 +521,6 @@ file = "config/xenon-options.json"
 hash = "4e3d3129a3fbf2a2342721b981150e2702e9da773e45ec98fceec79b7e8404a9"
 
 [[files]]
-file = "detailed-animations.pw.toml"
-hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
-metafile = true
-
-[[files]]
-file = "end-crystal-bossbar.pw.toml"
-hash = "8e73d9d66ae6c150251c8b44fe7b541357fe6428ae8457634c781fb7b5c18ec3"
-metafile = true
-
-[[files]]
-file = "ender-dragon-revamp.pw.toml"
-hash = "147e24fa90a93776d3fa7f57496182283cc1e4f8f03a2b3f8eb41954acebaf16"
-metafile = true
-
-[[files]]
-file = "even-better-enchants.pw.toml"
-hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
-metafile = true
-
-[[files]]
-file = "fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
-metafile = true
-
-[[files]]
-file = "freshly-modded.pw.toml"
-hash = "bbfaee55a0a6382a69db198d7b9f14fcd36d3b7d995bf19e1e54556ad849cd08"
-metafile = true
-
-[[files]]
-file = "mod-descriptions.pw.toml"
-hash = "5813d051e0393b3fc31df97265d94b0be6813a38590cbebdfdf896f76d1da88f"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
@@ -618,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
-metafile = true
-
-[[files]]
-file = "mods/auroras.pw.toml"
-hash = "db633cf7f2797928319ad5908ecdd3f6af8de5b7058d909b582675e28bf86dcf"
 metafile = true
 
 [[files]]
@@ -898,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-reforged.pw.toml"
+hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
 metafile = true
 
 [[files]]
@@ -1231,11 +1186,6 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
-file = "mods/rainboows.pw.toml"
-hash = "768ceab9247faa36690099e0b9e825f2dfa4bdf535513a4227f41bf879631bbd"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
@@ -1293,6 +1243,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "cf93fa2d589e5be71f5dab6562c77ca47ec744986c4cfe42bb2f54399695f0df"
 metafile = true
 
 [[files]]
@@ -1358,6 +1313,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
 metafile = true
 
 [[files]]
@@ -1451,9 +1411,8 @@ hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
-metafile = true
+file = "resourcepacks/readme.txt"
+hash = "6b9d706b9c1cc504eed36e06836a48ca31ed382fbce4c615220c9b9b2502b3c6"
 
 [[files]]
 file = "resourcepacks/required/authentic-shadows.pw.toml"
@@ -1802,6 +1761,11 @@ file = "resourcepacks/required/chronicles-resource/pack.mcmeta"
 hash = "4c0462dc43369450131e6722ab1556f152a89e3b4eceb49b4222b3b9632d8b11"
 
 [[files]]
+file = "resourcepacks/required/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
 file = "resourcepacks/required/end-crystal-bossbar.pw.toml"
 hash = "8e73d9d66ae6c150251c8b44fe7b541357fe6428ae8457634c781fb7b5c18ec3"
 metafile = true
@@ -1871,13 +1835,3 @@ hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
 [[files]]
 file = "unsup.toml"
 hash = "03412fc6321cb76de850e6ac57ad4ce2149db43d48a34766068645f2360a80b5"
-
-[[files]]
-file = "visual-travelers-titles.pw.toml"
-hash = "8d9628d4203ba80fdd8679ba92802c9f12dc58b971716fc619a6b5962cf106c3"
-metafile = true
-
-[[files]]
-file = "vn4s-fresh-wither-storm.pw.toml"
-hash = "73b830eec94b68b9091f158523a3487040ef5e577d3de05d2d2718e003df3c22"
-metafile = true

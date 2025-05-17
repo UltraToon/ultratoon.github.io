@@ -4,6 +4,10 @@ required = [
     "resourcepacks/required/"
 ]
 
+optional = [
+    "resourcepacks/DetailedAnimationsReworked - V1.15.zip"
+]
+
 [datapacks]
 required = [
     "resourcepacks/required/modpack-data",
