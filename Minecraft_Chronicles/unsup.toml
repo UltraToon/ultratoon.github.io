@@ -14,7 +14,7 @@ name = "Shader Support (Oculus)"
 id = "oculus"
 description = "[Recommended] Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
 side = "client"
-choices = ["oculus_on"]
+choices = ["oculus_on", "oculus_off"]
 
 [metafile.oculus]
 flavors = ["oculus_on"]
