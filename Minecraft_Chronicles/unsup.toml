@@ -24,7 +24,7 @@ flavors = ["oculus_on"]
 name = "Lite Mode"
 id = "lite"
 side = "both"
-description = "The Default and Lite versions differ only visually for performance. Lite disables: <ul><li>Player animations</li><li>3D visuals (e.g. workbench items, weapon display, 3D skins)</li><li>UI visuals (immersive UI)</li><li>Ambient visuals (waves, space sky, better clouds)</li></ul>"
+description = "The Default and Lite versions differ only visually for performance. Lite disables player animations, 3D visuals (e.g. workbench items, weapon display, 3D skins), UI visuals (immersive UI), and ambient visuals (waves, space sky, better clouds)."
 choices = ["lite_off", "lite_on"]
 
 [metafile.better-clouds]
