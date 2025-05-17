@@ -1246,6 +1246,11 @@ hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
 
 [[files]]
+file = "mods/spelunkers-charm-ii.pw.toml"
+hash = "da1318e1310fda40e403de8d8283d745bbb1ccca32fd1770d46594da8e7bc017"
+metafile = true
+
+[[files]]
 file = "mods/stellarview.pw.toml"
 hash = "cf93fa2d589e5be71f5dab6562c77ca47ec744986c4cfe42bb2f54399695f0df"
 metafile = true
@@ -1829,4 +1834,4 @@ hash = "bb1c4defbd4f0aa7fc777566fcc14ca837704d1b1f24e3a619466d41393fe37c"
 
 [[files]]
 file = "unsup.toml"
-hash = "f87707e980a0c3a061d061812e51fbd0da6ebcf4fa3644ac0e747e46d7dfc8f1"
+hash = "5f21e8baf9a35e00753e244bbaf669953b6114e571b09e6a50c690b438867f68"
