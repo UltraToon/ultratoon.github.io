@@ -6,7 +6,7 @@ side = "both"
 choices = ["distanthorizons_off", "distanthorizons_on"]
 
 [metafile.distanthorizons]
-flavors = ["distanthorizons_on"]
+flavors = "distanthorizons_on"
 
 
 [flavor_groups.oculus]
@@ -17,7 +17,7 @@ side = "client"
 choices = ["oculus_on", "oculus_off"]
 
 [metafile.oculus]
-flavors = ["oculus_on"]
+flavors = "oculus_on"
 
 
 [flavor_groups.lite]
@@ -28,19 +28,18 @@ description = "The Default and Lite versions only have visual differences for pe
 choices = ["lite_off", "lite_on"]
 
 [metafile.better-clouds]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.coastal-waves]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.stellarview]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.hold-my-items-reforged]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.immersive-ui]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.3dskinlayers]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.ydms-weapon-master]
-flavors = ["lite_off"]
+flavors = "lite_off"
 [metafile.detailed_animations]
-flavors = ["lite_off"]
-
+flavors = "lite_off"
