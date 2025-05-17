@@ -2,12 +2,10 @@
 name = "Distant Horizons"
 description = "WARNING: THIS MOD IS UNSUPPORTED!\nThis mod is included in this flavor group for convenience, and is NOT tested against before modpack releases.\nWhen enabled, you may experience visual bugs/performance loss."
 side = "both"
-
 [[flavor_groups.distanthorizons.choices]]
 id = "distanthorizons_off"
 [[flavor_groups.distanthorizons.choices]]
 id = "distanthorizons_on"
-
 [metafile.distanthorizons]
 flavors = ["distanthorizons_on"]
 
@@ -15,22 +13,21 @@ flavors = ["distanthorizons_on"]
 name = "Shader Support (Oculus)"
 description = "[Recommended] Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
 side = "client"
-
 [[flavor_groups.oculus.choices]]
 id = "oculus_off"
 [[flavor_groups.oculus.choices]]
 id = "oculus_on"
+[metafile.oculus]
+flavors = ["oculus_on"]
 
 [flavor_groups.lite]
 name = "Lite Mode"
 side = "both"
 description = "Enabling Lite disables better clouds, waves, stellar sky, immersive ui, 3D skin layers, weapon visual holding, player animations. Recommended for absolute shitboxes."
-
 [[flavor_groups.lite.choices]]
 id = "lite_off"
 [[flavor_groups.lite.choices]]
 id = "lite_on"
-
 [metafile.better-clouds]
 flavors = ["lite_off"]
 [metafile.coastal-waves]
