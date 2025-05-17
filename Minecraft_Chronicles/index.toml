@@ -1321,11 +1321,6 @@ hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
 metafile = true
 
 [[files]]
-file = "mods/weapon-master.pw.toml"
-hash = "02ec135bab6115a3adf8dfbc0d5a1c0cf4f624a8f59fcef825154f5324ac9e5f"
-metafile = true
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
@@ -1834,4 +1829,4 @@ hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
 
 [[files]]
 file = "unsup.toml"
-hash = "03412fc6321cb76de850e6ac57ad4ce2149db43d48a34766068645f2360a80b5"
+hash = "c597b7dc15b7ff1502879cd1cee11a5af24eb45ab602b397f66d5b912af6b183"

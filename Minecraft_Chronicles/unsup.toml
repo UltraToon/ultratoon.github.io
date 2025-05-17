@@ -1,27 +1,46 @@
 [flavor_groups.distanthorizons]
 name = "Distant Horizons"
 id = "distanthorizons"
-description = "[WIP] Distant Horizons toggle, turn off if you have low specs or want to avoid experiments, otherwise it can be on."
+description = "WARNING: THIS MOD IS UNSUPPORTED!\nThis mod is included in this flavor group for convenience, and is NOT tested against before modpack releases.\nWhen enabled, you may experience visual bugs/performance loss."
 side = "both"
 choices = ["distanthorizons_off", "distanthorizons_on"]
+
+[metafile.distanthorizons]
+flavors = ["distanthorizons_on"]
+
 
 [flavor_groups.oculus]
 name = "Shader Support (Oculus)"
 id = "oculus"
-description = "Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
+description = "[Recommended] Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
 side = "client"
-choices = ["oculus_off", "oculus_on"]
+choices = ["oculus_on"]
 
-#[flavor_groups.immersiveportals]
-#name = "Immersive Portals"
-#id = "immersive-portals-for-forge"
-#description = "Immersive Portals support, it preloads chunks through portals that you can view (check page if confused). Affects chunk performance, recommended to be on."
-#choices = ["immersiveportals_off", "immersiveportals_on"]
-
-[metafile.distanthorizons]
-flavors = ["distanthorizons_off", "distanthorizons_on"]
 [metafile.oculus]
-flavors = ["oculus_off", "oculus_on"]
-#[metafile.immersive-portals-for-forge]
-#flavors = ["immersiveportals_off", "immersiveportals_on"]
+flavors = ["oculus_on"]
+
+
+[flavor_groups.lite]
+name = "Lite Mode"
+id = "lite"
+side = "both"
+description = "The Default and Lite versions only have visual differences for performance.\nThe Lite version purely disables certain visuals for performance, such as:\n* Removes player animations (1st & 3rd person)\n*3D Visuals (workbench displayed items, weapons on side, 3D skin layers)\n*UI Visuals (immersive UI)\n*Ambient Visuals (waves, space sky, better clouds)"
+choices = ["lite_off", "lite_on"]
+
+[metafile.better-clouds]
+flavors = ["lite_off"]
+[metafile.coastal-waves]
+flavors = ["lite_off"]
+[metafile.stellarview]
+flavors = ["lite_off"]
+[metafile.hold-my-items-reforged]
+flavors = ["lite_off"]
+[metafile.immersive-ui]
+flavors = ["lite_off"]
+[metafile.3dskinlayers]
+flavors = ["lite_off"]
+[metafile.ydms-weapon-master]
+flavors = ["lite_off"]
+[metafile.detailed_animations]
+flavors = ["lite_off"]
 
