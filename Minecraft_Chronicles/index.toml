@@ -1825,7 +1825,7 @@ hash = "15eb056d99146f27979118502e47ee0334f717bf03e23eb74ce72a66d5ce8577"
 
 [[files]]
 file = "unsup.jar"
-hash = "fd17f95dd938399bfbd31e7b04d7a04dc62ebecc43b8b6ae3863890c429aead7"
+hash = "bb1c4defbd4f0aa7fc777566fcc14ca837704d1b1f24e3a619466d41393fe37c"
 
 [[files]]
 file = "unsup.toml"
