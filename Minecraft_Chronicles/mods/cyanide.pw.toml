@@ -1,0 +1,13 @@
+name = "Cyanide"
+filename = "cyanide-forge-1.20.1-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXbvd6mf/versions/kDtknk5c/cyanide-forge-1.20.1-4.1.1.jar"
+hash-format = "sha512"
+hash = "381b7142d63c0cad3266f4a25fb09e76329f1aeadad46de5ddae2835dff36e8bbbad1ca94adf57d290e05620bf1bd24ac546a7e91cdeb0341fca566189cc97dd"
+
+[update]
+[update.modrinth]
+mod-id = "fXbvd6mf"
+version = "kDtknk5c"

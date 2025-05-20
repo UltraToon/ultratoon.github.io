@@ -1,25 +1,3 @@
-[flavor_groups.distanthorizons]
-name = "Distant Horizons"
-description = "WARNING: THIS MOD IS UNSUPPORTED!\nThis mod is included in this flavor group for convenience, and is NOT tested against before modpack releases.\nWhen enabled, you may experience visual bugs/performance loss."
-side = "both"
-[[flavor_groups.distanthorizons.choices]]
-id = "distanthorizons_off"
-[[flavor_groups.distanthorizons.choices]]
-id = "distanthorizons_on"
-[metafile.distanthorizons]
-flavors = ["distanthorizons_on"]
-
-[flavor_groups.oculus]
-name = "Shader Support (Oculus)"
-description = "[Recommended] Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
-side = "client"
-[[flavor_groups.oculus.choices]]
-id = "oculus_off"
-[[flavor_groups.oculus.choices]]
-id = "oculus_on"
-[metafile.oculus]
-flavors = ["oculus_on"]
-
 [flavor_groups.lite]
 name = "Lite Mode"
 side = "both"
@@ -45,3 +23,43 @@ flavors = ["lite_off"]
 [metafile.detailed_animations]
 flavors = ["lite_off"]
 
+[flavor_groups.oculus]
+name = "Shader Support (Oculus)"
+description = "[Recommended] Shader support, turn off if you have low specs (or no shadders toggled ingame, but not as efficient), otherwise recommended to be on."
+side = "client"
+[[flavor_groups.oculus.choices]]
+id = "oculus_off"
+[[flavor_groups.oculus.choices]]
+id = "oculus_on"
+[metafile.oculus]
+flavors = ["oculus_on"]
+
+[flavor_groups.distanthorizons]
+name = "Distant Horizons"
+description = "WARNING: THIS MOD IS UNSUPPORTED!\nThis mod is included in this flavor group for convenience, and is NOT tested against before modpack releases.\nWhen enabled, you may experience visual bugs/performance loss."
+side = "both"
+[[flavor_groups.distanthorizons.choices]]
+id = "distanthorizons_off"
+[[flavor_groups.distanthorizons.choices]]
+id = "distanthorizons_on"
+[metafile.distanthorizons]
+flavors = ["distanthorizons_on"]
+
+[flavor_groups.dev]
+name = "Dev Mode"
+description = "DO NOT TURN THIS ON IF YOU ARE A NORMIE. Only for development purposes, not recommended."
+side = "both"
+[[flavor_groups.dev.choices]]
+id = "dev_off"
+[[flavor_groups.dev.choices]]
+id = "dev_on"
+[metafile.spark]
+flavors = ["dev_on"]
+[metafile.world-stripper]
+flavors = ["dev_on"]
+[metafile.observable]
+flavors = ["dev_on"]
+[metafile.cyanide]
+flavors = ["dev_on"]
+[metafile.nbt-autocomplete]
+flavors = ["dev_on"]
