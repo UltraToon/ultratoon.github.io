@@ -1,0 +1,13 @@
+name = "Raspberry Core"
+filename = "raspberry_core-1.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1dE2nxJB/versions/ltRAGdM3/raspberry_core-1.6%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "16e087bc19cc47f7cac03d6c000124f7bd45405373b7f2fb5c529a8086b2523166cff333889cee68a1da2b8cce4955aafa6eda5a83016dd17ce71a257bf923fe"
+
+[update]
+[update.modrinth]
+mod-id = "1dE2nxJB"
+version = "ltRAGdM3"

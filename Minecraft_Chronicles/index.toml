@@ -864,6 +864,11 @@ hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
 
 [[files]]
+file = "mods/raspberry-core.pw.toml"
+hash = "ae406a19269c87dc194306cd1d6bc0e5124089755e5a5f3941aed15aab2dab65"
+metafile = true
+
+[[files]]
 file = "mods/redirected.pw.toml"
 hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
 metafile = true
