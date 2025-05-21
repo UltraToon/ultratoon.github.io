@@ -1099,11 +1099,6 @@ hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
-metafile = true
-
-[[files]]
 file = "resourcepacks/readme.txt"
 hash = "6b9d706b9c1cc504eed36e06836a48ca31ed382fbce4c615220c9b9b2502b3c6"
 
@@ -1467,6 +1462,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/required/even-better-enchants.pw.toml"
 hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/required/fast-better-grass.pw.toml"
+hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
 
 [[files]]
