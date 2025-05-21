@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4439e1b9d2a828841dc521295308836fb16d8a9ea37ec998fe7593eb7399c9e6"
+hash = "3afd17e47ffde236c82d70bb36feb74bf0b405be3ea8a23e06599ef40fcc999d"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "6558aa1aad1293a67fca9e7fedaae252efb85da64fd6baafc4553083053e442e"
+hash = "d653b944d4808748704bf5583e61fe7ae9b35cae5ebe89cf1dcb3b2c49751f42"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "7434ca9527d73883e01d71f0e09edd9c864b87276a284eb83ae42c09d3d01b2a"
+hash = "59764717dd1cfe81d5dbdfda3eb5f1ac51723e1eb81e450b1383a2745a69c63d"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1ccbf99a17011f1f6c3b13024e575a0cfe71047729c53db3b5bd9e8e0b28635b"
+hash = "859fd42bdc2aad18998e946f011f015ed163e11f9fa8eccafe897f05b2a0218a"
 metafile = true
 
 [[files]]
