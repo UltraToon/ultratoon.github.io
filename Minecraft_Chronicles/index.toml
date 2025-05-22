@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ba7bd0039d7b3417dbbecb61f412ea5594d304802b042b44f3dd74f94d980f64"
+hash = "ef72ff744e3bbcb600690a89361ba9f10bc8115af6bc148d29fef350bc296429"
 
 [[files]]
 file = "config/alexsmobs.toml"
@@ -334,11 +334,6 @@ hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
 
 [[files]]
-file = "mods/clientsort.pw.toml"
-hash = "d546f8ff5855e30e79749ab70e9a98e25ae944bea145f7956ae6356838b43cd6"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -346,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/coastal-waves.pw.toml"
 hash = "49f54ce2926c147a8affea14944492c63ce73888491bc031a9569551a88dc340"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -431,11 +421,6 @@ metafile = true
 [[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "e31ce9fd7a0e872eeed7cb3e2b49e965c964d2425f2c8d91e81e908ef2208420"
-metafile = true
-
-[[files]]
-file = "mods/double-doors.pw.toml"
-hash = "9bec8badf58155579d8314ad2571cb264a6e37537b485d50a99687ca83a066ad"
 metafile = true
 
 [[files]]
@@ -859,6 +844,11 @@ hash = "31cac0a974721a780bdaae4de7e62bfa5a3f4fc64410354d298b4c3ff4b367dc"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -1096,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
