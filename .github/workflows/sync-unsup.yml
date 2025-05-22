@@ -1,4 +1,4 @@
-name: Sync unsup.jar from Codeberg
+name: Update unsup.jar
 
 on:
   schedule:
@@ -6,9 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync-unsup:
+  update-unsup:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Fetch latest release info
         id: fetch_release
         run: |
@@ -18,14 +21,18 @@ jobs:
 
       - name: Download unsup.jar
         run: |
-          mkdir -p tmp
-          curl -L ${{ env.asset_url }} -o tmp/unsup.jar
+          mkdir -p Minecraft_Chronicles
+          curl -L ${{ env.asset_url }} -o Minecraft_Chronicles/unsup.jar
 
-      - name: Create or update GitHub release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: ${{ env.tag_name }}
-          name: Release ${{ env.tag_name }}
-          files: tmp/unsup.jar
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add Minecraft_Chronicles/unsup.jar
+          git commit -m "Update unsup.jar to ${{ env.tag_name }}"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
