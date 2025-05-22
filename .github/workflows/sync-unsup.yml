@@ -1,0 +1,31 @@
+name: Sync unsup.jar from Codeberg
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  sync-unsup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch latest release info
+        id: fetch_release
+        run: |
+          curl -s https://git.sleeping.town/api/v1/repos/unascribed/unsup/releases | jq '.[0]' > release.json
+          echo "tag_name=$(jq -r '.tag_name' release.json)" >> $GITHUB_ENV
+          echo "asset_url=$(jq -r '.assets[0].browser_download_url' release.json)" >> $GITHUB_ENV
+
+      - name: Download unsup.jar
+        run: |
+          mkdir -p tmp
+          curl -L ${{ env.asset_url }} -o tmp/unsup.jar
+
+      - name: Create or update GitHub release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ env.tag_name }}
+          name: Release ${{ env.tag_name }}
+          files: tmp/unsup.jar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
