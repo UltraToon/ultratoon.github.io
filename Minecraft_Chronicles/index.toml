@@ -165,6 +165,10 @@ file = "config/oculus.properties"
 hash = "7b613340104afced1adf9852171b440b2a6bda66ba6b2318452abc5d3f89235a"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "b62eb339d793b08d80da92d1c85ff978c1c48f1fac9568d6fa73c8d134b96603"
+
+[[files]]
 file = "config/radium.properties"
 hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
 
@@ -175,6 +179,14 @@ hash = "03153e5ab034d14fa3c30b8f346f1852991c061290f7133ba0cd600e49488125"
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "de20ddd01dec1e39634ddb8881c6ff13a50c389e9584d4e6a50d868428226654"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "de9c908078c783dbe52de229acea000e27593459ed2003789224510e087d6576"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "52e806d1ea65792c672d08cb35b4d6363801190149b66d02860c8a407b34b258"
 
 [[files]]
 file = "config/witherstormmod-client.toml"
@@ -584,11 +596,6 @@ hash = "961fafdef363b7306dcf437d0a2d4a025a8b17bae688130a88de6dce5b0db099"
 metafile = true
 
 [[files]]
-file = "mods/goated.pw.toml"
-hash = "43cb463e7f9da338a1124031efa35ba8b5ed75b1f2796f066b5b324e85c17738"
-metafile = true
-
-[[files]]
 file = "mods/golem-spawn-animation.pw.toml"
 hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
@@ -836,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
-metafile = true
-
-[[files]]
-file = "mods/pyrite.pw.toml"
-hash = "31cac0a974721a780bdaae4de7e62bfa5a3f4fc64410354d298b4c3ff4b367dc"
 metafile = true
 
 [[files]]
@@ -1462,11 +1464,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/required/even-better-enchants.pw.toml"
 hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/required/fast-better-grass.pw.toml"
-hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
 
 [[files]]
