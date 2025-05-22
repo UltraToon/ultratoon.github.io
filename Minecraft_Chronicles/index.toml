@@ -94,7 +94,7 @@ hash = "da1ee3ae73f17ccd9248e49a5dc83380529ae764345fa59d52ec364c170c088c"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "76f62a95be8efd1772bc599a3a8ecf07785072fe6d2ee2188d21dabd83d02db4"
+hash = "e515961715bab24138786886bfb4de9dc38082ae3de855c6d75959713d6c92d5"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -854,6 +854,11 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
+file = "mods/pyrite.pw.toml"
+hash = "31cac0a974721a780bdaae4de7e62bfa5a3f4fc64410354d298b4c3ff4b367dc"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -971,11 +976,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "84ded57af76b2117a986fc935e201e37d3eb89e43e34ca6ad042875571677d71"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Pyrite"
+filename = "pyrite-0.15.10+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/gSLFaoDx/pyrite-0.15.10%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "446c3bdfb9b56714c23e5e1965336d34b12aec74edc9d62bb4ad1a7bdbce72b291f0fc0712345421700fee91e6a096eef316508e087f8a21dcb8528104752fe5"
+
+[update]
+[update.modrinth]
+mod-id = "qO4ozPoe"
+version = "gSLFaoDx"
