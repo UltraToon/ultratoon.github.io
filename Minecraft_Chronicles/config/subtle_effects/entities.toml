@@ -1,7 +1,7 @@
 [sleeping]
 playerSnoreChance = 0
-villagerSnoreChance = 0.3
-villagerSnoreSoundVolume = 0.3
+villagerSnoreChance = 0
+villagerSnoreSoundVolume = 0
 
 [humanoids.player]
 stomachGrowlingThreshold = 0

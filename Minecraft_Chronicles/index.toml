@@ -174,7 +174,7 @@ hash = "b0ad41bdbf84f68a4ceafaa5cde8fd0146f941e131aa79e4dd988f6d7555fff4"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "03153e5ab034d14fa3c30b8f346f1852991c061290f7133ba0cd600e49488125"
+hash = "6b519f2a198547d7443c1bce38592e212feffc8cd8cc969cb1af37049edd60f1"
 
 [[files]]
 file = "config/supplementaries-client.toml"
