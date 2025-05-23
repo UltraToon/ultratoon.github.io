@@ -1,0 +1,79 @@
+{
+	"sounds": [
+		{
+			"name": "entity/pig/ambient2",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient3",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient4",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient5",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient6",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient7",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient8",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient9",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient10",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient11",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient12",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient13",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient14",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient15",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/ambient16",
+			"volume": 1,
+			"weight": 10
+		}
+	]
+}

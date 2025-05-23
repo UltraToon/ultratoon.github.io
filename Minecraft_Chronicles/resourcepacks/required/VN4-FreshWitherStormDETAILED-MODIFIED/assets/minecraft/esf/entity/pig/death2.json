@@ -1,0 +1,29 @@
+{
+	"sounds": [
+		{
+			"name": "entity/pig/death2",
+			"volume": 1,
+			"weight": 1
+		},
+		{
+			"name": "entity/pig/death3",
+			"volume": 1,
+			"weight": 1
+		},
+		{
+			"name": "entity/pig/death4",
+			"volume": 1,
+			"weight": 1
+		},
+		{
+			"name": "entity/pig/death5",
+			"volume": 1,
+			"weight": 1
+		},
+		{
+			"name": "entity/pig/death6",
+			"volume": 1,
+			"weight": 1
+		}
+	]
+}

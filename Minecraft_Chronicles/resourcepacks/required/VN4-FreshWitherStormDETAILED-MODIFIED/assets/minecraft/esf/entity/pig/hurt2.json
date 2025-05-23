@@ -1,0 +1,69 @@
+{
+	"sounds": [
+		{
+			"name": "entity/pig/hurt2",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt3",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt4",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt5",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt6",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt7",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt8",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt9",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt10",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt11",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt12",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt13",
+			"volume": 1,
+			"weight": 10
+		},
+		{
+			"name": "entity/pig/hurt14",
+			"volume": 1,
+			"weight": 10
+		}
+	]
+}

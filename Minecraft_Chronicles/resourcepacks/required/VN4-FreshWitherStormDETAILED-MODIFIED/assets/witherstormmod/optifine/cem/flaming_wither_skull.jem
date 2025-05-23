@@ -1,0 +1,126 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -27.5, 0],
+			"submodels": [
+				{
+					"id": "Created_by_VN4_for_Fresh_Wither_Storm",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0]
+				}
+			],
+			"boxes": [
+				{"coordinates": [-4, 23.5, -4, 8, 8, 8], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "flameSide",
+			"id": "flameSide",
+			"invertAxis": "xy",
+			"translate": [-4, -28, -8],
+			"boxes": [
+				{
+					"coordinates": [-4, 24, 4, 0, 8, 8],
+					"uvEast": [32, 24, 24, 32],
+					"uvWest": [24, 24, 32, 32],
+					"sizeAdd": 0.01
+				},
+				{
+					"coordinates": [4, 24, 4, 0, 8, 8],
+					"uvEast": [32, 24, 24, 32],
+					"uvWest": [24, 24, 32, 32],
+					"sizeAdd": 0.01
+				}
+			],
+			"submodels": [
+				{
+					"id": "rotation",
+					"invertAxis": "xy",
+					"translate": [0.5, 24, 8],
+					"rotate": [0, 0, 22.5],
+					"boxes": [
+						{
+							"coordinates": [0, 0, -4, 0, 8, 8],
+							"uvEast": [0, 24, 8, 32],
+							"uvWest": [8, 24, 0, 32],
+							"sizeAdd": 0.01
+						}
+					]
+				},
+				{
+					"id": "rotation2",
+					"invertAxis": "xy",
+					"translate": [-0.5, 24, 8],
+					"rotate": [0, 0, -22.5],
+					"boxes": [
+						{
+							"coordinates": [0, 0, -4, 0, 8, 8],
+							"uvEast": [8, 24, 0, 32],
+							"uvWest": [0, 24, 8, 32],
+							"sizeAdd": 0.01
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "flame",
+			"id": "flame",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, 28, 4, 8, 0, 8],
+					"uvUp": [24, 32, 32, 24]
+				},
+				{
+					"coordinates": [-4, 20, 4, 8, 0, 8],
+					"uvUp": [24, 32, 32, 24]
+				}
+			],
+			"submodels": [
+				{
+					"id": "rotation_root",
+					"invertAxis": "xy",
+					"translate": [0, 24, 8],
+					"rotate": [90, 0, 90],
+					"submodels": [
+						{
+							"id": "rotation4",
+							"invertAxis": "xy",
+							"translate": [-0.5, -4, 0],
+							"rotate": [0, 0, -22.5],
+							"boxes": [
+								{
+									"coordinates": [0, 0, -4, 0, 8, 8],
+									"uvEast": [0, 24, 8, 32],
+									"uvWest": [8, 24, 0, 32],
+									"sizeAdd": 0.01
+								}
+							]
+						},
+						{
+							"id": "rotation3",
+							"invertAxis": "xy",
+							"translate": [0.5, -4, 0],
+							"rotate": [0, 0, 22.5],
+							"boxes": [
+								{
+									"coordinates": [0, 0, -4, 0, 8, 8],
+									"uvEast": [8, 24, 0, 32],
+									"uvWest": [0, 24, 8, 32],
+									"sizeAdd": 0.01
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

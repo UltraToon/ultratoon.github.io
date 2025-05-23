@@ -131,7 +131,7 @@
 	"Shear Vines" = true
 	Shingles = false
 	"Soul Sandstone" = false
-	Stools = true
+	Stools = false
 	"Sturdy Stone" = false
 	Thatch = false
 	"Variant Bookshelves" = true
@@ -523,7 +523,7 @@
 	"Dyeable Item Frames" = true
 	Emotes = true
 	"Enhanced Ladders" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Gold Tools Have Fortune" = true
 	"Grab Chickens" = false
 	"Hoe Harvesting" = false

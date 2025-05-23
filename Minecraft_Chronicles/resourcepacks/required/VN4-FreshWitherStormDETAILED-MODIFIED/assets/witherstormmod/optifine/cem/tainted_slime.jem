@@ -1,0 +1,201 @@
+{
+  "texture": "",
+  "textureSize": [
+    48,
+    48
+  ],
+  "shadow_size": 1.0,
+  "models": [
+    {
+      "texture": "",
+      "textureSize": [
+        48,
+        48
+      ],
+      "invertAxis": "xy",
+      "translate": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [
+            0,
+            0
+          ],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -5.0,
+            0.0,
+            -5.0,
+            10.0,
+            10.0,
+            10.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "bb_main",
+      "part": "bb_main",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "textureSize": [
+        48,
+        48
+      ],
+      "invertAxis": "xy",
+      "translate": [
+        0.0,
+        -5.0,
+        -0.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "bone",
+      "part": "bone",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "textureSize": [
+        48,
+        48
+      ],
+      "invertAxis": "xy",
+      "translate": [
+        0.0,
+        -24.0,
+        -0.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [
+            0,
+            20
+          ],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -3.0,
+            21.0,
+            -3.0,
+            6.0,
+            6.0,
+            6.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "cube_r1",
+      "part": "cube_r1",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    }
+  ]
+}

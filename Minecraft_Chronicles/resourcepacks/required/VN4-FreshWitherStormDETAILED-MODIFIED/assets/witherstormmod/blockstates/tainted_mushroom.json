@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "witherstormmod:block/tainted_mushroom", "weight": 50
+      },
+      {
+        "model": "witherstormmod:block/tainted_mushroom2", "weight": 30
+      },
+      {
+        "model": "witherstormmod:block/tainted_mushroom3", "weight": 20
+      },
+      {
+        "model": "witherstormmod:block/tainted_mushroom69", "weight": 35
+      },
+      {
+        "model": "witherstormmod:block/tainted_mushroom5", "weight": 40
+      }
+    ]
+  }
+}

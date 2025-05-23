@@ -166,7 +166,7 @@ hash = "7b613340104afced1adf9852171b440b2a6bda66ba6b2318452abc5d3f89235a"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "b62eb339d793b08d80da92d1c85ff978c1c48f1fac9568d6fa73c8d134b96603"
+hash = "bf6d7aa8cdd7dec569797decef2f4d51d2ecb3d2a8d963566450a540299fb95d"
 
 [[files]]
 file = "config/radium.properties"
@@ -177,12 +177,8 @@ file = "config/subtle_effects/entities.toml"
 hash = "03153e5ab034d14fa3c30b8f346f1852991c061290f7133ba0cd600e49488125"
 
 [[files]]
-file = "config/supplementaries-client.toml"
-hash = "de20ddd01dec1e39634ddb8881c6ff13a50c389e9584d4e6a50d868428226654"
-
-[[files]]
 file = "config/supplementaries-common.toml"
-hash = "de9c908078c783dbe52de229acea000e27593459ed2003789224510e087d6576"
+hash = "3ba41d77e9ffdd4eba5ce0b52f23a9dfb8cb5f88fd0cf4d5a34224ae380f1d53"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
@@ -476,11 +472,6 @@ hash = "9085071da51ad9cf0865d7294c42a850389c34933845aeede842c43326a69307"
 metafile = true
 
 [[files]]
-file = "mods/ebe-forge.pw.toml"
-hash = "54c84727c0d0423a3d7f0049bd3b1b7d9136ff1f41ce5fc83d6c29c6119ea4b0"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
@@ -513,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "36fd54233eb3881c90fcb2d6d63f5b37353c26ca61bfaeb34b6bbe251fa99f1b"
 metafile = true
 
 [[files]]
@@ -601,8 +597,8 @@ hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items-reforged.pw.toml"
-hash = "758db3c0df8183d72cdbc924123801e24442c2d3f42906194094cbc160277812"
+file = "mods/hold-my-items-refoxed.pw.toml"
+hash = "a06a4182fdba9f757839486f332690af84913f7698f9874742ff7f91945ce49d"
 metafile = true
 
 [[files]]
@@ -971,11 +967,6 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
-file = "mods/toadlib.pw.toml"
-hash = "84ded57af76b2117a986fc935e201e37d3eb89e43e34ca6ad042875571677d71"
-metafile = true
-
-[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "6d5ac3ede55fc03df56dbf655538179b2afe1425cfbeba7a9ba88e19cc9ec117"
 metafile = true
@@ -1003,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
+metafile = true
+
+[[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "33e7f299bef3826e9cc8e6acad3f42a8d785d79138e6677d9e9df13777e6e953"
 metafile = true
 
 [[files]]
@@ -1103,6 +1099,734 @@ metafile = true
 [[files]]
 file = "resourcepacks/readme.txt"
 hash = "6b9d706b9c1cc504eed36e06836a48ca31ed382fbce4c615220c9b9b2502b3c6"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/ALTERNATIVE VERSIONS (PUT ABOVE RWS)/RWS Detailed No Big Tentacle.zip"
+hash = "0c08d9455a1f43581d3fa7a8eb411ba5f832cb6d4c201b2edc03330f9816de3b"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/ALTERNATIVE VERSIONS (PUT ABOVE RWS)/RWS Detailed Ph5 Big Tentacle.zip"
+hash = "e2e23d581949775ee011f299cee522c60627deeff5de0e19f26af6c6df20572e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient.properties"
+hash = "0ba5f31e5287f285e75f8e2f968d90ac56a3a2d5e72ef5102488e127d1d9f7bb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient10.ogg"
+hash = "18a7533ff0c3a93c2a328bd7b0772f95b5b06077af867b5d5e5dc8471fcad9a1"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient11.ogg"
+hash = "8e28bd1c246c2c73c7c448e7335c4ca427aba3bb3f21b205b7775d65a60b1eab"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient12.ogg"
+hash = "e1ed89c080eefaed359be94ebe4af59f7f0cd7d557d98ba8ce9ae65059fcc37f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient13.ogg"
+hash = "60ea77d2726658c9a16e89622662316637b789acbaaca83be4044af2e9a66055"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient14.ogg"
+hash = "d0f167f736eea0c13c78c9c0514d21b8dfeb6b527c381d30cecd1dd8440e0cea"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient15.ogg"
+hash = "dee22043c980249ed4aec82ffe1eeae01520008efc886fdda6024d41d13ae9c7"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient16.ogg"
+hash = "209b4fb61b5974ffbd9269d14f17e38862b3be427db85d68b3a8a16e2fc4726e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient2.json"
+hash = "05d2afc5272a003d947e046091c5d82c9d19b2a042e4744404f4568d020c13b2"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient2.ogg"
+hash = "c8004285f291a27e3c757ecc56c461fe1c01ec8f5012aa50794bb9baba680c2c"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient3.ogg"
+hash = "cf0f8224ad077afdc08bb1fd6555c5aa5e8acf06409f37fc3ec45e70c4f24ecb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient4.ogg"
+hash = "b2e37018e3b1ca38387e55608206c24404b3930510ee42cec8460c8dd640bf03"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient5.ogg"
+hash = "684959e96257dc54b365e78e2f8165f56fadbb28cc4bb7fedf48fb4de6d35c18"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient6.ogg"
+hash = "5a5be2d0f195c9c7b676c3d7a98813926ba18ca629212f18a8bc8c37d19b68a5"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient7.ogg"
+hash = "6132cedcebcc36ac0a96a70064362f2781bcc396ca3f80bbaa6d789612bfe0f3"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient8.ogg"
+hash = "1cae4b03e2db4968e26ed10d196bd4eb8c2182d991c78e918661a08e1bbdaf33"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/ambient9.ogg"
+hash = "9058efd828340d44a94a7e0e89920fd2e324ffc66526cc5215bd6da2bdb2335c"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death.properties"
+hash = "0ba5f31e5287f285e75f8e2f968d90ac56a3a2d5e72ef5102488e127d1d9f7bb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death2.json"
+hash = "c2d421a75c60a2926723f0dc75c8c5a282ae4ea595f7ede33ed7c12dfe0c119b"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death2.ogg"
+hash = "fec8135f21c1325949b3503f3bbf21838107ba044008904f62c8308cd2b62670"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death3.ogg"
+hash = "21fe3988a2cb624b7db8a9032604e73d3d21b436f3fcd9fae89f784922147bd8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death4.ogg"
+hash = "66e1504251408a4e1836b1d576c2f6951c3b3161239d47b8f3610e27bb4d5d6f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death5.ogg"
+hash = "9bb63c34dceb39ab361a47725265bc9b9f4c10a2b11086d312bab71c856a2cb3"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/death6.ogg"
+hash = "8ac43a253477d6cf67c448b3266ab242cf5dcf5695be7d10220f972f4d67140b"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt.properties"
+hash = "0ba5f31e5287f285e75f8e2f968d90ac56a3a2d5e72ef5102488e127d1d9f7bb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt10.ogg"
+hash = "984429f265e5d3f8ac9f639473f050d1befe393cb229136b5402d99b40b25813"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt11.ogg"
+hash = "e05b113a5684d80ac74024ad24c0496194fa6e67311f9571b93d4ccb24e4d169"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt12.ogg"
+hash = "6f3f227084fc647decf863e8097f888ad61f57f2c6825f5a1482e46ac16e9ce0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt13.ogg"
+hash = "8690d21babb7f627a171c5d69fd6475b61afe8966b2e14596e1d6e26d1d1d1c7"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt14.ogg"
+hash = "2e4215dee0386c0899af40ad59c9e0b11946555c492a6652dc780b62e5677cdb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt2.json"
+hash = "e9d21dd422f1b85d2ddeced4315ab1352a6c973708b02b059b4d6324737fc281"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt2.ogg"
+hash = "a595fc28c70140d7c5e0fb7d1f4b8399a6c2e31989029d485ed052ae1749479a"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt3.ogg"
+hash = "207ab186d7eeecea6308996fc84ff245e28f96cd9fa307a3f48e046d6f09808d"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt4.ogg"
+hash = "d28b05da8506dc738b5a6712f3ed9b01a91c75d4400815bdb16158dc880eff3f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt5.ogg"
+hash = "7fa141a3b6cac619eb661162c979e4d4099398b6a4a24be3e371fe8084e63c58"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt6.ogg"
+hash = "a28bdfa526b2fa0b56fae88b11681ebb5d8179f8a50592410a5b16beb7a3ce55"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt7.ogg"
+hash = "2bbc26043ab9c3b33f1481885b9dd04de19d1131eea5e40b5e48ec99a22daa41"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt8.ogg"
+hash = "5ae035353c450baaf127003a5ebde7476fb48184d653b15b15cebd098a919360"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/hurt9.ogg"
+hash = "2e09281a53dc0f546b5d7d0df432b3d525f27e4f70ad44682146b6377d4ef1b0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/esf/entity/pig/scary.jpg"
+hash = "acdf3f3d70f1f08ac6ee49f234d07dcbc3504b6fa3372cdb426d1225fc5eb0ca"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/cem/pig.properties"
+hash = "71f37614251f3a7ca5647118a9f1d82a5cdf4162192523812c18f01da3f68f75"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/cem/pig2.jem"
+hash = "31876ac3db47161a5c3ada31ef2f29c46a78feeb04eb2574530bc10dd5789fd4"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/cem/wither.jem"
+hash = "7da3862e9d7ad74661e6e458691094b583c75bf5852ffa96795a5a06ea0fc7c4"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/cem/wither.properties"
+hash = "51a56db7e6321a0ba06a2e173980961a3c11c571ad9f65e78a4640b67aa6df72"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/cem/wither_armor.jem"
+hash = "59c1755fc720ea2374d0027822397665ffd4b01da85c67d7317880e6ecd3552c"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/emissive.properties"
+hash = "b446f7f0a335d4962a9ebc6baf964a29c4c4e285a7f0bddf33b0ef0238aaed71"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/random/entity/pig/pig.properties"
+hash = "5f42659e864524d36424e6b0433c195fbb55e1dc309f52f053e113ae2744b239"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/random/entity/pig/pig2.png"
+hash = "300010823ad8d0fbb84b9afd07d513a0dc29ce03698309a2f59cea78b1a3c399"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/optifine/random/entity/pig/pig3.png"
+hash = "ceb72d3f04afcf76baead7c23d33cca147b5da37971809575ea89384a7970d59"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/textures/entity/wither/wither.png"
+hash = "7e232ec3e0284da821fbac34738f486c9b382a92648d8904e05e39d87d3e3f02"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/minecraft/textures/entity/wither/wither_invulnerable.png"
+hash = "92a9e6ab566f0efec532149d090ca2aefe9c82df31be10520fde160393ca1879"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/blockstates/tainted_mushroom.json"
+hash = "e344fa0ca3f2f37a2c36c2103d09a23af2391823ed53279d714e8315889cf5eb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/models/block/tainted_mushroom2.json"
+hash = "0fcee263cf4790ae8798665558e4fc38fc320e09b770251f0f69ae963e7a3d20"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/models/block/tainted_mushroom3.json"
+hash = "ad1c4405acb70291c6b077499a93478421e0adccc00c09c9f44dce9a5736e03a"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/models/block/tainted_mushroom5.json"
+hash = "f53a3c54a1e0195699b395186dcb2749510e65d3eae8550c9bfaf34838cc59ec"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/models/block/tainted_mushroom6.json"
+hash = "a9159cc75a32a71958594ca6084ce440880860f5a697fa9de5ff54ed16196979"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/models/block/tainted_mushroom69.json"
+hash = "0d51e4ebc905817a86c03d46c0b10adbf19210bb84992fd3cff0e932ce3db1e5"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/blue_flaming_skull_flame.png"
+hash = "45493db9c75f17646ba920402656ff9ba5bac0a65e1834f330beccf3285b3eb8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/blue_flaming_skull_flame.properties"
+hash = "8925ad4450813aa50e3da6747a6c0e5be2aa0b074b52aed3f447022050b4f716"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/blue_flaming_skull_flame_emissive.properties"
+hash = "60158db0cd20c39c3bbcb01534ce7063025a41557f2d7e543563decf7db5a4d1"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/blue_flaming_skull_inner_flame.png"
+hash = "87e6c32fc9c2b5d488eef1b8b87095e8f83d3cce4b0e774ca43cd70240775825"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/blue_flaming_skull_inner_flame.properties"
+hash = "7a06d4ef710cc508252e9821183e3c2f98ff13a30d2e2a79317d91a4de38da46"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/blue_flaming_skull_inner_flame_emissive.properties"
+hash = "00a38e34d4d653ab7e7322b987c8f7e2449b296c46967a9b2268da6a0f333dbf"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/flaming_skull_flame.png"
+hash = "abf4a6d1ab560a09d9ed24926139bc4ba7934d74bf30ef5adb1471aad6c53234"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/flaming_skull_flame.properties"
+hash = "dc4fa054b19e76bff3cf8be5181e08826aa89377352476cb441ffea35639c5ee"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/flaming_skull_flame_emissive.properties"
+hash = "6ee895717ce344fc230ee529d85e72832d6d6173470770548560498895dfd7c0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/flaming_skull_inner_flame.png"
+hash = "3e6d573736d103ac0dee961e4737e6af92ce53d322e2214f2589008457905d27"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/flaming_skull_inner_flame.properties"
+hash = "d42f36223ef1d7ebbbe926aa2404f53edaa8eab1dd2e5f3bee22c6d6ad627e10"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/anim/flaming_skull_inner_flame_emissive.properties"
+hash = "31b987bc7ad785e5e321a9ac7a7dc79119d993d191aaf0cd063a80028a857204"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/flaming_wither_skull.jem"
+hash = "64790aad115f0ae916512be4369315574ae4ef414b1eaa2f1760e72f7a1de230"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_bee.jem"
+hash = "a79092a56c0501ec8b18ce9d5dacee0a6ede8ea7c0df31195d6ad006701cc0b5"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_chicken.jem"
+hash = "f050d18eb70a8c484e7d5a13904ee77a2fd2ae21181490a4787c1477f8d753e4"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_cow.jem"
+hash = "487c231d6aa4fd94c55ed3d2ba113543d5567ea1cd19ed2751a8d2e98c96d4fa"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_creeper.jem"
+hash = "6acb87595b5ca35617b1ab77250351c84f33e9bdaa2414578aebac2c1ea40a23"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_creeper_armor.jem"
+hash = "b3c14f589253561ce9c0b657a80c63fe2d474e20038b665fbfd679579569712d"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_iron_golem.jem"
+hash = "b929db45c422bd8be1a9be96a68c890e7d09e0a0cb8503f3260286a04158b0f0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_mushroom_cow.jem"
+hash = "89f710c8c46f440fe8c12c8c6469d9c0536a67852812bda054ca9bbf63d355f3"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_mushroom_cow_mushroom.png"
+hash = "3dadacc02f0530a4e8a3c32c89369dda15eb01713925d5e644c1a21ee5653c53"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_mushroom_cow_mushroom_e.png"
+hash = "50ebc328599abdf9175118c4d3e01086ca4bb1fb36675e4ea48ebd48d7916643"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_phantom.jem"
+hash = "fe354ab7941ecef4dedc4b3d0576a156b179bf20fd9f785cff8a24463cd3e054"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_pig.jem"
+hash = "c924f63c991e066c38d12b25c4716993ae1ad8614c47ddaf27d79a439f4a77ac"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_pig.properties"
+hash = "71f37614251f3a7ca5647118a9f1d82a5cdf4162192523812c18f01da3f68f75"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_pig2.jem"
+hash = "631ebf60b75b6b270aac13ec54c671b00b438ce6b40088f67e90079e920d725d"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_pillager.jem"
+hash = "95cb3a971b9eb93e1581f617fa40392ca0bd55a747f0b382c091c164c9b43f18"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_skeleton.jem"
+hash = "62295041929cc65a63d5f1308ed5eed82cec81ec5a3432a49c496d7b8bf10fed"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_spider.jem"
+hash = "15343bebdbeb5091833b78f007afa58e2dcf0c07e326dcb26412fa2a2e36bf23"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_villager.jem"
+hash = "2fad7ddef043ced7edfbb5cf5a0a703094c84f1e1bea6531112f9676bdc50dbf"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_villager_outer_armor.jem"
+hash = "3c8f257f3b860f9c2d4ae4627e4031a4833f7ec025ffc512112a171f3ec93834"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_vindicator.jem"
+hash = "629b73cb5f6ecbf9eb351657f6adfdb133bd1a8dd8649091c09988c3c91205b8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/sickened_zombie.jem"
+hash = "90c7a7e32b6d8719ea8f2e1a4538023ae08934b89e39ff99ce0813606138b597"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/tainted_slime.jem"
+hash = "faec3d6bfba8510813bfb7589dee3349a3f92715c642b79e3d4bbc6374572cfb"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/tentacle.jem"
+hash = "bc08752b2c6f1a8849d02ad4e5ba6425648bde4897a4a4f01987b1511697ce8d"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/tentacle.properties"
+hash = "a63e0601e2613bf122ccaa4c3305d8920b709afc0c03e6c8ce4a54324f920672"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_armor.jem"
+hash = "130bcfb9bfc7d22df4143720cadcebf880154c728fe55522cffdacbf9578e755"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_dismantled.jem"
+hash = "59916678e55e74a0a5b217736a91911f312685a383fde1616b8b10e148edc0f1"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_head.jem"
+hash = "6009e194d73b5942b412dbc0cb7576042a09ff8fea087b8a469b88609bd58294"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase0.jem"
+hash = "04bc937d1847e02af3b25d4baf7a67ea5ea0dd3a15aefe8b91301db3937bcd31"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase0.properties"
+hash = "51a56db7e6321a0ba06a2e173980961a3c11c571ad9f65e78a4640b67aa6df72"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase1.jem"
+hash = "af1424a596a83342aee79d54f7f79ad405c58cc8aee89ffdad92300bcc2228f8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase1_1.jem"
+hash = "a35e4076ff9f543d332987951a930a96424ff8f015b78b0eda756a000e4c17fe"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase1_2.jem"
+hash = "49315c1f6a1713c1f1afab83f6d9c48f399fc37d007d5e818efde0258558b4e7"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase2.jem"
+hash = "51d32ef077dbafa3cd5bb1e7db320636a1d1c25a9f3664abdd0e25cf79bbe51a"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase2_1.jem"
+hash = "2b803eeefb67a0e7a6725cfc1cc82c136f7726dd4696e72a508c686e6462c55e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase3.jem"
+hash = "cf6837553c837ff63b09f7ed84fd3866e6550ab7007f727f4e10b38b2e544edf"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase3_1.jem"
+hash = "3a2388c07d4ee323310e039436bd8ffd66705c31219f7c09e823b0993d60a957"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase3_2.jem"
+hash = "046dc0b2ccd1451e109e73a48900c5b155c4a13855e7f0c3eb597c7eb8f9b1dc"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase4.jem"
+hash = "7eab88e12a82fad239316d68f9f37076240e76154d77b08cebffcc39a434b1b2"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase4_5.jem"
+hash = "b58da26ef9b74349c8d0e50cfd164c9b059b78d7df71abecaa2b9c2427fcce45"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase5.jem"
+hash = "268d1bc3fbc9c2436deada796b45fafd98f6f30d5ff77bce92fec5d7eed6a403"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase5_5.jem"
+hash = "427865f9ce60bb0abea075b0ab2b6b1077d92e9c8e078b85153a2966dba73cba"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase6.jem"
+hash = "aeddbc802ee8e288bb51c26ab87c31ce8368ff70bbce0338ca420c02e033228e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase6_5.jem"
+hash = "aeddbc802ee8e288bb51c26ab87c31ce8368ff70bbce0338ca420c02e033228e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_phase7.jem"
+hash = "aeddbc802ee8e288bb51c26ab87c31ce8368ff70bbce0338ca420c02e033228e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_segment.jem"
+hash = "d8a3035a263bf2e945a0d01679a526ffc0d325a84bf05e3862c22859cd5f752f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_segment.properties"
+hash = "e896300cdb552a190d84df72ab2f78edf3ddefea679e29af18e34e1fc06e173c"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_segment2.jem"
+hash = "818fa5af9b5888dc267325ed41da68dcf673ab275e18f5939157bd89c4529d4d"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/wither_storm_torn.jem"
+hash = "aeddbc802ee8e288bb51c26ab87c31ce8368ff70bbce0338ca420c02e033228e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/cem/withered_symbiont.jem"
+hash = "7881a8919526d32699bf83419e0d84004d4b2196dddc434a6cec58c75d71a85d"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/random/entity/misc/reuben.properties"
+hash = "5f42659e864524d36424e6b0433c195fbb55e1dc309f52f053e113ae2744b239"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/random/entity/misc/reuben2.png"
+hash = "300010823ad8d0fbb84b9afd07d513a0dc29ce03698309a2f59cea78b1a3c399"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/optifine/random/entity/misc/reuben3.png"
+hash = "ceb72d3f04afcf76baead7c23d33cca147b5da37971809575ea89384a7970d59"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/block/tainted_mushroom.png"
+hash = "2eb4b7ce45a712ad9b5ca438812186b8a4c232e78c542a94cd9605fc429b59d6"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/block/tainted_mushroom2.png"
+hash = "2eb4b7ce45a712ad9b5ca438812186b8a4c232e78c542a94cd9605fc429b59d6"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/block/tainted_mushroom3.png"
+hash = "2eb4b7ce45a712ad9b5ca438812186b8a4c232e78c542a94cd9605fc429b59d6"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/block/tainted_mushroom5.png"
+hash = "2eb4b7ce45a712ad9b5ca438812186b8a4c232e78c542a94cd9605fc429b59d6"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/block/tainted_mushroom69.png"
+hash = "24bb138bc6aa183215c4a8479b9b9b509652330fd9ad395f802d39bf13ed210a"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/block/tainted_mushroom_e.png"
+hash = "2eb4b7ce45a712ad9b5ca438812186b8a4c232e78c542a94cd9605fc429b59d6"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/flaming_wither_skull/blue_flaming_wither_skull.png"
+hash = "fd7c27c362f0ba2922c2d9d0b7be6562d6b0bfe6a8600133a02595cf0e13e9fd"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/flaming_wither_skull/blue_flaming_wither_skull_emissive.png"
+hash = "54bb9455f34d4840228e29fc1fd8240b5d072e12ffff1e5342bd6a434d81b1b3"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/flaming_wither_skull/flaming_wither_skull.png"
+hash = "aa301a715b74114567f0e347d16d05b5be50b7f04373e75679734986206bd085"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/flaming_wither_skull/flaming_wither_skull_emissive.png"
+hash = "6f0d40fb87f944744647f526cbe0a7fac51bf740befd1a5949913339b90f8afd"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/misc/crackers.png"
+hash = "687a7b89cadb963666d152457d055c710a6e1bc7fc4c0e40df6e15c7a880f7a4"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/misc/reuben.png"
+hash = "de6a6acb66913f9b225784e4cc91815115c5b5a7e122f51fec0fc9096c8f461c"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/misc/sickened_reuben.png"
+hash = "417fa89d81c81bd7b2c7618022dd047b346394bfd656c9385d239a1ee3a9ef5c"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/misc/sickened_reuben_emissive.png"
+hash = "14242d0f9136d5819fed20a51698007e264244895ea810df37662c59de4dd643"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_bee.png"
+hash = "447959dae4d58b1c3ac48e573b797c3ef50fcbd397aaa7ff91837cf1bda1726f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_bee_emissive.png"
+hash = "2311e3df995199307562395074ed34d7f66d5f78ca09e39bfa00ba1c7cd577e0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_cat.png"
+hash = "38dbb9de4e12dcb97bd185ad10a31ba041760c79bf489ea62d9d5738140e451b"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_cat_emissive.png"
+hash = "dc8e151abf834f829442f08864fd7d5f45cdec090c93ef9d285325b372d26977"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_chicken.png"
+hash = "e6f9c635e8f31a31e44be5d90aea843107e9fbad64e6fea7807c228de4d763dc"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_chicken_emissive.png"
+hash = "6d8847ded9665a48327f1cbb43ac0073bb588fee1197064de9b7126cb8225292"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_cow.png"
+hash = "743023d17bf08ec134c756f483366f7713a5bed3fc46161076ec7634e3e59745"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_cow_emissive.png"
+hash = "68b482a0ae2975fd89a0db68a41436904aa75648c864dbd1661e6c108fec1250"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_creeper.png"
+hash = "68a42bb47ba801572fbcf87754dde941cac09bbe93c74c7109eadb45fb2443ce"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_creeper_emissive.png"
+hash = "94e175ba72fb7e199bff07d01fab15f2ec1e03b8c2cbfc8c81c0b7d878dab54e"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_iron_golem.png"
+hash = "97795d077a62f69eb1f454def2f02946c1889c21baaeee043fb197d686026eba"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_iron_golem_emissive.png"
+hash = "9df3bebf5fa03d57386264ba9798e26dce509c6d54613d5222d3f490c5bd9750"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_mushroom_cow.png"
+hash = "589b8475fb998c4771176910ce25b3cf29fa287354324a53a1cda853146b66b2"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_mushroom_cow_emissive.png"
+hash = "854b3e20e29453e56ec65b8ca992d65f79e748d1c1298dfd36eb56534203bc79"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_parrot.png"
+hash = "f84838a69c379f99512d61a232c9c905b0eb97f7a4a279bb0dd7d80e12bea3f1"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_parrot_emissive.png"
+hash = "fda81a18704e1d9fb8cd1a160bcb56c152a15380ff626671bb4046158f1e46a4"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_pig.png"
+hash = "402c462e073bc95ebfe0b501ebaf0ebe9802db6210f0013a2c8e932692a24ef3"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_pig_emissive.png"
+hash = "f817abae458fa8e9917f4aa2b88aef5cf25d647ed34b4b5dce4ee75f062278a9"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_pillager.png"
+hash = "d183c7ec0736be2df26687dbf8319adcab1355a6497c24c339aed3886cd9eca0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_pillager_emissive.png"
+hash = "3246b4404cf1c20f1cf6ffd6c00aa24a04a6248406248dab7b487895d503be43"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_spider.png"
+hash = "623ff686884a5ae8d0aa64e1b7708a2d402ca34e9b717f9b73e20c4adaf99348"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_villager.png"
+hash = "4e7325e16ec21535c2c8f896abd992ae2aded8420106600d576f7133b1a507b8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_villager_emissive.png"
+hash = "5e58c42bedd412a3555545a5a51663c9022960ad513453dee582c95e962191cc"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_vindicator.png"
+hash = "181f932b8626a362b355644c0a889d78e2429cd2a7167f7e61d9c4eb2bcfe032"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_vindicator_emissive.png"
+hash = "76f8b6cf5504b708ead13b21259453f3581f82c496fe0eb86bc19567ca4ed830"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_wolf.png"
+hash = "e3f6e9567ccf4f1d1061f76a77b111315b9f1a2053d2058faf9995cbd5ed0ba9"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/sickened/sickened_wolf_emissive.png"
+hash = "7a4586b453c71338bea569eabf7ba40324813ddfdb9b21829b4604b5c2677a98"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/tentacle/tentacle.png"
+hash = "42a7bf845370a7d2d9de949b693fdeda3c995f2d19886e809c8bcb5300a1bf07"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm/wither_storm.png"
+hash = "e9b345730974d31a181ff82073e3a2138fbabe474b44e351990ea9fbe497537f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm/wither_storm_emissive_decal.png"
+hash = "c3a76fb622eecb2a1a7f4f508d7e8992a829da946dd40cee4a7c625bad1048e8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm/wither_storm_exploding.png"
+hash = "ee6b2e380055fa8cda4fa5ce9ba71ad5664432161b7a1348b75c27c643e4f266"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm/wither_storm_hurt_overlay.png"
+hash = "c71689eced3bcb8b88bcc9e9d170300b779bd02c2599f9417d1f13df0f9bb805"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm/wither_storm_invulnerable.png"
+hash = "0b19b95815ccae8f128b47afb747a5a03c1115a8bdc9a1d01128d7f6025c86e3"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm/wither_storm_pulse.png"
+hash = "8dc62582eb6d37891edab64db5782a2721d3a7c2668a498634a494b80fd66536"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm_head/wither_storm_head.png"
+hash = "887163e652c765ed39c3334110771629d677ae8d56f6543c1ec6479639e569d0"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm_head/wither_storm_head_emissive.png"
+hash = "f45fc6246cfa165c43fa173baf9a7a4087931becf51ae6bd51ca9ba0b0fda80a"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm_head/wither_storm_head_emissive_hurt.png"
+hash = "d7191747321405391d0f2686200c16f3befdc1dc990124a3e343b5abfe5c4727"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/wither_storm_head/wither_storm_head_hurt.png"
+hash = "bcec6fc13de4f3fa3c1155829ee1f0c09409dd760cf9e500bd9216a1d05652f8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/withered_symbiont/withered_symbiont.png"
+hash = "46684ea257b357c9989fdc083e32322b53fe8ce11d66e44f462a870697d2f124"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/withered_symbiont/withered_symbiont_emissive.png"
+hash = "5e58a9e6dab523060fd2cbd1e9d473e75a6377241694dd4807513a8fd6ab0ce8"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/entity/withered_symbiont/withered_symbiont_tear.png"
+hash = "7f8fdbc3270959f78726f28502c1740dd903c727430eae638987e8f5aec3a586"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/gui/title/background/panorama_0.png"
+hash = "2e64855393164dd0a295cd638887da2d8f63569118f3f8d749c0b5b74dc7050f"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/misc/pink_wither_storm.png"
+hash = "fb716e08f8bbb6d17c27849ee9ff489c5bb2cc861a45f89085d361c2e6a77e95"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/pack.mcmeta"
+hash = "47b35fbb98a2dd29cca2f1bcd819f7faf38201a474c29a572ac40a019a5833e7"
+
+[[files]]
+file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/pack.png"
+hash = "783d1809f2b6f9e47c3816e77d277dd8229d62923c095f88b474f63e8a9dd0c2"
 
 [[files]]
 file = "resourcepacks/required/authentic-shadows.pw.toml"
@@ -1487,11 +2211,6 @@ hash = "8d9628d4203ba80fdd8679ba92802c9f12dc58b971716fc619a6b5962cf106c3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/required/vn4s-fresh-wither-storm.pw.toml"
-hash = "73b830eec94b68b9091f158523a3487040ef5e577d3de05d2d2718e003df3c22"
-metafile = true
-
-[[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
 metafile = true
@@ -1516,7 +2235,7 @@ hash = "15eb056d99146f27979118502e47ee0334f717bf03e23eb74ce72a66d5ce8577"
 
 [[files]]
 file = "unsup.jar"
-hash = "bb1c4defbd4f0aa7fc777566fcc14ca837704d1b1f24e3a619466d41393fe37c"
+hash = "39ca5a1351ffd7e54b4d84b4f137bce704774707f19d5d5a6321ab75d4e4068d"
 
 [[files]]
 file = "unsup.toml"

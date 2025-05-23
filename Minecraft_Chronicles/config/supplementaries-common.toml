@@ -5,13 +5,13 @@
 	redstone_illuminator = true
 	crank = true
 	cog_block = true
-	gold_door = true
-	gold_trapdoor = true
+	gold_door = false
+	gold_trapdoor = false
 	lock_block = true
 	relayer = true
 
 	[redstone.speaker_block]
-		enabled = true
+		enabled = false
 		#Enable/disable speaker block narrator mode
 		narrator_enabled = true
 		#Max text
@@ -78,7 +78,7 @@
 		adjust_projectile_angle = true
 
 	[redstone.faucet]
-		enabled = true
+		enabled = false
 		#Turn off to prevent faucets from dropping items
 		spill_items = true
 		#Allows faucets to fill entities inventories
@@ -90,8 +90,8 @@
 		chaining = true
 
 [functional]
-	fodder = true
-	hourglass = true
+	fodder = false
+	hourglass = false
 
 	[functional.rope]
 		#Allows ropes to be supported & attached to solid block sides
@@ -126,7 +126,7 @@
 		jar_liquids = true
 
 	[functional.cage]
-		enabled = true
+		enabled = false
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Allows all baby mobs to be captured by cages
@@ -142,7 +142,7 @@
 		require_taming = true
 
 	[functional.safe]
-		enabled = true
+		enabled = false
 		#Makes safes only breakable by their owner or by a player in creative
 		prevent_breaking = false
 		#Make safes simpler so they do not require keys:
@@ -236,7 +236,7 @@
 			glowing_duration = 200
 
 [building]
-	lapis_bricks = true
+	lapis_bricks = false
 	deepslate_lamp = true
 	end_stone_lamp = true
 	blackstone_lamp = true
@@ -270,7 +270,7 @@
 		enabled = true
 
 	[building.slidy_block]
-		enabled = true
+		enabled = false
 		#Slidy block speed
 		#Range: 0.0 ~ 1.0
 		speed = 0.125
@@ -305,7 +305,7 @@
 		horse_speed_duration = 10
 
 	[building.planter]
-		enabled = true
+		enabled = false
 		#Makes so saplings that grow in a planter will break it turning into rooted dirt
 		broken_by_sapling = false
 		#When Farmers Delight is on planter will also act like rich soil and use it in its recipe
@@ -345,7 +345,7 @@
 		pole_length = 16
 
 	[building.goblet]
-		enabled = true
+		enabled = false
 		#Allows drinking from goblets
 		allow_drinking = true
 
@@ -370,7 +370,7 @@
 		enabled = true
 
 	[building.hat_stand]
-		enabled = true
+		enabled = false
 		#Allow all items to go on hat stand
 		unrestricted = false
 
@@ -390,14 +390,14 @@
 		simple_mode = true
 
 	[building.netherite_doors]
-		door = true
-		trapdoor = true
+		door = false
+		trapdoor = false
 
 [tools]
-	candy = true
+	candy = false
 	stasis = true
-	altimeter = true
-	confetti_popper = true
+	altimeter = false
+	confetti_popper = false
 
 	[tools.quiver]
 		enabled = true
@@ -415,7 +415,7 @@
 		quiver_pickup = true
 
 	[tools.lunch_basket]
-		enabled = true
+		enabled = false
 		#Allows lunch baskets to be placed on the ground
 		placeable = true
 		#Arrow stacks that can fit inside a lunch basket. Requires reboot
@@ -423,7 +423,7 @@
 		slots = 6
 
 	[tools.slice_map]
-		enabled = true
+		enabled = false
 		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
 		#Range: 0.0 ~ 1.0
 		range_multiplier = 0.25
@@ -467,7 +467,7 @@
 		bound_distance = 64
 
 	[tools.bomb]
-		enabled = true
+		enabled = false
 		#Bomb explosion radius (damage depends on this)
 		#Range: 0.1 ~ 10.0
 		explosion_radius = 2.0
@@ -666,7 +666,7 @@
 		#Allow slimeballs to be thrown
 		throwable_slimeballs = true
 		#Show a slime overlay when you hit an entity with a slimeball
-		overlay = true
+		overlay = false
 		#Thrown slimeballs will shortly nerf the player jump height. Disable if you don't want this effect as it can be quite powerful
 		#Allowed Values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
 		hinders_jump = "NORMAL_DIFFICULTY"
