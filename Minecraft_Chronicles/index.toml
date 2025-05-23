@@ -133,6 +133,10 @@ file = "config/immediatelyfast.json"
 hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
+file = "config/immersiveui.yaml"
+hash = "80ab5f589a563947bd75a6a015b716833cdc9654a1138da9c146debecc5c68ee"
+
+[[files]]
 file = "config/item_descriptions.json"
 hash = "08be54aae5843b10d05519cc18fd8df7e54386c8b53f789f55ef1b876ad0c4a1"
 
@@ -233,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -267,16 +271,6 @@ hash = "e2bc63cea33a1fb1924909db08c8eb8e8bb6ac4fb0404a5e7dff85b038371612"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
-metafile = true
-
-[[files]]
-file = "mods/better-combat.pw.toml"
-hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
-metafile = true
-
-[[files]]
 file = "mods/better-village.pw.toml"
 hash = "54ae10628ed7323f20d50d323163bf7db81f5426eca19722b740887225a0c105"
 metafile = true
@@ -294,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "8ac038851a2aa16cf70c570b38009274efe7db5211bfee0fe91020a53e43b5a9"
-metafile = true
-
-[[files]]
-file = "mods/cataclysmic-combat.pw.toml"
-hash = "8acb63dff6a8d3ea88623ef6abf5ff6c1d17d1eaa62bb52a5a5444ff46abbd5c"
 metafile = true
 
 [[files]]
@@ -324,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/coastal-waves.pw.toml"
 hash = "49f54ce2926c147a8affea14944492c63ce73888491bc031a9569551a88dc340"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
 metafile = true
 
 [[files]]
@@ -547,6 +541,11 @@ hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items-refoxed.pw.toml"
+hash = "a06a4182fdba9f757839486f332690af84913f7698f9874742ff7f91945ce49d"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "447524944a1c5ed9a90f7eabac4bcf58e8f8eaa08e349f138df664128975a8cd"
 metafile = true
@@ -672,6 +671,11 @@ hash = "4b145c7939f87a21c8317bcfc5909f08f440f2936f1b6c80ce0c0cc88ff0aef9"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "859fd42bdc2aad18998e946f011f015ed163e11f9fa8eccafe897f05b2a0218a"
 metafile = true
@@ -739,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/off-hand-combat.pw.toml"
+hash = "7c4235e8e1e78ee8a59469e87f780c598ace37b767e80b179967fcf151591d45"
 metafile = true
 
 [[files]]
@@ -944,11 +953,6 @@ metafile = true
 [[files]]
 file = "mods/wither-spawn-animation.pw.toml"
 hash = "ba758f77d7e7d65f6c1ba0254a4cb66a83c3eb6fc110315475875787ed42dcb0"
-metafile = true
-
-[[files]]
-file = "mods/wither-storm-combat.pw.toml"
-hash = "06c454c5f12efa731251677de6a97baadbcd83d92ad2a42b0746683bb3d3b5c9"
 metafile = true
 
 [[files]]
