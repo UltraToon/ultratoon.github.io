@@ -41,10 +41,6 @@ file = "config/combatroll/client.json5"
 hash = "f62a88fb50baebedab7738d7fadf45dfb6669ba1aaa50ddc515ce2fe1527c313"
 
 [[files]]
-file = "config/completionistsindex-client.toml"
-hash = "e9de9807407d9177274ce75ef00a4a88c2631f44c94fc3ad2c6b2c4cb3837815"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "2dfca3dcbaefcd07c023d14f23835d86375d76435bd670208e418b12a548c67e"
 
@@ -177,6 +173,10 @@ file = "config/subtle_effects/entities.toml"
 hash = "03153e5ab034d14fa3c30b8f346f1852991c061290f7133ba0cd600e49488125"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "5ca9f43b7cde1504add57cfe2fc3002193a7e70f7df3f146af0e3fa432b459cb"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "3ba41d77e9ffdd4eba5ce0b52f23a9dfb8cb5f88fd0cf4d5a34224ae380f1d53"
 
@@ -207,18 +207,8 @@ hash = "169d21a1e6155c8400068faed766b7f61d342ea8f17dfe45dce17f943b3e18e8"
 metafile = true
 
 [[files]]
-file = "mods/advancement-frames.pw.toml"
-hash = "00514c9314f52b85916c096ee73f64989d92a5b1cba6ef9a01dfdf5fafbf4fb8"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
@@ -237,11 +227,6 @@ hash = "252f756f2ed3073d34560aeb39e25298285ecaae6db344addc24d2aea8ee3c19"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -249,11 +234,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
-metafile = true
-
-[[files]]
-file = "mods/auto-third-person.pw.toml"
-hash = "b2361bd940792464869acd3863f00d70dfa64afcf1b536117691c7206032fff3"
 metafile = true
 
 [[files]]
@@ -337,11 +317,6 @@ hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
 metafile = true
 
 [[files]]
-file = "mods/client-crafting.pw.toml"
-hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -354,11 +329,6 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
-metafile = true
-
-[[files]]
-file = "mods/completionists-index.pw.toml"
-hash = "eb21f935e929abfe91a8016fda8ca0a2187e4ec6bc692e5063b7ed7f21200d81"
 metafile = true
 
 [[files]]
@@ -512,11 +482,6 @@ hash = "36fd54233eb3881c90fcb2d6d63f5b37353c26ca61bfaeb34b6bbe251fa99f1b"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement-reforged.pw.toml"
-hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
 metafile = true
@@ -537,11 +502,6 @@ hash = "fe070f1c9916a21c0328eb6647270dc653d71e0d624999d5ede30edbf85a69f9"
 metafile = true
 
 [[files]]
-file = "mods/fastquit-forge.pw.toml"
-hash = "710a1cc6aa24e68ba6c4cb93d686b17688d093ff7baecc1d0fa3036a3426ff35"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -554,16 +514,6 @@ metafile = true
 [[files]]
 file = "mods/fog.pw.toml"
 hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
-hash = "820142b7322a4aef0e08008c3dc9fb840e26d4dd869c2a6787dcab4ae48c5e7b"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-forge.pw.toml"
-hash = "37f1b3f45cb39418f5c309b6d17cf5c2a7038fd1d3dee9619610b83a94db449a"
 metafile = true
 
 [[files]]
@@ -594,11 +544,6 @@ metafile = true
 [[files]]
 file = "mods/golem-spawn-animation.pw.toml"
 hash = "24d48db56c587e479774b8a2b8621653654a7b5a1aa5e786d2c811b33accbf06"
-metafile = true
-
-[[files]]
-file = "mods/hold-my-items-refoxed.pw.toml"
-hash = "a06a4182fdba9f757839486f332690af84913f7698f9874742ff7f91945ce49d"
 metafile = true
 
 [[files]]
@@ -642,11 +587,6 @@ hash = "d653b944d4808748704bf5583e61fe7ae9b35cae5ebe89cf1dcb3b2c49751f42"
 metafile = true
 
 [[files]]
-file = "mods/items-displayed-forge.pw.toml"
-hash = "8e7cb263af58c8b1c81a905a1dca342232715dfafeb47eca4d3c64f8e5c53df9"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
@@ -659,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
@@ -872,13 +817,13 @@ hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
 metafile = true
 
 [[files]]
-file = "mods/refined-advancements.pw.toml"
-hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
@@ -919,11 +864,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/spelunkers-charm-ii.pw.toml"
-hash = "da1318e1310fda40e403de8d8283d745bbb1ccca32fd1770d46594da8e7bc017"
 metafile = true
 
 [[files]]
@@ -989,11 +929,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
-metafile = true
-
-[[files]]
-file = "mods/visuality-forge.pw.toml"
-hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
 metafile = true
 
 [[files]]
@@ -1813,10 +1748,6 @@ file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/with
 hash = "7f8fdbc3270959f78726f28502c1740dd903c727430eae638987e8f5aec3a586"
 
 [[files]]
-file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/gui/title/background/panorama_0.png"
-hash = "2e64855393164dd0a295cd638887da2d8f63569118f3f8d749c0b5b74dc7050f"
-
-[[files]]
 file = "resourcepacks/required/VN4-FreshWitherStormDETAILED-MODIFIED/assets/witherstormmod/textures/misc/pink_wither_storm.png"
 hash = "fb716e08f8bbb6d17c27849ee9ff489c5bb2cc861a45f89085d361c2e6a77e95"
 
@@ -2239,4 +2170,4 @@ hash = "39ca5a1351ffd7e54b4d84b4f137bce704774707f19d5d5a6321ab75d4e4068d"
 
 [[files]]
 file = "unsup.toml"
-hash = "861c0c29a74444cf47859f8ad0b57375454c97901e499a2d679e2bb52f79c01d"
+hash = "9d86b817280b1f3cbdab052137c2137662f4dd16833eaca55f11679879cdaae1"
