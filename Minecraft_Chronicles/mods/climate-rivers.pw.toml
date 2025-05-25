@@ -1,0 +1,13 @@
+name = "Climate Rivers"
+filename = "ClimateRivers-v20.1.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e7a9b02a1dfdc4279330ae5c4ff8c4c269bd27d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6490317
+project-id = 1255421

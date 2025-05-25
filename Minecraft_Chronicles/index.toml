@@ -306,6 +306,11 @@ hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
 metafile = true
 
 [[files]]
+file = "mods/climate-rivers.pw.toml"
+hash = "a02b70b09cdff8c65664b745cfb1526c1aae1318bafaffea87f79088686f210a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -792,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
+hash = "62a76c5212c04d15c27d7c1141f0a0d7d803aa10d172444359e4dacbdba6da7b"
 metafile = true
 
 [[files]]
@@ -833,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
-metafile = true
-
-[[files]]
-file = "mods/river-redux.pw.toml"
-hash = "544caa7a7c4b42dc7e9bf51bb4403d62cefb439041cdd630797f497754c33db6"
 metafile = true
 
 [[files]]
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
