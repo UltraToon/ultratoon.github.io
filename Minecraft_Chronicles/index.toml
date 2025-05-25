@@ -516,6 +516,16 @@ hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "820142b7322a4aef0e08008c3dc9fb840e26d4dd869c2a6787dcab4ae48c5e7b"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "37f1b3f45cb39418f5c309b6d17cf5c2a7038fd1d3dee9619610b83a94db449a"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "53e690e118baf442ae92faee438328e629ba387cd77ad788ded22055773db80f"
 metafile = true
@@ -913,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/trials-chambers-backport.pw.toml"
+hash = "fe6141476e2f7c8dedbba98bf74cb3ef012bfa0d43a0ebcbd63f3817353c251c"
 metafile = true
 
 [[files]]
@@ -2071,7 +2086,7 @@ hash = "58d6a40e0044b1838e4486d5c3d109e68a793d55fd380a2ad6a962482a8ecc29"
 
 [[files]]
 file = "resourcepacks/required/chronicles-data/pack.mcmeta"
-hash = "3f364717d373380fd06e4af7052933edb615f90e4191c00e00ab06c7ebe2a3fa"
+hash = "a65d81009a355d953a938acb9492ef39225cdca9b754c5e936d926eee47f04cd"
 
 [[files]]
 file = "resourcepacks/required/chronicles-resource/assets/endrem/lang/en_us.json"

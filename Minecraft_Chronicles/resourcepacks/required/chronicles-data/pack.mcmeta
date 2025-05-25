@@ -33,6 +33,11 @@
         "comment": "endrem forge loot injector BREAKS this"
       },
       {
+        "namespace": "mowziesmobs",
+        "path": "structures/wroughtnaut_chamber.nbt",
+        "comment": "in favor for trial chambers for the wroughtnaut"
+      },
+      {
         "namespace": "witherstormmod",
         "path": "structures/.*spawn_platform\\.nbt",
         "comment": "removes all witherstormmod structures (gives experimental warning)"
